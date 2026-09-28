@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T14:45:00+07:00",
+  "updated_at": "2026-09-28T15:47:00+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -727,6 +727,48 @@
       "screenshot_path": "screenshots/52-last-train-to-the-sea.jpg",
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Lush Ghibli-style hero of the winged tram, root bridge, cliff station and islands sells the fantasy world with excellent clarity and polish.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "harbor-chef",
+      "title": "Harbor Chef",
+      "description": "3D browser harbor tycoon: grill fish, stack plates sky-high, hire a crew, and grow a sleepy dock into a busy port. Runs on phone or PC via Playgama; creator credits Claude Opus 5.5.",
+      "play_url": "https://playgama.ai/play/xjwew3t3ze",
+      "source_url": "https://x.com/roshanali12301/status/2104476894238556286",
+      "found_via": "X post by @roshanali12301 announcing Opus 5.5 Harbor Chef with Playgama play link",
+      "found_via_network": "x",
+      "screenshot_path": "screenshots/53-harbor-chef.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Polished promo still of the plate-stacking chef in a festive harbor market with clear logo and coin feedback; instantly sells the tycoon loop.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "emberwake",
+      "title": "Emberwake (长夜薪火)",
+      "description": "Don't Starve–inspired 3D survival: keep the last forest fire burning, gather by day, build arrow towers and a sanctuary, and survive escalating night waves. Browser build by @QianxWang with Claude Opus 5.5 (two prompts).",
+      "play_url": "https://dylanslife.com/games/emberwake/",
+      "source_url": "https://x.com/QianxWang/status/2104484460926472275",
+      "found_via": "X reply by @QianxWang with dylanslife.com Emberwake play URL; credits Opus 5.5",
+      "found_via_network": "x",
+      "screenshot_path": "screenshots/54-emberwake.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Atmospheric forest title with campfire, glowing eyes, chapel, and readable difficulty UI that clearly communicates the survival premise.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "wildbrush",
+      "title": "Wildbrush",
+      "description": "Zelda Breath of the Wild–inspired open-world browser adventure co-vibe-coded with kids: paintbrush combat (fire/ice/bounce/vines), dungeons, flying brush, 30+ enemies and a giant boss. Desktop-only; built with Claude Opus 5.5.",
+      "play_url": "https://wildbrush.vercel.app/",
+      "source_url": "https://x.com/DannyLimanseta/status/2104215873120764032",
+      "found_via": "X long-form post by @DannyLimanseta (quoted in MaxshotAI roundup) with wildbrush.vercel.app play URL",
+      "found_via_network": "x",
+      "screenshot_path": "screenshots/55-wildbrush.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Dynamic third-person flight over floating islands with paintbrush trail, hearts, compass, and color wheel — excellent readability and polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28"
     }
