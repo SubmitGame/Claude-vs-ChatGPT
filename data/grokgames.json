@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:48:22+07:00",
+  "updated_at": "2026-09-28T12:53:02+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -33,7 +33,7 @@
     {
       "id": "qq-speed-3d-racing",
       "title": "QQ Speed-inspired 3D racing",
-      "description": "Kart-style racer with drift, nitro and boost chaining, and multiple tracks modeled after QQ\u98de\u8f66 map styles.",
+      "description": "Kart-style racer with drift, nitro and boost chaining, and multiple tracks modeled after QQ飞车 map styles.",
       "play_url": "https://claude-opus-5-5-qqfeiche3d.pages.dev/",
       "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
       "found_via": "AI IDE List case study and MagicCreator demo; creator README play URL",
@@ -285,7 +285,7 @@
     {
       "id": "spartan-unbound",
       "title": "Spartan Unbound",
-      "description": "God of War\u2013style chained-blade action browser game (Escape from Tartarus) built experimentally with Claude Opus 5.5 on Vantis Play.",
+      "description": "God of War–style chained-blade action browser game (Escape from Tartarus) built experimentally with Claude Opus 5.5 on Vantis Play.",
       "play_url": "https://game.vantis.sh/game-04",
       "source_url": "https://x.com/lucaxyzz/status/2104198092845420553",
       "found_via": "X post by @lucaxyzz linking the Vantis Play demo",
@@ -330,7 +330,7 @@
       "description": "Solo basketball in a dark atmospheric arena: dribble, shoot, lay up and dunk with one-key controls. Browser playable on Genex; titled as an Opus 5.5 build.",
       "play_url": "https://genex.games/opus-2k",
       "source_url": "https://genex.games/opus-2k",
-      "found_via": "Live web search \u2192 Genex catalog page for Opus 5.5 NBA 2K by @Simeon M",
+      "found_via": "Live web search → Genex catalog page for Opus 5.5 NBA 2K by @Simeon M",
       "found_via_network": "web",
       "screenshot_path": "screenshots/24-opus-nba-2k.jpg",
       "screenshot_score": 9.1,
@@ -358,7 +358,7 @@
       "description": "Cuphead-inspired rubber-hose mini-game starring a popcorn-bucket hero named Kernel; built with Claude Opus 5.5 and published as a public Claude artifact.",
       "play_url": "https://claude.ai/public/artifacts/Vos8wdB8Jenz9FopZWeRMb",
       "source_url": "https://x.com/TaylorBereiter/status/2104045641706189192",
-      "found_via": "aicookd latest creations \u2192 X post by @TaylorBereiter with public Claude artifact play URL",
+      "found_via": "aicookd latest creations → X post by @TaylorBereiter with public Claude artifact play URL",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/27-double-feature-og.jpg",
       "screenshot_score": 8.7,
@@ -368,8 +368,8 @@
     },
     {
       "id": "clunk",
-      "title": "Clunk (Tower \u00b7 Smash \u00b7 Puzzle)",
-      "description": "Three small block browser games with weekly leaderboards\u2014Clunk Tower, Smash, and Puzzle\u2014free on phone or PC. Built with Claude Opus 5.5.",
+      "title": "Clunk (Tower · Smash · Puzzle)",
+      "description": "Three small block browser games with weekly leaderboards—Clunk Tower, Smash, and Puzzle—free on phone or PC. Built with Claude Opus 5.5.",
       "play_url": "https://clunk.games/en",
       "source_url": "https://x.com/clunk_games/status/2104406342643634376",
       "found_via": "X post by @clunk_games (hours-old) with playable clunk.games link",
@@ -390,13 +390,13 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/29-discodino.jpg",
       "screenshot_score": 4.2,
-      "screenshot_score_notes": "Only the game\u2019s circular crest icon could be captured; headless Chrome did not finish loading the large Godot wasm, so gameplay is not visible.",
+      "screenshot_score_notes": "Only the game’s circular crest icon could be captured; headless Chrome did not finish loading the large Godot wasm, so gameplay is not visible.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28"
     },
     {
       "id": "nushi-fishing",
-      "title": "Nushi Fishing (\u30cc\u30b7\u91e3\u308a\u221e\u30c9\u30fc\u30d1\u30df\u30f3)",
+      "title": "Nushi Fishing (ヌシ釣り∞ドーパミン)",
       "description": "Surreal stream fishing where you cast for legendary fish and Illuminati monsters; bilingual JPN/ENG browser game. Creator credits Opus 5.5.",
       "play_url": "https://nushizuri02.netlify.app/",
       "source_url": "https://x.com/takaakiftw/status/2104114871063425147",
@@ -439,7 +439,7 @@
     {
       "id": "volleyrush",
       "title": "VolleyRush",
-      "description": "Arcade volleyball browser game (1v1\u20136v6) with charge jumps, spikes, bicycle kicks, online lobbies; listed on aicookd as Claude Opus 5.5.",
+      "description": "Arcade volleyball browser game (1v1–6v6) with charge jumps, spikes, bicycle kicks, online lobbies; listed on aicookd as Claude Opus 5.5.",
       "play_url": "https://volleyrush.io",
       "source_url": "https://x.com/onlymertt/status/2104245434050855135",
       "found_via": "aicookd Opus 5.5 row + X play link from @onlymertt",
@@ -480,8 +480,8 @@
     },
     {
       "id": "pokemon-claude-red",
-      "title": "Pok\u00e9mon Claude Red",
-      "description": "Browser Pok\u00e9mon Red remake where every sprite, tile, battle effect, and song is drawn/played from code with zero image files. Built with Claude Opus 5.5.",
+      "title": "Pokémon Claude Red",
+      "description": "Browser Pokémon Red remake where every sprite, tile, battle effect, and song is drawn/played from code with zero image files. Built with Claude Opus 5.5.",
       "play_url": "https://claudered.dev",
       "source_url": "https://github.com/levy-street/pokemon-claude-red",
       "found_via": "X roundup + creator GitHub README with claudered.dev play link",
@@ -517,6 +517,48 @@
       "screenshot_path": "screenshots/37-goodgame.jpg",
       "screenshot_score": 7.2,
       "screenshot_score_notes": "Polished retro monitor title composition with strong brand typography, but the still is a landing/hub screen rather than active arcade gameplay.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "dukes-lawn",
+      "title": "The Duke's Lawn",
+      "description": "Multiplayer first-person lawn-mowing sim with beers, cigars, vintage tractors and online chat — built with Claude Opus 5.5 in CNVS.",
+      "play_url": "https://cnvs.dev/opusmo/",
+      "source_url": "https://x.com/_MaxBlade/status/2102513817855094922",
+      "found_via": "X post by @_MaxBlade; play link https://cnvs.dev/opusmo/ (desktop)",
+      "found_via_network": "x",
+      "screenshot_path": "screenshots/38-dukes-lawn.jpg",
+      "screenshot_score": 8.1,
+      "screenshot_score_notes": "Clear first-person mower cockpit with beer/cigar gag, HUD progress, and crowded vintage tractors; streamer PiP slightly distracts.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "operation-sunset",
+      "title": "Operation Sunset",
+      "description": "Free-for-all browser gun-game FPS with weapon upgrades, bots/online play, and recent rocket launchers — built entirely with Claude Opus 5.5.",
+      "play_url": "https://danielsapps.com/operation-sunset",
+      "source_url": "https://x.com/danielsapps/status/2104339627394085184",
+      "found_via": "X post by @danielsapps announcing Opus 5.5 rocket-launcher update + play URL",
+      "found_via_network": "x",
+      "screenshot_path": "screenshots/39-operation-sunset.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Strong golden-hour FPS still with clear weapon viewmodel, desert marketplace plaza, and polished lighting.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "towline",
+      "title": "TOWLINE",
+      "description": "Hoverboard chase where you surf behind a runaway tow truck through six districts — dodge wrecks, grind rails, ride roofs; Crayon/Three.js build mentioning Astra and Opus 5.5.",
+      "play_url": "https://app.usecrayon.ai/play/6f37d763-d3f5-4a33-92d1-7731e8ac2a56",
+      "source_url": "https://x.com/TusharXo/status/2104336588666982516",
+      "found_via": "X post by @TusharXo on Crayon; mentions Astra and Opus 5.5",
+      "found_via_network": "x",
+      "screenshot_path": "screenshots/40-towline.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Vibrant chase composition clearly shows hoverboard towing, yellow truck, coins, and Mediterranean town polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28"
     }
