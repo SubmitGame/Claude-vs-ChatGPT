@@ -2,6 +2,8 @@
 
 A curated list of **Claude Opus 5.5** vibecoded / vibe-coded games — browser, itch, and public demos — with screenshots and play links.
 
+**Live gallery:** [vibefin.github.io/awesome-opus-5.5-games](https://vibefin.github.io/awesome-opus-5.5-games/)
+
 > 68 games · last updated 2026-09-28 (Asia/Saigon)
 >
 > **screenshot score** is visual polish only (1–10): clarity, composition, how well the still shows the game. It is **not** a gameplay rating.
