@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:50:00+07:00",
+  "updated_at": "2026-09-28T19:55:00+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -867,6 +867,90 @@
       "screenshot_path": "/workspace/opus-games-fresh/62-spawn-legends.jpg",
       "screenshot_score": 9,
       "screenshot_score_notes": "Sharp mid-match three-lane board with hand, energy, and location text — shows the card battler UI clearly.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "scallywag-isle",
+      "title": "Scallywag Isle",
+      "description": "Classic early-90s point-and-click pirate comedy: help Rupert Flintwhistle relight a haunted lighthouse. Pixel art, characters, music and SFX are all generated in code (~880KB HTML). Part Three live on Wavedash; built with Claude Code and Opus 5.5.",
+      "play_url": "https://wavedash.com/games/scallywag-isle",
+      "source_url": "https://x.com/pipisonx/status/2104541322900123800",
+      "found_via": "X post by @pipisonx (Part Three live; Opus 5.5 + Claude Code)",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/63-scallywag-isle.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Atmospheric pixel title still with lighthouse, ghost ship, and moon reflection — theme and polish read immediately.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "puzzle-bracket",
+      "title": "The Puzzle Bracket (Tidekeeper)",
+      "description": "Twelve tiny Opus 5.5 puzzle games in a judged bracket; Tidekeeper won. Play Umbra, Warp & Weft, Leadlight, Topple Town, Tidekeeper, and the rest from one browser hub (Forward Future / Brian).",
+      "play_url": "https://hollow-pagoda-am8n.here.now/",
+      "source_url": "https://forwardfuture.com/opus-5-5-review",
+      "found_via": "Forward Future Opus 5.5 field test + public Puzzle Bracket hub",
+      "found_via_network": "web",
+      "screenshot_path": "/workspace/opus-games-fresh/64-puzzle-bracket.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Clean magenta bracket layout crowns Tidekeeper with readable thumbs for all twelve playable puzzles.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "nand-16",
+      "title": "NAND-16",
+      "description": "A working computer built from 277,248 NAND gates in JS: CPU, memory, assembler, tiny OS, and games like NANDTRIS/Snake that execute on the gates, with 3D zoom into live signal flow. Opus 5.5 ultracode demo by Matt Shumer / somethingbig.ai.",
+      "play_url": "https://somethingbig.ai/computer",
+      "source_url": "https://x.com/mattshumer_/status/2104301990985498783",
+      "found_via": "X / web coverage of somethingbig.ai/computer NAND-16 Opus 5.5 build",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/65-nand16.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Polished promo pairs glowing NAND schematics with a NANDTRIS CRT inset — technical and playable at a glance.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "work-tomorrow",
+      "title": "Work Tomorrow",
+      "description": "Mobile browser stealth/swat jam game for The Sandbox #WTF gamejam: swat pests quietly — you have work tomorrow. Built with Claude Opus 5.5; playable in Sandbox Studio.",
+      "play_url": "https://studio.sandbox.game/play/bc0086c2-27eb-458f-9b89-d9aeb4ef74c4",
+      "source_url": "https://x.com/lifemademe/status/2104552435976970391",
+      "found_via": "X post by @lifemademe (Sandbox WTF jam, Opus 5.5)",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/66-work-tomorrow.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Close-up 3D gag of a masked sleeper with a googly-eyed fly on her nose — clear, humorous still of the swat premise.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "hyperbrick",
+      "title": "HYPERBRICK",
+      "description": "Synthwave Breakout arcade cabinet: neon bricks, power-ups (multi-ball, wide, laser, slow-mo), five stages plus endless, Web Audio SFX. One of MiaAI Lab's 100 single-file Claude Opus 5.5 HTML experiments.",
+      "play_url": "https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/038-neon-breakout.html",
+      "source_url": "https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/",
+      "found_via": "MagicCreator / MiaAI Lab Claude Opus 5.5 100 HTML Files collection",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/67-hyperbrick.jpg",
+      "screenshot_score": 9.2,
+      "screenshot_score_notes": "Full neon cabinet UI with pyramid bricks, sun grid, and power-up legend — extremely clear synthwave Breakout still.",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "labyrinthos",
+      "title": "Labyrinthos",
+      "description": "Torch-lit top-down maze on a carved stone tablet: recursive-backtracker labyrinths, flame fog-of-war, Ariadne's thread hint, timer and sizes. Single-file Claude Opus 5.5 HTML game from MiaAI Lab's 100 experiments.",
+      "play_url": "https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/033-stone-labyrinth.html",
+      "source_url": "https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/",
+      "found_via": "MiaAI Lab Claude Opus 5.5 100 HTML Files (playable maze)",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/68-labyrinthos.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Classical Greek tablet UI with lit maze, flame avatar, and golden spool — polished and immediately readable.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28"
     }
