@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:51:51Z",
+  "updated_at": "2026-09-29T13:00:24Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -835,7 +835,7 @@
       "screenshot_score": 9,
       "screenshot_score_notes": "Crystal-clear top-down of the pond, koi, lily pads, maple and stone walkway shows the whole garden experience with strong production polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "video_path": "videos/koi-pond-garden.mp4",
       "video_source": "awesome-local",
@@ -3615,7 +3615,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
+      "remote_likes": 2,
       "likes_source": "x",
       "x_handle": "agentcelldotdev",
       "avatar_url": "/avatars/agentcelldotdev.jpg"
@@ -3745,11 +3745,284 @@
       "avatar_url": "/avatars/micmakarov.jpg",
       "video_path": "videos/sf-founder-mode.mp4",
       "video_source": "https://x.com/micmakarov/status/2104639496478482527"
+    },
+    {
+      "id": "pokemon-battleline",
+      "title": "Pokémon Battleline",
+      "description": "Fan-made action defense RPG: place Pokémon to defend your gate, story mode, map builder, and co-op for 2–6 players. Built with Claude Opus 5.5.",
+      "play_url": "https://tmquy.com/pokemon-battleline/",
+      "source_url": "https://x.com/MQuy90/status/2104910127237398789",
+      "found_via": "X @MQuy90 Pokémon tower defense RPG co-op",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/202-pokemon-battleline.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Polished GBA-style pixel title: lush field path, clean Story/Co-op/Maps menu, Poké Ball loading chip — cohesive classic Pokémon vibe.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "tower-defense",
+        "rpg",
+        "multiplayer"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "x_handle": "MQuy90",
+      "avatar_url": "/avatars/MQuy90.jpg",
+      "video_path": "videos/pokemon-battleline.mp4",
+      "video_source": "https://x.com/MQuy90/status/2104910127237398789"
+    },
+    {
+      "id": "tower-archer",
+      "title": "Tower Archer",
+      "description": "Retro archery tower defense: draw the bow across 21 levels with headshots, fury, and elemental arrows. Remade with Claude Opus 5.5.",
+      "play_url": "https://archer-tower.web.app/",
+      "source_url": "https://x.com/Fireupup/status/2104909575820653004",
+      "found_via": "X @Fireupup Opus 5.5 archery tower defense",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/203-tower-archer.jpg",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "Clean flat-vector TD still: hooded archer on stone tower vs green orcs under blue sky — readable but simple polish.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "tower-defense",
+        "archery"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "Fireupup",
+      "video_path": "videos/tower-archer.mp4",
+      "video_source": "https://x.com/Fireupup/status/2104909575820653004"
+    },
+    {
+      "id": "talk-me-into-it",
+      "title": "Talk Me Into It",
+      "description": "Daily negotiation game: someone says no — you get three messages to change their mind. Built with Claude Opus 5.5.",
+      "play_url": "https://israelfemiojo.github.io/talk-me-into-it/",
+      "source_url": "https://x.com/israelfemiojo/status/2104900132105818548",
+      "found_via": "X @israelfemiojo talk-characters-into-yes game",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/204-talk-me-into-it.jpg",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Bright promo still with dual phone mockups (boss raise / landlord rent), deal meter UI, and clear daily premise.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "narrative",
+        "daily"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 5,
+      "likes_source": "x",
+      "x_handle": "israelfemiojo",
+      "avatar_url": "/avatars/israelfemiojo.jpg",
+      "github_user": "israelfemiojo"
+    },
+    {
+      "id": "theatre-nge",
+      "title": "Theatre (NGE)",
+      "description": "Neon Genesis Evangelion–inspired Three.js / WebGL tactical command HUD over Sagami Bay — vibe-coded with Opus 5.5 in ~45 minutes.",
+      "play_url": "https://theatre-fawn.vercel.app/",
+      "source_url": "https://x.com/LuisBizarro/status/2104780688113455342",
+      "found_via": "X @LuisBizarro Opus 5.5 Evangelion theatre demo",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/205-theatre-nge.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Cinematic NERV-style orange/white wireframe HUD over Sagami Bay: Pattern Blue lock, Angel-class telemetry — dense and cohesive.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "showcase",
+        "simulation"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 400,
+      "likes_source": "x",
+      "x_handle": "LuisBizarro",
+      "avatar_url": "/avatars/LuisBizarro.jpg",
+      "video_path": "videos/theatre-nge.mp4",
+      "video_source": "https://x.com/LuisBizarro/status/2104780688113455342"
+    },
+    {
+      "id": "one-sky",
+      "title": "One Sky",
+      "description": "Co-op multiplayer sky game: route planes across phones, land together, survive changing weather. ChatGPT Sites build (Astra).",
+      "play_url": "https://one-sky-game.zahid23saim.chatgpt.site/",
+      "source_url": "https://github.com/zahid23saim/one-sky",
+      "found_via": "GitHub zahid23saim/one-sky + chatgpt.site play link",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/206-one-sky.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Striking concept art: four phone-monolith islands spanning sunset→night with planes threading one shared sky.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": [
+        "multiplayer",
+        "puzzle"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_user": "zahid23saim",
+      "avatar_url": "/avatars/zahid23saim.jpg"
+    },
+    {
+      "id": "metric-bloom",
+      "title": "Metric Bloom",
+      "description": "Korean pixel-art incremental about growing a social platform — posts, followers, crews, and creative ownership. Claude Opus 5.5 one-shot; playable on GitHub Pages.",
+      "play_url": "https://legerdo.github.io/metric-bloom-opus-5-5/",
+      "source_url": "https://github.com/Legerdo/metric-bloom-opus-5-5",
+      "found_via": "GitHub Legerdo/metric-bloom-opus-5-5",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/207-metric-bloom.jpg",
+      "screenshot_score": 7.8,
+      "screenshot_score_notes": "Cozy night-room pixel scene with Korean UI, moonlit window, and pink Post button — consistent lo-fi palette.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "incremental",
+        "pixel"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_user": "Legerdo",
+      "avatar_url": "/avatars/Legerdo.jpg"
+    },
+    {
+      "id": "deepsea",
+      "title": "DEEPSEA — Abyssal Descent",
+      "description": "Photoreal first-person WebGPU dive from the deck to 4,000 m on a custom engine (~8k LOC JS+WGSL). Built with Claude Opus 5.5.",
+      "play_url": "https://daforce1984.github.io/deepsea/",
+      "source_url": "https://github.com/daforce1984/deepsea",
+      "found_via": "GitHub daforce1984/deepsea Opus 5.5 WebGPU ocean",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/208-deepsea.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Photoreal ocean surface from the deck: HDR sky, FFT-looking water, clear Dive in CTA — strong first-person still.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "exploration",
+        "simulation"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_user": "daforce1984",
+      "avatar_url": "https://github.com/daforce1984.png"
+    },
+    {
+      "id": "boxhead-online",
+      "title": "Boxhead Online",
+      "description": "HTML5 canvas port of the classic Boxhead Online Java applet — solo and WebRTC co-op, original sprites and music. Ported with Claude Opus 5.5.",
+      "play_url": "https://sameidusmani.com/boxhead-online-html/",
+      "source_url": "https://github.com/sameid/boxhead-online-html",
+      "found_via": "GitHub sameid/boxhead-online-html Opus 5.5 port",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/209-boxhead-online.jpg",
+      "screenshot_score": 6.8,
+      "screenshot_score_notes": "Clean monochrome title menu with distressed BOXHEAD wordmark and blocky silhouette crowd — stylistically consistent, minimal.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "shooter",
+        "arcade",
+        "multiplayer"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_user": "sameid",
+      "avatar_url": "/avatars/sameid.jpg"
+    },
+    {
+      "id": "cf-transport-ship",
+      "title": "CF Transport Ship",
+      "description": "One-shot CrossFire Transport Ship team FPS in the browser — bots, loadouts, day/dusk. Claude Opus 5.5 zero-edit code gen; hosted at games.xdullboy.com.",
+      "play_url": "https://games.xdullboy.com/transport-ship/",
+      "source_url": "https://github.com/xiiyioozzz/opus55-3d-games",
+      "found_via": "GitHub xiiyioozzz/opus55-3d-games one-shot suite",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/210-cf-transport-ship.jpg",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Dark FPS lobby over lit container ship deck: faction/weapon pickers and orange Start CTA — polished Chinese UI.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "fps",
+        "multiplayer"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "github",
+      "github_user": "xiiyioozzz",
+      "x_handle": "xiiyioo",
+      "avatar_url": "/avatars/xiiyioo.jpg"
+    },
+    {
+      "id": "qq-speed",
+      "title": "飞车 3D (QQ Speed)",
+      "description": "QQ飞车 fan recreation: four tracks, drift/nitro sprays, racing and item modes. One-shot Claude Opus 5.5; all models/textures/music procedural.",
+      "play_url": "https://games.xdullboy.com/qq-speed/",
+      "source_url": "https://github.com/xiiyioozzz/opus55-3d-games",
+      "found_via": "GitHub xiiyioozzz/opus55-3d-games one-shot suite",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/211-qq-speed.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Pro racing lobby: track cards, car grid, gold title and orange Start — commercial-grade UI over blurred 3D track.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": [
+        "racing"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "github",
+      "github_user": "xiiyioozzz",
+      "x_handle": "xiiyioo",
+      "avatar_url": "/avatars/xiiyioo.jpg"
     }
   ],
   "totals": {
-    "all": 199,
-    "opus-5.5": 144,
-    "astra": 55
+    "all": 209,
+    "opus-5.5": 153,
+    "astra": 56
   }
 }
