@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:45:51Z",
+  "updated_at": "2026-09-29T11:51:51Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -2550,7 +2550,7 @@
       ],
       "video_path": "videos/the-kite.mp4",
       "video_source": "https://x.com/madebyayush/status/2104809870109311056",
-      "remote_likes": 1,
+      "remote_likes": 6,
       "likes_source": "x"
     },
     {
@@ -3596,11 +3596,160 @@
       "github_user": "Black2856",
       "github_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
       "avatar_url": "https://github.com/Black2856.png"
+    },
+    {
+      "id": "emberglade",
+      "title": "Emberglade",
+      "description": "Open-world browser action game with zero asset files — terrain, creatures, boss fight and music all code. Three shards, one gate. Deployed on AgentCell; credited to Claude Opus 5.5.",
+      "play_url": "https://emberglade.agentcell.app/",
+      "source_url": "https://x.com/agentcelldotdev/status/2104893456028160336",
+      "found_via": "X @agentcelldotdev Emberglade announce",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/196-emberglade.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Polished title glade: blue-tunic hero with shield on dirt path, misty trees/mountains, clean Enter the glade CTA.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "x_handle": "agentcelldotdev",
+      "avatar_url": "/avatars/agentcelldotdev.jpg"
+    },
+    {
+      "id": "neon-siege",
+      "title": "Neon Siege",
+      "description": "Sci-fi arena shooter: dash through robot waves, reflect bolts with a shield, switch heavier weapons, and face the Overseer every 5th wave. Three.js browser build by Claude Opus 5.5.",
+      "play_url": "https://promptengineer48.github.io/claude-opus-5.5-games/neon-siege/",
+      "source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "github_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "github_user": "PromptEngineer48",
+      "found_via": "GitHub PromptEngineer48/claude-opus-5.5-games",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/197-neon-siege.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Synthwave DEPLOY menu over cyan grid arena with magenta rim and clear WASD/shield control legend.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "arena-shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "github",
+      "avatar_url": "https://github.com/PromptEngineer48.png"
+    },
+    {
+      "id": "mortal-clash",
+      "title": "Mortal Clash",
+      "description": "1v1 fighting game — human vs machine on a moonlit rooftop. Pick fighter and difficulty, then chain punches, kicks, blocks and specials across best-of rounds. Claude Opus 5.5 + three.js.",
+      "play_url": "https://promptengineer48.github.io/claude-opus-5.5-games/mortal-clash/",
+      "source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "github_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "github_user": "PromptEngineer48",
+      "found_via": "GitHub PromptEngineer48/claude-opus-5.5-games",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/198-mortal-clash.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Cinematic title: red mech vs martial artist under full moon/pagodas, gold MORTAL CLASH wordmark, Press Enter.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "github",
+      "avatar_url": "https://github.com/PromptEngineer48.png"
+    },
+    {
+      "id": "rooftop-sniper",
+      "title": "Rooftop Sniper: Last Light",
+      "description": "First-person sniper at sunset over a procedural city. Scope in, tell hostiles from civilians, correct for drop and wind, clear 5 targets in 3 minutes. Claude Opus 5.5 + three.js.",
+      "play_url": "https://promptengineer48.github.io/claude-opus-5.5-games/rooftop-sniper/offline/index.html",
+      "source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "github_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "github_user": "PromptEngineer48",
+      "found_via": "GitHub PromptEngineer48/claude-opus-5.5-games",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/199-rooftop-sniper.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Dusk city silhouette with glowing windows, Operation Duskfall title, START MISSION and full controls card.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "sniper",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "github",
+      "avatar_url": "https://github.com/PromptEngineer48.png"
+    },
+    {
+      "id": "neon-ridge-rider",
+      "title": "Neon Ridge Rider",
+      "description": "Vaporwave motorcycle stunt runner on a neon ridge — ramps, flips, rings/orbs, boost. Made with SoonLab + GPT-6 Astra.",
+      "play_url": "https://www.soonlab.ai/game/11796/",
+      "source_url": "https://x.com/SoonLab_AI/status/2104887052659728605",
+      "found_via": "X @SoonLab_AI Neon Ridge Rider",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/200-neon-ridge-rider.jpg",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Social/card preview: synthwave rider on neon ridge under orange sun with rings; SoonLab host chrome not in frame.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "SoonLab_AI",
+      "avatar_url": "/avatars/SoonLab_AI.jpg",
+      "video_path": "videos/neon-ridge-rider.mp4",
+      "video_source": "https://x.com/SoonLab_AI/status/2104887052659728605"
+    },
+    {
+      "id": "sf-founder-mode",
+      "title": "SF Founder Mode",
+      "description": "Fly a beanie-wearing founder bird over snowy 3D San Francisco — pitch BirbOS across five meetings. Astra one-shot on spacesheep; Coit Tower swapped for a life-size Statue of Liberty.",
+      "play_url": "https://spacesheep.dev/@misha/sf-founder-mode",
+      "source_url": "https://x.com/micmakarov/status/2104639496478482527",
+      "found_via": "X @micmakarov SF Founder Mode",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/201-sf-founder-mode.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Clean spacesheep title: Francis bird over grey SF skyline, yellow START GAME, fog/settings toggles.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": [
+        "flying",
+        "sandbox"
+      ],
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 6,
+      "likes_source": "x",
+      "x_handle": "micmakarov",
+      "avatar_url": "/avatars/micmakarov.jpg",
+      "video_path": "videos/sf-founder-mode.mp4",
+      "video_source": "https://x.com/micmakarov/status/2104639496478482527"
     }
   ],
   "totals": {
-    "all": 193,
-    "opus-5.5": 140,
-    "astra": 53
+    "all": 199,
+    "opus-5.5": 144,
+    "astra": 55
   }
 }
