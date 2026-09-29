@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T13:00:24Z",
+  "updated_at": "2026-09-29T23:56:48Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -714,7 +714,7 @@
       "screenshot_score": 9,
       "screenshot_score_notes": "Sunset fortress standoff clearly shows Zhao Yun, spear, massed voxel troops, boss nameplates, minimap, and HUD.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-29T23:57:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -1212,7 +1212,7 @@
       "screenshot_score": 9.2,
       "screenshot_score_notes": "Cinematic golden-hour steppe duel: dense grass, bloom lighting, clear silhouettes of swordsmen — highly composed in-game still with no HUD clutter.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-29T23:57:00.000Z",
       "made_with": "opus-5.5",
       "remote_likes": 22,
       "likes_source": "github"
@@ -1388,7 +1388,7 @@
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Elegant parchment-map menu with bilingual Philippine–American War framing and clear Campaign/Last Stand options — thematic and polished.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-29T23:57:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -1403,7 +1403,7 @@
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Colorful Toy Story–style title over a soft bedroom backdrop with clear Play/How to Play buttons — cheerful and readable.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-29T23:57:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -1528,7 +1528,7 @@
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Cel-shaded desert city, glowing ring objective and clear Take flight CTA compose a strong title still.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-29T23:56:48.000Z",
       "remote_likes": 3,
       "likes_source": "github"
     },
@@ -2088,7 +2088,7 @@
       "screenshot_score": 8,
       "screenshot_score_notes": "Desert voxel town with trucks under BLOCKFRONT title; dim overlay but readable enlist prompt.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-29T23:57:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -2234,7 +2234,7 @@
       "screenshot_score_notes": "Isometric King's Row rooftop with Tracer on chronal pad and clear LET'S GO CTA.",
       "made_with": "astra",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29T23:57:00.000Z"
     },
     {
       "id": "kiriko-foxlight-crossing",
@@ -4018,11 +4018,751 @@
       "github_user": "xiiyioozzz",
       "x_handle": "xiiyioo",
       "avatar_url": "/avatars/xiiyioo.jpg"
+    },
+    {
+      "id": "genex-skate",
+      "title": "SKATE (Genex)",
+      "description": "PS2-era street skating in the browser: a fully generated spot with tricks and lines. Built with Opus 5 via the Genex CLI / Three.js; playable on genex.games.",
+      "play_url": "https://genex.games/skate",
+      "source_url": "https://x.com/genex_games/status/2082890286846427521",
+      "github_url": "https://github.com/Rabneba/skate-threejs",
+      "github_user": "Rabneba",
+      "found_via": "X bookmark @friuns2 → @genex_games Opus 5 skate demo with play + source",
+      "found_via_network": "x",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "sports",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "x_handle": "genex_games",
+      "remote_likes": 977,
+      "likes_source": "x",
+      "video_path": "videos/genex-skate.mp4"
+    },
+    {
+      "id": "speedracer-horizon",
+      "title": "SPEEDRACER — Horizon",
+      "description": "First-person browser racer on a ~3.9 km procedural circuit: weather/lighting controls, WASD driving, camera cycle. Built with Opus 5 ultracode + mattshumer Gauntlet prompt (Three.js, no binary assets).",
+      "play_url": "https://speed-racer-ten.vercel.app/",
+      "source_url": "https://x.com/rahilbhansali/status/2082440987411148955",
+      "github_url": "https://github.com/rahil-algobear/SpeedRacer",
+      "github_user": "rahil-algobear",
+      "found_via": "X bookmark @friuns2 → @rahilbhansali Speed Racer playable deploy",
+      "found_via_network": "x",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "rahilbhansali",
+      "remote_likes": 525,
+      "likes_source": "x",
+      "video_path": "videos/speedracer-horizon.mp4"
+    },
+    {
+      "id": "mine-minecraft-opus",
+      "title": "Mine (Minecraft Opus 5.5)",
+      "description": "Browser Minecraft-style voxel sandbox built with Claude Opus 5.5 — playable deploy on Vercel.",
+      "play_url": "https://minecraft-iota-coral.vercel.app/",
+      "source_url": "https://x.com/buildwithsid/status/2102461886247948571",
+      "found_via": "X bookmark @friuns2 → @buildwithsid Opus 5.5 Minecraft browser demo",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "sandbox",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "buildwithsid",
+      "remote_likes": 1094,
+      "likes_source": "x",
+      "published_at": "2026-09-22T18:15:50.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/mine-minecraft-opus.mp4"
+    },
+    {
+      "id": "summer-cycle",
+      "title": "Summer Cycle",
+      "description": "Studio Ghibli / Makoto Shinkai–style Three.js cycling ride through a toon-shaded Japanese countryside with four times of day; every mesh, texture and sound generated in code. Credited to Claude Opus 5.5.",
+      "play_url": "https://starknightt.github.io/summer-cycle/",
+      "source_url": "https://x.com/0x0SojalSec/status/2103232621669220827",
+      "github_url": "https://github.com/StarKnightt/summer-cycle",
+      "github_user": "StarKnightt",
+      "found_via": "X bookmark @friuns2 → @0x0SojalSec; play URL via gh homepage on StarKnightt/summer-cycle",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "x_handle": "0x0SojalSec",
+      "remote_likes": 204,
+      "likes_source": "x",
+      "published_at": "2026-09-24T21:18:27.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/summer-cycle.mp4"
+    },
+    {
+      "id": "regolith-moon-rover",
+      "title": "REGOLITH — The Silence at Anaxagoras",
+      "description": "3D lunar rover survey game: five missions plus open-world exploring. WebGL2, no build step, no third-party assets — everything procedural. Built with Claude Opus 5.",
+      "play_url": "https://winchxyz.github.io/moon-rover/",
+      "source_url": "https://x.com/winchxyz/status/2087455605279580326",
+      "github_url": "https://github.com/winchxyz/moon-rover",
+      "github_user": "winchxyz",
+      "found_via": "X bookmark @friuns2 → @winchxyz Opus 5 moon rover; play URL via gh homepage",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "winchxyz",
+      "remote_likes": 229,
+      "likes_source": "x",
+      "published_at": "2026-08-12T08:26:14.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/regolith-moon-rover.mp4"
+    },
+    {
+      "id": "operation-safe-return",
+      "title": "Operation Safe Return — Stickman",
+      "description": "Stickman / I.G.I.-inspired browser shooter bringing back old stickman shooter nostalgia. Built with GPT Astra (+ Fable assist).",
+      "play_url": "https://operation-ink.vercel.app/",
+      "source_url": "https://x.com/byteab/status/2102342044505239741",
+      "found_via": "X bookmark @friuns2 → @byteab Astra stickman shooter with play link",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "byteab",
+      "remote_likes": 848,
+      "likes_source": "x",
+      "published_at": "2026-09-22T10:19:37.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/operation-safe-return.mp4"
+    },
+    {
+      "id": "apex-coast-run",
+      "title": "APEX / Coast Run",
+      "description": "Need for Speed–style browser racer on Three.js with Astra 6 overnight build; later looped with Jolt physics, tighter steering, mobile/desktop quality tiers.",
+      "play_url": "https://apex-coast-run.mindblown.ai/",
+      "source_url": "https://x.com/mindblown_ai/status/2097053892152594854",
+      "found_via": "X bookmark @friuns2 → @mindblown_ai Astra NFS browser racer",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "x_handle": "mindblown_ai",
+      "remote_likes": 862,
+      "likes_source": "x",
+      "published_at": "2026-09-07T20:06:23.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/apex-coast-run.mp4"
+    },
+    {
+      "id": "savannah-hunt",
+      "title": "Savannah Hunt",
+      "description": "Browser hunting demo set in a Three.js savannah, cooked with Astra.",
+      "play_url": "https://squall01337.github.io/savannah/",
+      "source_url": "https://x.com/Graalitoo/status/2096847948294590967",
+      "github_url": "https://github.com/squall01337/savannah",
+      "github_user": "squall01337",
+      "found_via": "X bookmark @friuns2 → @Graalitoo Astra savannah hunting demo",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "Graalitoo",
+      "remote_likes": 114,
+      "likes_source": "x",
+      "published_at": "2026-09-07T06:28:03.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/savannah-hunt.mp4"
+    },
+    {
+      "id": "eight-fronts",
+      "title": "EIGHT FRONTS",
+      "description": "3D run-and-gun Contra-style tribute: eight stages, GPU-skinned commandos, local co-op. Single-file JS + WebGL2/GLSL. GPT-6 Astra PRO; original contra-jungle-strike.vercel.app 404s — live deploy is eight-fronts.vercel.app.",
+      "play_url": "https://eight-fronts.vercel.app/",
+      "source_url": "https://x.com/BubuStd/status/2096477503036825861",
+      "github_url": "https://github.com/mike007jd/eightfront-3d",
+      "github_user": "mike007jd",
+      "found_via": "X bookmark @friuns2 → @BubuStd Astra Contra tribute; play URL via gh/bubucn (eight-fronts)",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "BubuStd",
+      "remote_likes": 23,
+      "likes_source": "x",
+      "published_at": "2026-09-06T05:56:02.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/eight-fronts.mp4"
+    },
+    {
+      "id": "super-smash-royale",
+      "title": "Super Smash Royale",
+      "description": "Browser battle royale with 45 characters from Melee + Brawl; solo, multiplayer, controller support. Built with GPT-6 Astra, ElevenLabs, Meshy, Blender, Three.js.",
+      "play_url": "https://smashroyale.io/",
+      "source_url": "https://x.com/0xRishi/status/2098439358537990194",
+      "found_via": "X bookmark @friuns2 → @0xRishi Astra Smash Royale (smashroyale.io)",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "0xRishi",
+      "remote_likes": 2974,
+      "likes_source": "x",
+      "published_at": "2026-09-11T15:51:44.000Z",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "video_path": "videos/super-smash-royale.mp4"
+    },
+    {
+      "id": "destroy-any-website",
+      "title": "Destroy any website with a stickman",
+      "description": "Multiplayer Opus 5.5 weekend build: drop a stickman onto any website and wreck it. Browser playable at destroy.spritefusion.com.",
+      "play_url": "https://destroy.spritefusion.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wsfvtp/destroy_any_website_with_a_stickman/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "published_at": "2026-09-28T14:18:40.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "video_path": "videos/destroy-any-website.mp4",
+      "remote_likes": 1596,
+      "likes_source": "reddit",
+      "comments": [
+        {
+          "author": "RUSuper",
+          "text": "Reminds me of some old video on youtube where stick figure is destroying dudes PC. Haha I love it.",
+          "likes": 157,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wsfvtp/destroy_any_website_with_a_stickman/pckynu4/",
+          "created_at": "2026-09-28T14:21:21Z"
+        },
+        {
+          "author": "roodammy44",
+          "text": "Man, this has a real mid-90s feel to it. Very creative!",
+          "likes": 62,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wsfvtp/destroy_any_website_with_a_stickman/pcl2yn6/",
+          "created_at": "2026-09-28T14:39:26Z"
+        },
+        {
+          "author": "Warm_Ad1257",
+          "text": "Ngl, this is genuinely one of the few actually good games I have seen made with AI. Well done to OP!",
+          "likes": 48,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wsfvtp/destroy_any_website_with_a_stickman/pcldhyi/",
+          "created_at": "2026-09-28T15:22:42Z"
+        },
+        {
+          "author": "Expansion49",
+          "text": "Do it with LinkedIn, even funnier ",
+          "likes": 20,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wsfvtp/destroy_any_website_with_a_stickman/pcl3hiy/",
+          "created_at": "2026-09-28T14:41:37Z"
+        },
+        {
+          "author": "Upbeat_Purpose6784",
+          "text": "Yup we hit a really cool place in the tech cycle. And this will only get better and better !",
+          "likes": 12,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wsfvtp/destroy_any_website_with_a_stickman/pcl1mf3/",
+          "created_at": "2026-09-28T14:33:52Z"
+        }
+      ]
+    },
+    {
+      "id": "hearthlight",
+      "title": "Hearthlight",
+      "description": "Open-source cozy pixel-art seaside life + 10-chapter adventure with 8 heroes, dungeons and bosses. Solo or up to 8 friends (phones as controllers or online). Built with Claude Opus 5.5.",
+      "play_url": "https://hearthlight.github.io/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/",
+      "github_url": "https://github.com/Hearthlight",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "published_at": "2026-09-29T13:46:53.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "video_path": "videos/hearthlight.mp4",
+      "remote_likes": 97,
+      "likes_source": "reddit",
+      "comments": [
+        {
+          "author": "hey_im_cool",
+          "text": "LOL GOTEM TAKE THAT NANA",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcu1v68/",
+          "created_at": "2026-09-29T17:51:59Z"
+        },
+        {
+          "author": "TypeScrupterB",
+          "text": "nice work.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcsiqq5/",
+          "created_at": "2026-09-29T14:07:13Z"
+        },
+        {
+          "author": "VenatoreCapitanum",
+          "text": "Fantastic, thank you very much.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcspsr7/",
+          "created_at": "2026-09-29T14:38:09Z"
+        },
+        {
+          "author": "baz1nga007",
+          "text": "Insane mane, super cool",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcswy0n/",
+          "created_at": "2026-09-29T15:08:17Z"
+        },
+        {
+          "author": "Shppo",
+          "text": "legend!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pct7byz/",
+          "created_at": "2026-09-29T15:50:39Z"
+        }
+      ]
+    },
+    {
+      "id": "antkeeper",
+      "title": "ANTKEEPER",
+      "description": "Dungeon Keeper–inspired ant-colony sim: build your nest, forage food and water, train soldiers, and fight enemies. Three.js + Blender; Opus/Fable build with Suno soundtrack and ElevenLabs voices.",
+      "play_url": "https://ja.sperdeboer.nl/antkeeper",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wt45me/antkeeper_a_dungeon_keeper_inspired_ant_game/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "published_at": "2026-09-29T08:00:20.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "video_path": "videos/antkeeper.mp4",
+      "remote_likes": 22,
+      "likes_source": "reddit",
+      "comments": [
+        {
+          "author": "TheBigQuestion354",
+          "text": "Actually a cool unique idea, I’m digging it",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wt45me/antkeeper_a_dungeon_keeper_inspired_ant_game/pcqzbtv/",
+          "created_at": "2026-09-29T08:24:05Z"
+        },
+        {
+          "author": "OneDay_OneLife",
+          "text": "Looks amazing, how did you get Opus5.5 to make the video? plugin?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wt45me/antkeeper_a_dungeon_keeper_inspired_ant_game/pcr3t62/",
+          "created_at": "2026-09-29T09:02:06Z"
+        }
+      ]
+    },
+    {
+      "id": "comfy-crawler",
+      "title": "Comfy Crawler",
+      "description": "Windows 95 3D Maze–inspired browser dungeon crawler. Each run starts from 4 prompts (style, hero, weapon, enemy); local models bake art/SFX/music while maze layout regenerates. Opus 5.5.",
+      "play_url": "https://mowmeow.net/ComfyCrawlerTest/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wt9rtl/i_made_a_windows_95_3d_mazeinspired_dungeon/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "published_at": "2026-09-29T13:13:03.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "video_path": "videos/comfy-crawler.mp4",
+      "remote_likes": 7,
+      "likes_source": "reddit",
+      "comments": []
+    },
+    {
+      "id": "neon-asteroids",
+      "title": "Neon Asteroids",
+      "description": "Free 1v1 multiplayer Asteroids in a single HTML page: WebRTC peer-to-peer across phone and desktop, public relays for matchmaking, no server. Built with Opus 5.5.",
+      "play_url": "https://deadbaron.com/neon-asteroids",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtcm4e/built_a_free_1v1_multiplayer_asteroids_with_opus/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "published_at": "2026-09-29T15:06:56.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "video_path": "videos/neon-asteroids.mp4",
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "comments": []
+    },
+    {
+      "id": "dropdead-plinko",
+      "title": "Drop Dead (Plinko battle royale)",
+      "description": "Roguelite Plinko battle royale in the browser: pick upgrades, place them on your board, drop pucks, and survive elimination rounds. First Opus 5.5 build (usually Codex/Astra).",
+      "play_url": "https://Dropdead.mightybig.ca/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtbjnl/first_time_using_opus_55_made_a_roguelite_plinko/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "published_at": "2026-09-29T14:25:15.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "remote_likes": 8,
+      "likes_source": "reddit",
+      "comments": [
+        {
+          "author": "Best_Professor_9966",
+          "text": "pretty fun once you stack the upgrades, cohesive design, nice job!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtbjnl/first_time_using_opus_55_made_a_roguelite_plinko/pcsy2m1/",
+          "created_at": "2026-09-29T15:12:58Z"
+        },
+        {
+          "author": "klas-klattermus",
+          "text": "Kinda fun but braindead, just funnel everything to the middle and stack multipliers. Still, I had my 5 minutes of fun with it!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtbjnl/first_time_using_opus_55_made_a_roguelite_plinko/pctde8v/",
+          "created_at": "2026-09-29T16:14:53Z"
+        }
+      ]
+    },
+    {
+      "id": "brainhive",
+      "title": "Brainhive",
+      "description": "Collection of 100 bite-sized browser brain games (memory, logic, speed) built in under 48 hours with Opus 5.5 — Phaser + React + TypeScript + Framer Motion; monthly content refresh.",
+      "play_url": "https://www.brainhive.games/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "published_at": "2026-09-29T13:38:40.000Z",
+      "listed_at": "2026-09-29T16:48:57.000Z",
+      "first_seen": "2026-09-29T16:48:57.000Z",
+      "last_seen": "2026-09-29T23:57:00.000Z",
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "comments": [
+        {
+          "author": "YaygFX",
+          "text": "Why are people so proud of just making endless slop.\n\nCongratulations on spending \nless than an hour on each game.\n\nPlease don't put this shit into our world though.\n\nUse AI to make a 1000 hour game take 200 hours to make. Not for shit like this man.",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsfpo4/",
+          "created_at": "2026-09-29T13:53:23Z"
+        },
+        {
+          "author": "Motor-Travel-7560",
+          "text": "Hey, I've seen this one before!\n\nhttps://preview.redd.it/xntw6eljtgsh1.jpeg?width=262&format=pjpg&auto=webp&s=c203e53230db6ef9dd33b609eb2d1bc094cf296e\n\nAt least yours doesn't cost $200 in 1991 money, though.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsgtaf/",
+          "created_at": "2026-09-29T13:58:24Z"
+        },
+        {
+          "author": "Baraga91",
+          "text": "\"Why do people  complain about AI slop so much?\"\n\nBecause of you. ",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsvqxp/",
+          "created_at": "2026-09-29T15:03:14Z"
+        }
+      ]
+    },
+    {
+      "id": "spider-man-spiderverse",
+      "title": "Friendly Neighborhood Spider-Man (Spider-Verse)",
+      "description": "Swing through a comic-book New York: stop crimes, take down the Scorpion in Times Square, and meet Miles Morales. Free unofficial Spider-Verse fan game built with Claude Opus 5.5.",
+      "play_url": "https://spiderman-spiderverse.vercel.app/",
+      "source_url": "https://x.com/KalraIshaan11/status/2105065901972173054",
+      "found_via": "X post by @KalraIshaan11",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/212-spiderman-spiderverse.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Clear Spider-Verse comic night cityscape with readable Spider-Man silhouette, neon billboards, and strong atmospheric color.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/212-spiderman-spiderverse.jpg",
+          "score": 9.0,
+          "notes": "Gameplay still from trailer"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/212-spiderman-spiderverse-og.jpg",
+          "score": 8.5,
+          "notes": "OG card art"
+        }
+      ],
+      "video_path": "videos/spider-man-spiderverse.mp4",
+      "videos": [
+        {
+          "path": "videos/spider-man-spiderverse.mp4",
+          "source": "x"
+        }
+      ],
+      "made_with": "opus-5.5",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "published_at": "2026-09-29T22:43:15.000Z",
+      "listed_at": "2026-09-29T23:56:48.000Z",
+      "first_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-29T23:56:48.000Z",
+      "remote_likes": 14,
+      "likes_source": "x",
+      "author": "KalraIshaan11",
+      "avatar_path": "/workspace/opus-feed/public/avatars/KalraIshaan11.jpg",
+      "comments": [
+        {
+          "author": "thenthj",
+          "text": "This is SO FUN! Thanks for making this!",
+          "likes": 1,
+          "url": "https://x.com/thenthj/status/2105079152714174589",
+          "created_at": "2026-09-29T23:35:55Z"
+        },
+        {
+          "author": "Kabsgrover",
+          "text": "Genuinely production grade 🙌",
+          "likes": 1,
+          "url": "https://x.com/Kabsgrover/status/2105069179250311293",
+          "created_at": "2026-09-29T22:56:17Z"
+        },
+        {
+          "author": "kartikkhosa",
+          "text": "Crazzzzy",
+          "likes": 1,
+          "url": "https://x.com/kartikkhosa/status/2105081847852212632",
+          "created_at": "2026-09-29T23:46:37Z"
+        },
+        {
+          "author": "hharshitarora",
+          "text": "Crazy stuff",
+          "likes": 1,
+          "url": "https://x.com/hharshitarora/status/2105077383443206598",
+          "created_at": "2026-09-29T23:28:53Z"
+        },
+        {
+          "author": "chetanya_makkar",
+          "text": "Crazy!!",
+          "likes": 1,
+          "url": "https://x.com/chetanya_makkar/status/2105071003604812264",
+          "created_at": "2026-09-29T23:03:32Z"
+        }
+      ]
+    },
+    {
+      "id": "hollowmark",
+      "title": "HOLLOWMARK",
+      "description": "Classic DOOM-vibes browser FPS (Breach Gun) with industrial corridors, guard bracing, and shard upgrades. Credited to Fable 5.1 + GPT-6 Astra + Three.js on mindblown.ai.",
+      "play_url": "https://hollowmark.mindblown.ai/",
+      "source_url": "https://x.com/mindblown_ai/status/2105069015924379654",
+      "found_via": "X post by @mindblown_ai",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/213-hollowmark.jpg",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Readable FPS corridor with enemy, shotgun, and full HUD; mindblown platform chrome on the right edge slightly distracts.",
+      "video_path": "videos/hollowmark.mp4",
+      "videos": [
+        {
+          "path": "videos/hollowmark.mp4",
+          "source": "x"
+        }
+      ],
+      "made_with": "astra",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "published_at": "2026-09-29T22:55:38.000Z",
+      "listed_at": "2026-09-29T23:56:48.000Z",
+      "first_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-29T23:56:48.000Z",
+      "remote_likes": 3,
+      "likes_source": "x",
+      "author": "mindblown_ai",
+      "avatar_path": "/workspace/opus-feed/public/avatars/mindblown_ai.jpg"
+    },
+    {
+      "id": "bioneural",
+      "title": "BIONEURAL",
+      "description": "Multiplayer browser city shooter — rooftops, subways, back alleys. Online FPS built with Claude Opus 5.5 in ~4 days; works on desktop and mobile.",
+      "play_url": "https://bioneural.de/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtkdc5/bioneural_online_fps/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "screenshot_path": "/workspace/opus-games-fresh/214-bioneural.jpg",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Clean voxel-city FPS action with double-kill callout, pulse rifle, and readable HUD; night lighting is clear.",
+      "video_path": "videos/bioneural.mp4",
+      "videos": [
+        {
+          "path": "videos/bioneural.mp4",
+          "source": "reddit"
+        }
+      ],
+      "made_with": "opus-5.5",
+      "category": "fps",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "published_at": "2026-09-29T19:57:48.000Z",
+      "listed_at": "2026-09-29T23:56:48.000Z",
+      "first_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-29T23:56:48.000Z",
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "comments": [
+        {
+          "author": "TimeForsaken5275",
+          "text": "nice",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtkdc5/bioneural_online_fps/pcuzlyy/",
+          "created_at": "2026-09-29T20:06:57Z"
+        },
+        {
+          "author": "TimeForsaken5275",
+          "text": "did you use Blender MCP?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wtkdc5/bioneural_online_fps/pcuzp3t/",
+          "created_at": "2026-09-29T20:07:18Z"
+        }
+      ]
+    },
+    {
+      "id": "chonk-bear-brawl",
+      "title": "Chonk Bear Brawl",
+      "description": "Three.js beat-em-up where a round angry bear punches across islands of critters and bosses. ~18k lines plain JS; mostly Claude Opus 5.5 with Astra helping some parts.",
+      "play_url": "https://run.world/silverbolt106/chonk-bear-brawl",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtmeyd/created_a_trailer_for_my_free_beat_em_up_browser/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "screenshot_path": "/workspace/opus-games-fresh/215-chonk-bear-brawl.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Bright meadow brawler still with SMACK impact, full combat HUD, and mobile controls — very readable action tableau.",
+      "video_path": "videos/chonk-bear-brawl.mp4",
+      "videos": [
+        {
+          "path": "videos/chonk-bear-brawl.mp4",
+          "source": "reddit"
+        }
+      ],
+      "made_with": "opus-5.5",
+      "category": "brawler",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "published_at": "2026-09-29T21:16:25.000Z",
+      "listed_at": "2026-09-29T23:56:48.000Z",
+      "first_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-29T23:56:48.000Z",
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "comments": []
+    },
+    {
+      "id": "sadak",
+      "title": "SADAK",
+      "description": "Third-person Indian street where NPCs speak Indian languages — ask for an auto ride out loud. Browser open-world vibecoded with Opus 5.5 (Sarvam AI speech). Google sign-in required to play.",
+      "play_url": "https://playsadak.vercel.app/",
+      "source_url": "https://x.com/ahmedfahim21_/status/2104560182311465281",
+      "found_via": "X post by @ahmedfahim21_",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/216-sadak.jpg",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "Sunny low-poly Indian alley with auto-rickshaw, NPCs, and bilingual dialogue box — cohesive and readable; login gate not shown in this still.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/216-sadak.jpg",
+          "score": 8.3,
+          "notes": "Gameplay still from trailer"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/216-sadak-og.jpg",
+          "score": 7.5,
+          "notes": "OG preview"
+        }
+      ],
+      "video_path": "videos/sadak.mp4",
+      "videos": [
+        {
+          "path": "videos/sadak.mp4",
+          "source": "x"
+        }
+      ],
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "published_at": "2026-09-28T13:13:42.000Z",
+      "listed_at": "2026-09-29T23:56:48.000Z",
+      "first_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-29T23:56:48.000Z",
+      "remote_likes": 88,
+      "likes_source": "x",
+      "author": "ahmedfahim21_",
+      "avatar_path": "/workspace/opus-feed/public/avatars/ahmedfahim21_.jpg"
     }
   ],
   "totals": {
-    "all": 209,
-    "opus-5.5": 153,
-    "astra": 56
+    "all": 231,
+    "opus-5.5": 169,
+    "astra": 62
   }
 }
