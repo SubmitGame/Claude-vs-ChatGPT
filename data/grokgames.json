@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:54:40Z",
+  "updated_at": "2026-09-29T06:49:06Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -575,7 +575,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Cinematic third-person boat view with sakura banks, misty water, pagoda, and soft golden-hour lighting that instantly sells the journey.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "made_with": "opus-5.5"
     },
     {
@@ -2358,6 +2358,102 @@
       ],
       "video_path": "videos/the-kite.mp4",
       "video_source": "https://x.com/madebyayush/status/2104809870109311056"
+    },
+    {
+      "id": "sandline",
+      "title": "SANDLINE / 沙线行动",
+      "description": "Single-player 3v3 tactical FPS: fight with AI teammates, cover, rifles and grenades across two bomb sites in a desert town. Large WebGL download; Chinese UI.",
+      "play_url": "https://ihca.cn/sandline/",
+      "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/109",
+      "found_via": "MartinDelophy awesome-gpt-6-astra (2026-09-29 addition) + creator Zhihu/devlog",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/152-sandline.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Clear tactical FPS still: suppressed AR, desert town crates, bomb-site HUD and teammate — shows the game well despite flatter env textures.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "FPS",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "infinite-garden",
+      "title": "Infinite Garden — Atlas of Echoes",
+      "description": "Explore 48 gravity-bending gardens: carry colored fruits to sockets, awaken circuits, and fall into new sides of the architecture. ChatGPT Sites / Astra build.",
+      "play_url": "https://infinite-garden.yelin8130.chatgpt.site/",
+      "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "found_via": "MartinDelophy awesome-gpt-6-astra + tikgame.org featured Astra collection",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/153-infinite-garden.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Striking sage wireframe cityscape title screen with bilingual branding and clear Enter Garden CTA — strong composition and polish.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ]
+    },
+    {
+      "id": "vector-dive",
+      "title": "Vector Dive — Beyond the Signal",
+      "description": "Neon wireframe flight through accelerating circuits — boost and phase to survive Pulseway, Cathedral and Rift Rush. OpenAI ChatGPT Sites Astra showcase.",
+      "play_url": "https://vector-dive.openai.chatgpt.site/",
+      "source_url": "https://x.com/Dimillian/status/2097188900888322323",
+      "found_via": "MartinDelophy awesome-gpt-6-astra + creator X (Dimillian)",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/154-vector-dive.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Synthwave neon tunnel with craft, environment picker and crisp HUD typography — excellent visual clarity and theme cohesion.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ]
+    },
+    {
+      "id": "stadium-elite",
+      "title": "Stadium Elite — El Clásico",
+      "description": "11-a-side Barcelona–Real Madrid football at Camp Nou: pass, shoot and switch players in a 3D stadium. Mindblown build credited to GPT-6 Astra.",
+      "play_url": "https://stadium-elite.mindblown.ai/",
+      "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "found_via": "MartinDelophy awesome-gpt-6-astra Stadium Elite entry",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/155-stadium-elite.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Polished Camp Nou pitch and stands with El Clásico crests and clear Play First Goal UI — stadium scene reads instantly.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ]
+    },
+    {
+      "id": "no-moat",
+      "title": "No Moat",
+      "description": "Startup-themed roguelike deckbuilder: pick an AI founder, recruit a team, and play cards against copycats, bugs and cloud bills.",
+      "play_url": "https://no-moat.petergyang.chatgpt.site/",
+      "source_url": "https://x.com/petergyang/status/2096297378584375672",
+      "found_via": "MartinDelophy awesome-gpt-6-astra + creator X (petergyang)",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/156-no-moat.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Character-select still with three detailed 3D founder figurines, stats and Lead the Lab CTAs — clear identity and production polish.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ]
     }
   ]
 }
