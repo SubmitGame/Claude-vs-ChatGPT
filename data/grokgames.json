@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:45:00+07:00",
+  "updated_at": "2026-09-29T11:55:00+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -989,7 +989,7 @@
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Close-up 3D gag of a masked sleeper with a googly-eyed fly on her nose — clear, humorous still of the swat premise.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "made_with": "opus-5.5"
     },
     {
@@ -2116,6 +2116,66 @@
       "made_with": "astra",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29"
+    },
+    {
+      "id": "winston-little-spark",
+      "title": "A Little Spark (Winston Field Adventure)",
+      "description": "90-second lunar lab rescue as Winston: reconnect three circuits, Tesla-arc protect experiments, Jump Pack across Horizon Field Laboratory. GPT-6 Astra one-shot Overwatch fan tribute on Sulat.",
+      "play_url": "https://winston.astra.demos.sulat.com/",
+      "source_url": "https://astra.demos.sulat.com/",
+      "found_via": "Sulat GPT-6 Astra one-shot demos (winston subdomain live; Overwatch fan tribute)",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/144-winston-astra.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Polished isometric Horizon Field lab title with Winston, readable mission pitch, and clear LET'S DO SCIENCE CTA.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra"
+    },
+    {
+      "id": "pixel-poker",
+      "title": "Pixel Poker",
+      "description": "Balatro-inspired pixel Texas Hold'em with bots, hand trainer, online multiplayer and profiles. Credited to Opus 5.5 by Bennett Schwartz.",
+      "play_url": "https://poker.gustycube.com/",
+      "source_url": "https://x.com/BennettSchwartz/status/2104791643107000437",
+      "found_via": "X post by @BennettSchwartz: Opus 5.5 finished Balatro-style hold'em; play URL poker.gustycube.com",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/145-pixel-poker.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Balatro-like title with royal-flush fan and five clear mode buttons on psychedelic green field.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
+    },
+    {
+      "id": "ember-and-ivory",
+      "title": "Ember & Ivory",
+      "description": "Fantasy poker battler: share a board with dungeon guardians, complete poker lines into sword strikes, climb five encounters to the Ivory King. Creator built with Astra; HTML5 on itch.",
+      "play_url": "https://jlager.itch.io/ember-and-ivory",
+      "source_url": "https://x.com/jlager/status/2104748429192884380",
+      "found_via": "X post by @jlager: recreated Sword & Poker mechanics with Astra; itch play URL",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/146-ember-and-ivory.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "In-game Moss Gate encounter with Wayfarer vs Briar Kobold, shared poker board, and clear YOUR TURN / hand UI.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra"
+    },
+    {
+      "id": "cropper-seven",
+      "title": "Cropper Seven — Four Horizons",
+      "description": "Expressive crop-duster flight across four connected biomes (Airfield, Azure Port, Alpine Lake, Oasis) with paint/inspect hangar. GPT-6 Astra + Three.js + Blender by @givros.",
+      "play_url": "https://givros.github.io/openworld-plane/",
+      "source_url": "https://x.com/givros/status/2104692807965564947",
+      "found_via": "X post by @givros with GPT-6 Astra + Three.js + Blender demo link",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/147-cropper-seven.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Third-person orange biplane over Alpine Lake forest with clear telemetry HUD and Four Horizons location menu.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra"
     }
   ]
 }
