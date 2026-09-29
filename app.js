@@ -70,7 +70,7 @@
     const q = query.trim().toLowerCase();
     if (!q) return list;
     return list.filter((g) => {
-      const hay = [g.title, g.description, g.found_via_network, g.id]
+      const hay = [g.title, g.description, g.found_via_network, g.id, g.made_with]
         .filter(Boolean)
         .join(" ")
         .toLowerCase();
@@ -88,6 +88,8 @@
     const play = game.play_url ? escapeHtml(game.play_url) : "";
     const source = game.source_url ? escapeHtml(game.source_url) : "";
     const network = escapeHtml(game.found_via_network || "");
+    const madeRaw = (game.made_with || "").toLowerCase();
+    const made = madeRaw === "astra" ? "Astra" : madeRaw === "opus-5.5" ? "Opus 5.5" : escapeHtml(game.made_with || "");
 
     const media = src
       ? `<img src="${src}" alt="${title}" loading="lazy" decoding="async" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'placeholder',textContent:'No screenshot'}))" />`
@@ -113,6 +115,7 @@
           ${desc ? `<p class="card-desc">${desc}</p>` : ""}
           <div class="card-meta">
             ${network ? `<span class="chip">${network}</span>` : ""}
+            ${made ? `<span class="chip chip-model">${made}</span>` : ""}
           </div>
           <div class="card-actions">
             ${playBtn}

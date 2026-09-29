@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T08:40:00+07:00",
+  "updated_at": "2026-09-29T09:29:15+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -10,11 +10,12 @@
       "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
       "found_via": "AI IDE List case study and creator README; also MagicCreator demos",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/01-pelican-bike.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/01-pelican-bike.jpg",
       "screenshot_score": 8.8,
       "screenshot_score_notes": "A polished, cinematic coastal scene clearly shows the pelican, bicycle, road, and game HUD, though bright sun glare obscures some detail.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "transport-ship",
@@ -24,11 +25,12 @@
       "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
       "found_via": "AI IDE List case study and MagicCreator demo; creator README play URL",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/02-transport-ship.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/02-transport-ship.jpg",
       "screenshot_score": 7.8,
       "screenshot_score_notes": "The first-person view, weapon, map space, enemy, and objective HUD are immediately legible, with some visual clutter from overlays.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "qq-speed-3d-racing",
@@ -38,11 +40,12 @@
       "source_url": "https://github.com/riba2534/claude-opus-5-5-demo",
       "found_via": "AI IDE List case study and MagicCreator demo; creator README play URL",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/03-qq-speed.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/03-qq-speed.jpg",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Colorful track scenery, several cars, the start gate, minimap, rankings, and racing HUD make the game easy to understand in one frame.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "ascent",
@@ -52,11 +55,12 @@
       "source_url": "https://discourse.threejs.org/t/ascent-a-celeste-clone-with-tight-control-and-the-vibe/94653",
       "found_via": "three.js Discourse showcase thread",
       "found_via_network": "discourse",
-      "screenshot_path": "screenshots/04-ascent.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/04-ascent.jpg",
       "screenshot_score": 7.9,
       "screenshot_score_notes": "The atmospheric title screen has strong typography and color, but it presents little actual platforming gameplay beyond a small level silhouette.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "aurora-grand-prix",
@@ -66,11 +70,12 @@
       "source_url": "https://youtu.be/MpA7wOWsNB8",
       "found_via": "X post from Vibe Game Lab linking the demo",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/05-aurora-grand-prix.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/05-aurora-grand-prix.jpg",
       "screenshot_score": 8.6,
       "screenshot_score_notes": "A highly polished promotional composite shows two readable racing views, cars, track context, and race HUD, albeit surrounded by large tutorial branding.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "harbor-master",
@@ -80,11 +85,12 @@
       "source_url": "https://youtu.be/FOrxecuRTAk",
       "found_via": "X post from Vibe Game Lab linking the demo",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/06-harbor-master.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/06-harbor-master.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "The bright, clean promo composition clearly communicates yacht handling and a colorful harbor setting through two attractive gameplay views.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "dawnroll",
@@ -94,11 +100,12 @@
       "source_url": "https://x.com/Nickxyzn/status/2102543532309270803",
       "found_via": "X creator thread; also indexed on aicookd.com",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/07-dawnroll.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/07-dawnroll.jpg",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "The beetle, rolled sun, garden path, and soft lighting establish the game immediately, while the menu overlay and vignette slightly reduce clarity.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "spider-man-miles-morales",
@@ -108,11 +115,12 @@
       "source_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
       "found_via": "X post linking the playable Hugging Face Space",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/08-spiderman-miles.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/08-spiderman-miles.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "A striking purple city canyon frames the swinging character clearly, with excellent depth, color, and action-focused composition.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "inkwave",
@@ -122,11 +130,12 @@
       "source_url": null,
       "found_via": "X post linking the playable deploy",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/09-inkwave.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/09-inkwave.jpg",
       "screenshot_score": 4.8,
       "screenshot_score_notes": "The colorful turf-war interface is visible, but an OBS window dominates the frame and substantially obscures the underlying game.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "inkbound",
@@ -136,11 +145,12 @@
       "source_url": "https://agentgames.itch.io/inkbound",
       "found_via": "X post linking the itch.io browser game",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/10-inkbound.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/10-inkbound.jpg",
       "screenshot_score": 5.8,
       "screenshot_score_notes": "The minimalist title treatment is crisp and distinctive, but the still does not show the chase or any playable scene.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "low-tide",
@@ -150,11 +160,12 @@
       "source_url": null,
       "found_via": "X post linking the playable deploy",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/11-low-tide.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/11-low-tide.jpg",
       "screenshot_score": 8.2,
       "screenshot_score_notes": "The triptych gives a clear, painterly view of the tide, beach activity, and progression, though its tall collage format is less immediately focused.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "night-cruise",
@@ -164,11 +175,12 @@
       "source_url": "https://www.nightcruisegame.com/",
       "found_via": "X post from Night Cruise",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/12-night-cruise.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/12-night-cruise.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "The clean night road, centered car, bridge, and restrained typography create a strong cinematic composition that clearly sells the cruising premise.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "pressure-wash-panic",
@@ -178,11 +190,12 @@
       "source_url": null,
       "found_via": "aicookd.com catalog row and WebSearch confirmation",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/13-pressure-wash-panic.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/13-pressure-wash-panic.jpg",
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Bright cartoon rendering, expressive character art, readable grime and water effects, and a clear cleaning action make this exceptionally legible.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "kettu-vellam",
@@ -192,11 +205,12 @@
       "source_url": "https://x.com/jessinvibe/status/2103565292198838314",
       "found_via": "X post linking the game",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/14-kettu-vellam.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/14-kettu-vellam.jpg",
       "screenshot_score": 9.1,
       "screenshot_score_notes": "The dramatic sunset, reflections, palm-lined setting, crowd, and synchronized boats form an exceptionally polished and readable race tableau.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "silt-signal",
@@ -206,11 +220,12 @@
       "source_url": "https://x.com/aniketjart/status/2104373368883662850",
       "found_via": "X post by @aniketjart with playable Crayon deploy (hours-old update)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/15-silt-signal.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/15-silt-signal.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "tidal-orbit",
@@ -220,11 +235,12 @@
       "source_url": "https://x.com/usecrayon/status/2104372423940595830",
       "found_via": "X post from @usecrayon linking the playable update",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/16-tidal-orbit.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/16-tidal-orbit.jpg",
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Readable third-person bike-on-water-path still with golden rings, floating islands, moon, and soft sunset lighting; immediately communicates the drift/collect fantasy.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "house-of-drakan",
@@ -234,11 +250,12 @@
       "source_url": "https://x.com/GamefxAI/status/2104343214404858324",
       "found_via": "X post from @GamefxAI with live GameFX play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/17-house-of-drakan.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/17-house-of-drakan.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Epic golden-hour siege keyart with color-coded armies, castle, coastline, and a clear flying dragon focal point; exceptional scale and lighting polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "hanakawa",
@@ -248,11 +265,12 @@
       "source_url": "https://x.com/k2sbhai/status/2104361445152444615",
       "found_via": "X post highlighting Opus 5.5 water physics; also listed on MagicCreator/aicookd as Hanakawa",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/18-hanakawa.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/18-hanakawa.jpg",
       "screenshot_score": 7.5,
       "screenshot_score_notes": "Strong water reflections, boat wake, compass and speed HUD make the docking lesson clear, but browser chrome around the canvas reduces composition score.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "containment",
@@ -262,11 +280,12 @@
       "source_url": "https://x.com/JacobEisner4/status/2104348180473393318",
       "found_via": "X post by @JacobEisner4 with Replit web/VR play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/19-containment.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/19-containment.jpg",
       "screenshot_score": 8.3,
       "screenshot_score_notes": "Moody first-person control-room still with cracked containment glass, red chamber glow, and readable breach-procedure UI; atmosphere and premise are immediate.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "transformer",
@@ -276,11 +295,12 @@
       "source_url": "https://x.com/scottstts/status/2104207936155447618",
       "found_via": "X post by @scottstts with live play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/20-transformer.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/20-transformer.jpg",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Polished desert compound promo with three distinct transforming robots and metallic title treatment; sells the premise clearly though it is keyart rather than mid-fight HUD.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "spartan-unbound",
@@ -290,11 +310,12 @@
       "source_url": "https://x.com/lucaxyzz/status/2104198092845420553",
       "found_via": "X post by @lucaxyzz linking the Vantis Play demo",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/21-spartan-unbound.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/21-spartan-unbound.jpg",
       "screenshot_score": 7.8,
       "screenshot_score_notes": "Cinematic Spartan-in-Tartarus splash with sharp typography and strong mood, but it is a marketing screen rather than an in-combat gameplay still.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "ozomatli",
@@ -304,11 +325,12 @@
       "source_url": "https://x.com/GameFoundryNet/status/2104252846338408824",
       "found_via": "X post from @GameFoundryNet with Game Foundry play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/22-ozomatli.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/22-ozomatli.jpg",
       "screenshot_score": 8.0,
       "screenshot_score_notes": "Readable jungle clearing with character, ruins, glyph HUD, and a clear objective/tutorial box; lighting is strong though the avatar is a simple mannequin.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "godroll",
@@ -318,11 +340,12 @@
       "source_url": "https://x.com/EllaxinIvy/status/2104235308749627732",
       "found_via": "X post by @EllaxinIvy with browser play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/23-godroll.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/23-godroll.jpg",
       "screenshot_score": 7.8,
       "screenshot_score_notes": "Dramatic anime combat still with +11 Chomp feedback and ornate character art; heavy effects slightly obscure environment context.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "opus-55-nba-2k",
@@ -332,11 +355,12 @@
       "source_url": "https://genex.games/opus-2k",
       "found_via": "Live web search → Genex catalog page for Opus 5.5 NBA 2K by @Simeon M",
       "found_via_network": "web",
-      "screenshot_path": "screenshots/24-opus-nba-2k.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/24-opus-nba-2k.jpg",
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Cinematic behind-the-player arena still with reflective court wood, readable hoop/shot clock, and clear dribble pose that immediately sells the basketball sim.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "catwalk",
@@ -346,11 +370,12 @@
       "source_url": "https://magiccreator.ai/claude-opus-5-5-demos",
       "found_via": "MagicCreator Claude Opus 5.5 demos (Catwalk live itch link by @blitast_studio / BLITAST.STUDIO)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/25-catwalk.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/25-catwalk.jpg",
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Strong canal-side gameplay still: black cat mid-run under a volumetric streetlamp, water reflections, and glowing firefly orbs make the one-button night stroll obvious.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "double-feature",
@@ -360,11 +385,12 @@
       "source_url": "https://x.com/TaylorBereiter/status/2104045641706189192",
       "found_via": "aicookd latest creations → X post by @TaylorBereiter with public Claude artifact play URL",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/27-double-feature-og.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/27-double-feature-og.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Polished Cuphead-style palace title screen with Kernel on stage, PRESS ANY KEY, and dense art-deco detail; clearly presents the game though it is a title card not mid-level action.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "clunk",
@@ -374,11 +400,12 @@
       "source_url": "https://x.com/clunk_games/status/2104406342643634376",
       "found_via": "X post by @clunk_games (hours-old) with playable clunk.games link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/28-clunk.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/28-clunk.jpg",
       "screenshot_score": 8.6,
       "screenshot_score_notes": "Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "discodino-lost-worlds",
@@ -388,11 +415,12 @@
       "source_url": "https://x.com/goethecoin/status/2104376288127684938",
       "found_via": "X post by @goethecoin (hours-old) with Netlify play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/29-discodino.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/29-discodino.jpg",
       "screenshot_score": 4.2,
       "screenshot_score_notes": "Only the game’s circular crest icon could be captured; headless Chrome did not finish loading the large Godot wasm, so gameplay is not visible.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "nushi-fishing",
@@ -402,11 +430,12 @@
       "source_url": "https://x.com/takaakiftw/status/2104114871063425147",
       "found_via": "X post by @takaakiftw linking the Netlify playable",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/30-nushi-fishing.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/30-nushi-fishing.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Dual JPN/ENG title stills show the misty river, rod and bobber, surreal silhouettes, and polished TAP TO START UI with clear atmosphere.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "supa-smackdown",
@@ -416,11 +445,12 @@
       "source_url": "https://x.com/mbranni03/status/2104302073349046403",
       "found_via": "X post by @mbranni03 with GitHub Pages play URL; Opus 5.5 credited for trailer and Snoopy update",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/31-supa-smackdown.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/31-supa-smackdown.jpg",
       "screenshot_score": 7.9,
       "screenshot_score_notes": "Readable title roster with Snoopy and other icons on a clean cream menu; strong character lineup though it is a title screen not mid-fight.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "flip-clash",
@@ -430,11 +460,12 @@
       "source_url": "https://x.com/hii_studio_jp/status/2104324888748236995",
       "found_via": "X post by @hii_studio_jp + aicookd catalog; live Flip Clash play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/32-flip-clash.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/32-flip-clash.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Crisp isometric board over a glowing dusk city with readable units, selection rings, and T6 markers; excellent depth and polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "volleyrush",
@@ -444,11 +475,12 @@
       "source_url": "https://x.com/onlymertt/status/2104245434050855135",
       "found_via": "aicookd Opus 5.5 row + X play link from @onlymertt",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/33-volleyrush.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/33-volleyrush.jpg",
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Vibrant court huddle with chibi players, scoreboard, ability bars, and readable controls overlay; immediately sells the arcade volleyball fantasy.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "river-rush",
@@ -458,11 +490,12 @@
       "source_url": "https://x.com/BibleBuddiesCht/status/2104426781923237926",
       "found_via": "X post by @BibleBuddiesCht with aikids.guru play URL; credits Opus 5.5",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/34-river-rush.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/34-river-rush.jpg",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Clean track-select menu over a lush river backdrop with readable course cards, season/lap/rival controls, and strong 3D scenery.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "mini-mart-lab",
@@ -472,11 +505,12 @@
       "source_url": "https://x.com/EdMo98078602/status/2104428535620493402",
       "found_via": "X post by @EdMo98078602 linking Cloudflare Pages playable; credits Opus 5.5",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/34-mini-mart.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/34-mini-mart.jpg",
       "screenshot_score": 8.0,
       "screenshot_score_notes": "Clear isometric gameplay with tomato harvest cue, stall stock counters, hire upgrade tile, and readable Spanish HUD.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "pokemon-claude-red",
@@ -486,11 +520,12 @@
       "source_url": "https://github.com/levy-street/pokemon-claude-red",
       "found_via": "X roundup + creator GitHub README with claudered.dev play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/35-claudered.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/35-claudered.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Crisp GBA-style battle still with Charizard Flamethrower vs Venusaur, clear HP windows, and vibrant pixel environments.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "sakura-river-valley",
@@ -500,11 +535,12 @@
       "source_url": "https://magiccreator.ai/claude-opus-5-5-demos",
       "found_via": "MagicCreator Claude Opus 5.5 demos gallery (live link)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/36-sakura-river-valley.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/36-sakura-river-valley.jpg",
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Cinematic third-person boat view with sakura banks, misty water, pagoda, and soft golden-hour lighting that instantly sells the journey.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "goodgame",
@@ -514,11 +550,12 @@
       "source_url": "https://x.com/goodgamedotfun/status/2104421818815881534",
       "found_via": "X post by @goodgamedotfun announcing Opus 5.5 agent + playable hub",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/37-goodgame.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/37-goodgame.jpg",
       "screenshot_score": 7.2,
       "screenshot_score_notes": "Polished retro monitor title composition with strong brand typography, but the still is a landing/hub screen rather than active arcade gameplay.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "dukes-lawn",
@@ -528,11 +565,12 @@
       "source_url": "https://x.com/_MaxBlade/status/2102513817855094922",
       "found_via": "X post by @_MaxBlade; play link https://cnvs.dev/opusmo/ (desktop)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/38-dukes-lawn.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/38-dukes-lawn.jpg",
       "screenshot_score": 8.1,
       "screenshot_score_notes": "Clear first-person mower cockpit with beer/cigar gag, HUD progress, and crowded vintage tractors; streamer PiP slightly distracts.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "operation-sunset",
@@ -542,11 +580,12 @@
       "source_url": "https://x.com/danielsapps/status/2104339627394085184",
       "found_via": "X post by @danielsapps announcing Opus 5.5 rocket-launcher update + play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/39-operation-sunset.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/39-operation-sunset.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Strong golden-hour FPS still with clear weapon viewmodel, desert marketplace plaza, and polished lighting.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "towline",
@@ -556,11 +595,12 @@
       "source_url": "https://x.com/TusharXo/status/2104336588666982516",
       "found_via": "X post by @TusharXo on Crayon; mentions Astra and Opus 5.5",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/40-towline.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/40-towline.jpg",
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Vibrant chase composition clearly shows hoverboard towing, yellow truck, coins, and Mediterranean town polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "voxel-musou",
@@ -570,11 +610,12 @@
       "source_url": "https://bubucn.com/en/ai-model-evals/voxel-musou",
       "found_via": "Bubu Studio writeup + X @BubuStd; play URL voxel-musou.vercel.app / GitHub mike007jd/voxel-musou",
       "found_via_network": "web",
-      "screenshot_path": "screenshots/41-voxel-musou.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/41-voxel-musou.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Sunset fortress standoff clearly shows Zhao Yun, spear, massed voxel troops, boss nameplates, minimap, and HUD.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "fierro",
@@ -584,11 +625,12 @@
       "source_url": "https://x.com/hunchcapital/status/2104451132001276348",
       "found_via": "X post by @hunchcapital (RAF dogfight over London with Opus 5.5) linking fierro.ai",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/42-fierro.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/42-fierro.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Polished title panel over a readable low-poly London Thames scene with clear Take off CTA and control legend.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "sangoku-tojo",
@@ -598,11 +640,12 @@
       "source_url": "https://x.com/KanaWorks_AI/status/2102684116525437206",
       "found_via": "PTT Opus 5.5 roundup + creator play link sangoku.tokyoaivisuals.club",
       "found_via_network": "web",
-      "screenshot_path": "screenshots/43-sangoku.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/43-sangoku.jpg",
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Premium navy landing with ornate rabbit-general card art, vertical title typography, and clear battlefield CTA.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "zig-zag-dash",
@@ -612,11 +655,12 @@
       "source_url": "https://x.com/ishtianrev/status/2104034700771959210",
       "found_via": "X post by @ishtianrev with Opus 5.5 credit and GitHub Pages play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/44-zig-zag-dash.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/44-zig-zag-dash.jpg",
       "screenshot_score": 8.3,
       "screenshot_score_notes": "Sharp portrait menu with cohesive pixel UI, character carousel, and vivid PLAY button against a starfield.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "sukhna-lake",
@@ -626,11 +670,12 @@
       "source_url": "https://x.com/AsumaCodes/status/2104459374907584946",
       "found_via": "X reply by @AsumaCodes crediting Opus 5.5 with play/jog link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/45-sukhna-lake.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/45-sukhna-lake.jpg",
       "screenshot_score": 8.0,
       "screenshot_score_notes": "Clean multilingual start card over a soft dawn lake silhouette; clear controls and Start jogging CTA.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "arkenfall",
@@ -640,11 +685,12 @@
       "source_url": "https://x.com/LexnLin/status/2102834362530079093",
       "found_via": "X post by @LexnLin announcing Opus 5.5 open-world browser game + arkenfall.site",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/46-arkenfall.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/46-arkenfall.jpg",
       "screenshot_score": 9.2,
       "screenshot_score_notes": "Cinematic golden-hour third-person run toward a thatched village with mountains, tip text, and strong production polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "fang-the-fox",
@@ -654,11 +700,12 @@
       "source_url": "https://tinybitadventures.com/fang-the-fox-rebuilt-with-opus-5-5/",
       "found_via": "Creator site + Opus 5.5 rebuild devlog; X mention of game studio with Opus 5.5",
       "found_via_network": "web",
-      "screenshot_path": "screenshots/47-fang-the-fox.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/47-fang-the-fox.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Atmospheric rainy night title with glowing fox on a floating island, clear pixel typography, and strong mood lighting.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "koi-pond-garden",
@@ -668,11 +715,12 @@
       "source_url": "https://x.com/SouranyPhomhome/status/2104273690796179513",
       "found_via": "X creator post with live demo and YouTube tutorial; also echoed in follow-up roundups",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/48-koi-pond-garden.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/48-koi-pond-garden.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Crystal-clear top-down of the pond, koi, lily pads, maple and stone walkway shows the whole garden experience with strong production polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "jiggle-buddies",
@@ -682,11 +730,12 @@
       "source_url": "https://x.com/angie_carel/status/2103876982819954689",
       "found_via": "X creator post attributing the build to Opus 5.5 with a direct play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/49-jiggle-buddies.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/49-jiggle-buddies.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Bright, centered still of the two glossy buddies with trampoline, duck, and toys immediately communicates the playful physics sandbox.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "ashfall-perimeter",
@@ -696,11 +745,12 @@
       "source_url": "https://x.com/usecrayon/status/2103637663903625620",
       "found_via": "Official Crayon X post with Opus 5.5 attribution and play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/50-ashfall-perimeter.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/50-ashfall-perimeter.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "First-person rifle, alien threats, lunar base and planet backdrop read as a polished sci-fi shooter still, though HUD chrome is absent.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "crayon-motors",
@@ -710,11 +760,12 @@
       "source_url": "https://x.com/TusharXo/status/2103996624573968748",
       "found_via": "X creator thread (TusharXo) with Opus 5.5 / Crayon Pro attribution and play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/51-crayon-motors.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/51-crayon-motors.jpg",
       "screenshot_score": 8.2,
       "screenshot_score_notes": "Glossy garage hero with two numbered supercars is production-polished and on-brand, but it shows the menu/garage more than live racing.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "last-train-to-the-sea",
@@ -724,11 +775,12 @@
       "source_url": "https://x.com/aniketjart/status/2102546641253478674",
       "found_via": "X creator posts (aniketjart) with Opus 5.5 / Crayon attribution and play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/52-last-train-to-the-sea.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/52-last-train-to-the-sea.jpg",
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Lush Ghibli-style hero of the winged tram, root bridge, cliff station and islands sells the fantasy world with excellent clarity and polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "harbor-chef",
@@ -738,11 +790,12 @@
       "source_url": "https://x.com/roshanali12301/status/2104476894238556286",
       "found_via": "X post by @roshanali12301 announcing Opus 5.5 Harbor Chef with Playgama play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/53-harbor-chef.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/53-harbor-chef.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Polished promo still of the plate-stacking chef in a festive harbor market with clear logo and coin feedback; instantly sells the tycoon loop.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "emberwake",
@@ -752,11 +805,12 @@
       "source_url": "https://x.com/QianxWang/status/2104484460926472275",
       "found_via": "X reply by @QianxWang with dylanslife.com Emberwake play URL; credits Opus 5.5",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/54-emberwake.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/54-emberwake.jpg",
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Atmospheric forest title with campfire, glowing eyes, chapel, and readable difficulty UI that clearly communicates the survival premise.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "wildbrush",
@@ -766,11 +820,12 @@
       "source_url": "https://x.com/DannyLimanseta/status/2104215873120764032",
       "found_via": "X long-form post by @DannyLimanseta (quoted in MaxshotAI roundup) with wildbrush.vercel.app play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/55-wildbrush.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/55-wildbrush.jpg",
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Dynamic third-person flight over floating islands with paintbrush trail, hearts, compass, and color wheel — excellent readability and polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "robobeats-mooncake-chop",
@@ -780,11 +835,12 @@
       "source_url": "https://x.com/nullinbetween/status/2104504963833753777",
       "found_via": "X post from @nullinbetween (hourly scan); play URL on Netlify",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/56-robobeats-mooncake.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/56-robobeats-mooncake.jpg",
       "screenshot_score": 8.3,
       "screenshot_score_notes": "Polished Mid-Autumn title still clearly shows the robot, mooncakes, rabbit, and Hanfu character with strong color and composition; promo art rather than an in-game beat frame.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "most-annoying-game-ever",
@@ -794,11 +850,12 @@
       "source_url": "https://x.com/vdavi_d/status/2104506292601794764",
       "found_via": "X post from @vdavi_d (Opus 5.5 one-shot); also surfaced in hourly X search",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/57-most-annoying-game.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/57-most-annoying-game.jpg",
       "screenshot_score": 7.6,
       "screenshot_score_notes": "Bright, high-contrast title screen with clear branding and UI, but it shows no in-level gameplay beyond the menu.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "somethingbig-world",
@@ -808,11 +865,12 @@
       "source_url": "https://x.com/mattshumer_/status/2103667211395268863",
       "found_via": "X / AICrier / aicookd coverage of Matt Shumer's Opus 5.5 NYC world; play URL somethingbig.ai/world",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/58-somethingbig-world.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/58-somethingbig-world.jpg",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Clear third-person city view with HUD, mini-map (Amsterdam Ave / W 68th), NPCs with umbrellas, and traffic — reads as a real open-world still.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "rabble-rouser",
@@ -822,11 +880,12 @@
       "source_url": "https://x.com/JungleSilicon/status/2104477047267713099",
       "found_via": "aicookd freshest list + X play link from @JungleSilicon (Sep 28)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/59-rabble-rouser.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/59-rabble-rouser.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Polished cartoon promo of creatures fighting on a stump — title and action are immediately readable with strong composition.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "cozy-cove",
@@ -836,11 +895,12 @@
       "source_url": "https://x.com/Rubzem/status/2103983670034145726",
       "found_via": "aicookd top freshest (#1 Cozy fishing RPG) + creator X play URL",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/60-cozy-cove.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/60-cozy-cove.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Warm pixel-art village still with dialogue, HUD, and beach — composition clearly shows a playable cozy RPG scene.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "saigon-rush",
@@ -850,11 +910,12 @@
       "source_url": "https://x.com/trankhac_vy/status/2104530933345116651",
       "found_via": "X post by @trankhac_vy (Opus 5.5 leftover usage weekend build)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/61-saigon-rush.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/61-saigon-rush.jpg",
       "screenshot_score": 9,
       "screenshot_score_notes": "Polished 3D rooftop cast with neon title and Saigon skyline — clear, high-production promotional still of the playable characters.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "spawn-legends",
@@ -864,11 +925,12 @@
       "source_url": "https://x.com/chukinice/status/2104507174105809120",
       "found_via": "X post by @chukinice (card game in @spawn with Opus 5.5)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/62-spawn-legends.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/62-spawn-legends.jpg",
       "screenshot_score": 9,
       "screenshot_score_notes": "Sharp mid-match three-lane board with hand, energy, and location text — shows the card battler UI clearly.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "scallywag-isle",
@@ -878,11 +940,12 @@
       "source_url": "https://x.com/pipisonx/status/2104541322900123800",
       "found_via": "X post by @pipisonx (Part Three live; Opus 5.5 + Claude Code)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/63-scallywag-isle.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/63-scallywag-isle.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Atmospheric pixel title still with lighthouse, ghost ship, and moon reflection — theme and polish read immediately.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "puzzle-bracket",
@@ -892,11 +955,12 @@
       "source_url": "https://forwardfuture.com/opus-5-5-review",
       "found_via": "Forward Future Opus 5.5 field test + public Puzzle Bracket hub",
       "found_via_network": "web",
-      "screenshot_path": "screenshots/64-puzzle-bracket.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/64-puzzle-bracket.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clean magenta bracket layout crowns Tidekeeper with readable thumbs for all twelve playable puzzles.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "nand-16",
@@ -906,11 +970,12 @@
       "source_url": "https://x.com/mattshumer_/status/2104301990985498783",
       "found_via": "X / web coverage of somethingbig.ai/computer NAND-16 Opus 5.5 build",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/65-nand16.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/65-nand16.jpg",
       "screenshot_score": 8.6,
       "screenshot_score_notes": "Polished promo pairs glowing NAND schematics with a NANDTRIS CRT inset — technical and playable at a glance.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "work-tomorrow",
@@ -920,11 +985,12 @@
       "source_url": "https://x.com/lifemademe/status/2104552435976970391",
       "found_via": "X post by @lifemademe (Sandbox WTF jam, Opus 5.5)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/66-work-tomorrow.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/66-work-tomorrow.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Close-up 3D gag of a masked sleeper with a googly-eyed fly on her nose — clear, humorous still of the swat premise.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "hyperbrick",
@@ -934,11 +1000,12 @@
       "source_url": "https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/",
       "found_via": "MagicCreator / MiaAI Lab Claude Opus 5.5 100 HTML Files collection",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/67-hyperbrick.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/67-hyperbrick.jpg",
       "screenshot_score": 9.2,
       "screenshot_score_notes": "Full neon cabinet UI with pyramid bricks, sun grid, and power-up legend — extremely clear synthwave Breakout still.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "labyrinthos",
@@ -948,11 +1015,12 @@
       "source_url": "https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/",
       "found_via": "MiaAI Lab Claude Opus 5.5 100 HTML Files (playable maze)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/68-labyrinthos.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/68-labyrinthos.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Classical Greek tablet UI with lit maze, flame avatar, and golden spool — polished and immediately readable.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-28",
+      "made_with": "opus-5.5"
     },
     {
       "id": "long-wind",
@@ -962,11 +1030,12 @@
       "source_url": "https://github.com/jbang2004/long-wind",
       "found_via": "GitHub search + AgentsLoop seed; README: every line by Claude Opus 5.5",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/69-long-wind.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/69-long-wind.jpg",
       "screenshot_score": 9.2,
       "screenshot_score_notes": "Cinematic golden-hour steppe duel: dense grass, bloom lighting, clear silhouettes of swordsmen — highly composed in-game still with no HUD clutter.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "casa-de-gemas",
@@ -976,11 +1045,12 @@
       "source_url": "https://github.com/deepujain/casadegema",
       "found_via": "GitHub search + AgentsLoop seed; README Made with Claude Opus 5.5",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/70-casa-de-gemas.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/70-casa-de-gemas.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Cohesive watercolor Mediterranean house with gem HUD (0/8), interactive props, and pastel paper texture — clear cozy gameplay still.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "felt-world",
@@ -990,11 +1060,12 @@
       "source_url": "https://github.com/az9713/opus-5.5-open-world-game",
       "found_via": "GitHub search + AgentsLoop seed; README Opus 5.5 attribution",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/71-felt-world.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/71-felt-world.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Distinct needle-felt aesthetic with stitched UI, flying pink bird over meadows/road traffic, mini-map and speed HUD — polished cohesive still.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "ombres",
@@ -1004,11 +1075,12 @@
       "source_url": "https://github.com/briossant/ombres",
       "found_via": "GitHub search + AgentsLoop seed; README Opus 5.5 attribution",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/72-ombres.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/72-ombres.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Golden Hour round: watercolor desert, territory washes, long tower shadows, clear territory % HUD and player labels — distinctive Moebius look.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "emilius",
@@ -1018,11 +1090,12 @@
       "source_url": "https://github.com/dliedke/emilius_wingsuit",
       "found_via": "GitHub search (updated 2026-09-29); repo description credits Claude Opus 5.5",
       "found_via_network": "web",
-      "screenshot_path": "screenshots/74-emilius.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/74-emilius.jpg",
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Chase-cam wingsuit over turquoise lake and ridges with orange gate, full flight HUD (AGL, glide, proximity) — clear readable gameplay still.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "volley-rally",
@@ -1032,11 +1105,12 @@
       "source_url": "https://x.com/madbykai/status/2104721555641270436",
       "found_via": "X search 2026-09-28; creator post with play link",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/76-volley-rally.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/76-volley-rally.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "In-game 2v2 beach match with crowd, scoreboard HOME/AWAY, player names, and control legend — solid readable sports still from creator footage.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "wanju-bara",
@@ -1046,11 +1120,12 @@
       "source_url": "https://x.com/awais_builds/status/2104743474549694736",
       "found_via": "X post by @awais_builds (Sonnet 5.5 + Opus 5.5 Three.js village game)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/77-wanju-bara.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/77-wanju-bara.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Bright low-poly Punjabi village court with bunting, clear START/FINISH lanes, team colors, and a polished PLAY menu — shows the whole game at a glance.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "squall-riders",
@@ -1060,11 +1135,12 @@
       "source_url": "https://x.com/jani_penttinen/status/2104696554020114600",
       "found_via": "X post by @jani_penttinen (Bitmagic + Opus 5.5)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/78-squall-riders.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/78-squall-riders.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Dramatic sunset-storm promo of penguin, parrot, and croc jet-skiers racing past a lighthouse — vivid composition that sells the racing premise.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "rc30-dash",
@@ -1074,11 +1150,12 @@
       "source_url": "https://x.com/worldofray/status/2104711402867105935",
       "found_via": "X post by @worldofray (Honda RC30 Opus 5.5 artifact)",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/79-rc30-dash.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/79-rc30-dash.jpg",
       "screenshot_score": 9.0,
       "screenshot_score_notes": "Cinematic third-person dusk mountain road with the RC30 centered under god-rays and a clean RIDE menu — strong polish and clear racing identity.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "megaman-legends",
@@ -1088,11 +1165,12 @@
       "source_url": "https://megaman-legends.opus5-5.demos.sulat.com/",
       "found_via": "Sulat Opus 5.5 one-shot demos catalog (web discovery)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/80-megaman-legends.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/80-megaman-legends.jpg",
       "screenshot_score": 7.2,
       "screenshot_score_notes": "Clean title treatment over a simple sea-and-island backdrop; legible branding but little gameplay shown beyond PRESS ENTER.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "tanggulan",
@@ -1102,11 +1180,12 @@
       "source_url": "https://tower-defense.opus5-5.demos.sulat.com/",
       "found_via": "Sulat Opus 5.5 one-shot demos catalog (web discovery)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/81-tanggulan.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/81-tanggulan.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Elegant parchment-map menu with bilingual Philippine–American War framing and clear Campaign/Last Stand options — thematic and polished.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
     },
     {
       "id": "ciela-story",
@@ -1116,9 +1195,280 @@
       "source_url": "https://ciela-story.opus5-5.demos.sulat.com/",
       "found_via": "Sulat Opus 5.5 one-shot demos catalog (web discovery)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/82-ciela-story.jpg",
+      "screenshot_path": "/workspace/opus-games-fresh/82-ciela-story.jpg",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Colorful Toy Story–style title over a soft bedroom backdrop with clear Play/How to Play buttons — cheerful and readable.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5"
+    },
+    {
+      "id": "void-explorer",
+      "title": "Void Explorer",
+      "description": "Procedural space exploration with 2,048 star systems and landable planets — fly from deep space through atmosphere to walk on the surface. Official OpenAI Astra showcase by Thomas Ricouard.",
+      "play_url": "https://void-explorer.openai.chatgpt.site/",
+      "source_url": "https://developers.openai.com/showcase/void-explorer",
+      "found_via": "OpenAI Developers showcase / Building games with Astra blog",
+      "found_via_network": "openai",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/83-void-explorer.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Cinematic menu still: ship, planet, neon phosphor UI and expedition HUD are immediately readable with strong composition.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "sunwake",
+      "title": "Sunwake",
+      "description": "Sail a small motorboat across a faceted procedural ocean toward lighthouses — buoyancy, wakes, weather and chart navigation. Official OpenAI Astra showcase by Thomas Ricouard.",
+      "play_url": "https://sunwake-the-last-light.openai.chatgpt.site/",
+      "source_url": "https://developers.openai.com/showcase/sunwake",
+      "found_via": "OpenAI Developers showcase / Building games with Astra blog",
+      "found_via_network": "openai",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/84-sunwake.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Atmospheric golden-hour boat on stylized water with clean title typography and readable control legend.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "hollowflux",
+      "title": "Hollowflux",
+      "description": "Top-down procedural dungeon crawler where combat and movement disturb reactive underground water and electricity. Official OpenAI Astra showcase by Thomas Ricouard.",
+      "play_url": "https://tideglass-drowned-vein.openai.chatgpt.site/",
+      "source_url": "https://developers.openai.com/showcase/hollowflux",
+      "found_via": "OpenAI Developers showcase / Building games with Astra blog",
+      "found_via_network": "openai",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/85-hollowflux.jpg",
+      "screenshot_score": 8.1,
+      "screenshot_score_notes": "Moody pixel title screen clearly brands the game; cavern silhouette and control hints are legible but sparse on active combat.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "velocity-loop",
+      "title": "Velocity Loop",
+      "description": "3D toy-car time trials through miniature workshop tracks — pick a car and course then race. Official OpenAI Astra showcase.",
+      "play_url": "https://velocity-loop.openai.chatgpt.site/",
+      "source_url": "https://developers.openai.com/showcase/velocity-loop",
+      "found_via": "OpenAI Developers games showcase",
+      "found_via_network": "openai",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/86-velocity-loop.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Split UI with photoreal miniature car on a wooden track reads as highly polished; car/track selection is crystal clear.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "little-ritual",
+      "title": "Little Ritual",
+      "description": "Cozy 3D coffee-delivery game on a small spherical world — open the cafe terminal and send Codex for a coffee. Official OpenAI Astra showcase.",
+      "play_url": "https://little-ritual.openai.chatgpt.site/",
+      "source_url": "https://developers.openai.com/showcase/little-ritual",
+      "found_via": "OpenAI Developers games showcase",
+      "found_via_network": "openai",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/87-little-ritual.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Warm illustrated title with terminal, robot barista and latte art; charming and clear though light on in-world action.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "mosswing",
+      "title": "Mosswing",
+      "description": "One-tap 3D flap flyer: guide a leafy winged creature through stone gaps and chase a high score. GPT-6 Astra one-shot by Ayi1337.",
+      "play_url": "https://mosswing-quiet-flight.jack-514.chatgpt.site/",
+      "source_url": "https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "found_via": "MartinDelophy awesome-gpt-6-astra catalog",
+      "found_via_network": "catalog",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/88-mosswing.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Soft low-poly title still clearly shows the flyer, pillar gaps, and one-tap call to action.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "thunderfall",
+      "title": "THUNDERFALL / 雷霆战机 · 天穹远征",
+      "description": "Vertical bullet-hell campaign: three fighters, five sectors, multi-phase bosses, four weapon colors, bilingual EN/CN UI. Creator credits GPT-6 Astra ultra.",
+      "play_url": "https://thunderfall.vercel.app/",
+      "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "found_via": "MartinDelophy awesome-gpt-6-astra; astragames.aigccreative.com",
+      "found_via_network": "catalog",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/89-thunderfall.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Extremely polished hangar UI with fighter preview, sector list, loadout and bilingual chrome — instantly readable.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "magic-carpet-wizard",
+      "title": "Magic Carpet Wizard — A Thousand Skies",
+      "description": "Fly a carpet through a spherical Amber City: thread rings, cast spells, fight bosses; WebGL 2 desktop. Creator credits GPT-6 Astra in the repo About.",
+      "play_url": "https://threapchills.github.io/MagicCarpetWizard/",
+      "source_url": "https://github.com/threapchills/MagicCarpetWizard",
+      "found_via": "MartinDelophy awesome-gpt-6-astra; Ottermind",
+      "found_via_network": "catalog",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/90-magic-carpet.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Cel-shaded desert city, glowing ring objective and clear Take flight CTA compose a strong title still.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "last-beacon",
+      "title": "Last Beacon / 最后的灯塔",
+      "description": "Island power-grid tower defense: connect relays, place Sentinel/Mortar/Frost/Arc towers, survive ten waves and a boss. GPT-6 Astra by stackloomdev.",
+      "play_url": "https://last-beacon.loupengju.cc",
+      "source_url": "https://github.com/stackloomdev/last-beacon",
+      "found_via": "MartinDelophy awesome-gpt-6-astra; Ottermind",
+      "found_via_network": "catalog",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/91-last-beacon.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Isometric island, lighthouse, build bar and Keeper's Log HUD make the TD loop obvious in one frame.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "hot-wheeler",
+      "title": "Hot Wheeler",
+      "description": "Toy-car stunt worlds — Pocket Stunt Park, Bedroom Megamix, Kraken Coast and more — built with GPT-6 Astra over a weekend (Varun Arora).",
+      "play_url": "https://hot-wheeler.vercel.app/",
+      "source_url": "https://x.com/varavibes/status/2099269587401580886",
+      "found_via": "X creator post; MartinDelophy awesome-gpt-6-astra",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/92-hot-wheeler.jpg",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "Clean world-select UI with car picker; polished but menu-first rather than in-track action.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "golden-hour-gp",
+      "title": "Golden Hour GP",
+      "description": "Three.js real-time race scene with day-clock lighting, cars on track and race HUD. Creator Mindblown credits GPT-6 Astra + WebGL2.",
+      "play_url": "https://golden-hour-gp.mindblown.ai",
+      "source_url": "https://x.com/mindblown_ai/status/2097060846912565382",
+      "found_via": "X post from @mindblown_ai",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/93-golden-hour-gp.jpg",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Sunny track with cars and HUD are clear; cookie banner and platform chrome slightly clutter the still.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "lumina-cosmic-garden",
+      "title": "LUMINA — Bloom of the Cosmos",
+      "description": "Cosmic match-3 with cascades, supernova meter, levels and polished audio loop. Creator says GPT-6 Astra built the entire game.",
+      "play_url": "https://lumina-cosmic-garden.vercel.app/",
+      "source_url": "https://x.com/ToolBraidComp/status/2096348348773028115",
+      "found_via": "X post crediting GPT-6 Astra",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/94-lumina.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Gorgeous board, journey panel and cosmic backdrop — production-polish match-3 still scores near the top.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "chill-race",
+      "title": "Chill Race",
+      "description": "Hand-tracking (or keyboard) coastal sunset racer — two worlds, four rivals, two laps. Creator states NOT Opus 5.5; built with GPT-6 Astra + Tripo 3D.",
+      "play_url": "https://sunset-circuit-blush.vercel.app/?v=81",
+      "source_url": "https://x.com/yibaili530/status/2103944398182768983",
+      "found_via": "X post from @yibaili530 explicitly crediting Astra over Opus",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/95-chill-race.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Cockpit POV over a tropical sunset coast with coins/boxes and clear Start Race CTA — very strong vibe still.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "paperroute",
+      "title": "PaperRoute",
+      "description": "Suburban paperboy remake: deliver both sides of the street, dodge cars and kids. BuiltBySketch credits GPT-6 Astra (+ Blender world work).",
+      "play_url": "https://www.paperroute.lol/play/",
+      "source_url": "https://x.com/builtbysketch/status/2098777028078211283",
+      "found_via": "X / MagicCreator Astra demos; MartinDelophy catalog",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/96-paperroute.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Bright stylized neighborhood title card with bold PAPER ROUTE type — clear theme, light on active delivery gameplay.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "gogh-strike",
+      "title": "Gogh Strike · Paint Clash",
+      "description": "Van Gogh–town FPS paint fight: six artists, signature weapons, first-to-20. Creator Peter Gostev reports Astra development; also on SoonLab.",
+      "play_url": "https://gogh-strike.surge.sh/",
+      "source_url": "https://x.com/petergostev/status/2096015315209449578",
+      "found_via": "X; MartinDelophy awesome-gpt-6-astra; SoonLab also hosts a build",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/97-gogh-strike.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Painterly lobby with artist roster and Provençal rifle preview sells the concept immediately.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "orbital-garden",
+      "title": "ORBITAL GARDEN · 轨道花园",
+      "description": "Interactive particle-art sandbox: morph 48,000 points between flower, gravity ring and galaxy; export a poster still. GPT-6 Astra ultra by jackroc.",
+      "play_url": "https://orbital-garden-one.vercel.app",
+      "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "found_via": "MartinDelophy awesome-gpt-6-astra; astragames.aigccreative.com",
+      "found_via_network": "catalog",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/98-orbital-garden.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Luminous particle flower with bilingual lab UI and form picker — elegant interactive-art still.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "racido",
+      "title": "Racido",
+      "description": "Miniature scenic driving world — free run or daily challenge with vehicle/weapon loadout. Creator's first GPT-6 Astra + Three.js build.",
+      "play_url": "https://racido-v1.vercel.app/",
+      "source_url": "https://x.com/letshahid/status/2100980253221134759",
+      "found_via": "X post from @letshahid",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/99-racido.jpg",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Polished pre-drive modal over blurred isometric town; UI clarity high, gameplay scenery soft-focused.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
+    {
+      "id": "arcane-orb-reforged",
+      "title": "Arcane Orb REFORGED",
+      "description": "Idle/upgrade orb loop rebuilt as a walkable 3D tower with spells, target practice and synthesized audio — Astra 6 via Hermes Agent (Spazztik).",
+      "play_url": "https://arcane-orb-workshop.pages.dev/reforged/",
+      "source_url": "https://arcane-orb-workshop.pages.dev/",
+      "found_via": "Spazztik write-up: Rebuilding an AI-made browser game with Astra 6",
+      "found_via_network": "web",
+      "made_with": "astra",
+      "screenshot_path": "/workspace/opus-games-fresh/100-arcane-orb-reforged.jpg",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Dark fantasy title modal with clear Enter the sanctum CTA; atmospheric but light on tower gameplay.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29"
     }
