@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:55:00+07:00",
+  "updated_at": "2026-09-29T05:54:40Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -210,7 +210,9 @@
       "screenshot_score_notes": "The dramatic sunset, reflections, palm-lined setting, crowd, and synchronized boats form an exceptionally polished and readable race tableau.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/kettu-vellam.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "silt-signal",
@@ -225,7 +227,9 @@
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/silt-signal.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "tidal-orbit",
@@ -240,7 +244,9 @@
       "screenshot_score_notes": "Readable third-person bike-on-water-path still with golden rings, floating islands, moon, and soft sunset lighting; immediately communicates the drift/collect fantasy.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/tidal-orbit.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "house-of-drakan",
@@ -255,7 +261,9 @@
       "screenshot_score_notes": "Epic golden-hour siege keyart with color-coded armies, castle, coastline, and a clear flying dragon focal point; exceptional scale and lighting polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/house-of-drakan.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "hanakawa",
@@ -270,7 +278,9 @@
       "screenshot_score_notes": "Strong water reflections, boat wake, compass and speed HUD make the docking lesson clear, but browser chrome around the canvas reduces composition score.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/hanakawa.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "containment",
@@ -285,7 +295,9 @@
       "screenshot_score_notes": "Moody first-person control-room still with cracked containment glass, red chamber glow, and readable breach-procedure UI; atmosphere and premise are immediate.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/containment.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "transformer",
@@ -300,7 +312,9 @@
       "screenshot_score_notes": "Polished desert compound promo with three distinct transforming robots and metallic title treatment; sells the premise clearly though it is keyart rather than mid-fight HUD.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/transformer.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "spartan-unbound",
@@ -315,7 +329,9 @@
       "screenshot_score_notes": "Cinematic Spartan-in-Tartarus splash with sharp typography and strong mood, but it is a marketing screen rather than an in-combat gameplay still.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/spartan-unbound.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "ozomatli",
@@ -330,7 +346,9 @@
       "screenshot_score_notes": "Readable jungle clearing with character, ruins, glyph HUD, and a clear objective/tutorial box; lighting is strong though the avatar is a simple mannequin.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/ozomatli.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "godroll",
@@ -345,7 +363,9 @@
       "screenshot_score_notes": "Dramatic anime combat still with +11 Chomp feedback and ornate character art; heavy effects slightly obscure environment context.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/godroll.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "opus-55-nba-2k",
@@ -390,7 +410,9 @@
       "screenshot_score_notes": "Polished Cuphead-style palace title screen with Kernel on stage, PRESS ANY KEY, and dense art-deco detail; clearly presents the game though it is a title card not mid-level action.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/double-feature.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "clunk",
@@ -405,7 +427,9 @@
       "screenshot_score_notes": "Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/clunk.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "discodino-lost-worlds",
@@ -435,7 +459,9 @@
       "screenshot_score_notes": "Dual JPN/ENG title stills show the misty river, rod and bobber, surreal silhouettes, and polished TAP TO START UI with clear atmosphere.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/nushi-fishing.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "supa-smackdown",
@@ -450,7 +476,9 @@
       "screenshot_score_notes": "Readable title roster with Snoopy and other icons on a clean cream menu; strong character lineup though it is a title screen not mid-fight.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/supa-smackdown.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "flip-clash",
@@ -465,7 +493,9 @@
       "screenshot_score_notes": "Crisp isometric board over a glowing dusk city with readable units, selection rings, and T6 markers; excellent depth and polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/flip-clash.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "volleyrush",
@@ -480,7 +510,9 @@
       "screenshot_score_notes": "Vibrant court huddle with chibi players, scoreboard, ability bars, and readable controls overlay; immediately sells the arcade volleyball fantasy.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/volleyrush.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "river-rush",
@@ -495,7 +527,9 @@
       "screenshot_score_notes": "Clean track-select menu over a lush river backdrop with readable course cards, season/lap/rival controls, and strong 3D scenery.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/river-rush.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "mini-mart-lab",
@@ -510,7 +544,9 @@
       "screenshot_score_notes": "Clear isometric gameplay with tomato harvest cue, stall stock counters, hire upgrade tile, and readable Spanish HUD.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/mini-mart-lab.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "pokemon-claude-red",
@@ -555,7 +591,9 @@
       "screenshot_score_notes": "Polished retro monitor title composition with strong brand typography, but the still is a landing/hub screen rather than active arcade gameplay.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/goodgame.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "dukes-lawn",
@@ -570,7 +608,9 @@
       "screenshot_score_notes": "Clear first-person mower cockpit with beer/cigar gag, HUD progress, and crowded vintage tractors; streamer PiP slightly distracts.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/dukes-lawn.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "operation-sunset",
@@ -585,7 +625,9 @@
       "screenshot_score_notes": "Strong golden-hour FPS still with clear weapon viewmodel, desert marketplace plaza, and polished lighting.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/operation-sunset.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "towline",
@@ -600,7 +642,9 @@
       "screenshot_score_notes": "Vibrant chase composition clearly shows hoverboard towing, yellow truck, coins, and Mediterranean town polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/towline.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "voxel-musou",
@@ -645,7 +689,9 @@
       "screenshot_score_notes": "Premium navy landing with ornate rabbit-general card art, vertical title typography, and clear battlefield CTA.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/sangoku-tojo.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "zig-zag-dash",
@@ -660,7 +706,9 @@
       "screenshot_score_notes": "Sharp portrait menu with cohesive pixel UI, character carousel, and vivid PLAY button against a starfield.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/zig-zag-dash.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "sukhna-lake",
@@ -690,7 +738,9 @@
       "screenshot_score_notes": "Cinematic golden-hour third-person run toward a thatched village with mountains, tip text, and strong production polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/arkenfall.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "fang-the-fox",
@@ -720,7 +770,9 @@
       "screenshot_score_notes": "Crystal-clear top-down of the pond, koi, lily pads, maple and stone walkway shows the whole garden experience with strong production polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/koi-pond-garden.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "jiggle-buddies",
@@ -735,7 +787,9 @@
       "screenshot_score_notes": "Bright, centered still of the two glossy buddies with trampoline, duck, and toys immediately communicates the playful physics sandbox.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/jiggle-buddies.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "ashfall-perimeter",
@@ -750,7 +804,9 @@
       "screenshot_score_notes": "First-person rifle, alien threats, lunar base and planet backdrop read as a polished sci-fi shooter still, though HUD chrome is absent.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/ashfall-perimeter.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "crayon-motors",
@@ -765,7 +821,9 @@
       "screenshot_score_notes": "Glossy garage hero with two numbered supercars is production-polished and on-brand, but it shows the menu/garage more than live racing.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/crayon-motors.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "last-train-to-the-sea",
@@ -780,7 +838,9 @@
       "screenshot_score_notes": "Lush Ghibli-style hero of the winged tram, root bridge, cliff station and islands sells the fantasy world with excellent clarity and polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/last-train-to-the-sea.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "harbor-chef",
@@ -795,7 +855,9 @@
       "screenshot_score_notes": "Polished promo still of the plate-stacking chef in a festive harbor market with clear logo and coin feedback; instantly sells the tycoon loop.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/harbor-chef.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "emberwake",
@@ -825,7 +887,9 @@
       "screenshot_score_notes": "Dynamic third-person flight over floating islands with paintbrush trail, hearts, compass, and color wheel — excellent readability and polish.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/wildbrush.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "robobeats-mooncake-chop",
@@ -900,7 +964,9 @@
       "screenshot_score_notes": "Warm pixel-art village still with dialogue, HUD, and beach — composition clearly shows a playable cozy RPG scene.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/cozy-cove.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "saigon-rush",
@@ -930,7 +996,9 @@
       "screenshot_score_notes": "Sharp mid-match three-lane board with hand, energy, and location text — shows the card battler UI clearly.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/spawn-legends.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "scallywag-isle",
@@ -975,7 +1043,9 @@
       "screenshot_score_notes": "Polished promo pairs glowing NAND schematics with a NANDTRIS CRT inset — technical and playable at a glance.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/nand-16.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "work-tomorrow",
@@ -990,7 +1060,9 @@
       "screenshot_score_notes": "Close-up 3D gag of a masked sleeper with a googly-eyed fly on her nose — clear, humorous still of the swat premise.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/work-tomorrow.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "hyperbrick",
@@ -1110,7 +1182,9 @@
       "screenshot_score_notes": "In-game 2v2 beach match with crowd, scoreboard HOME/AWAY, player names, and control legend — solid readable sports still from creator footage.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/volley-rally.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "wanju-bara",
@@ -1125,7 +1199,9 @@
       "screenshot_score_notes": "Bright low-poly Punjabi village court with bunting, clear START/FINISH lanes, team colors, and a polished PLAY menu — shows the whole game at a glance.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/wanju-bara.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "squall-riders",
@@ -1140,7 +1216,9 @@
       "screenshot_score_notes": "Dramatic sunset-storm promo of penguin, parrot, and croc jet-skiers racing past a lighthouse — vivid composition that sells the racing premise.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/squall-riders.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "rc30-dash",
@@ -1155,7 +1233,9 @@
       "screenshot_score_notes": "Cinematic third-person dusk mountain road with the RC30 centered under god-rays and a clean RIDE menu — strong polish and clear racing identity.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/rc30-dash.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "megaman-legends",
@@ -1350,7 +1430,9 @@
       "screenshot_score": 8.3,
       "screenshot_score_notes": "Clean world-select UI with car picker; polished but menu-first rather than in-track action.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/hot-wheeler.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "golden-hour-gp",
@@ -1365,7 +1447,9 @@
       "screenshot_score": 8.0,
       "screenshot_score_notes": "Sunny track with cars and HUD are clear; cookie banner and platform chrome slightly clutter the still.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/golden-hour-gp.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "lumina-cosmic-garden",
@@ -1395,7 +1479,9 @@
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Cockpit POV over a tropical sunset coast with coins/boxes and clear Start Race CTA — very strong vibe still.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/chill-race.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "paperroute",
@@ -1410,7 +1496,9 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Bright stylized neighborhood title card with bold PAPER ROUTE type — clear theme, light on active delivery gameplay.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/paperroute.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "gogh-strike",
@@ -1425,7 +1513,9 @@
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Painterly lobby with artist roster and Provençal rifle preview sells the concept immediately.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/gogh-strike.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "orbital-garden",
@@ -1455,7 +1545,9 @@
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Polished pre-drive modal over blurred isometric town; UI clarity high, gameplay scenery soft-focused.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/racido.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "arcane-orb-reforged",
@@ -1485,7 +1577,9 @@
       "screenshot_score_notes": "Cinematic hero silhouettes behind a clean bilingual language picker; polished UI but little actual RTS gameplay in frame.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/convergence-rts.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "noclipped",
@@ -1500,7 +1594,9 @@
       "screenshot_score_notes": "Readable Level-0 yellow hallway with hand/tool and start UI; meme portraits dominate the bottom of the still.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/noclipped.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "last-firewall",
@@ -1905,7 +2001,9 @@
       "screenshot_score_notes": "Tron-grid login with dual terminal windows; cohesive hacker aesthetic though still on profile gate.",
       "made_with": "opus-5.5",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/devin-vs-backlog.mp4",
+      "video_source": "feed-local"
     },
     {
       "id": "landslide-escape",
@@ -1935,7 +2033,9 @@
       "screenshot_score_notes": "Bright pastel ocean + orange slide with crisp swimmer picker and Let's-slide CTA; exceptional polish.",
       "made_with": "astra",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "video_path": "videos/splashline.mp4",
+      "video_source": "awesome-local"
     },
     {
       "id": "tracer-chronal-run",
@@ -2176,6 +2276,88 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra"
+    },
+    {
+      "id": "odyssey-museum",
+      "title": "The Museum of the Odyssey",
+      "description": "Walk a night museum of marble and sea-light through sixteen halls spanning Homer's Odyssey (Books 1–24). Examine exhibits; live-synthesized wind, siren and surf.",
+      "play_url": "https://odyssey.opus5-5.demos.sulat.com/",
+      "source_url": "https://opus5-5.demos.sulat.com/",
+      "found_via": "Sulat Claude Opus 5.5 one-shot demos catalog",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/148-odyssey-museum.jpg",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Polished gold-on-dark title screen with Greek key border and clear control legend; elegant but still an intro overlay rather than a gameplay still.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "lantern-spaceship",
+      "title": "LANTERN (Spaceship Interior)",
+      "description": "First-person off-shift walk through a humming crew berth in orbit over Thalassa IV — bunks, portholes, coffee ration, and a ringed giant outside the glass.",
+      "play_url": "https://spaceship-interior.opus5-5.demos.sulat.com/",
+      "source_url": "https://opus5-5.demos.sulat.com/",
+      "found_via": "Sulat Claude Opus 5.5 one-shot demos catalog",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/149-lantern-spaceship.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Moody cinematic bunk-room with warm bunk glow, lens flare, and clear WASD/mouse control card — the 3D space sells the game immediately.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "soccar",
+      "title": "Soccar",
+      "description": "Unofficial Rocket League-style car soccer in the browser: exhibition 2v2 with bots, stadium scoreboards, and controller/keyboard support.",
+      "play_url": "https://soccar-one.vercel.app/",
+      "source_url": "https://x.com/BlendiByl/status/2104800823620632641",
+      "found_via": "X post by @BlendiByl — Opus 5.5 Rocket League clone",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/150-soccar.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Packed stadium, dual scoreboards, pitch branding and exhibition settings panel are instantly legible; very polished for a browser remake.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/soccar.mp4",
+      "video_source": "https://x.com/BlendiByl/status/2104800823620632641"
+    },
+    {
+      "id": "the-kite",
+      "title": "The Kite",
+      "description": "Late-afternoon rooftop chase: play as a kid chasing a lost kite across a sunlit city. Claude artifact built with Opus 5.5 from a single prompt.",
+      "play_url": "https://claude.ai/public/artifacts/8Q3pvhD7dFxYG7DdmzmdEP",
+      "source_url": "https://x.com/madebyayush/status/2104809870109311056",
+      "found_via": "X post by @madebyayush — Opus 5.5 single-prompt game",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/151-the-kite.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Golden-hour rooftop with kite on a glowing string, city haze and clean Begin CTA; strong mood though UI chrome from the artifact host is visible.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/the-kite.mp4",
+      "video_source": "https://x.com/madebyayush/status/2104809870109311056"
     }
   ]
 }
