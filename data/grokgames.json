@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:44:59Z",
+  "updated_at": "2026-09-29T10:45:51Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -606,7 +606,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Crisp GBA-style battle still with Charizard Flamethrower vs Venusaur, clear HP windows, and vibrant pixel environments.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 41,
       "likes_source": "github"
@@ -949,7 +949,7 @@
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Atmospheric forest title with campfire, glowing eyes, chapel, and readable difficulty UI that clearly communicates the survival premise.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 0,
       "likes_source": "x"
@@ -3318,11 +3318,289 @@
       "likes_source": "x",
       "x_handle": "Marcus_Rummler",
       "avatar_url": "/avatars/Marcus_Rummler.jpg"
+    },
+    {
+      "id": "way-of-the-samurai",
+      "title": "The Way of the Samurai",
+      "description": "Rain-soaked 3D samurai action: strike, parry, roll and finish foes across Eastern Army battles. Built from an AI video reference with Claude Opus 5.5, then iterated with GPT-6 Astra / Codex + three.js and Blender.",
+      "play_url": "https://the-way-of-the-samurai-bay.vercel.app/",
+      "source_url": "https://x.com/knightama/status/2104880496253817021",
+      "found_via": "X @knightama Opus 5.5 + Astra samurai game",
+      "found_via_network": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/184-way-of-the-samurai.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Cinematic night rain courtyard: ronin in red, wet stone reflections, lantern glow, bilingual title menu.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "x_handle": "knightama",
+      "avatar_url": "/avatars/knightama.jpg",
+      "video_source": "https://x.com/knightama/status/2104880496253817021",
+      "video_path": "/workspace/awesome-opus-5.5-games/videos/way-of-the-samurai.mp4"
+    },
+    {
+      "id": "wreckline",
+      "title": "폭쇄특급 WRECKLINE",
+      "description": "Korean pixel-art destruction-train incremental: pick a track height, pull the lever, watch cascading collapses, then rebuild the train with loot. All sprites/SFX generated in code; Claude Opus 5.5 one-shot.",
+      "play_url": "https://legerdo.github.io/WRECKLINE/",
+      "source_url": "https://github.com/Legerdo/WRECKLINE",
+      "found_via": "GitHub Legerdo/WRECKLINE Opus 5.5",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/185-wreckline.jpg",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "Clear Zone 1 setup: red loco on dual tracks, brick/glass tower, Korean HUD and big START lever.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "incremental",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "touch"
+      ],
+      "github_user": "Legerdo",
+      "github_url": "https://github.com/Legerdo/WRECKLINE",
+      "avatar_url": "https://github.com/Legerdo.png"
+    },
+    {
+      "id": "bee-garden",
+      "title": "Bee Garden",
+      "description": "First-person watercolor meadow as a honeybee: sip nectar, carry pollen, shelter from weather, and shape next summer's blooms. GPT Astra Extra High as developer; Claude Opus 5.5 on UX.",
+      "play_url": "https://arnicas.github.io/bee-garden-game/",
+      "source_url": "https://github.com/arnicas/bee-garden-game",
+      "found_via": "GitHub arnicas/bee-garden-game Astra",
+      "found_via_network": "github",
+      "screenshot_path": "/workspace/opus-games-fresh/186-bee-garden.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Soft meadow intro overlay on white petals and blurred poppies; clean controls card and Explore button.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "arnicas",
+      "github_url": "https://github.com/arnicas/bee-garden-game",
+      "avatar_url": "https://github.com/arnicas.png"
+    },
+    {
+      "id": "call-of-naija",
+      "title": "Call of Naija",
+      "description": "Lagos battlefield FPS: campaign, multiplayer modes, Lagos Siege co-op and extraction. Lo-fi night cityscape with Naira loadouts; Claude Opus 5.5.",
+      "play_url": "https://callofnaija.vercel.app/",
+      "source_url": "https://github.com/bigbadbillion/game",
+      "found_via": "AgentsLoop / GitHub Call of Naija Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/187-call-of-naija.jpg",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Night lo-fi Lagos skyline with lit windows, green CALL OF NAIJA wordmark and full mode list.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "bigbadbillion",
+      "github_url": "https://github.com/bigbadbillion/game",
+      "avatar_url": "https://github.com/bigbadbillion.png"
+    },
+    {
+      "id": "hop-bot",
+      "title": "Hop Bot",
+      "description": "Cute vertical cloud-hopper: pick a robot, race Byte the AI, stomp bugs, and chase Star Boosts. Built overnight by Claude Opus 5.5 for the AI Builders Club.",
+      "play_url": "https://abc-wvc.github.io/hop-bot/",
+      "source_url": "https://github.com/abc-wvc/hop-bot",
+      "found_via": "AgentsLoop Hop Bot Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/188-hop-bot.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Kawaii character-select: orange Pip robot, smiling clouds, How to play + Top hoppers side panels.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "touch"
+      ],
+      "github_user": "abc-wvc",
+      "github_url": "https://github.com/abc-wvc/hop-bot",
+      "avatar_url": "https://github.com/abc-wvc.png"
+    },
+    {
+      "id": "pro-skater-warehouse",
+      "title": "Pro Skater: The Warehouse",
+      "description": "1990s THPS-style two-minute warehouse run: high score, S-K-A-T-E letters, secret tape, grind rafters, break windows. Godot 4 browser build credited to Claude Opus 5.5.",
+      "play_url": "https://skate-game-opus-5-5-blush.vercel.app/",
+      "source_url": "https://github.com/3D-Stories/skate-game-opus-5-5",
+      "found_via": "AgentsLoop Pro Skater Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/189-pro-skater-warehouse.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Moody warehouse skatepark menu: red-hoodie skater on ramp, yellow PRO SKATER title, goal checklist.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "3D-Stories",
+      "github_url": "https://github.com/3D-Stories/skate-game-opus-5-5",
+      "avatar_url": "https://github.com/3D-Stories.png"
+    },
+    {
+      "id": "deep-dive",
+      "title": "Deep Dive",
+      "description": "Educational underwater-lab adventure teaching how chatbots work — eight stations, 3D or map mode, no accounts or live AI. Ages ~10–14; Claude Opus 5.5.",
+      "play_url": "https://deep-dive-rosy.vercel.app/",
+      "source_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "found_via": "AgentsLoop Deep Dive Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/190-deep-dive.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Polished submarine porthole landing: Pip mascot, glowing lab windows, coral Dive in CTA.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "educational",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "touch"
+      ],
+      "github_user": "chichiroxursox-droid",
+      "github_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "avatar_url": "https://github.com/chichiroxursox-droid.png"
+    },
+    {
+      "id": "tempora",
+      "title": "Tempora",
+      "description": "Life simulator across twelve thousand years: be born anywhere from 10,000 BC to the far future and live year by year through dynasties, wars and migrations. Single HTML file; Claude Opus 5.5.",
+      "play_url": "https://mofferato.github.io/tempora/",
+      "source_url": "https://github.com/Mofferato/tempora",
+      "found_via": "AgentsLoop Tempora Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/191-tempora.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Scholarly beige life-log UI: medieval timeline, Guillaume Laurent stats, Age +1 action.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "simulation",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "github_user": "Mofferato",
+      "github_url": "https://github.com/Mofferato/tempora",
+      "avatar_url": "https://github.com/Mofferato.png"
+    },
+    {
+      "id": "akhbar-rush",
+      "title": "Akhbar Rush",
+      "description": "Pixel-art India delivery rush: pick a cap and home city (Delhi–Noida), race city leaderboards. Mobile-friendly browser game built with Claude Code / Opus 5.5.",
+      "play_url": "https://Shiva78388789.github.io/Akhbar-Rush/",
+      "source_url": "https://github.com/Shiva78388789/Akhbar-Rush",
+      "found_via": "AgentsLoop Akhbar Rush Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/192-akhbar-rush.jpg",
+      "screenshot_score": 8.1,
+      "screenshot_score_notes": "Clean pixel character-create: cap picker, city buttons, LET'S RIDE CTA.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "touch"
+      ],
+      "github_user": "Shiva78388789",
+      "github_url": "https://github.com/Shiva78388789/Akhbar-Rush",
+      "avatar_url": "https://github.com/Shiva78388789.png"
+    },
+    {
+      "id": "voxel-galleons",
+      "title": "Voxel Galleons — The Pirate Republic",
+      "description": "Voxel pirate naval adventure around Nassau 1715: raise sails on The Black Pearl, recover cargo, sink navy patrols, spend doubloons. Browser build made with Astra xHigh.",
+      "play_url": "https://GraceUnderGravity.github.io/VoxelGalleons/",
+      "source_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
+      "found_via": "AgentsLoop Voxel Galleons Astra",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/193-voxel-galleons.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Polished Nassau harbor: Black Pearl at pier, palm island, voyage/ship panels and charted waters map.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "astra",
+      "category": "naval",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "GraceUnderGravity",
+      "github_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
+      "avatar_url": "https://github.com/GraceUnderGravity.png"
+    },
+    {
+      "id": "crabhouse-v2",
+      "title": "Crabhouse v2",
+      "description": "Pixel-art crab house clicker/raiser — カニのおうち. Cute beach crabs, Japanese UI; Claude Opus 5.5.",
+      "play_url": "https://kamibukuro18.github.io/opuscrabhouse/",
+      "source_url": "https://github.com/kamibukuro18/opuscrabhouse",
+      "found_via": "AgentsLoop Crabhouse v2 Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/194-crabhouse-v2.jpg",
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Minimalist beige title: red Crabhouse wordmark, beach crab strip, Go To House button.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "casual",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "touch"
+      ],
+      "github_user": "kamibukuro18",
+      "github_url": "https://github.com/kamibukuro18/opuscrabhouse",
+      "avatar_url": "https://github.com/kamibukuro18.png"
+    },
+    {
+      "id": "pixel-survivors-nocturne",
+      "title": "Pixel Survivors: Nocturne",
+      "description": "Japanese survivors-like with automatic attacks, dash i-frames, boss rush and permanent upgrades. CRT scanline title screen; Claude Opus 5.5 test build.",
+      "play_url": "https://Black2856.github.io/pixel_survivors_opus5.5test/",
+      "source_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
+      "found_via": "AgentsLoop Pixel Survivors Nocturne Opus 5.5",
+      "found_via_network": "catalog",
+      "screenshot_path": "/workspace/opus-games-fresh/195-pixel-survivors-nocturne.jpg",
+      "screenshot_score": 7.8,
+      "screenshot_score_notes": "Dark CRT title: gradient PIXEL SURVIVORS, NOCTURNE subtitle, START + Japanese menu rows.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "made_with": "opus-5.5",
+      "category": "survivors",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "Black2856",
+      "github_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
+      "avatar_url": "https://github.com/Black2856.png"
     }
   ],
   "totals": {
-    "all": 181,
-    "opus-5.5": 130,
-    "astra": 51
+    "all": 193,
+    "opus-5.5": 140,
+    "astra": 53
   }
 }
