@@ -89,7 +89,7 @@
     const source = game.source_url ? escapeHtml(game.source_url) : "";
     const network = escapeHtml(game.found_via_network || "");
     const madeRaw = (game.made_with || "").toLowerCase();
-    const made = madeRaw === "astra" ? "Astra" : madeRaw === "opus-5.5" ? "Opus 5.5" : escapeHtml(game.made_with || "");
+    const made = madeRaw === "astra" ? "Astra" : madeRaw === "opus-5.5" ? "Opus 5.5" : madeRaw === "sonnet-5.5" ? "Sonnet 5.5" : escapeHtml(game.made_with || "");
 
     const media = src
       ? `<img src="${src}" alt="${title}" loading="lazy" decoding="async" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'placeholder',textContent:'No screenshot'}))" />`

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:52:14.000Z",
+  "updated_at": "2026-09-30T01:17:33.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -4857,11 +4857,140 @@
       "listed_at": "2026-09-30T00:52:14.000Z",
       "first_seen": "2026-09-30T00:52:14.000Z",
       "last_seen": "2026-09-30T00:52:14.000Z"
+    },
+    {
+      "id": "pacbench-claude-sonnet-5-5",
+      "title": "PacBench — Claude Sonnet 5.5 Pac-Man",
+      "description": "One-shot Pac-Man clone from PacBench (\"Create a Pac-Man game in a single html page\"). Entry slug claude-sonnet-5-5 via OpenRouter/Claude Code; model anthropic/claude-sonnet-5.5-20260928, PacBench score 95/100.",
+      "play_url": "https://jonclegg.github.io/pacman-bakeoff/entries/claude-sonnet-5-5.html",
+      "source_url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "found_via": "PacBench (jonclegg) + HN",
+      "found_via_network": "web",
+      "made_with": "sonnet-5.5",
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "jonclegg",
+      "remote_likes": null,
+      "likes_source": null,
+      "comments": [],
+      "screenshot_path": "/workspace/opus-games-fresh/219-pacbench-sonnet-55.jpg",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Faithful arcade attract screen: CHARACTER/NICKNAME ghost roster, pellet point table, yellow PAC-MAN title, lives and cherry, touch+WASD legend.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/219-pacbench-sonnet-55.jpg",
+          "score": 8.0,
+          "notes": "Pac-Man attract / character intro screen"
+        }
+      ],
+      "published_at": "2026-09-28T00:00:00.000Z",
+      "listed_at": "2026-09-30T01:17:33.000Z",
+      "first_seen": "2026-09-30T01:17:33.000Z",
+      "last_seen": "2026-09-30T01:17:33.000Z"
+    },
+    {
+      "id": "kaldr",
+      "title": "KALDR",
+      "description": "Pilot a fully procedural mechanical beast through vast snowy mountains — run, climb, leap and fly. Creature gait, flight physics, mountains and clouds all generated in code with Three.js. Author credits a one-shot Claude Sonnet 5.5 build.",
+      "play_url": "https://kaldr-weld.vercel.app/",
+      "source_url": "https://x.com/pradeepXkapoor/status/2104840409851822098",
+      "found_via": "X post by @pradeepXkapoor",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "exploration",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "pradeepXkapoor",
+      "remote_likes": 8,
+      "likes_source": "x",
+      "comments": [],
+      "screenshot_path": "/workspace/opus-games-fresh/220-kaldr-game.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Third-person mech flyer over snow peaks with satellite dish, wind turbines, CORE CHARGE HUD and WASD legend — crisp depth and atmosphere.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/220-kaldr-game.jpg",
+          "score": 9.0,
+          "notes": "Gameplay still from X trailer"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/220-kaldr.jpg",
+          "score": 8.5,
+          "notes": "X video thumbnail"
+        }
+      ],
+      "video_path": "videos/kaldr.mp4",
+      "videos": [
+        {
+          "path": "videos/kaldr.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T07:47:14.000Z",
+      "listed_at": "2026-09-30T01:17:33.000Z",
+      "first_seen": "2026-09-30T01:17:33.000Z",
+      "last_seen": "2026-09-30T01:17:33.000Z"
+    },
+    {
+      "id": "fogline",
+      "title": "FOGLINE — Bodycam // Sector 7",
+      "description": "Bodycam-style first-person horde shooter in a rain-soaked fog trench: four procedural weapons with gunsmith optics/suppressors, infantry/drones/mortars across difficulties. Every texture, model and sound generated at load — Three.js WebGL2 + GLSL. Bench Portal and author credit Claude Sonnet 5.5.",
+      "play_url": "https://alesha-pro.github.io/bench-portal/games/fogline/",
+      "source_url": "https://x.com/superalesha/status/2104920915112829231",
+      "found_via": "X post by @superalesha (Bench Portal)",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "superalesha",
+      "remote_likes": 22,
+      "likes_source": "x",
+      "comments": [],
+      "screenshot_path": "/workspace/opus-games-fresh/221-fogline.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Cinematic bodycam cover: rain on lens, chromatic streaks, camo sleeves and muzzle flash in thick fog — strong atmospheric composition.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/221-fogline.jpg",
+          "score": 9.0,
+          "notes": "Official Bench Portal cover"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/221-fogline-game.jpg",
+          "score": 8.2,
+          "notes": "Gameplay still from X trailer"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/221-fogline-b.jpg",
+          "score": 8.0,
+          "notes": "X video thumbnail"
+        }
+      ],
+      "video_path": "videos/fogline.mp4",
+      "videos": [
+        {
+          "path": "videos/fogline.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T13:07:08.000Z",
+      "listed_at": "2026-09-30T01:17:33.000Z",
+      "first_seen": "2026-09-30T01:17:33.000Z",
+      "last_seen": "2026-09-30T01:17:33.000Z"
     }
   ],
   "totals": {
-    "all": 233,
-    "opus-5.5": 171,
-    "astra": 62
+    "games": 236,
+    "by_made_with": {
+      "opus-5.5": 171,
+      "astra": 62,
+      "sonnet-5.5": 3
+    }
   }
 }
