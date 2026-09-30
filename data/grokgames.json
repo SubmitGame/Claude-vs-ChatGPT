@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:50:00.000Z",
+  "updated_at": "2026-09-30T05:52:30.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -142,7 +142,7 @@
       "screenshot_score": 4.8,
       "screenshot_score_notes": "The colorful turf-war interface is visible, but an OBS window dominates the frame and substantially obscures the underlying game.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -236,7 +236,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T05:50:00.000Z",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
@@ -407,7 +407,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Cinematic behind-the-player arena still with reflective court wood, readable hoop/shot clock, and clear dribble pose that immediately sells the basketball sim.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -966,7 +966,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Dynamic third-person flight over floating islands with paintbrush trail, hearts, compass, and color wheel — excellent readability and polish.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/wildbrush.mp4",
       "video_source": "awesome-local",
@@ -1019,7 +1019,7 @@
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Clear third-person city view with HUD, mini-map (Amsterdam Ave / W 68th), NPCs with umbrellas, and traffic — reads as a real open-world still.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
       "remote_likes": 184,
       "likes_source": "x"
@@ -2519,7 +2519,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Packed stadium, dual scoreboards, pitch branding and exhibition settings panel are instantly legible; very polished for a browser remake.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
       "category": "sports",
       "platforms": [
@@ -4030,7 +4030,7 @@
       "found_via": "X bookmark @friuns2 → @genex_games Opus 5 skate demo with play + source",
       "found_via_network": "x",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
       "category": "sports",
       "platforms": [
@@ -4053,7 +4053,7 @@
       "found_via": "X bookmark @friuns2 → @rahilbhansali Speed Racer playable deploy",
       "found_via_network": "x",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
       "category": "racing",
       "platforms": [
@@ -4082,7 +4082,7 @@
       "likes_source": "x",
       "published_at": "2026-09-22T18:15:50.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/mine-minecraft-opus.mp4"
     },
     {
@@ -4106,7 +4106,7 @@
       "likes_source": "x",
       "published_at": "2026-09-24T21:18:27.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/summer-cycle.mp4"
     },
     {
@@ -4150,7 +4150,7 @@
       "likes_source": "x",
       "published_at": "2026-09-22T10:19:37.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/operation-safe-return.mp4"
     },
     {
@@ -4172,7 +4172,7 @@
       "likes_source": "x",
       "published_at": "2026-09-07T20:06:23.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/apex-coast-run.mp4"
     },
     {
@@ -4195,7 +4195,7 @@
       "likes_source": "x",
       "published_at": "2026-09-07T06:28:03.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/savannah-hunt.mp4"
     },
     {
@@ -4218,7 +4218,7 @@
       "likes_source": "x",
       "published_at": "2026-09-06T05:56:02.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/eight-fronts.mp4"
     },
     {
@@ -4239,7 +4239,7 @@
       "likes_source": "x",
       "published_at": "2026-09-11T15:51:44.000Z",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/super-smash-royale.mp4"
     },
     {
@@ -4567,7 +4567,7 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T05:52:30.000Z",
       "remote_likes": 14,
       "likes_source": "x",
       "author": "KalraIshaan11",
@@ -6107,14 +6107,49 @@
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
       "last_seen": "2026-09-30T05:50:00.000Z"
+    },
+    {
+      "id": "lost-cathedral",
+      "title": "Lost Cathedral",
+      "description": "Souls-like third-person gothic boss fight: Thorn Exile vs Armored Death in a candlelit nave with god rays, cloth, and touch controls. Three.js + Genex CLI assets; gameplay credited to Astra/Fable.",
+      "play_url": "https://genex.games/lost-cathedral",
+      "source_url": "https://x.com/genex_games/status/2100586874754539672",
+      "github_url": "https://github.com/Rabneba/lost-cathedral",
+      "github_user": "Rabneba",
+      "screenshot_path": "/workspace/opus-games-fresh/255-lost-cathedral.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Cinematic gothic nave still: clear player-vs-boss scale, god rays through torn banners, checkered floor, and candlelit altar — high production polish.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/255-lost-cathedral.jpg",
+          "score": 9.1,
+          "notes": "Thorn Exile faces Armored Death in the cathedral nave"
+        }
+      ],
+      "found_via": "X bookmark @friuns2 → @genex_games Astra/Fable Souls-like boss fight (genex.games/lost-cathedral)",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "x_handle": "genex_games",
+      "remote_likes": 138,
+      "likes_source": "x",
+      "published_at": "2026-09-17T14:05:12.000Z",
+      "listed_at": "2026-09-30T05:52:30.000Z",
+      "first_seen": "2026-09-30T05:52:30.000Z",
+      "last_seen": "2026-09-30T05:52:30.000Z",
+      "video_path": "videos/lost-cathedral.mp4"
     }
   ],
   "totals": {
-    "games": 265,
+    "games": 266,
     "by_made_with": {
       "opus-5.5": 186,
       "sonnet-5.5": 11,
-      "astra": 68
+      "astra": 69
     }
   }
 }
