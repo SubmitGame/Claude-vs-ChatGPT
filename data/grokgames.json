@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:52:03Z",
+  "updated_at": "2026-09-30T07:51:31.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -276,7 +276,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T06:49:37.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
@@ -4347,7 +4347,7 @@
       "play_url": "https://hearthlight.github.io/",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/",
       "github_url": "https://github.com/Hearthlight",
-      "found_via": "reddit / r/aigamedev (open-source + playable demo)",
+      "found_via": "reddit / r/aigamedev (rediscovery)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "category": "adventure",
@@ -4358,9 +4358,9 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z",
       "video_path": "videos/hearthlight.mp4",
-      "remote_likes": 113,
+      "remote_likes": 115,
       "likes_source": "reddit",
       "comments": [
         {
@@ -4607,8 +4607,8 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z",
-      "remote_likes": 14,
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "remote_likes": 205,
       "likes_source": "x",
       "author": "KalraIshaan11",
       "avatar_path": "/workspace/opus-feed/public/avatars/KalraIshaan11.jpg",
@@ -4903,7 +4903,7 @@
       "published_at": "2026-09-29T21:26:05.000Z",
       "listed_at": "2026-09-30T00:52:14.000Z",
       "first_seen": "2026-09-30T00:52:14.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "pacbench-claude-sonnet-5-5",
@@ -5597,7 +5597,7 @@
         "mobile"
       ],
       "author": "Puzzled-Arm-7492",
-      "remote_likes": 1,
+      "remote_likes": 2,
       "likes_source": "reddit",
       "screenshot_path": "/workspace/opus-games-fresh/240-roomwave.jpg",
       "screenshot_score": 8.7,
@@ -5624,7 +5624,7 @@
       "published_at": "2026-09-30T03:29:16.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "monochrome-circuit-opus",
@@ -5873,14 +5873,14 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 1,
+      "remote_likes": 5,
       "likes_source": "x",
       "x_handle": "TonyClimate",
       "avatar_url": "/avatars/tonyclimate.jpg",
       "published_at": "2026-09-30T04:33:24.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "hourglass-city",
@@ -6029,14 +6029,14 @@
         "mobile",
         "tv"
       ],
-      "remote_likes": 2,
+      "remote_likes": 5,
       "likes_source": "x",
       "x_handle": "Ryancampbell",
       "avatar_url": "/avatars/ryancampbell.jpg",
       "published_at": "2026-09-30T05:00:08.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "breakwater",
@@ -6146,7 +6146,7 @@
       "published_at": "2026-09-30T05:14:29.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "lost-cathedral",
@@ -6209,12 +6209,12 @@
         "desktop"
       ],
       "x_handle": "mitchellhynes",
-      "remote_likes": 13342,
+      "remote_likes": 13759,
       "likes_source": "x",
       "published_at": "2026-09-29T16:21:10.000Z",
       "listed_at": "2026-09-30T06:01:41.000Z",
       "first_seen": "2026-09-30T06:01:41.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z",
       "video_path": "videos/halo-ce-browser.mp4"
     },
     {
@@ -6247,7 +6247,7 @@
       "published_at": "2026-09-30T06:37:21.000Z",
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "yoru-no-gakko",
@@ -6294,7 +6294,7 @@
       "published_at": "2026-09-30T05:54:36.000Z",
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
     },
     {
       "id": "carry-the-ring",
@@ -6326,15 +6326,165 @@
       "published_at": "2026-09-30T06:16:10.000Z",
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z"
+    },
+    {
+      "id": "pips-big-city",
+      "title": "Pip's Big City",
+      "description": "Open-world Three.js city starring Pip, a tiny orange pixel creature: downtown parks & industry, live traffic/pedestrians, weather + day/night, and 60 hidden glowing shards. Claude Opus 5.5 Claude.ai artifact by @deathgod2266.",
+      "play_url": "https://claude.ai/artifact/ByYomi76oe378N3ce6MaCA",
+      "source_url": "https://x.com/deathgod2266/status/2105196029406777377",
+      "screenshot_path": "/workspace/opus-games-fresh/270-pips-big-city.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Third-person downtown plaza: orange Pip, glass towers, DOWNTOWN minimap, 0/60 shards HUD (Claude artifact chrome).",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/270-pips-big-city.jpg",
+          "score": 8.7,
+          "notes": "X/card gameplay still in Claude artifact"
+        }
+      ],
+      "found_via": "X post by @deathgod2266",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "deathgod2266",
+      "published_at": "2026-09-30T07:20:20.000Z",
+      "listed_at": "2026-09-30T07:51:31.000Z",
+      "first_seen": "2026-09-30T07:51:31.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z"
+    },
+    {
+      "id": "one-more-floor-opus",
+      "title": "One More Floor (Opus 5.5)",
+      "description": "Isometric 3D action roguelite: descend 10 tower floors, clear arenas, pick routes, stack upgrades, defeat the core. Same brief three-model experiment — this build is Claude Opus 5.5 (high effort) by SharvyLabs. Three.js/TS/Vite, no external assets.",
+      "play_url": "https://one-more-floor.sharvy.dev/",
+      "source_url": "https://x.com/SharvyLabs/status/2105193193272955012",
+      "screenshot_path": "/workspace/opus-games-fresh/271b-one-more-floor-opus-live.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Elevator title: infinity-floor car, cyan shaft beams, START RUN CTA, seed/stats HUD.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/271b-one-more-floor-opus-live.jpg",
+          "score": 8.8,
+          "notes": "Live Opus title/menu"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/271-one-more-floor-opus.jpg",
+          "score": 8.4,
+          "notes": "Hub OG comparison card"
+        }
+      ],
+      "found_via": "X post by @SharvyLabs",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "roguelite",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "SharvyLabs",
+      "published_at": "2026-09-30T07:09:04.000Z",
+      "listed_at": "2026-09-30T07:51:31.000Z",
+      "first_seen": "2026-09-30T07:51:31.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z"
+    },
+    {
+      "id": "one-more-floor-sonnet",
+      "title": "One More Floor (Sonnet 5.5)",
+      "description": "Same One More Floor brief as the Opus build — isometric 10-floor descent roguelite — this version is Claude Sonnet 5.5 (xHigh effort) by SharvyLabs. Browser Three.js/TS; playable alongside the Opus/Sol siblings on the hub.",
+      "play_url": "https://one-more-floor-sonnet.sharvy.dev/",
+      "source_url": "https://x.com/SharvyLabs/status/2105193193272955012",
+      "screenshot_path": "/workspace/opus-games-fresh/272b-one-more-floor-sonnet-live.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Polished isometric title: orange START DESCENT, floor-02 arena with hazard stripes and cyan elevator pad.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/272b-one-more-floor-sonnet-live.jpg",
+          "score": 8.9,
+          "notes": "Live Sonnet title/menu"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/272-one-more-floor-sonnet-chrome.jpg",
+          "score": 8.8,
+          "notes": "Headless chrome title"
+        }
+      ],
+      "found_via": "X post by @SharvyLabs",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "roguelite",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "SharvyLabs",
+      "published_at": "2026-09-30T07:09:04.000Z",
+      "listed_at": "2026-09-30T07:51:31.000Z",
+      "first_seen": "2026-09-30T07:51:31.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z"
+    },
+    {
+      "id": "marble-gp-v2",
+      "title": "Marble GP v2",
+      "description": "Browser marble racing on GameFoundry: six named marbles (Mint, Butter, Blaze, Azure, Violet, Onyx) on a trough track with countdown and standings. Credited to Claude Opus 5.5 + Game Foundry tools (@GameFoundryNet / IndieRay98).",
+      "play_url": "https://www.gamefoundry.net/creations/cmuh6xwau000crrktj0s96g21",
+      "source_url": "https://x.com/GameFoundryNet/status/2105033465217302868",
+      "screenshot_path": "/workspace/opus-games-fresh/273-marble-gp-v2.jpg",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "Starting grid countdown: six patterned marbles, YOU marker on Violet, MARBLE 1 GP barrier.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/273-marble-gp-v2.jpg",
+          "score": 8.3,
+          "notes": "Video frame start grid"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/273b-marble-gp-v2-thumb.jpg",
+          "score": 7.5,
+          "notes": "X video thumb"
+        }
+      ],
+      "video_path": "videos/marble-gp-v2.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/marble-gp-v2.mp4",
+          "source": "x"
+        }
+      ],
+      "found_via": "X post by @GameFoundryNet",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "x",
+      "x_handle": "GameFoundryNet",
+      "published_at": "2026-09-29T20:34:22.000Z",
+      "listed_at": "2026-09-30T07:51:31.000Z",
+      "first_seen": "2026-09-30T07:51:31.000Z",
+      "last_seen": "2026-09-30T07:51:31.000Z"
     }
   ],
   "totals": {
-    "games": 270,
+    "games": 274,
     "by_made_with": {
       "astra": 69,
-      "opus-5.5": 189,
-      "sonnet-5.5": 11,
+      "opus-5.5": 192,
+      "sonnet-5.5": 12,
       "uncertain": 1
     }
   }
