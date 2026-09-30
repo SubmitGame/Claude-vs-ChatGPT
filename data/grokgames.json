@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:49:37.000Z",
+  "updated_at": "2026-09-30T06:52:03Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -17,7 +17,15 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 898,
-      "likes_source": "github"
+      "likes_source": "github",
+      "video_path": "videos/pelican-bicycle-adventure.mp4",
+      "video_source": "awesome-local",
+      "videos": [
+        {
+          "path": "videos/pelican-bicycle-adventure.mp4",
+          "source": "awesome-local"
+        }
+      ]
     },
     {
       "id": "transport-ship",
@@ -34,7 +42,15 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 898,
-      "likes_source": "github"
+      "likes_source": "github",
+      "video_path": "videos/transport-ship.mp4",
+      "video_source": "awesome-local",
+      "videos": [
+        {
+          "path": "videos/transport-ship.mp4",
+          "source": "awesome-local"
+        }
+      ]
     },
     {
       "id": "qq-speed-3d-racing",
@@ -51,7 +67,15 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 898,
-      "likes_source": "github"
+      "likes_source": "github",
+      "video_path": "videos/qq-speed-3d-racing.mp4",
+      "video_source": "awesome-local",
+      "videos": [
+        {
+          "path": "videos/qq-speed-3d-racing.mp4",
+          "source": "awesome-local"
+        }
+      ]
     },
     {
       "id": "ascent",
@@ -66,7 +90,15 @@
       "screenshot_score_notes": "The atmospheric title screen has strong typography and color, but it presents little actual platforming gameplay beyond a small level silhouette.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/ascent.mp4",
+      "video_source": "awesome-local",
+      "videos": [
+        {
+          "path": "videos/ascent.mp4",
+          "source": "awesome-local"
+        }
+      ]
     },
     {
       "id": "aurora-grand-prix",
@@ -81,7 +113,15 @@
       "screenshot_score_notes": "A highly polished promotional composite shows two readable racing views, cars, track context, and race HUD, albeit surrounded by large tutorial branding.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "video_path": "videos/aurora-grand-prix.mp4",
+      "video_source": "awesome-local",
+      "videos": [
+        {
+          "path": "videos/aurora-grand-prix.mp4",
+          "source": "awesome-local"
+        }
+      ]
     },
     {
       "id": "harbor-master",
