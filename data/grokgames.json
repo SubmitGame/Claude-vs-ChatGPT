@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T01:58:12.000Z",
+  "updated_at": "2026-09-30T02:45:01.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -236,11 +236,11 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T01:56:38.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
-      "remote_likes": 629,
+      "remote_likes": 20,
       "likes_source": "x"
     },
     {
@@ -4258,9 +4258,9 @@
       "published_at": "2026-09-28T14:18:40.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T01:56:57.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z",
       "video_path": "videos/destroy-any-website.mp4",
-      "remote_likes": 1617,
+      "remote_likes": 1618,
       "likes_source": "reddit",
       "comments": [
         {
@@ -4318,9 +4318,9 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T01:56:57.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z",
       "video_path": "videos/hearthlight.mp4",
-      "remote_likes": 102,
+      "remote_likes": 106,
       "likes_source": "reddit",
       "comments": [
         {
@@ -4458,8 +4458,8 @@
       "published_at": "2026-09-29T14:25:15.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T01:56:57.000Z",
-      "remote_likes": 10,
+      "last_seen": "2026-09-30T02:45:01.000Z",
+      "remote_likes": 12,
       "likes_source": "reddit",
       "comments": [
         {
@@ -4669,7 +4669,7 @@
       "published_at": "2026-09-29T19:57:48.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T01:56:57.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z",
       "remote_likes": 3,
       "likes_source": "reddit",
       "comments": [
@@ -4716,7 +4716,7 @@
       "published_at": "2026-09-29T21:16:25.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z",
       "remote_likes": 1,
       "likes_source": "reddit",
       "comments": []
@@ -4940,7 +4940,7 @@
       "published_at": "2026-09-29T07:47:14.000Z",
       "listed_at": "2026-09-30T01:17:33.000Z",
       "first_seen": "2026-09-30T01:17:33.000Z",
-      "last_seen": "2026-09-30T01:17:33.000Z"
+      "last_seen": "2026-09-30T02:45:01.000Z"
     },
     {
       "id": "fogline",
@@ -5007,7 +5007,7 @@
       "author": "chongdashu",
       "x_handle": "chongdashu",
       "avatar_path": "/workspace/opus-feed/public/avatars/chongdashu.jpg",
-      "remote_likes": 44,
+      "remote_likes": 46,
       "likes_source": "x",
       "comments": [
         {
@@ -5052,7 +5052,7 @@
       "published_at": "2026-09-29T15:52:49.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T02:45:01.000Z"
     },
     {
       "id": "avengers-last-stand",
@@ -5370,14 +5370,185 @@
       "made_with": "opus-5.5",
       "remote_likes": null,
       "likes_source": null
+    },
+    {
+      "id": "eight-ball-pool",
+      "title": "8 Ball Pool",
+      "description": "Browser 8-ball pool one-shot: play a bot (easy/medium/hard) or local two-player. Aim with pointer, power meter, and standard suit/8-ball rules.",
+      "play_url": "https://pool.navarch.build/",
+      "source_url": "https://x.com/sagentlab/status/2104958478435385535",
+      "found_via": "X post by @sagentlab",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "sports",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "sagentlab",
+      "x_handle": "sagentlab",
+      "avatar_path": "/workspace/opus-feed/public/avatars/sagentlab.jpg",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/236-eight-ball-pool.jpg",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Clear top-down table with suit panels, aiming line, power meter, and Shoot control — readable gameplay still.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/236-eight-ball-pool.jpg",
+          "score": 8.0,
+          "notes": "Gameplay frame from X trailer"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/236-eight-ball-pool-x.jpg",
+          "score": 7.0,
+          "notes": "X still"
+        }
+      ],
+      "video_path": "videos/eight-ball-pool.mp4",
+      "videos": [
+        {
+          "path": "videos/eight-ball-pool.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T15:36:24.000Z",
+      "listed_at": "2026-09-30T02:45:01.000Z",
+      "first_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z"
+    },
+    {
+      "id": "synesthesia",
+      "title": "Synesthesia",
+      "description": "Rez-inspired rail shooter where every lock-on hit lands as a note. Pixi/Three.js/Web Audio; mouse, touch, or arrows+space.",
+      "play_url": "https://synesthesia-7qi.pages.dev/games/synesthesia/",
+      "source_url": "https://x.com/code_coded/status/2104922915779317903",
+      "found_via": "X post by @code_coded",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "rail-shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "code_coded",
+      "x_handle": "code_coded",
+      "avatar_path": "/workspace/opus-feed/public/avatars/code_coded.jpg",
+      "remote_likes": 2,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/237-synesthesia.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Polished neon title screen with clear HOLD/RELEASE instructions and BEGIN CTA on black.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/237-synesthesia.jpg",
+          "score": 8.5,
+          "notes": "Title/begin screen"
+        }
+      ],
+      "published_at": "2026-09-29T13:15:05.000Z",
+      "listed_at": "2026-09-30T02:45:01.000Z",
+      "first_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z"
+    },
+    {
+      "id": "color-quest",
+      "title": "Color Quest",
+      "description": "Free color-by-number pixel game for kids: pick a picture, fill numbered squares, grow a garden world. No ads/sign-up; photo-to-puzzle stays on-device. Built with Sonnet 5.5.",
+      "play_url": "https://colorquestgame.com/",
+      "source_url": "https://x.com/anhgemus/status/2104987819928424872",
+      "found_via": "X post by @anhgemus",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "anhgemus",
+      "x_handle": "anhgemus",
+      "avatar_path": "/workspace/opus-feed/public/avatars/anhgemus.jpg",
+      "remote_likes": 5,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/238-color-quest.jpg",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Cozy gallery UI with clear pixel character cards and seasonal Pumpkin Patch world.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/238-color-quest.jpg",
+          "score": 8.2,
+          "notes": "Gallery / My world"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/238-color-quest-gameplay-frame.jpg",
+          "score": 7.8,
+          "notes": "Trailer frame Halloween intro"
+        }
+      ],
+      "video_path": "videos/color-quest.mp4",
+      "videos": [
+        {
+          "path": "videos/color-quest.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T17:32:59.000Z",
+      "listed_at": "2026-09-30T02:45:01.000Z",
+      "first_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z"
+    },
+    {
+      "id": "panic-at-the-disco",
+      "title": "Panic At the Disco",
+      "description": "Goofy Astra + Crayon Three.js shooter/social arena: pick skins (incl. Lord Tibo), shoot and vibe in a neon low-poly space.",
+      "play_url": "https://app.usecrayon.ai/play/4d93361a-8a83-4a57-b807-4c29ee45f3e0",
+      "source_url": "https://x.com/TusharXo/status/2105008265868517434",
+      "found_via": "X post by @TusharXo",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "TusharXo",
+      "x_handle": "TusharXo",
+      "avatar_path": "/workspace/opus-feed/public/avatars/TusharXo.jpg",
+      "remote_likes": 5,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/239-panic-at-the-disco.jpg",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Neon low-poly arena with characters, pink projectile streaks, and clear 3D vibe from trailer frame.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/239-panic-at-the-disco.jpg",
+          "score": 8.4,
+          "notes": "Gameplay frame from X trailer"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/239-panic-at-the-disco-x1.jpg",
+          "score": 8.0,
+          "notes": "Character select YOUR LOOK"
+        }
+      ],
+      "video_path": "videos/panic-at-the-disco.mp4",
+      "videos": [
+        {
+          "path": "videos/panic-at-the-disco.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T18:54:14.000Z",
+      "listed_at": "2026-09-30T02:45:01.000Z",
+      "first_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T02:45:01.000Z"
     }
   ],
   "totals": {
-    "games": 246,
+    "games": 250,
     "by_made_with": {
       "opus-5.5": 179,
-      "astra": 62,
-      "sonnet-5.5": 5
+      "astra": 63,
+      "sonnet-5.5": 8
     }
   }
 }
