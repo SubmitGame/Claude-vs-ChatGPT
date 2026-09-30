@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:56:48Z",
+  "updated_at": "2026-09-30T00:52:14.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -4318,7 +4318,7 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-29T23:57:00.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z",
       "video_path": "videos/hearthlight.mp4",
       "remote_likes": 97,
       "likes_source": "reddit",
@@ -4560,7 +4560,7 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z",
       "remote_likes": 14,
       "likes_source": "x",
       "author": "KalraIshaan11",
@@ -4629,7 +4629,7 @@
       "published_at": "2026-09-29T22:55:38.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z",
       "remote_likes": 3,
       "likes_source": "x",
       "author": "mindblown_ai",
@@ -4662,7 +4662,7 @@
       "published_at": "2026-09-29T19:57:48.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z",
       "remote_likes": 3,
       "likes_source": "reddit",
       "comments": [
@@ -4709,7 +4709,7 @@
       "published_at": "2026-09-29T21:16:25.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z",
       "remote_likes": 1,
       "likes_source": "reddit",
       "comments": []
@@ -4753,16 +4753,115 @@
       "published_at": "2026-09-28T13:13:42.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-29T23:56:48.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z",
       "remote_likes": 88,
       "likes_source": "x",
       "author": "ahmedfahim21_",
       "avatar_path": "/workspace/opus-feed/public/avatars/ahmedfahim21_.jpg"
+    },
+    {
+      "id": "boring-forest",
+      "title": "Boring Forest",
+      "description": "Stylized Three.js forest stroll: hold to call fireflies, throw light at mushrooms, splash in the river, chase fish, and find the waterfall rainbow. Performance-tuned Claude Code / Opus 5.5 build.",
+      "play_url": "https://boring-forest.vercel.app/",
+      "source_url": "https://x.com/mdaman010/status/2105051134226485315",
+      "found_via": "X post by @mdaman010",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "exploration",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "mdaman010",
+      "avatar_path": "/workspace/opus-feed/public/avatars/mdaman010.jpg",
+      "remote_likes": 3,
+      "likes_source": "x",
+      "comments": [
+        {
+          "author": "adenshepard",
+          "text": "The glowing water and moss rocks look good for $41",
+          "likes": 0,
+          "url": "https://x.com/adenshepard/status/2105067581166215508",
+          "created_at": "2026-09-29T22:49:56Z"
+        }
+      ],
+      "screenshot_path": "/workspace/opus-games-fresh/217-boring-forest.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Lush river-through-pines still with red smoke mushrooms, turquoise fireflies, and clear depth of field from the gameplay trailer.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/217-boring-forest.jpg",
+          "score": 8.8,
+          "notes": "River + mushrooms gameplay still"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/217-boring-forest-b.jpg",
+          "score": 8.4,
+          "notes": "Alternate forest angle"
+        }
+      ],
+      "video_path": "videos/boring-forest.mp4",
+      "videos": [
+        {
+          "path": "videos/boring-forest.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T21:44:35.000Z",
+      "listed_at": "2026-09-30T00:52:14.000Z",
+      "first_seen": "2026-09-30T00:52:14.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z"
+    },
+    {
+      "id": "carbon-body",
+      "title": "Carbon Body",
+      "description": "Side-scrolling co-op action inside a possessed office photocopier: fight as paper and ink through toner, rollers, and paper jams. Plain JS + Canvas 2D on bug.games / bloomlabs; creators credit Claude Opus 5.5.",
+      "play_url": "https://carbon-body.bloomlabs.games/",
+      "source_url": "https://x.com/yelnur_k/status/2105046481136717901",
+      "found_via": "X post by @yelnur_k (also r/aigamedev)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "yelnur_k",
+      "avatar_path": "/workspace/opus-feed/public/avatars/yelnur_k.png",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "comments": [],
+      "screenshot_path": "/workspace/opus-games-fresh/218-carbon-body.jpg",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "High-contrast Omnicopy cover still: blocky suited figure under a spotlight among filing cabinets with letterboxed narrative caption.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/218-carbon-body.jpg",
+          "score": 8.2,
+          "notes": "Official cover"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/218-carbon-body-trailer.jpg",
+          "score": 8.0,
+          "notes": "Trailer frame — Dupe mascot sheet"
+        }
+      ],
+      "video_path": "videos/carbon-body.mp4",
+      "videos": [
+        {
+          "path": "videos/carbon-body.mp4",
+          "source": "official-trailer"
+        }
+      ],
+      "published_at": "2026-09-29T21:26:05.000Z",
+      "listed_at": "2026-09-30T00:52:14.000Z",
+      "first_seen": "2026-09-30T00:52:14.000Z",
+      "last_seen": "2026-09-30T00:52:14.000Z"
     }
   ],
   "totals": {
-    "all": 231,
-    "opus-5.5": 169,
+    "all": 233,
+    "opus-5.5": 171,
     "astra": 62
   }
 }
