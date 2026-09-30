@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T02:45:01.000Z",
+  "updated_at": "2026-09-30T03:48:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -236,7 +236,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
@@ -407,7 +407,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Cinematic behind-the-player arena still with reflective court wood, readable hoop/shot clock, and clear dribble pose that immediately sells the basketball sim.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -714,7 +714,7 @@
       "screenshot_score": 9,
       "screenshot_score_notes": "Sunset fortress standoff clearly shows Zhao Yun, spear, massed voxel troops, boss nameplates, minimap, and HUD.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29T23:57:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -1388,7 +1388,7 @@
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Elegant parchment-map menu with bilingual Philippine–American War framing and clear Campaign/Last Stand options — thematic and polished.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29T23:57:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -2088,7 +2088,7 @@
       "screenshot_score": 8,
       "screenshot_score_notes": "Desert voxel town with trucks under BLOCKFRONT title; dim overlay but readable enlist prompt.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29T23:57:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5"
     },
     {
@@ -4258,7 +4258,7 @@
       "published_at": "2026-09-28T14:18:40.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "video_path": "videos/destroy-any-website.mp4",
       "remote_likes": 1618,
       "likes_source": "reddit",
@@ -4318,7 +4318,7 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "video_path": "videos/hearthlight.mp4",
       "remote_likes": 106,
       "likes_source": "reddit",
@@ -4458,7 +4458,7 @@
       "published_at": "2026-09-29T14:25:15.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "remote_likes": 12,
       "likes_source": "reddit",
       "comments": [
@@ -4567,7 +4567,7 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T00:52:14.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "remote_likes": 14,
       "likes_source": "x",
       "author": "KalraIshaan11",
@@ -4669,7 +4669,7 @@
       "published_at": "2026-09-29T19:57:48.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "remote_likes": 3,
       "likes_source": "reddit",
       "comments": [
@@ -4716,7 +4716,7 @@
       "published_at": "2026-09-29T21:16:25.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z",
       "remote_likes": 1,
       "likes_source": "reddit",
       "comments": []
@@ -4863,7 +4863,7 @@
       "published_at": "2026-09-29T21:26:05.000Z",
       "listed_at": "2026-09-30T00:52:14.000Z",
       "first_seen": "2026-09-30T00:52:14.000Z",
-      "last_seen": "2026-09-30T00:52:14.000Z"
+      "last_seen": "2026-09-30T03:48:00.000Z"
     },
     {
       "id": "pacbench-claude-sonnet-5-5",
@@ -5540,15 +5540,282 @@
       "published_at": "2026-09-29T18:54:14.000Z",
       "listed_at": "2026-09-30T02:45:01.000Z",
       "first_seen": "2026-09-30T02:45:01.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z"
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "roomwave",
+      "title": "Roomwave",
+      "description": "TikTok Live–style browser social sim with visual-novel vibes: six shared rooms, karaoke and hangouts, play solo or together. Astra for code/sprites; happyshrimp music; ElevenLabs voices.",
+      "play_url": "https://roomwave-live.sagan1122.chatgpt.site/together/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtuiak/roomwave_a_tiktok_live_simulator/",
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "category": "social",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "Puzzled-Arm-7492",
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "screenshot_path": "/workspace/opus-games-fresh/240-roomwave.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Polished anime karaoke still with clear Roomwave LIVE UI, cozy room set dressing, and Join In CTA.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/240-roomwave.jpg",
+          "score": 8.7,
+          "notes": "Trailer/promo frame karaoke June LIVE"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/240b-roomwave-chrome.jpg",
+          "score": 7.2,
+          "notes": "Chrome landing"
+        }
+      ],
+      "video_path": "videos/roomwave.mp4",
+      "videos": [
+        {
+          "path": "videos/roomwave.mp4",
+          "source": "reddit"
+        }
+      ],
+      "published_at": "2026-09-30T03:29:16.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "monochrome-circuit-opus",
+      "title": "Monochrome Circuit (Opus 5.5)",
+      "description": "Driver's-eye Three.js monochrome F1-style city circuit from a shared Japanese prompt bake-off. This build is Claude Opus 5.5 medium — white polygons, thick black outlines, tunnels, dense urban track.",
+      "play_url": "https://refuge.tokyo/ai/games/monochrome/monochrome_opus.html",
+      "source_url": "https://x.com/564kuma/status/2105133677089054855",
+      "found_via": "X post by @564kuma (+ refuge.tokyo showcase)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "564kuma",
+      "x_handle": "564kuma",
+      "avatar_path": "/workspace/opus-feed/public/avatars/564kuma.jpg",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/241-monochrome-circuit-opus.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Crystal-clear FP cockpit racing still: steering wheel HUD, rival car, monochrome city barriers.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/241-monochrome-circuit-opus.jpg",
+          "score": 8.9,
+          "notes": "Opus in-game cockpit"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/241-monochrome-hub.jpg",
+          "score": 7.6,
+          "notes": "Showcase hub select"
+        }
+      ],
+      "published_at": "2026-09-30T03:12:34.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "monochrome-circuit-sonnet",
+      "title": "Monochrome Circuit (Sonnet 5.5)",
+      "description": "Same monochrome Monaco-style Three.js racing prompt as the Opus build — Claude Sonnet 5.5 medium Ver. on the refuge.tokyo AI model showcase.",
+      "play_url": "https://refuge.tokyo/ai/games/monochrome/sonnet/index.html",
+      "source_url": "https://x.com/564kuma/status/2105133677089054855",
+      "found_via": "X post by @564kuma (+ refuge.tokyo showcase)",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "564kuma",
+      "x_handle": "564kuma",
+      "avatar_path": "/workspace/opus-feed/public/avatars/564kuma.jpg",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/242-monochrome-circuit-sonnet.jpg",
+      "screenshot_score": 7.6,
+      "screenshot_score_notes": "Showcase hub card listing Sonnet 5.5 build with Astra V2 in-game inset; model lineup is clear.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/242-monochrome-circuit-sonnet.jpg",
+          "score": 7.6,
+          "notes": "Hub select highlighting Sonnet entry"
+        }
+      ],
+      "published_at": "2026-09-30T03:12:34.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "monochrome-circuit-astra",
+      "title": "Monochrome Circuit (Astra V2)",
+      "description": "Astra max Ver.2 retake of the monochrome Three.js city GP — enhanced graphics, other cars, improved handling vs the first Astra take on the same Japanese prompt.",
+      "play_url": "https://refuge.tokyo/ai/games/monochrome/astra/v2.html",
+      "source_url": "https://x.com/564kuma/status/2105133677089054855",
+      "found_via": "X post by @564kuma (+ refuge.tokyo showcase)",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "564kuma",
+      "x_handle": "564kuma",
+      "avatar_path": "/workspace/opus-feed/public/avatars/564kuma.jpg",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/243-monochrome-circuit-astra.jpg",
+      "screenshot_score": 7.6,
+      "screenshot_score_notes": "Hub page featuring Astra Ver.2 in-game figure (wheel + 149 speedo) plus model select.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/243-monochrome-circuit-astra.jpg",
+          "score": 7.6,
+          "notes": "Hub with Astra V2 fig"
+        }
+      ],
+      "published_at": "2026-09-30T03:12:34.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "ozapft-is",
+      "title": "O'zapft is!",
+      "description": "Oktoberfest beer-hall browser game: carry steins through a crowded Festzelt, dodge patrons, survive the chaos. Built with Claude Opus 5.5; viral trailer also generated by Opus.",
+      "play_url": "https://sentientmatrix.net/ozapftis",
+      "source_url": "https://x.com/SentientMatrix/status/2105011961239113761",
+      "found_via": "X post by @SentientMatrix",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "SentientMatrix",
+      "x_handle": "SentientMatrix",
+      "avatar_path": "/workspace/opus-feed/public/avatars/SentientMatrix.jpg",
+      "remote_likes": 1,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/244-ozapft-is.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Clear third-person Festzelt gameplay: stein stack, Obacht! banner, warm low-poly crowd.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/244-ozapft-is.jpg",
+          "score": 8.6,
+          "notes": "Trailer frame Obacht!"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/244b-ozapft-chrome.jpg",
+          "score": 6.5,
+          "notes": "Chrome capture"
+        }
+      ],
+      "video_path": "videos/ozapft-is.mp4",
+      "videos": [
+        {
+          "path": "videos/ozapft-is.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T19:08:55.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "squish-club",
+      "title": "Squish Club",
+      "description": "Squishy interactive 3D head toy in the browser — poke, squish, pop. Opus 5.5 made the game and the trailer clip.",
+      "play_url": "https://marcomori.net/play/x",
+      "source_url": "https://x.com/macomoroni/status/2104968782670188955",
+      "found_via": "X post by @macomoroni",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "toy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "author": "macomoroni",
+      "x_handle": "macomoroni",
+      "avatar_path": "/workspace/opus-feed/public/avatars/macomoroni.jpg",
+      "remote_likes": 3,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/245-squish-club.jpg",
+      "screenshot_score": 7.8,
+      "screenshot_score_notes": "Bold Punch a Face title over detailed grotesque 3D head — concept reads instantly.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/245-squish-club.jpg",
+          "score": 7.8,
+          "notes": "Chrome/landing Punch a Face"
+        }
+      ],
+      "video_path": "videos/squish-club.mp4",
+      "videos": [
+        {
+          "path": "videos/squish-club.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-29T16:17:20.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "garrafao-basketball",
+      "title": "Garrafão — Basketball Manager",
+      "description": "Browser basketball manager in the spirit of Elifoot: NBB, Liga Ouro, EuroLeague and NBA, local saves. Portuguese UI; built with Claude Opus 5.5.",
+      "play_url": "https://garrafao-production.up.railway.app/",
+      "source_url": "https://x.com/rgoalves/status/2105002289849364603",
+      "found_via": "X post by @rgoalves",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "author": "rgoalves",
+      "x_handle": "rgoalves",
+      "avatar_path": "/workspace/opus-feed/public/avatars/rgoalves.jpg",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "screenshot_path": "/workspace/opus-games-fresh/246-garrafao-basketball.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Polished title menu over live low-poly court, scoreboard and Novo Jogo CTA.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/246-garrafao-basketball.jpg",
+          "score": 8.5,
+          "notes": "Main menu over live match"
+        }
+      ],
+      "published_at": "2026-09-29T18:30:29.000Z",
+      "listed_at": "2026-09-30T03:48:00.000Z",
+      "first_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T03:48:00.000Z"
     }
   ],
   "totals": {
-    "games": 250,
+    "games": 257,
     "by_made_with": {
-      "opus-5.5": 179,
-      "astra": 63,
-      "sonnet-5.5": 8
+      "opus-5.5": 183,
+      "astra": 65,
+      "sonnet-5.5": 9
     }
   }
 }
