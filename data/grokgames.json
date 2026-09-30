@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:52:30.000Z",
+  "updated_at": "2026-09-30T06:01:41.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -6142,6 +6142,40 @@
       "first_seen": "2026-09-30T05:52:30.000Z",
       "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/lost-cathedral.mp4"
+    },
+    {
+      "id": "halo-ce-browser",
+      "title": "Halo CE (Xbox) in the Browser",
+      "description": "Full Xbox Halo: Combat Evolved running in-browser via WASM/Emscripten (decomp-based): campaign, splitscreen co-op, and WebRTC multiplayer (Cloudflare). Author play link mitchellhynes.com/halo. made_with uncertain — no Opus/Sonnet/Astra credit found; engineering port of Halo CE decomp, not a claimed model one-shot.",
+      "play_url": "https://mitchellhynes.com/halo",
+      "source_url": "https://x.com/mitchellhynes/status/2104969744721883474",
+      "github_url": null,
+      "github_user": null,
+      "screenshot_path": "/workspace/opus-games-fresh/256-halo-ce-browser.jpg",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Clear first-person Halo CE combat still: assault rifle, shield/ammo HUD, and rocky outdoor map are legible; surrounding web chrome and PiP webcam slightly clutter the frame.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/256-halo-ce-browser.jpg",
+          "score": 8.2,
+          "notes": "FPS view with assault rifle on outdoor Halo CE map"
+        }
+      ],
+      "found_via": "X bookmark @friuns2 → @mitchellhynes Halo CE browser; play URL in author reply (Visit mitchellhynes.com/halo) + reply join links; made_with uncertain (WASM/Emscripten decomp, no Opus/Sonnet/Astra claim)",
+      "found_via_network": "x",
+      "made_with": "uncertain",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "x_handle": "mitchellhynes",
+      "remote_likes": 13342,
+      "likes_source": "x",
+      "published_at": "2026-09-29T16:21:10.000Z",
+      "listed_at": "2026-09-30T06:01:41.000Z",
+      "first_seen": "2026-09-30T06:01:41.000Z",
+      "last_seen": "2026-09-30T06:01:41.000Z",
+      "video_path": "videos/halo-ce-browser.mp4"
     }
   ],
   "totals": {
