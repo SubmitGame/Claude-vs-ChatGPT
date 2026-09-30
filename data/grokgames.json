@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:01:41.000Z",
+  "updated_at": "2026-09-30T06:49:37.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -236,7 +236,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T05:52:30.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
@@ -4318,9 +4318,9 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z",
       "video_path": "videos/hearthlight.mp4",
-      "remote_likes": 115,
+      "remote_likes": 113,
       "likes_source": "reddit",
       "comments": [
         {
@@ -4567,7 +4567,7 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T05:52:30.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z",
       "remote_likes": 14,
       "likes_source": "x",
       "author": "KalraIshaan11",
@@ -5584,7 +5584,7 @@
       "published_at": "2026-09-30T03:29:16.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z"
     },
     {
       "id": "monochrome-circuit-opus",
@@ -5840,7 +5840,7 @@
       "published_at": "2026-09-30T04:33:24.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z"
     },
     {
       "id": "hourglass-city",
@@ -5949,7 +5949,7 @@
       "published_at": "2026-09-30T04:36:11.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z"
     },
     {
       "id": "span-nine",
@@ -5996,7 +5996,7 @@
       "published_at": "2026-09-30T05:00:08.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z"
     },
     {
       "id": "breakwater",
@@ -6042,7 +6042,7 @@
       "published_at": "2026-09-30T04:47:41.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z"
     },
     {
       "id": "axioma",
@@ -6106,7 +6106,7 @@
       "published_at": "2026-09-30T05:14:29.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z"
     },
     {
       "id": "lost-cathedral",
@@ -6174,16 +6174,128 @@
       "published_at": "2026-09-29T16:21:10.000Z",
       "listed_at": "2026-09-30T06:01:41.000Z",
       "first_seen": "2026-09-30T06:01:41.000Z",
-      "last_seen": "2026-09-30T06:01:41.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z",
       "video_path": "videos/halo-ce-browser.mp4"
+    },
+    {
+      "id": "finals-night-table-tennis",
+      "title": "Finals Night — Riverside Table Tennis",
+      "description": "Club championship table tennis to 11 (win by 2) with Easy/Medium/Hard AI, sensitivity slider, and a packed low-poly riverside club. Built with Claude Opus 5.5 in about an hour by @worldpeace289.",
+      "play_url": "https://dubai-red-ten.vercel.app/",
+      "source_url": "https://x.com/worldpeace289/status/2105185212355535294",
+      "screenshot_path": "/workspace/opus-games-fresh/267-table-tennis-finals.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Indoor club finals: green-shirted opponent across the table under spotlights, trophies and spectators, clear FINALS NIGHT menu.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/267-table-tennis-finals.jpg",
+          "score": 8.6,
+          "notes": "Title/menu over arena"
+        }
+      ],
+      "found_via": "X post by @worldpeace289",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "worldpeace289",
+      "avatar_url": "/avatars/worldpeace289.jpg",
+      "published_at": "2026-09-30T06:37:21.000Z",
+      "listed_at": "2026-09-30T06:49:37.000Z",
+      "first_seen": "2026-09-30T06:49:37.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z"
+    },
+    {
+      "id": "yoru-no-gakko",
+      "title": "Yoru no Gakkō (夜の学校)",
+      "description": "Retro fixed-camera survival horror in a Japanese school at night — Alone in the Dark vibes with examine/attack/map controls. Open-source browser build by KantLex; credited to Claude Opus 5.5 (few hours).",
+      "play_url": "https://kantlex.github.io/yoru-no-gakko/",
+      "source_url": "https://x.com/aisongman/status/2105174453818654723",
+      "github_url": "https://github.com/KantLex/yoru-no-gakko",
+      "github_user": "KantLex",
+      "screenshot_path": "/workspace/opus-games-fresh/268b-yoru-no-gakko-vid.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "CRT scanline hallway: schoolgirl, blue spirits, 七不思議 title — strong atmospheric still from trailer.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/268b-yoru-no-gakko-vid.jpg",
+          "score": 8.8,
+          "notes": "Gameplay trailer frame"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/268-yoru-no-gakko.jpg",
+          "score": 8.4,
+          "notes": "Title screen"
+        }
+      ],
+      "found_via": "X post by @aisongman",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "x_handle": "aisongman",
+      "avatar_url": "/avatars/aisongman.jpg",
+      "video_path": "videos/yoru-no-gakko.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/yoru-no-gakko.mp4",
+          "source": "x"
+        }
+      ],
+      "published_at": "2026-09-30T05:54:36.000Z",
+      "listed_at": "2026-09-30T06:49:37.000Z",
+      "first_seen": "2026-09-30T06:49:37.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z"
+    },
+    {
+      "id": "carry-the-ring",
+      "title": "Carry the Ring",
+      "description": "Unofficial LOTR fan game: carry the One Ring across a living 3D Middle-earth map, sneak past Black Riders, hide in forests, and visit 21 places. HTML5 on itch; credited to Claude Opus 5.5 by @Paninosoffline.",
+      "play_url": "https://thepaninosoffline.itch.io/carry-the-ring",
+      "source_url": "https://x.com/Paninosoffline/status/2105179882216952220",
+      "screenshot_path": "/workspace/opus-games-fresh/269-carry-the-ring.jpg",
+      "screenshot_score": 7.2,
+      "screenshot_score_notes": "Itch Run game page with parchment map thumbnail and quest blurb.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/269-carry-the-ring.jpg",
+          "score": 7.2,
+          "notes": "Itch play page"
+        }
+      ],
+      "found_via": "X post by @Paninosoffline",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "Paninosoffline",
+      "avatar_url": "/avatars/Paninosoffline.jpg",
+      "published_at": "2026-09-30T06:16:10.000Z",
+      "listed_at": "2026-09-30T06:49:37.000Z",
+      "first_seen": "2026-09-30T06:49:37.000Z",
+      "last_seen": "2026-09-30T06:49:37.000Z"
     }
   ],
   "totals": {
-    "games": 266,
+    "games": 270,
     "by_made_with": {
-      "opus-5.5": 186,
+      "astra": 69,
+      "opus-5.5": 189,
       "sonnet-5.5": 11,
-      "astra": 69
+      "uncertain": 1
     }
   }
 }
