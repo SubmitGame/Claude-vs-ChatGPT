@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T03:48:00.000Z",
+  "updated_at": "2026-09-30T04:45:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -4318,9 +4318,9 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T04:45:00.000Z",
       "video_path": "videos/hearthlight.mp4",
-      "remote_likes": 106,
+      "remote_likes": 111,
       "likes_source": "reddit",
       "comments": [
         {
@@ -4636,8 +4636,8 @@
       "published_at": "2026-09-29T22:55:38.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T00:52:14.000Z",
-      "remote_likes": 3,
+      "last_seen": "2026-09-30T04:45:00.000Z",
+      "remote_likes": 9,
       "likes_source": "x",
       "author": "mindblown_ai",
       "avatar_path": "/workspace/opus-feed/public/avatars/mindblown_ai.jpg"
@@ -5167,7 +5167,7 @@
       "published_at": "2026-09-29T14:52:59.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T04:45:00.000Z"
     },
     {
       "id": "pixel-flow-3d",
@@ -5584,7 +5584,7 @@
       "published_at": "2026-09-30T03:29:16.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T04:45:00.000Z"
     },
     {
       "id": "monochrome-circuit-opus",
@@ -5622,7 +5622,7 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T04:45:00.000Z"
     },
     {
       "id": "monochrome-circuit-sonnet",
@@ -5655,7 +5655,7 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T04:45:00.000Z"
     },
     {
       "id": "monochrome-circuit-astra",
@@ -5688,7 +5688,7 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T04:45:00.000Z"
     },
     {
       "id": "ozapft-is",
@@ -5808,14 +5808,156 @@
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
       "last_seen": "2026-09-30T03:48:00.000Z"
+    },
+    {
+      "id": "bird-siege",
+      "title": "Bird Siege",
+      "description": "Emoji slingshot playground: pull back, let fly, topple pig outposts across three levels. ChatGPT Sites / GPT-6 Astra build by @TonyClimate.",
+      "play_url": "https://bird-siege.tonyheller.chatgpt.site/",
+      "source_url": "https://x.com/TonyClimate/status/2105154016300892232",
+      "screenshot_path": "/workspace/opus-games-fresh/247-bird-siege.jpg",
+      "screenshot_score": 7.8,
+      "screenshot_score_notes": "Clear Level 01 slingshot playground with emoji birds/pigs and score HUD.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/247-bird-siege.jpg",
+          "score": 7.8,
+          "notes": "Level 01 little outpost"
+        }
+      ],
+      "found_via": "X post by @TonyClimate",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "x_handle": "TonyClimate",
+      "avatar_url": "/avatars/tonyclimate.jpg",
+      "published_at": "2026-09-30T04:33:24.000Z",
+      "listed_at": "2026-09-30T04:45:00.000Z",
+      "first_seen": "2026-09-30T04:45:00.000Z",
+      "last_seen": "2026-09-30T04:45:00.000Z"
+    },
+    {
+      "id": "hourglass-city",
+      "title": "The Hourglass City — Act I",
+      "description": "Isometric pixel noir adventure in New Meridian, 1957: point-and-click, inventory, notebook deductions. Single-file Canvas 2D, no external assets. Credited to Claude Opus 5.5 (Odiriuss/PixelArtGameOpus).",
+      "play_url": "https://odiriuss.github.io/PixelArtGameOpus/hourglass_city.html",
+      "source_url": "https://github.com/Odiriuss/PixelArtGameOpus",
+      "screenshot_path": "/workspace/opus-games-fresh/248-hourglass-city.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Atmospheric noir title: trenchcoat silhouette over rainy New Meridian skyline.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/248-hourglass-city.jpg",
+          "score": 9.0,
+          "notes": "Title Act I Ordinary Dead"
+        }
+      ],
+      "found_via": "web catalog / GitHub Pages (Odiriuss)",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "Odiriuss",
+      "avatar_url": "/avatars/odiriuss.jpg",
+      "published_at": "2026-09-28T00:00:00.000Z",
+      "listed_at": "2026-09-30T04:45:00.000Z",
+      "first_seen": "2026-09-30T04:45:00.000Z",
+      "last_seen": "2026-09-30T04:45:00.000Z"
+    },
+    {
+      "id": "fast-rocket",
+      "title": "Fast Rocket",
+      "description": "Rocket-building sandbox with two voiced bantering instructors: build it, launch it, land it. Free browser play, no account. Built with Claude Sonnet 5.5 in Claude Code by @fastrocket / Linh Ngo.",
+      "play_url": "https://linh.com/fastrocket/",
+      "source_url": "https://x.com/fastrocket/status/2105144228754153834",
+      "screenshot_path": "/workspace/opus-games-fresh/249-fast-rocket.jpg",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "Polished coastal launch title art with PRESS ANY KEY CTA.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/249-fast-rocket.jpg",
+          "score": 9.1,
+          "notes": "Title launch pad dusk"
+        }
+      ],
+      "found_via": "X post by @fastrocket",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "simulation",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "fastrocket",
+      "avatar_url": "/avatars/fastrocket.jpg",
+      "author": "Linh Ngo",
+      "published_at": "2026-09-30T03:54:30.000Z",
+      "listed_at": "2026-09-30T04:45:00.000Z",
+      "first_seen": "2026-09-30T04:45:00.000Z",
+      "last_seen": "2026-09-30T04:45:00.000Z"
+    },
+    {
+      "id": "long-exposure",
+      "title": "Long Exposure",
+      "description": "Cozy astrophotography game: pitch camp, point at the sky, wait for the light. One-shot with Claude Sonnet 5.5 by @longmaba (~5h).",
+      "play_url": "https://long-exposure.longmaba.workers.dev/",
+      "source_url": "https://x.com/longmaba/status/2105154719241187809",
+      "screenshot_path": "/workspace/opus-games-fresh/250-long-exposure.jpg",
+      "screenshot_score": 9.0,
+      "screenshot_score_notes": "Golden-hour campsite title still from trailer: van, tripod, valley.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/250-long-exposure.jpg",
+          "score": 9.0,
+          "notes": "Title campsite golden hour"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/250b-long-exposure-vid.jpg",
+          "score": 8.8,
+          "notes": "Trailer frame"
+        }
+      ],
+      "video_path": "videos/long-exposure.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/long-exposure.mp4",
+          "source": "x"
+        }
+      ],
+      "found_via": "X post by @longmaba",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "category": "cozy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "longmaba",
+      "avatar_url": "/avatars/longmaba.jpg",
+      "published_at": "2026-09-30T04:36:11.000Z",
+      "listed_at": "2026-09-30T04:45:00.000Z",
+      "first_seen": "2026-09-30T04:45:00.000Z",
+      "last_seen": "2026-09-30T04:45:00.000Z"
     }
   ],
   "totals": {
-    "games": 257,
+    "games": 261,
     "by_made_with": {
-      "opus-5.5": 183,
-      "astra": 65,
-      "sonnet-5.5": 9
+      "opus-5.5": 184,
+      "sonnet-5.5": 11,
+      "astra": 66
     }
   }
 }
