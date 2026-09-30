@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T04:45:00.000Z",
+  "updated_at": "2026-09-30T05:50:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -229,18 +229,18 @@
       "title": "Silt & Signal",
       "description": "Open-world fantasy sci-fi browser game with hover-bike exploration, quests, and multi-level story, built with Opus 5.5, Crayon, and Three.js.",
       "play_url": "https://app.usecrayon.ai/play/b42413e5-669e-4fb3-87d3-a3285567736c",
-      "source_url": "https://x.com/aniketjart/status/2104373368883662850",
+      "source_url": "https://x.com/aniketjart/status/2105102068818362637",
       "found_via": "X post by @aniketjart with playable Crayon deploy (hours-old update)",
       "found_via_network": "x",
       "screenshot_path": "/workspace/opus-games-fresh/15-silt-signal.jpg",
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
-      "remote_likes": 20,
+      "remote_likes": 105,
       "likes_source": "x"
     },
     {
@@ -4307,7 +4307,7 @@
       "play_url": "https://hearthlight.github.io/",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/",
       "github_url": "https://github.com/Hearthlight",
-      "found_via": "reddit / r/aigamedev",
+      "found_via": "reddit / r/aigamedev (open-source + playable demo)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "category": "adventure",
@@ -4318,15 +4318,15 @@
       "published_at": "2026-09-29T13:46:53.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z",
       "video_path": "videos/hearthlight.mp4",
-      "remote_likes": 111,
+      "remote_likes": 115,
       "likes_source": "reddit",
       "comments": [
         {
           "author": "hey_im_cool",
           "text": "LOL GOTEM TAKE THAT NANA",
-          "likes": 9,
+          "likes": 10,
           "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcu1v68/",
           "created_at": "2026-09-29T17:51:59Z"
         },
@@ -4346,14 +4346,14 @@
         },
         {
           "author": "baz1nga007",
-          "text": "Insane mane, super cool ",
+          "text": "Insane mane, super cool",
           "likes": 3,
           "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcswy0n/",
           "created_at": "2026-09-29T15:08:17Z"
         },
         {
           "author": "drahgon",
-          "text": "Tried it out for five minutes would be great if fishing worked more than once...",
+          "text": "Tried it out for five minutes would be great if fishing worked more than once. After that, I tried like 50 times and it told me the fish got away to try again. But very cool a little too cozy for my taste but cool.",
           "likes": 3,
           "url": "https://www.reddit.com/r/aigamedev/comments/1wtakg5/i_opensourced_the_cozy_pixelart_game_opus_55_made/pcutwpj/",
           "created_at": "2026-09-29T19:44:02Z"
@@ -4636,7 +4636,7 @@
       "published_at": "2026-09-29T22:55:38.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z",
       "remote_likes": 9,
       "likes_source": "x",
       "author": "mindblown_ai",
@@ -4771,7 +4771,7 @@
       "title": "Boring Forest",
       "description": "Stylized Three.js forest stroll: hold to call fireflies, throw light at mushrooms, splash in the river, chase fish, and find the waterfall rainbow. Performance-tuned Claude Code / Opus 5.5 build.",
       "play_url": "https://boring-forest.vercel.app/",
-      "source_url": "https://x.com/mdaman010/status/2105051134226485315",
+      "source_url": "https://x.com/AndreiProvkin/status/2105028422141428086",
       "found_via": "X post by @mdaman010",
       "found_via_network": "x",
       "made_with": "opus-5.5",
@@ -4781,7 +4781,7 @@
       ],
       "author": "mdaman010",
       "avatar_path": "/workspace/opus-feed/public/avatars/mdaman010.jpg",
-      "remote_likes": 3,
+      "remote_likes": 44,
       "likes_source": "x",
       "comments": [
         {
@@ -4817,7 +4817,7 @@
       "published_at": "2026-09-29T21:44:35.000Z",
       "listed_at": "2026-09-30T00:52:14.000Z",
       "first_seen": "2026-09-30T00:52:14.000Z",
-      "last_seen": "2026-09-30T00:52:14.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "carbon-body",
@@ -5513,7 +5513,7 @@
       "author": "TusharXo",
       "x_handle": "TusharXo",
       "avatar_path": "/workspace/opus-feed/public/avatars/TusharXo.jpg",
-      "remote_likes": 5,
+      "remote_likes": 6,
       "likes_source": "x",
       "screenshot_path": "/workspace/opus-games-fresh/239-panic-at-the-disco.jpg",
       "screenshot_score": 8.4,
@@ -5540,7 +5540,7 @@
       "published_at": "2026-09-29T18:54:14.000Z",
       "listed_at": "2026-09-30T02:45:01.000Z",
       "first_seen": "2026-09-30T02:45:01.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "roomwave",
@@ -5622,7 +5622,7 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "monochrome-circuit-sonnet",
@@ -5655,7 +5655,7 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "monochrome-circuit-astra",
@@ -5688,7 +5688,7 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "ozapft-is",
@@ -5840,7 +5840,7 @@
       "published_at": "2026-09-30T04:33:24.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "hourglass-city",
@@ -5870,7 +5870,7 @@
       "published_at": "2026-09-28T00:00:00.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "fast-rocket",
@@ -5904,7 +5904,7 @@
       "published_at": "2026-09-30T03:54:30.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
     },
     {
       "id": "long-exposure",
@@ -5949,15 +5949,172 @@
       "published_at": "2026-09-30T04:36:11.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T04:45:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z"
+    },
+    {
+      "id": "span-nine",
+      "title": "Span Nine",
+      "description": "Eight hulls on a mag strip around a dead star — multiplayer online space racing in the browser (phone, desktop, or TV with phone controllers). Opus 5.5 upgrade of Kart Royale by @Ryancampbell / Homie.",
+      "play_url": "https://homie.rocks/span-nine/",
+      "source_url": "https://x.com/Ryancampbell/status/2105160746363662816",
+      "screenshot_path": "/workspace/opus-games-fresh/251-span-nine.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Cinematic neon mag-strip race: wedge craft through glowing hexagonal gates with cyan track bloom.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/251-span-nine.jpg",
+          "score": 8.9,
+          "notes": "Hero wide race still"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/251b-span-nine-vid.jpg",
+          "score": 8.4,
+          "notes": "Trailer frame"
+        }
+      ],
+      "video_path": "videos/span-nine.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/span-nine.mp4",
+          "source": "x"
+        }
+      ],
+      "found_via": "X post by @Ryancampbell",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "tv"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "x_handle": "Ryancampbell",
+      "avatar_url": "/avatars/ryancampbell.jpg",
+      "published_at": "2026-09-30T05:00:08.000Z",
+      "listed_at": "2026-09-30T05:50:00.000Z",
+      "first_seen": "2026-09-30T05:50:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z"
+    },
+    {
+      "id": "breakwater",
+      "title": "BREAKWATER: 3v3 ARAM MOBA",
+      "description": "Browser 3v3 ARAM MOBA on a stone breakwater across the sea: 8 heroes, tide that floods every 90s, bots + multiplayer. Built with Claude Opus 5.5 (+ Sonnet) by @_nilni; play on phone (vertical) or desktop.",
+      "play_url": "https://www.aigameshare.com/games/breakwater-3v3-moba",
+      "source_url": "https://x.com/_nilni/status/2105157614355268011",
+      "screenshot_path": "/workspace/opus-games-fresh/252-breakwater.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Painted splash key art: three heroes on wet pier with lighthouse and crashing waves.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/252-breakwater.jpg",
+          "score": 8.8,
+          "notes": "Cover key art"
+        },
+        {
+          "path": "/workspace/opus-games-fresh/252b-breakwater-vid.jpg",
+          "score": 7.6,
+          "notes": "Mobile gameplay trailer frame (includes share chrome)"
+        }
+      ],
+      "video_path": "videos/breakwater.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/breakwater.mp4",
+          "source": "x"
+        }
+      ],
+      "found_via": "X post by @_nilni",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "category": "moba",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "x_handle": "_nilni",
+      "avatar_url": "/avatars/_nilni.jpg",
+      "published_at": "2026-09-30T04:47:41.000Z",
+      "listed_at": "2026-09-30T05:50:00.000Z",
+      "first_seen": "2026-09-30T05:50:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z"
+    },
+    {
+      "id": "axioma",
+      "title": "AXIOMA",
+      "description": "Science-themed roguelike card game: build decks from physics, chemistry and math cards, assemble formulas and combos. Free in-browser play (Steam also listed). Credited to Astra 6.0 Ultra by Quanta Aulas.",
+      "play_url": "https://quantaaulas.com/axioma/",
+      "source_url": "https://x.com/testesmnyv/status/2105089357556158712",
+      "screenshot_path": "/workspace/opus-games-fresh/253-axioma.jpg",
+      "screenshot_score": 7.6,
+      "screenshot_score_notes": "Marketing banner with three science cards (math cube, velocity, chemistry flask).",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/253-axioma.jpg",
+          "score": 7.6,
+          "notes": "Promo banner cards"
+        }
+      ],
+      "found_via": "X post by @testesmnyv",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "category": "card",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "x_handle": "testesmnyv",
+      "published_at": "2026-09-30T00:16:28.000Z",
+      "listed_at": "2026-09-30T05:50:00.000Z",
+      "first_seen": "2026-09-30T05:50:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z"
+    },
+    {
+      "id": "keep-climbing",
+      "title": "Keep Climbing",
+      "description": "Pixel castle climb: scale the princess's braid, swing, and throw hair at threats across three wards (~5 min). SlapJam 2026 AI jam entry — art/design GPT-6 Astra, code polish Claude; HTML5 on itch by insanityninja7 / Pipe Dream Interactive.",
+      "play_url": "https://insanityninja7.itch.io/keep-climbing",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtwfbj/keep_climbing_slapjam_2026_contender/",
+      "screenshot_path": "/workspace/opus-games-fresh/254-keep-climbing.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Night pixel-art title: KEEP CLIMBING over vine-covered castle and moon.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/254-keep-climbing.jpg",
+          "score": 8.5,
+          "notes": "Itch title card"
+        }
+      ],
+      "found_via": "reddit / r/aigamedev",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "avatar_url": "/avatars/insanityninja7.jpg",
+      "published_at": "2026-09-30T05:14:29.000Z",
+      "listed_at": "2026-09-30T05:50:00.000Z",
+      "first_seen": "2026-09-30T05:50:00.000Z",
+      "last_seen": "2026-09-30T05:50:00.000Z"
     }
   ],
   "totals": {
-    "games": 261,
+    "games": 265,
     "by_made_with": {
-      "opus-5.5": 184,
+      "opus-5.5": 186,
       "sonnet-5.5": 11,
-      "astra": 66
+      "astra": 68
     }
   }
 }
