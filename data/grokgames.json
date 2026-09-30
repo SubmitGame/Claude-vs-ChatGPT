@@ -6477,6 +6477,48 @@
       "listed_at": "2026-09-30T07:51:31.000Z",
       "first_seen": "2026-09-30T07:51:31.000Z",
       "last_seen": "2026-09-30T07:51:31.000Z"
+    },
+    {
+      "id": "halo-ce-phone",
+      "title": "Halo CE on Phone (browser)",
+      "description": "Mobile-friendly Halo: Combat Evolved in the browser (touch controls). Play https://halo-ce.devcaden.workers.dev/ (alt https://nothalo.lol/). Posted by @CadenBurleson; made_with uncertain — vibe-coding claim unclear, and thread notes overlap with @mitchellhynes WASM Halo CE port already listed as halo-ce-browser.",
+      "play_url": "https://halo-ce.devcaden.workers.dev/",
+      "source_url": "https://x.com/CadenBurleson/status/2098259575745163607",
+      "github_url": null,
+      "github_user": null,
+      "screenshot_path": "/workspace/opus-games-fresh/271-halo-ce-phone.jpg",
+      "screenshot_score": 7.4,
+      "screenshot_score_notes": "Clear Halo CE first-person combat still from the trailer (rifle + rocky outdoor map); phone UI chrome not shown in this frame.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/271-halo-ce-phone.jpg",
+          "score": 7.4,
+          "notes": "FPS combat still from X trailer"
+        }
+      ],
+      "found_via": "User add of X @CadenBurleson; play URL in author reply (halo-ce.devcaden.workers.dev) + later nothalo.lol; video on source post",
+      "found_via_network": "x",
+      "made_with": "uncertain",
+      "category": "fps",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "x_handle": "CadenBurleson",
+      "remote_likes": 18,
+      "likes_source": "x",
+      "published_at": "2026-09-11T03:57:21.000Z",
+      "listed_at": "2026-09-30T23:35:44.000Z",
+      "first_seen": "2026-09-30T23:35:44.000Z",
+      "last_seen": "2026-09-30T23:35:44.000Z",
+      "video_path": "videos/halo-ce-phone.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/halo-ce-phone.mp4",
+          "source": "x"
+        }
+      ]
     }
   ],
   "totals": {
