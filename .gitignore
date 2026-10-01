@@ -1,7 +1,1 @@
-
-# GitHub rejects files >100MB; keep these local / host elsewhere
-videos/summer-cycle.mp4
-videos/super-smash-royale.mp4
-videos/mine-minecraft-opus.mp4
-videos/savannah-hunt.mp4
-videos/regolith-moon-rover.mp4
+# (no local-only >100MB video ignores remaining; re-encoded clips are under the limit)

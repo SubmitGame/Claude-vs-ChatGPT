@@ -4123,7 +4123,8 @@
       "published_at": "2026-09-22T18:15:50.000Z",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T05:52:30.000Z",
-      "video_path": "videos/mine-minecraft-opus.mp4"
+      "video_path": "videos/mine-minecraft-opus.mp4",
+      "screenshot_path": "screenshots/286-mine-minecraft-opus.jpg"
     },
     {
       "id": "summer-cycle",
@@ -4147,7 +4148,8 @@
       "published_at": "2026-09-24T21:18:27.000Z",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T05:52:30.000Z",
-      "video_path": "videos/summer-cycle.mp4"
+      "video_path": "videos/summer-cycle.mp4",
+      "screenshot_path": "screenshots/285-summer-cycle.jpg"
     },
     {
       "id": "regolith-moon-rover",
@@ -4170,7 +4172,8 @@
       "published_at": "2026-08-12T08:26:14.000Z",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "video_path": "videos/regolith-moon-rover.mp4"
+      "video_path": "videos/regolith-moon-rover.mp4",
+      "screenshot_path": "screenshots/289-regolith-moon-rover.jpg"
     },
     {
       "id": "operation-safe-return",
@@ -4236,7 +4239,8 @@
       "published_at": "2026-09-07T06:28:03.000Z",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T05:52:30.000Z",
-      "video_path": "videos/savannah-hunt.mp4"
+      "video_path": "videos/savannah-hunt.mp4",
+      "screenshot_path": "screenshots/287-savannah-hunt.jpg"
     },
     {
       "id": "eight-fronts",
@@ -4280,7 +4284,8 @@
       "published_at": "2026-09-11T15:51:44.000Z",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T05:52:30.000Z",
-      "video_path": "videos/super-smash-royale.mp4"
+      "video_path": "videos/super-smash-royale.mp4",
+      "screenshot_path": "screenshots/288-super-smash-royale.jpg"
     },
     {
       "id": "destroy-any-website",
