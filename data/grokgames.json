@@ -6216,7 +6216,8 @@
       "first_seen": "2026-09-30T06:01:41.000Z",
       "last_seen": "2026-10-01T05:01:39.000Z",
       "video_path": "videos/halo-ce-browser.mp4",
-      "iframe": true
+      "iframe": false,
+      "iframe_block_reason": "wasm-sharedarraybuffer-needs-cross-origin-isolated (halo.js postMessage SharedArrayBuffer fails without COI; iframe cannot be crossOriginIsolated)"
     },
     {
       "id": "finals-night-table-tennis",
