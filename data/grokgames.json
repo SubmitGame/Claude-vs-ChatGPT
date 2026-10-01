@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:30:00.000Z",
+  "updated_at": "2026-10-01T01:44:35.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -6186,8 +6186,8 @@
     {
       "id": "halo-ce-browser",
       "title": "Halo CE (Xbox) in the Browser",
-      "description": "Full Xbox Halo: Combat Evolved running in-browser via WASM/Emscripten (decomp-based): campaign, splitscreen co-op, and WebRTC multiplayer (Cloudflare). Author play link mitchellhynes.com/halo. made_with uncertain — no Opus/Sonnet/Astra credit found; engineering port of Halo CE decomp, not a claimed model one-shot.",
-      "play_url": "https://mitchellhynes.com/halo",
+      "description": "Full Xbox Halo: Combat Evolved running in-browser via WASM/Emscripten (decomp-based): campaign, splitscreen co-op, and WebRTC multiplayer (Cloudflare). Play https://halo.lolgames.net/ (embeddable). made_with uncertain — no Opus/Sonnet/Astra credit found; engineering port of Halo CE decomp, not a claimed model one-shot.",
+      "play_url": "https://halo.lolgames.net/",
       "source_url": "https://x.com/mitchellhynes/status/2104969744721883474",
       "github_url": null,
       "github_user": null,
@@ -6201,7 +6201,7 @@
           "notes": "FPS view with assault rifle on outdoor Halo CE map"
         }
       ],
-      "found_via": "X bookmark @friuns2 → @mitchellhynes Halo CE browser; play URL in author reply (Visit mitchellhynes.com/halo) + reply join links; made_with uncertain (WASM/Emscripten decomp, no Opus/Sonnet/Astra claim)",
+      "found_via": "X bookmark @friuns2 → @mitchellhynes Halo CE browser; play URL retargeted to halo.lolgames.net (embeddable) per Reddit comment https://www.reddit.com/r/ChatGPT/comments/1wua170/comment/pd423go/ + Opus Feed request; prior mitchellhynes.com/halo; made_with uncertain (WASM/Emscripten decomp, no Opus/Sonnet/Astra claim)",
       "found_via_network": "x",
       "made_with": "uncertain",
       "category": "fps",
@@ -6214,8 +6214,9 @@
       "published_at": "2026-09-29T16:21:10.000Z",
       "listed_at": "2026-09-30T06:01:41.000Z",
       "first_seen": "2026-09-30T06:01:41.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z",
-      "video_path": "videos/halo-ce-browser.mp4"
+      "last_seen": "2026-10-01T01:44:35.000Z",
+      "video_path": "videos/halo-ce-browser.mp4",
+      "iframe": true
     },
     {
       "id": "finals-night-table-tennis",
@@ -6481,8 +6482,8 @@
     {
       "id": "halo-ce-phone",
       "title": "Halo CE on Phone (browser)",
-      "description": "Mobile-friendly Halo: Combat Evolved in the browser (touch controls). Play https://halo-ce.devcaden.workers.dev/ (alt https://nothalo.lol/). Posted by @CadenBurleson; made_with uncertain — vibe-coding claim unclear, and thread notes overlap with @mitchellhynes WASM Halo CE port already listed as halo-ce-browser.",
-      "play_url": "https://halo-ce.devcaden.workers.dev/",
+      "description": "Mobile-friendly Halo: Combat Evolved in the browser (touch controls). Play https://halo.lolgames.net/ (retargeted from workers.dev/nothalo which block iframes). Posted by @CadenBurleson; made_with uncertain — vibe-coding claim unclear, and thread notes overlap with @mitchellhynes WASM Halo CE port already listed as halo-ce-browser.",
+      "play_url": "https://halo.lolgames.net/",
       "source_url": "https://x.com/CadenBurleson/status/2098259575745163607",
       "github_url": null,
       "github_user": null,
@@ -6496,7 +6497,7 @@
           "notes": "FPS combat still from X trailer"
         }
       ],
-      "found_via": "User add of X @CadenBurleson; play URL in author reply (halo-ce.devcaden.workers.dev) + later nothalo.lol; video on source post",
+      "found_via": "User add of X @CadenBurleson; former play URLs halo-ce.devcaden.workers.dev and nothalo.lol blocked for embed (frame-ancestors none); retargeted to https://halo.lolgames.net/ per Reddit https://www.reddit.com/r/ChatGPT/comments/1wua170/comment/pd423go/ + Opus Feed request; video on source post; related to halo-ce-browser",
       "found_via_network": "x",
       "made_with": "uncertain",
       "category": "fps",
@@ -6510,7 +6511,7 @@
       "published_at": "2026-09-11T03:57:21.000Z",
       "listed_at": "2026-09-30T23:35:44.000Z",
       "first_seen": "2026-09-30T23:35:44.000Z",
-      "last_seen": "2026-09-30T23:35:44.000Z",
+      "last_seen": "2026-10-01T01:44:35.000Z",
       "video_path": "videos/halo-ce-phone.mp4",
       "video_source": "x",
       "videos": [
@@ -6518,7 +6519,8 @@
           "path": "videos/halo-ce-phone.mp4",
           "source": "x"
         }
-      ]
+      ],
+      "iframe": true
     },
     {
       "id": "agenthot",
