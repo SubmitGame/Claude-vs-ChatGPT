@@ -20,14 +20,17 @@ Otherwise set `iframe: false` and a short `iframe_block_reason` (e.g. `xfo-sameo
 
 Do **not** require pointer-lock or storage APIs for this flag.
 
-## Known bad hosts (Halo)
+## Halo CE hosts (three distinct catalog entries)
 
-Do not use as feed-facing play URLs:
+Keep **distinct** `play_url`s so Opus Feed can list all three after runtime play_url dedupe is removed:
 
-- `https://halo-ce.devcaden.workers.dev/`
-- `https://nothalo.lol/`
+| Catalog id | Play URL | iframe | Notes |
+|---|---|---|---|
+| `halo-ce-browser` (mitchellhynes) | `https://mitchellhynes.com/halo` | **true** | Desktop Halo entry. No XFO; no CSP `frame-ancestors`; no CORP. |
+| `halo-ce-phone` (Caden) | `https://halo-ce.devcaden.workers.dev/` | **false** | CSP `frame-ancestors 'none'`. Alt `https://nothalo.lol/` same block — do not use as feed play_url for embed. |
+| `halo-ce-mobile-sol61` (Reddit / Sol 6.1 / u/friuns) | `https://halo.omgithub.com/` | **true** | Preferred embed host for the mobile/touch Reddit build (same deployment as `halo.lolgames.net`). No XFO; CORP `cross-origin`. |
 
-Prefer embeddable: `https://halo.omgithub.com/` — never retarget `halo-ce-browser` / `halo-ce-phone` to `*.lolgames.net`, mitchellhynes, workers.dev, or nothalo.lol.
+Do **not** collapse mitchellhynes or Caden onto omgithub/lolgames — those hosts belong to the Sol/mobile Reddit entry.
 
 ## Hourly routine
 
