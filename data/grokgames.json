@@ -6201,7 +6201,7 @@
           "notes": "FPS view with assault rifle on outdoor Halo CE map"
         }
       ],
-      "found_via": "X bookmark @friuns2 → @mitchellhynes Halo CE browser; play URL retargeted to halo.lolgames.net (embeddable) per Reddit comment https://www.reddit.com/r/ChatGPT/comments/1wua170/comment/pd423go/ + Opus Feed request; prior mitchellhynes.com/halo; made_with uncertain (WASM/Emscripten decomp, no Opus/Sonnet/Astra claim)",
+      "found_via": "X bookmark @friuns2 → @mitchellhynes Halo CE browser; play URL retargeted to halo.omgithub.com (embeddable) per Reddit comment https://www.reddit.com/r/ChatGPT/comments/1wua170/comment/pd423go/ + Opus Feed request; prior mitchellhynes.com/halo; made_with uncertain (WASM/Emscripten decomp, no Opus/Sonnet/Astra claim)",
       "found_via_network": "x",
       "made_with": "uncertain",
       "category": "fps",
@@ -6497,7 +6497,7 @@
           "notes": "FPS combat still from X trailer"
         }
       ],
-      "found_via": "User add of X @CadenBurleson; former play URLs halo-ce.devcaden.workers.dev and nothalo.lol blocked for embed (frame-ancestors none); retargeted to https://halo.lolgames.net/ per Reddit https://www.reddit.com/r/ChatGPT/comments/1wua170/comment/pd423go/ + Opus Feed request; video on source post; related to halo-ce-browser",
+      "found_via": "User add of X @CadenBurleson; former play URLs halo-ce.devcaden.workers.dev and nothalo.lol blocked for embed (frame-ancestors none); retargeted to https://halo.omgithub.com/ per Reddit https://www.reddit.com/r/ChatGPT/comments/1wua170/comment/pd423go/ + Opus Feed request; video on source post; related to halo-ce-browser",
       "found_via_network": "x",
       "made_with": "uncertain",
       "category": "fps",

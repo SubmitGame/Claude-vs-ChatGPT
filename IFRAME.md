@@ -27,7 +27,7 @@ Do not use as feed-facing play URLs:
 - `https://halo-ce.devcaden.workers.dev/`
 - `https://nothalo.lol/`
 
-Prefer embeddable: `https://halo.lolgames.net/` (alt `https://halo1.lolgames.net/`).
+Prefer embeddable: `https://halo.omgithub.com/` — never retarget `halo-ce-browser` / `halo-ce-phone` to `*.lolgames.net`, mitchellhynes, workers.dev, or nothalo.lol.
 
 ## Hourly routine
 
