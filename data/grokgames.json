@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T07:51:31.000Z",
+  "updated_at": "2026-10-01T01:30:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -6519,15 +6519,268 @@
           "source": "x"
         }
       ]
+    },
+    {
+      "id": "agenthot",
+      "title": "AGENTHOT",
+      "description": "Browser SUPERHOT-like FPS where time only advances when you move: one room, five enemies, four bullets. Three.js / WebGPU+WebGL2, synth audio; credited to Claude Opus 5.5 (eRom).",
+      "play_url": "https://agenthot.erom.cloud/",
+      "source_url": "https://github.com/eRom/agenthot-the-game",
+      "github_url": "https://github.com/eRom/agenthot-the-game",
+      "screenshot_path": "/workspace/opus-games-fresh/274-agenthot.jpg",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "White sterile shelves room with two orange hostiles (floor + balcony); SUPERHOT-style palette — in-game room still from repo room-01 capture.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/274-agenthot.jpg",
+          "score": 8.3,
+          "notes": "In-game room still (orange hostiles)"
+        }
+      ],
+      "found_via": "GitHub search opus 5.5 (eRom/agenthot-the-game)",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "outpace",
+      "title": "Outpace",
+      "description": "Claude-mascot typing runner: type to outrun an adaptive pixel wave, jump creatures, chase/sprint modes and global leaderboard. Built end-to-end by Claude Opus 5.5 (~45m) with Sonnet 5.5 subagents for backend/QA (ethanplusai).",
+      "play_url": "https://outpace.ethanplus.ai/",
+      "source_url": "https://github.com/ethanplusai/outpace",
+      "github_url": "https://github.com/ethanplusai/outpace",
+      "screenshot_path": "/workspace/opus-games-fresh/275-outpace.jpg",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Pixel typing HUD: Claude ahead of Great Wave, hearts/WPM/wave UI, active word \"ask\" with pink caret — clear in-game still.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/275-outpace.jpg",
+          "score": 8.7,
+          "notes": "Chase mode gameplay still"
+        }
+      ],
+      "found_via": "GitHub search + AgentsLoop seed cross-check",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "typing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "knesset-kombat-26",
+      "title": "Knesset Kombat 26",
+      "description": "Mortal Kombat-style Knesset parody fighter in Three.js: procedural fighters, arena, SFX; one-shot remake from an Instagram reel by Claude Opus 5.5 (High), then roster follow-ups (yarinbnyamin).",
+      "play_url": "https://yarinbnyamin.github.io/knesset-kombat-26/",
+      "source_url": "https://github.com/yarinbnyamin/knesset-kombat-26",
+      "github_url": "https://github.com/yarinbnyamin/knesset-kombat-26",
+      "screenshot_path": "/workspace/opus-games-fresh/276-knesset-kombat.jpg",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Fight still: Speaker vs Backbencher in plenum arena with health bars, timer 97, menorah prop, bilingual labels and control strip.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/276-knesset-kombat.jpg",
+          "score": 8.6,
+          "notes": "In-fight three.js still"
+        }
+      ],
+      "found_via": "GitHub search opus 5.5 created 2026-09-30",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "blockworld",
+      "title": "BLOCKWORLD",
+      "description": "Minecraft-style voxel sandbox in one browser tab (three.js, no build step): dig/place blocks, day/night. Written by Claude Opus 5.5 in a single unattended Claude Code session (L1vsun).",
+      "play_url": "https://l1vsun.github.io/BLOCKWORLD/",
+      "source_url": "https://github.com/L1vsun/BLOCKWORLD",
+      "github_url": "https://github.com/L1vsun/BLOCKWORLD",
+      "screenshot_path": "/workspace/opus-games-fresh/277-blockworld.jpg",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "First-person build still: hotbar with bricks selected, hand holding brick, cobble/wood/glass tower on grassy shore with soft shadows.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/277-blockworld.jpg",
+          "score": 8.0,
+          "notes": "In-game building POV"
+        }
+      ],
+      "found_via": "GitHub search opus 5.5 + AgentsLoop seed",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "sandbox",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "gravewake",
+      "title": "GRAVEWAKE",
+      "description": "Dark-fantasy twin-stick shooter for phones/desktop: wizard in a midnight clearing vs undead waves, boons, Lich and Bone Colossus. HTML5 on itch; vibecoded with Claude Opus 5.5 by Liora Labs.",
+      "play_url": "https://shiny-guru.itch.io/gravewake",
+      "source_url": "https://github.com/LioraLabs/gravewake",
+      "github_url": "https://github.com/LioraLabs/gravewake",
+      "screenshot_path": "/workspace/opus-games-fresh/278-gravewake.jpg",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Night clearing fight: WAVE 9 · WRAITHS, score HUD, slash FX and glowing pickups among tombstones — real combat still.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/278-gravewake.jpg",
+          "score": 8.5,
+          "notes": "Wave combat still"
+        }
+      ],
+      "found_via": "AgentsLoop seed cross-check (itch HTML5)",
+      "found_via_network": "itch",
+      "made_with": "opus-5.5",
+      "category": "action",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "type-or-die",
+      "title": "Type or Die",
+      "description": "Typing horror in five acts: type creature name-tags on a haunted typewriter to rewrite the Book of the Dead. HTML5 itch build credited to Claude Opus 5.5 (jaldps).",
+      "play_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
+      "source_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
+      "screenshot_path": "/workspace/opus-games-fresh/279-type-or-die.jpg",
+      "screenshot_score": 7.9,
+      "screenshot_score_notes": "Title/ledger scene: foggy graveyard, moon, typewriter on crate, wandering undead and parchment how-to — playable scene not logo-only.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/279-type-or-die.jpg",
+          "score": 7.9,
+          "notes": "Title/play setup still"
+        }
+      ],
+      "found_via": "itch.io search Claude Opus",
+      "found_via_network": "itch",
+      "made_with": "opus-5.5",
+      "category": "typing-horror",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "neon-bay",
+      "title": "NEON BAY",
+      "description": "Open-world browser driving city: seven cars, procedural coastal streets, Pacejka tyres, ABS/TCS, nitro and handbrake drifts. Plain JS + three.js by Claude Opus 5.5 (L1vsun).",
+      "play_url": "https://l1vsun.github.io/NEONBAY/",
+      "source_url": "https://github.com/L1vsun/NEONBAY",
+      "github_url": "https://github.com/L1vsun/NEONBAY",
+      "screenshot_path": "/workspace/opus-games-fresh/280-neon-bay.jpg",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Third-person midtown dusk: red car with underglow, 106 km/h speedo, MIDTOWN minimap, $2500 and wanted stars.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/280-neon-bay.jpg",
+          "score": 8.4,
+          "notes": "Driving HUD still"
+        }
+      ],
+      "found_via": "AgentsLoop seed cross-check",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "last-courier",
+      "title": "Last Courier",
+      "description": "Death Stranding–inspired browser delivery: balance cargo on R-07 across rivers, ladders and echo rain to reconnect 7 outposts. All art/SFX procedural; Claude Opus 5.5 XHIGH (tanuu5).",
+      "play_url": "https://tanuu5.github.io/last-courier/",
+      "source_url": "https://github.com/tanuu5/last-courier",
+      "github_url": "https://github.com/tanuu5/last-courier",
+      "screenshot_path": "/workspace/opus-games-fresh/281-last-courier.jpg",
+      "screenshot_score": 8.9,
+      "screenshot_score_notes": "Ladder-bridge canyon crossing with stacked crates, Japanese HUD (battery/weight/cargo list) and balance gauge — strong atmospheric still.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/281-last-courier.jpg",
+          "score": 8.9,
+          "notes": "Ladder bridge gameplay"
+        }
+      ],
+      "found_via": "AgentsLoop seed cross-check",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
+    },
+    {
+      "id": "core-business",
+      "title": "Core Business",
+      "description": "2.5D Motherload remake in three.js: drill Mars for ore, upgrade/repair shops, German UI. Entire code/models/textures vibe-coded with Claude Opus 5.5; audio via ElevenLabs (leichtbier).",
+      "play_url": "https://leichtbier.github.io/core-business/",
+      "source_url": "https://github.com/leichtbier/core-business",
+      "github_url": "https://github.com/leichtbier/core-business",
+      "screenshot_path": "/workspace/opus-games-fresh/282-core-business.jpg",
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Surface night still: yellow drill pod between UPGRADES and REPAIR, Mars Needs Miners billboard, German tank/hull/cargo HUD.",
+      "screenshots": [
+        {
+          "path": "/workspace/opus-games-fresh/282-core-business.jpg",
+          "score": 8.8,
+          "notes": "Surface base gameplay still"
+        }
+      ],
+      "found_via": "AgentsLoop seed cross-check",
+      "found_via_network": "github",
+      "made_with": "opus-5.5",
+      "category": "mining",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-01T01:30:00.000Z",
+      "last_seen": "2026-10-01T01:30:00.000Z",
+      "listed_at": "2026-10-01T01:30:00.000Z"
     }
   ],
   "totals": {
-    "games": 274,
+    "games": 284,
     "by_made_with": {
       "astra": 69,
-      "opus-5.5": 192,
+      "opus-5.5": 201,
       "sonnet-5.5": 12,
-      "uncertain": 1
+      "uncertain": 2
     }
   }
 }
