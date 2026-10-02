@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T01:52:00.000Z",
+  "updated_at": "2026-10-02T12:34:06.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -276,7 +276,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T07:51:31.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
@@ -2274,7 +2274,7 @@
       "screenshot_score_notes": "Isometric King's Row rooftop with Tracer on chronal pad and clear LET'S GO CTA.",
       "made_with": "astra",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29T23:57:00.000Z"
+      "last_seen": "2026-10-02T12:34:06.000Z"
     },
     {
       "id": "kiriko-foxlight-crossing",
@@ -2364,7 +2364,7 @@
       "screenshot_score_notes": "Clean Swiss Alps low-poly Mercy with gold wings and Begin rescue CTA.",
       "made_with": "astra",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-02T12:34:06.000Z"
     },
     {
       "id": "iron-oath-reinhardt",
@@ -2409,7 +2409,7 @@
       "screenshot_score_notes": "Sunny low-poly Bay City with yellow taxi and LET'S RIDE CTA; bright arcade polish.",
       "made_with": "astra",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-02T12:34:06.000Z"
     },
     {
       "id": "voxel-frontline-astra",
@@ -2559,7 +2559,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Packed stadium, dual scoreboards, pitch branding and exhibition settings panel are instantly legible; very polished for a browser remake.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-30T05:52:30.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "made_with": "opus-5.5",
       "category": "sports",
       "platforms": [
@@ -2780,7 +2780,7 @@
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Cel-shaded FPS still of Old Town with ink rifle, rabbit foes and full HUD — playful identity and readable combat UI.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "made_with": "astra",
       "category": "fps",
       "platforms": [
@@ -4612,7 +4612,7 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "remote_likes": 205,
       "likes_source": "x",
       "author": "KalraIshaan11",
@@ -6041,7 +6041,7 @@
       "published_at": "2026-09-30T05:00:08.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-10-02T12:34:06.000Z"
     },
     {
       "id": "breakwater",
@@ -6900,7 +6900,7 @@
       "screenshot_score": 8.2,
       "screenshot_score_notes": "Solarpunk valley / airship vibe from creator Reddit trailer still.",
       "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
       "video_path": "videos/kals-valley.mp4",
       "video_source": "scan-intake",
@@ -7012,7 +7012,7 @@
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Living neon city street with traffic from creator gameplay clip.",
       "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
       "video_path": "videos/neon-palms.mp4",
       "video_source": "scan-intake",
@@ -7146,7 +7146,7 @@
       "screenshot_score": 8.3,
       "screenshot_score_notes": "3D T-Rex chase with procedural dinos/cavemen HUD.",
       "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
       "video_path": "videos/rex-chase.mp4",
       "video_source": "scan-intake",
@@ -7292,14 +7292,255 @@
           "notes": "Flying carpet over magical cloud world from gameplay clip."
         }
       ]
+    },
+    {
+      "id": "kage-no-michi",
+      "title": "Kage no Michi: Path of the Shadow",
+      "description": "Sekiro-inspired 2D ink-and-paper shinobi duel action; keyboard, controller, and touch. Built with Claude Opus 5.5 (kusanagikeiji / rvnztolentino).",
+      "play_url": "https://kage.rvnztolentino.com/",
+      "source_url": "https://x.com/kusanagikeiji/status/2105994556219215990",
+      "found_via": "X @kusanagikeiji Opus shinobi play link",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": null,
+      "likes_source": "x",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "Ink-wash shinobi duel still from creator X gameplay clip.",
+      "video_path": "videos/kage-no-michi.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/kage-no-michi.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/kage-no-michi.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/kage-no-michi.jpg",
+          "score": 8.4,
+          "notes": "Ink-wash shinobi duel still from creator X gameplay clip."
+        }
+      ],
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "relight-lantern-expanse",
+      "title": "Relight: Lantern Expanse",
+      "description": "Browser Three.js space game built with GPT-6 Astra (Plastic_Mud4637 / gamesby.ai).",
+      "play_url": "https://relight.gamesby.ai/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wvncqt/i_build_space_game_with_gpt6astra_and_threejs/",
+      "found_via": "r/aigamedev GPT6-Astra ThreeJS space game",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "space",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "screenshot_score": 8.1,
+      "screenshot_score_notes": "Space flight / lantern expanse still from Reddit trailer.",
+      "video_path": "videos/relight-lantern-expanse.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/relight-lantern-expanse.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/relight-lantern-expanse.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/relight-lantern-expanse.jpg",
+          "score": 8.1,
+          "notes": "Space flight still from Reddit trailer."
+        }
+      ],
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "colony-exodus",
+      "title": "Colony Exodus",
+      "description": "Multiplayer idle MMORPG inspired by RuneScape — guest play, clue scrolls, skilling pets. Built with Claude Opus 5.5 (ColonyExodus).",
+      "play_url": "https://colonyexodus.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wviou0/im_working_on_a_multiplayer_idle_mmorpg_inspired/",
+      "found_via": "r/aigamedev Opus 5.5 idle MMORPG",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors",
+      "category": "mmorpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Landing page / prison planet idle RPG framing (no dedicated clip this run).",
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "vybenomad",
+      "title": "VybeNomad",
+      "description": "Free digital-nomad life simulator in the browser (Chiang Mai → Bali → Lisbon). Current look/gameplay polished with Claude Sonnet 5.5 (Albert Simon / vaigames).",
+      "play_url": "https://vaigames.com/vybenomad/",
+      "source_url": "https://x.com/AlbertSimonDev/status/2105945580350636481",
+      "found_via": "X @AlbertSimonDev Sonnet 5.5 VybeNomad",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "life-sim",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": null,
+      "likes_source": "x",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "Painted city nomad scene from creator X gameplay clip.",
+      "video_path": "videos/vybenomad.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/vybenomad.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/vybenomad.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/vybenomad.jpg",
+          "score": 8.3,
+          "notes": "Painted city nomad scene from creator X gameplay clip."
+        }
+      ],
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "hollowlight",
+      "title": "Hollowlight",
+      "description": "Survivors × tower-defense roguelite alpha in Godot. Nearly fully Claude Opus 5.5 (clayman902).",
+      "play_url": "https://hollowlightgame.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wumn8g/im_building_a_survivors_tower_defense_roguelite/",
+      "found_via": "r/aigamedev Opus 5.5 survivors×TD",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "roguelite",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Top-down survivors/TD combat still from Reddit trailer.",
+      "video_path": "videos/hollowlight.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/hollowlight.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/hollowlight.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/hollowlight.jpg",
+          "score": 8.2,
+          "notes": "Top-down survivors/TD combat still from Reddit trailer."
+        }
+      ],
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "blank-the-spire",
+      "title": "BLANK the Spire",
+      "description": "Forge custom Slay the Spire 2 classes (fill-in-the-blank) with Opus + Fable creative pipeline; browser forge at blankthespire.com (unwittingyeti).",
+      "play_url": "https://blankthespire.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wum5sb/blank_the_spire_made_with_opus_and_fable/",
+      "found_via": "r/aigamedev Opus+Fable Blank the Spire",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "card",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "screenshot_score": 7.9,
+      "screenshot_score_notes": "Custom class forge / Spire UI still from Reddit trailer.",
+      "video_path": "videos/blank-the-spire.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/blank-the-spire.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/blank-the-spire.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/blank-the-spire.jpg",
+          "score": 7.9,
+          "notes": "Custom class forge still from Reddit trailer."
+        }
+      ],
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "flappy-claude",
+      "title": "Flappy Claude",
+      "description": "Tiny Flappy-style canvas game with Playwright test exercises — built with Claude Opus 5.5 (testautomationtv demo).",
+      "play_url": "https://demo.testautomationtv.com/games/flappy-claude",
+      "source_url": "https://demo.testautomationtv.com/games/flappy-claude",
+      "found_via": "Web Flappy Claude Opus 5.5 demo",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors",
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "screenshot_score": 7.0,
+      "screenshot_score_notes": "No clip this run; page documents Opus 5.5 Flappy build.",
+      "first_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "listed_at": "2026-10-02T12:34:06.000Z"
     }
   ],
   "totals": {
-    "games": 298,
+    "games": 305,
     "by_made_with": {
-      "astra": 71,
-      "opus-5.5": 212,
-      "sonnet-5.5": 12,
+      "opus-5.5": 217,
+      "astra": 72,
+      "sonnet-5.5": 13,
       "uncertain": 3
     }
   }
