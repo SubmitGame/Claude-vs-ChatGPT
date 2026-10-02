@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T05:01:39.000Z",
+  "updated_at": "2026-10-02T01:52:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -144,13 +144,13 @@
       "description": "A clay dung-beetle rolls a tiny sun home through a miniature garden with mobile and gamepad support.",
       "play_url": "https://dawnroll.vercel.app",
       "source_url": "https://x.com/Nickxyzn/status/2102543532309270803",
-      "found_via": "X creator thread; also indexed on aicookd.com",
+      "found_via": "X creator thread; also indexed on aicookd.com; rescanned 2026-10-02 X @Nickxyzn",
       "found_via_network": "x",
       "screenshot_path": "/workspace/opus-games-fresh/07-dawnroll.jpg",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "The beetle, rolled sun, garden path, and soft lighting establish the game immediately, while the menu overlay and vignette slightly reduce clarity.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-02T01:50:14.000Z",
       "made_with": "opus-5.5",
       "remote_likes": 1,
       "likes_source": "x"
@@ -6813,7 +6813,7 @@
       "published_at": "2026-09-30T16:48:13.000Z",
       "listed_at": "2026-10-01T05:01:39.000Z",
       "first_seen": "2026-10-01T05:01:39.000Z",
-      "last_seen": "2026-10-01T05:01:39.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
       "video_path": "videos/halo-ce-mobile-sol61.mp4",
       "video_source": "reddit",
       "videos": [
@@ -6860,13 +6860,445 @@
           "created_at": "2026-10-01T03:03:31Z"
         }
       ]
+    },
+    {
+      "id": "fallout-new-york",
+      "title": "Fallout: New York",
+      "description": "Desktop browser Fallout fan RPG in ruined Manhattan: quests, dialogue, V.A.T.S., S.P.E.C.I.A.L., Pip-Boy; graphics/audio generated in-code. Built with Claude Opus 5.5 (Chris First).",
+      "play_url": "https://fallout.nyc/",
+      "source_url": "https://x.com/chrisfirst/status/2104644598626934858",
+      "found_via": "X / web (minchoi highlight + fallout.nyc)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Public Fallout: New York landing — Vault 120 / Big Apple ruins framing from official play page.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z"
+    },
+    {
+      "id": "kals-valley",
+      "title": "Kal's Valley",
+      "description": "Solarpunk WebGL village with rideable airships; Blender assets + Kimodo anims + ElevenLabs audio. Almost entirely Claude Opus 5.5 (yajiv).",
+      "play_url": "https://kalsvalley.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wvgj1u/im_working_on_a_solarpunkthemed_game_using_opus_55/",
+      "found_via": "r/aigamedev solarpunk Opus 5.5 post",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 6,
+      "likes_source": "reddit",
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Solarpunk valley / airship vibe from creator Reddit trailer still.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/kals-valley.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/kals-valley.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/kals-valley.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/kals-valley.jpg",
+          "score": 8.2,
+          "notes": "Solarpunk valley / airship vibe from creator Reddit trailer still."
+        }
+      ]
+    },
+    {
+      "id": "kowloon-underground",
+      "title": "九龍地下街 (Kowloon Underground)",
+      "description": "Opus 5.5 FPS demo set in a Kowloon-inspired underground street (refuge.tokyo).",
+      "play_url": "https://refuge.tokyo/ai/games/kowloon/kowloon.html",
+      "source_url": "https://x.com/564kuma/status/2105784902629343691",
+      "found_via": "X @564kuma Opus 5.5 FPS demo",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Neon Kowloon alley FPS still from creator X post photos.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/kowloon-underground.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/kowloon-underground.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/kowloon-underground.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/kowloon-underground.jpg",
+          "score": 8.0,
+          "notes": "Neon Kowloon alley FPS still from creator X post photos."
+        }
+      ]
+    },
+    {
+      "id": "canyon-overdrive",
+      "title": "Canyon Overdrive",
+      "description": "Vaporwave neon canyon flyer: twin ion cannons, missiles, afterburner; mouse/keyboard/touch. Made with Astra & Sol 6.1 + ElevenLabs/Suno (Marco van Hylckama Vlieg / AIandDesign).",
+      "play_url": "https://canyonoverdrive.ai-created.com/",
+      "source_url": "https://x.com/AIandDesign/status/2105465838946140499",
+      "found_via": "X @AIandDesign Astra & Sol 6.1",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "category": "shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 49,
+      "likes_source": "x",
+      "screenshot_score": 8.7,
+      "screenshot_score_notes": "Synthwave canyon HUD with score/hull/missiles — in-game title screen.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/canyon-overdrive.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/canyon-overdrive.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/canyon-overdrive.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/canyon-overdrive.jpg",
+          "score": 8.7,
+          "notes": "Synthwave canyon HUD with score/hull/missiles — in-game title screen."
+        }
+      ]
+    },
+    {
+      "id": "neon-palms",
+      "title": "Neon Palms",
+      "description": "Playable 3D open-world city with traffic, missions, living detail — one-prompt Claude Opus 5.5 GTA-style benchmark demo (Dubovsky Labs).",
+      "play_url": "https://dubovskylabs.com/neon-palms-claude-opus-5-5/",
+      "source_url": "https://x.com/Marek_Dubovsky/status/2105725141531701682",
+      "found_via": "X @Marek_Dubovsky Opus 5.5 city + Dubovsky Labs",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "open-world",
+      "platforms": [
+        "desktop"
+      ],
+      "screenshot_score": 8.8,
+      "screenshot_score_notes": "Living neon city street with traffic from creator gameplay clip.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/neon-palms.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/neon-palms.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/neon-palms-hero.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/neon-palms-hero.jpg",
+          "score": 8.8,
+          "notes": "Dubovsky Labs Neon Palms hero still"
+        }
+      ]
+    },
+    {
+      "id": "baa-sheep-opus",
+      "title": "BAA — Sheep Herding (Opus 5.5)",
+      "description": "3D sheep-herding arcade from Dubovsky Labs BAA-chmark — Claude Opus 5.5 one-shot playable result.",
+      "play_url": "https://dubovskylabs.com/benchmarks/baa/play/claude-opus-5-5/",
+      "source_url": "https://dubovskylabs.com/",
+      "found_via": "Dubovsky Labs BAA-chmark Opus 5.5 demo",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "screenshot_score": 7.8,
+      "screenshot_score_notes": "Sheep-herding arcade benchmark page / demo chrome.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z"
+    },
+    {
+      "id": "attack-on-titan-shiganshina",
+      "title": "Attack on Titan — The Fall of Shiganshina",
+      "description": "Browser AoT scene using Colossal Titan 3D model; refined with Claude Opus 5.5 (sonnylazuardi).",
+      "play_url": "https://aot.sonnylab.com/",
+      "source_url": "https://x.com/sonnylazuardi/status/2105681994978095333",
+      "found_via": "X @sonnylazuardi Opus 5.5 refine",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "demo",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 23,
+      "likes_source": "x",
+      "screenshot_score": 8.1,
+      "screenshot_score_notes": "Colossal Titan / Shiganshina sky paint title moment.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/attack-on-titan-shiganshina.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/attack-on-titan-shiganshina.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/attack-on-titan-shiganshina.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/attack-on-titan-shiganshina.jpg",
+          "score": 8.1,
+          "notes": "Colossal Titan / Shiganshina sky paint title moment."
+        }
+      ]
+    },
+    {
+      "id": "maze-runner-astra",
+      "title": "Maze Runner — A Journey Inward",
+      "description": "Browser maze game made with GPT-6 Astra (exiztinz).",
+      "play_url": "https://maze-game-63gw.onrender.com/",
+      "source_url": "https://x.com/exiztinz/status/2105447832165532022",
+      "found_via": "X @exiztinz Astra maze",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "screenshot_score": 7.6,
+      "screenshot_score_notes": "Inward maze title / atmospheric corridor.",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/maze-runner-astra.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/maze-runner-astra.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/maze-runner-astra.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/maze-runner-astra.jpg",
+          "score": 7.6,
+          "notes": "Inward maze title / atmospheric corridor."
+        }
+      ]
+    },
+    {
+      "id": "rex-chase",
+      "title": "Rex Chase",
+      "description": "3D Chrome no-internet dino runner with twists and easter eggs; all code-gen Three.js (no image/audio files). Claude Opus 5.5 (swikrut).",
+      "play_url": "https://rex.swikrut.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wv42iy/3d_chrome_no_internet_dino_game_with_new_twists/",
+      "found_via": "r/aigamedev Opus 5.5 dino",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "runner",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 4,
+      "likes_source": "reddit",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "3D T-Rex chase with procedural dinos/cavemen HUD.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/rex-chase.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/rex-chase.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/rex-chase.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/rex-chase.jpg",
+          "score": 8.3,
+          "notes": "3D T-Rex chase with procedural dinos/cavemen HUD."
+        }
+      ]
+    },
+    {
+      "id": "cubedrpg",
+      "title": "CubedRPG",
+      "description": "Voxel RPG mixing Cubeworld / Zelda / Diablo vibes; built with Claude Opus 5.5. Browser itch.io build.",
+      "play_url": "https://cubedrpg.itch.io/cubedrpg",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wv3zyu/cubedrpg_voxel_based_rpg/",
+      "found_via": "r/aigamedev CubedRPG Opus 5.5",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "reddit",
+      "screenshot_score": 8.0,
+      "screenshot_score_notes": "Voxel overworld / RPG still from itch gallery.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/cubedrpg.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/cubedrpg.jpg",
+          "score": 8.0,
+          "notes": "Voxel overworld / RPG still from itch gallery."
+        }
+      ]
+    },
+    {
+      "id": "rocket-arena",
+      "title": "Rocket Arena",
+      "description": "Three.js/Rapier rocket-car soccer (Rocket League-like) browser arena — Opus 5.5 vibe build (rl-opus5).",
+      "play_url": "https://rl-opus5.vercel.app/",
+      "source_url": "https://github.com/am-will/rl-opus",
+      "github_url": "https://github.com/am-will/rl-opus",
+      "found_via": "web + GitHub am-will/rl-opus",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "screenshot_score": 8.2,
+      "screenshot_score_notes": "Rocket-car soccer arena title / boost ball framing.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z"
+    },
+    {
+      "id": "opus-surfers",
+      "title": "Opus Surfers",
+      "description": "Endless runner on Whip — same prompt vs GPT-6 Sol; Opus 5.5 win. Play free on whip.run.",
+      "play_url": "https://whip.run/experience/98fd2c18-2580-4a00-8f66-41bb281509bb",
+      "source_url": "https://x.com/joinwhip/status/2105667846307279269",
+      "found_via": "X @joinwhip Opus 5.5 vs Sol",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "runner",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "screenshot_score": 7.9,
+      "screenshot_score_notes": "Endless line runner clip from Whip Opus Surfers promo.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/opus-surfers.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/opus-surfers.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/opus-surfers.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/opus-surfers.jpg",
+          "score": 7.9,
+          "notes": "Endless line runner clip from Whip Opus Surfers promo."
+        }
+      ]
+    },
+    {
+      "id": "rivets-and-roses",
+      "title": "Rivets & Roses",
+      "description": "Cozy flying-carpet browser adventure above the clouds; Claude Opus 5.5 + Three.js (Max Liebscher).",
+      "play_url": "https://games.maxliebscher.com/rivetsandroses/",
+      "source_url": "https://x.com/mdaman010/status/2105703871993819414",
+      "found_via": "X thread play link games.maxliebscher.com",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 11,
+      "likes_source": "x",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Flying carpet over magical cloud world from gameplay clip.",
+      "first_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-02T01:50:14.000Z",
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "video_path": "videos/rivets-and-roses.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/rivets-and-roses.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/screenshots/rivets-and-roses.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/screenshots/rivets-and-roses.jpg",
+          "score": 8.5,
+          "notes": "Flying carpet over magical cloud world from gameplay clip."
+        }
+      ]
     }
   ],
   "totals": {
-    "games": 285,
+    "games": 298,
     "by_made_with": {
-      "astra": 69,
-      "opus-5.5": 201,
+      "astra": 71,
+      "opus-5.5": 212,
       "sonnet-5.5": 12,
       "uncertain": 3
     }
