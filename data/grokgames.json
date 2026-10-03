@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:34:06.000Z",
+  "updated_at": "2026-10-03T01:40:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -6895,12 +6895,12 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 6,
+      "remote_likes": 168,
       "likes_source": "reddit",
       "screenshot_score": 8.2,
       "screenshot_score_notes": "Solarpunk valley / airship vibe from creator Reddit trailer still.",
       "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
       "video_path": "videos/kals-valley.mp4",
       "video_source": "scan-intake",
@@ -6916,6 +6916,43 @@
           "path": "/workspace/Claude-vs-ChatGPT/screenshots/kals-valley.jpg",
           "score": 8.2,
           "notes": "Solarpunk valley / airship vibe from creator Reddit trailer still."
+        }
+      ],
+      "comments": [
+        {
+          "author": "Maple-Syrup89",
+          "text": "The graphics are warm and that hoverboard thing is delightful as a means of transport. would love to just explore on that",
+          "likes": 14,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1ww33v3/kals_valley_a_solarpunkinspired_game_built_almost/pdh9e6i/",
+          "created_at": "2026-10-02T19:59:00Z"
+        },
+        {
+          "author": "yajiv",
+          "text": "not as much as you'd expect, opus 5.5 in particular is very token efficient so on a max plan i wasn't even close to hitting my limit after working on this for a solid week",
+          "likes": 11,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1ww33v3/kals_valley_a_solarpunkinspired_game_built_almost/pdhd6pu/",
+          "created_at": "2026-10-02T20:16:31Z"
+        },
+        {
+          "author": "twendah",
+          "text": "Everything",
+          "likes": 11,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1ww33v3/kals_valley_a_solarpunkinspired_game_built_almost/pdhbqve/",
+          "created_at": "2026-10-02T20:10:18Z"
+        },
+        {
+          "author": "Raccoon_personality",
+          "text": "Refreshing to see something other than a one-shot. Well done. Looks cozy as",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1ww33v3/kals_valley_a_solarpunkinspired_game_built_almost/pdia8mn/",
+          "created_at": "2026-10-02T22:53:30Z"
+        },
+        {
+          "author": "Brave-History-6502",
+          "text": "masterful -- love to see this!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1ww33v3/kals_valley_a_solarpunkinspired_game_built_almost/pdi4mim/",
+          "created_at": "2026-10-02T22:24:07Z"
         }
       ]
     },
@@ -7410,7 +7447,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": null,
+      "remote_likes": 3,
       "likes_source": "x",
       "screenshot_score": 8.3,
       "screenshot_score_notes": "Painted city nomad scene from creator X gameplay clip.",
@@ -7431,7 +7468,7 @@
         }
       ],
       "first_seen": "2026-10-02T12:34:06.000Z",
-      "last_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
       "listed_at": "2026-10-02T12:34:06.000Z"
     },
     {
@@ -7533,14 +7570,489 @@
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
       "listed_at": "2026-10-02T12:34:06.000Z"
+    },
+    {
+      "id": "mach-run",
+      "title": "MACH RUN",
+      "description": "Semi-realistic flight-physics arcade flyer through a procedurally generated valley — bridges to fly under, carriers to land on, radar missiles above 135m, arcade/mouse/gamepad controls, and a global leaderboard. Built with Opus 5.5 (visuals/valley/flight one-shot, gameplay refined over weeks).",
+      "play_url": "https://jebkj21.itch.io/mach-run",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/",
+      "found_via": "Reddit r/aigamedev MACH RUN by u/Jeb_the_killer; Opus 5.5; play itch.io",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "remote_likes": 132,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "video_path": "videos/mach-run.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/mach-run.mp4",
+          "source": "reddit"
+        }
+      ],
+      "comments": [
+        {
+          "author": "MrBrightside711",
+          "text": "I don't understand the obsession with trying to make something in one prompt. What's the difference between just saying \"in one prompt\" vs \"in a few prompts\" vs \"a few days\". Does anyone care how much back and forth you had with AI?",
+          "likes": 46,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/pdg8c2z/",
+          "created_at": "2026-10-02T17:22:56Z"
+        },
+        {
+          "author": "Competitive_Might709",
+          "text": "This looks great! Keep up the",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/pdg4jxq/",
+          "created_at": "2026-10-02T17:06:40Z"
+        },
+        {
+          "author": "FoundationRude9871",
+          "text": "damn the graphics are really good bro",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/pdg5zuc/",
+          "created_at": "2026-10-02T17:12:55Z"
+        },
+        {
+          "author": "jedruch",
+          "text": "I hate this manipulative marketing shit \"... made in essentially one prompt\" looks inside: \"I have spent weeks refining the gameplay\"",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/pdi5i1q/",
+          "created_at": "2026-10-02T22:28:38Z"
+        },
+        {
+          "author": "Recoil42",
+          "text": "Pretty cool. I'd suggest trying an arcade camera instead of an MSFS camera too — keep the camera (relatively) level. Also, you need arrow-key controls!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/pdgg83f/",
+          "created_at": "2026-10-02T17:56:33Z"
+        }
+      ]
+    },
+    {
+      "id": "rope-ninja",
+      "title": "Rope Ninja",
+      "description": "2D ninja-rope racing browser demo — swing through levels with a grappling rope. Trailer was rebuilt by Claude Opus 5.5 from real player replays re-simulated inside the engine (no video editor).",
+      "play_url": "https://ninja.mightybig.ca/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwa3nn/i_had_claude_make_my_games_trailer_by_rerendering/",
+      "found_via": "Reddit r/aigamedev Rope Ninja trailer by u/MightyBig-Dev; Opus 5.5 Claude Code",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "remote_likes": 6,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true,
+      "video_path": "videos/rope-ninja.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/rope-ninja.mp4",
+          "source": "reddit"
+        }
+      ]
+    },
+    {
+      "id": "kaveth",
+      "title": "Kaveth",
+      "description": "Third-person over-the-shoulder browser MOBA with three heroes, one lane, towers, soldiers, bots, multiplayer lobbies, and a classic top-down camera mode. Built mainly with Claude Opus 5.5 (some Codex help).",
+      "play_url": "https://kaveth.pages.dev/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1ww9o3o/im_making_a_third_person_moba_you_play_right_in/",
+      "found_via": "Reddit r/aigamedev Kaveth by u/AlijaZZ; Opus 5.5",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true,
+      "video_path": "videos/kaveth.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/kaveth.mp4",
+          "source": "reddit"
+        }
+      ]
+    },
+    {
+      "id": "cowboys-vs-aliens",
+      "title": "Cowboys vs Aliens",
+      "description": "Multiplayer browser FPS — cowboys vs aliens across two maps. First build with Claude Opus 5.5; refinements with Sonnet 5.5.",
+      "play_url": "https://cowboysvsaliens.netlify.app/",
+      "source_url": "https://x.com/AdamVincentIO/status/2106187099196289527",
+      "found_via": "X @AdamVincentIO cowboys vs aliens multiplayer FPS; Opus 5.5 + Sonnet 5.5",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true,
+      "video_path": "videos/cowboys-vs-aliens.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/cowboys-vs-aliens.mp4",
+          "source": "x"
+        }
+      ],
+      "comments": [
+        {
+          "author": "AdamVincentIO",
+          "text": "Full build and walkthrough here—including how I used Opus 5.5 and Sonnet 5.5 to build and improve the game: https://youtu.be/dxX-m93PgKM",
+          "likes": 0,
+          "url": "https://x.com/AdamVincentIO/status/2106187758167547925",
+          "created_at": "2026-10-03T01:01:07.000Z"
+        }
+      ]
+    },
+    {
+      "id": "turbopaws",
+      "title": "TurboPaws",
+      "description": "Kart racing with dogs in the browser — Three.js + Rapier physics, Next.js site, playable on phone or desktop. Engine/API/infra written with Opus 5.5 via Claude Code.",
+      "play_url": "https://turbopaws.app/",
+      "source_url": "https://x.com/valdebuild/status/2106167454573494341",
+      "found_via": "X @valdebuild TurboPaws dog kart racer; Opus 5.5",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-none+xfo-deny",
+      "video_path": "videos/turbopaws.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/turbopaws.mp4",
+          "source": "x"
+        }
+      ],
+      "comments": [
+        {
+          "author": "valdebuild",
+          "text": "🧠 Code: Opus 5.5 with Claude Code. It wrote the game engine, the API and the infra, I directed and tested. 🎮 Game: Three.js (3D) + Rapier (physics), Next.js + React for the site. Runs in the browser, on phone or computer, no download.",
+          "likes": 0,
+          "url": "https://x.com/valdebuild/status/2106167938226978827",
+          "created_at": "2026-10-02T23:42:21.000Z"
+        },
+        {
+          "author": "valdebuild",
+          "text": "🎨 3D models: Tripo AI (dogs, karts and props, rigged and animated). 🎵 Music and sound effects: ElevenLabs. 🎬 Trailer: HyperFrames, with real gameplay captured frame by frame from the game.",
+          "likes": 0,
+          "url": "https://x.com/valdebuild/status/2106168339781538225",
+          "created_at": "2026-10-02T23:43:57.000Z"
+        },
+        {
+          "author": "valdebuild",
+          "text": "⚙️ Backend: Hono API on Railway + Supabase (auth and Postgres) 🌐 Hosting: Vercel 📧 Emails: Resend 🛡️ Anti-bot: Cloudflare Turnstile 📊 Errors and analytics: Sentry + PostHog",
+          "likes": 0,
+          "url": "https://x.com/valdebuild/status/2106168742455464106",
+          "created_at": "2026-10-02T23:45:33.000Z"
+        }
+      ]
+    },
+    {
+      "id": "super-intelligence-bros",
+      "title": "Super Intelligence Bros",
+      "description": "Parody 2D platformer built with Opus 5.5 / Grok Build — levels 1–3 live in browser.",
+      "play_url": "https://super-intelligence-bros.pages.dev/",
+      "source_url": "https://x.com/mikepat711/status/2106176362444922934",
+      "found_via": "X @mikepat711 Super Intelligence Bros; Opus 5.5",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true
+    },
+    {
+      "id": "blockblast-fps",
+      "title": "Block Blast",
+      "description": "Uncanny adorable block-character shooting game built with Claude Opus 5.5.",
+      "play_url": "https://blockblast-fps.vercel.app/",
+      "source_url": "https://x.com/Misulga_/status/2106094717351944549",
+      "found_via": "X @Misulga_ Block Blast shooter; Opus 5.5",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 5,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true,
+      "comments": [
+        {
+          "author": "tanielouu",
+          "text": "@Misulga_ @claudeai love love love",
+          "likes": 0,
+          "url": "https://x.com/tanielouu/status/2106098613076045854",
+          "created_at": "2026-10-02T19:06:53.000Z"
+        },
+        {
+          "author": "Misulga_",
+          "text": "Character designs by me. Still working on adding a lot more to this, but i can only iterate when i get feedback :))",
+          "likes": 1,
+          "url": "https://x.com/Misulga_/status/2106094720309141900",
+          "created_at": "2026-10-02T18:51:25.000Z"
+        }
+      ]
+    },
+    {
+      "id": "velmora",
+      "title": "Velmora",
+      "description": "Island survival in the browser with Three.js — craft tools, survive the night, light the volcano beacon to get rescued. Built in ~6 hours with Claude Opus 5.5.",
+      "play_url": "https://velmora.krvaibhav.dev/",
+      "source_url": "https://x.com/krvaibhavm/status/2106090777260827038",
+      "found_via": "X @krvaibhavm Velmora island survival; Opus 5.5 + three.js",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 4,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true,
+      "video_path": "videos/velmora.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/velmora.mp4",
+          "source": "x"
+        }
+      ]
+    },
+    {
+      "id": "cake-walk",
+      "title": "Cake Walk",
+      "description": "Retro-inspired 60-second wedding-cake delivery game across 3 worlds — built with Devin & Opus 5.5.",
+      "play_url": "https://cake-walk-two.vercel.app/",
+      "source_url": "https://x.com/ThePaulJoshi/status/2106043331335917580",
+      "found_via": "X @ThePaulJoshi Cake Walk; Opus 5.5 + Devin",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true
+    },
+    {
+      "id": "railfall",
+      "title": "Railfall",
+      "description": "Browser game built with Opus 5.5 and Fable — long-dreamed concept shipped playable in-tab.",
+      "play_url": "https://railfall-dev.railfall.workers.dev/",
+      "source_url": "https://x.com/mik__ben/status/2106033806369263914",
+      "found_via": "X @mik__ben Railfall; Opus 5.5 + Fable",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 2,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true
+    },
+    {
+      "id": "neon-nightfall",
+      "title": "Neon Nightfall",
+      "description": "Browser game made with Opus 5.5 — neon nightfall action demo on GitHub Pages.",
+      "play_url": "https://mdhasibul35.github.io/neon-nightfall/",
+      "source_url": "https://x.com/hasibdreamer35/status/2106031575859351576",
+      "found_via": "X @hasibdreamer35 Neon Nightfall; Opus 5.5",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 2,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true
+    },
+    {
+      "id": "brazilian-folklore-oneshot",
+      "title": "Brazilian Folklore Arena One-Shot",
+      "description": "Arena one-shot inspired by Brazilian folklore, created with Opus 5.5 and played as a one-shot demo.",
+      "play_url": "https://fascinating-sunburst-75012f.netlify.app/",
+      "source_url": "https://x.com/RaffaVLP/status/2106020134548894187",
+      "found_via": "X @RaffaVLP Brazilian folklore Opus 5.5 arena one-shot",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": true
+    },
+    {
+      "id": "deepcore",
+      "title": "DEEPCORE",
+      "description": "Pixel-art mining descent across five planets — drill for ore, manage fuel/hull, persistent upgrades, core shards unlock worlds. Falling-sand simulation. Built with Opus 5.5 (~$12.60, 60m).",
+      "play_url": "https://agentgames.dev/play/deepcore",
+      "source_url": "https://agentgames.dev/play/deepcore",
+      "found_via": "agentgames.dev DEEPCORE; made with opus-5.5",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "remote_likes": 139,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "arclight",
+      "title": "ARCLIGHT",
+      "description": "Pixel-art lightning-mage survivor with environmental spell reactions (lightning+water, fire+oil), persistent Grimoire skill tree, five biomes. Opus 5.5 (~$10.30, 53m).",
+      "play_url": "https://agentgames.dev/play/arclight",
+      "source_url": "https://agentgames.dev/play/arclight",
+      "found_via": "agentgames.dev ARCLIGHT; made with opus-5.5",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "remote_likes": 98,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "fortnite-og",
+      "title": "Fortnite OG",
+      "description": "Procedural lightweight Three.js Fortnite Chapter-1-style battle royale — Battle Bus, grid building, 99 AI bots, storm circles, Web Audio. Opus 5.5.",
+      "play_url": "https://agentgames.dev/play/fortnite-og",
+      "source_url": "https://agentgames.dev/play/fortnite-og",
+      "found_via": "agentgames.dev Fortnite OG; made with opus-5.5",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "remote_likes": 57,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "blockhead-2",
+      "title": "BLOCKHEAD 2",
+      "description": "Top-down zombie shooter campaign with persistent armory — 12 levels, eleven weapons Mk I–V, kill-chain cash multipliers. Opus 5.5 (~$9.60, 18m).",
+      "play_url": "https://agentgames.dev/play/blockhead-2",
+      "source_url": "https://agentgames.dev/play/blockhead-2",
+      "found_via": "agentgames.dev BLOCKHEAD 2; made with opus-5.5",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "remote_likes": 75,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "tether",
+      "title": "TETHER",
+      "description": "Grapple-swing roguelite — hook lamps through a tunnel while the Dusk chases; workshop upgrades, five zones, relics. Sonnet 5.5 High (~81m).",
+      "play_url": "https://agentgames.dev/play/tether",
+      "source_url": "https://agentgames.dev/play/tether",
+      "found_via": "agentgames.dev TETHER; made with sonnet-5.5",
+      "found_via_network": "web",
+      "made_with": "sonnet-5.5",
+      "remote_likes": 46,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "deadblock-outbreak",
+      "title": "DEADBLOCK: Outbreak",
+      "description": "Tactical zombie survival shooter with six-sector campaign, weapons, claymores, and score competition. GPT-6 Astra.",
+      "play_url": "https://agentgames.dev/play/deadblock-outbreak",
+      "source_url": "https://agentgames.dev/play/deadblock-outbreak",
+      "found_via": "agentgames.dev DEADBLOCK: Outbreak; made with astra",
+      "found_via_network": "web",
+      "made_with": "astra",
+      "remote_likes": 265,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "dropzone-royale",
+      "title": "Dropzone Royale",
+      "description": "Top-down browser battle royale vs 39 bots on a 9600×9600 island across six biomes with enterable buildings and storm circles. GPT-6 Astra.",
+      "play_url": "https://agentgames.dev/play/dropzone-royale",
+      "source_url": "https://agentgames.dev/play/dropzone-royale",
+      "found_via": "agentgames.dev Dropzone Royale; made with astra",
+      "found_via_network": "web",
+      "made_with": "astra",
+      "remote_likes": 276,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "patch-agentgames",
+      "title": "PATCH",
+      "description": "Territory-capture arcade survival — draw paths as a mochi explorer, claim enclosed ground vs 14 rivals on a 1000×1000 world. GPT-6 Astra.",
+      "play_url": "https://agentgames.dev/play/patch",
+      "source_url": "https://agentgames.dev/play/patch",
+      "found_via": "agentgames.dev PATCH; made with astra",
+      "found_via_network": "web",
+      "made_with": "astra",
+      "remote_likes": 303,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "veilfall",
+      "title": "VeilFall",
+      "description": "Action shooter/strategy browser game by GPT-6 Astra on Agent Games.",
+      "play_url": "https://agentgames.dev/play/veilfall",
+      "source_url": "https://agentgames.dev/play/veilfall",
+      "found_via": "agentgames.dev VeilFall; made with astra",
+      "found_via_network": "web",
+      "made_with": "astra",
+      "remote_likes": 160,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "dash-dinner",
+      "title": "DASH / DINNER",
+      "description": "Delivery simulation browser game written by GPT-6 Astra on Agent Games.",
+      "play_url": "https://agentgames.dev/play/dash-dinner",
+      "source_url": "https://agentgames.dev/play/dash-dinner",
+      "found_via": "agentgames.dev DASH / DINNER; made with astra",
+      "found_via_network": "web",
+      "made_with": "astra",
+      "remote_likes": 147,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-03T01:40:00.000Z",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny"
     }
   ],
   "totals": {
-    "games": 305,
+    "games": 327,
     "by_made_with": {
-      "opus-5.5": 217,
-      "astra": 72,
-      "sonnet-5.5": 13,
+      "opus-5.5": 233,
+      "astra": 77,
+      "sonnet-5.5": 14,
       "uncertain": 3
     }
   }
