@@ -8235,7 +8235,8 @@
       "iframe_block_reason": null,
       "category": "sports",
       "platforms": [
-        "desktop"
+        "desktop",
+        "mobile"
       ],
       "remote_likes": 3,
       "likes_source": "x",
