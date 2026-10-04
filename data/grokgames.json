@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:40:00.000Z",
+  "updated_at": "2026-10-04T01:42:38.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -2736,7 +2736,7 @@
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Glossy crowned jelly promo still with neon trail arena — strong brand, marketing frame rather than in-match HUD.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "made_with": "astra",
       "category": "multiplayer",
       "platforms": [
@@ -4612,7 +4612,7 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "remote_likes": 205,
       "likes_source": "x",
       "author": "KalraIshaan11",
@@ -6041,7 +6041,7 @@
       "published_at": "2026-09-30T05:00:08.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-10-02T12:34:06.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z"
     },
     {
       "id": "breakwater",
@@ -6151,7 +6151,7 @@
       "published_at": "2026-09-30T05:14:29.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z"
     },
     {
       "id": "lost-cathedral",
@@ -7568,7 +7568,7 @@
       "screenshot_score": 7.0,
       "screenshot_score_notes": "No clip this run; page documents Opus 5.5 Flappy build.",
       "first_seen": "2026-10-02T12:34:06.000Z",
-      "last_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "listed_at": "2026-10-02T12:34:06.000Z"
     },
     {
@@ -7898,7 +7898,7 @@
       "remote_likes": 139,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -7914,7 +7914,7 @@
       "remote_likes": 98,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -7930,7 +7930,7 @@
       "remote_likes": 57,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -7946,7 +7946,7 @@
       "remote_likes": 75,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -7962,7 +7962,7 @@
       "remote_likes": 46,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -7978,7 +7978,7 @@
       "remote_likes": 265,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -8010,7 +8010,7 @@
       "remote_likes": 303,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -8026,7 +8026,7 @@
       "remote_likes": 160,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
     },
@@ -8042,16 +8042,365 @@
       "remote_likes": 147,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
       "iframe_block_reason": "xfo-deny"
+    },
+    {
+      "id": "blobvarium",
+      "title": "Blobvarium",
+      "description": "Daily procedural creature game: one blobi born each day from a seed (silhouette, Inca-woven patterns, animations, sung note), plus auctions, sand nursery, and music shelf. Built with Claude Opus 5.5 (KurusuDesu).",
+      "play_url": "https://blobvarium.com/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1wx1isc/built_a_tiny_daily_creature_game_with_claude/",
+      "found_via": "r/ClaudeAI Opus 5.5 Blobvarium",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "creature",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 10,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "video_path": "videos/blobvarium.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/blobvarium.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/videos/blobvarium.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/videos/blobvarium.jpg",
+          "score": null,
+          "notes": "Poster frame from intake clip"
+        }
+      ]
+    },
+    {
+      "id": "empire-tycoon",
+      "title": "Empire Tycoon: Rise of Nova Roma",
+      "description": "Cozy Roman Empire–themed browser tycoon. Spec/plan and implementation by Claude Opus 5.5 from an earlier Astra tycoon design (eveningwithcats).",
+      "play_url": "https://empire-tycoon.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwjd83/opus_55_built_a_cozy_and_addictive_tycoon_game/",
+      "found_via": "r/aigamedev Opus 5.5 Empire Tycoon",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "tycoon",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "neon-serpent-3d",
+      "title": "Neon Serpent 3D",
+      "description": "Immersive Three.js 3D snake with neon visuals, customizable colors, arena maps, and power-ups. Made with Claude Opus 5.5 on Agent Games (realgame).",
+      "play_url": "https://agentgames.dev/play/neon-serpent-3d",
+      "source_url": "https://agentgames.dev/play/neon-serpent-3d",
+      "found_via": "agentgames.dev Neon Serpent 3D Opus 5.5",
+      "found_via_network": "web",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 16,
+      "likes_source": "agentgames_plays",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "deprem-laboratuvari",
+      "title": "Deprem Laboratuvarı",
+      "description": "Physics-based browser earthquake simulator solving the elastic wave equation live (Türkiye 2023, Tōhoku, Valdivia, shake table, building damage). Built with Claude Opus 5.5 (sezerkusku).",
+      "play_url": "https://depremlab.vercel.app/",
+      "source_url": "https://x.com/sezerkusku/status/2106513899226861568",
+      "found_via": "X @sezerkusku Opus 5.5 earthquake sim",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "lx40-academy",
+      "title": "LX40 Academy",
+      "description": "Learn the Boson LX40 EV by driving it in the browser — 16 facts to collect. Made with Claude Opus 5.5 (iam_shanmukha).",
+      "play_url": "https://lx40-academy.pages.dev/",
+      "source_url": "https://x.com/iam_shanmukha/status/2106501241358667811",
+      "found_via": "X @iam_shanmukha Opus 5.5 LX40 Academy",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "educational",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "fizzfin",
+      "title": "Fizzfin",
+      "description": "Browser recreation of a classic Mac game, rebuilt with Claude Opus 5.5 / High (dev_jmitchell).",
+      "play_url": "https://semperphoenix.com/lab/fizzfin/",
+      "source_url": "https://x.com/dev_jmitchell/status/2106495538866659693",
+      "found_via": "X @dev_jmitchell Opus 5.5 Fizzfin",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "lion-city-life",
+      "title": "Lion City Life",
+      "description": "Story game about a grandson, Ah Ma's chicken rice recipe, and Singapore — free in the browser. Made with Claude Opus 5.5 (RahulBhola5516).",
+      "play_url": "https://lioncitylife.vercel.app/",
+      "source_url": "https://x.com/RahulBhola5516/status/2106470475811762630",
+      "found_via": "X @RahulBhola5516 Opus 5.5 Lion City Life",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "story",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 4,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "video_path": "videos/lion-city-life.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/lion-city-life.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/videos/lion-city-life.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/videos/lion-city-life.jpg",
+          "score": null,
+          "notes": "Poster frame from intake clip"
+        }
+      ]
+    },
+    {
+      "id": "snowboard-supreme",
+      "title": "Snowboard Supreme",
+      "description": "Browser snowboarding game with procedural generation and volumetric lighting upgraded by Claude Opus 5.5 (kidkenney).",
+      "play_url": "https://snowboard-supreme.vercel.app/",
+      "source_url": "https://x.com/kidkenney/status/2106452611415097460",
+      "found_via": "X @kidkenney Opus 5.5 Snowboard Supreme",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "video_path": "videos/snowboard-supreme.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/snowboard-supreme.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/videos/snowboard-supreme.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/videos/snowboard-supreme.jpg",
+          "score": null,
+          "notes": "Poster frame from intake clip"
+        }
+      ]
+    },
+    {
+      "id": "liquidation-run",
+      "title": "Liquidation Run",
+      "description": "Crypto chart endless runner: tap to pump, dodge candles, leverage climbs 5x–100x. Built with Claude Opus 5.5 (quatXBT).",
+      "play_url": "https://liqrun.netlify.app/",
+      "source_url": "https://x.com/quatXBT/status/2106437301463126211",
+      "found_via": "X @quatXBT Opus 5.5 Liquidation Run",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "doom-ai",
+      "title": "doom.ai",
+      "description": "Satirical AI-industry idle clicker (Universal Paperclip / Cookie Clicker vibes). Made with Claude Opus 5.5 (kober13).",
+      "play_url": "https://kober13.itch.io/doomai",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwlz8v/made_an_aithemed_clicker_game/",
+      "found_via": "r/aigamedev Opus 5.5 doom.ai",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors",
+      "category": "idle",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "mandris",
+      "title": "Mandris",
+      "description": "Free 3D third-person co-op space shooter in the browser (solo missions + up to 3 friends). Credited to Claude Opus 5.5 (Kooba2).",
+      "play_url": "https://mandris.app/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wu9nqk/mandris_a_coop_space_shooter_that_runs_in_the/",
+      "found_via": "r/aigamedev Opus 5.5 Mandris",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "evergrow",
+      "title": "Evergrow",
+      "description": "Gothic action RPG / PoE–Diablo-like ARPG in the browser. Custom engine and pipeline entirely made with GPT-6 Astra (Dimillian).",
+      "play_url": "https://evergrow.dimillian.chatgpt.site/",
+      "source_url": "https://x.com/Dimillian/status/2106460767667253514",
+      "found_via": "X @Dimillian Astra Evergrow",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": null,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "iitg-campus-3d",
+      "title": "IITG Campus 3D",
+      "description": "Explore IIT Guwahati campus in 3D: walk, cycle, bus, boat, drone. Built with Claude Opus 5.5 and Sonnet 5.5 (realGauravVyas).",
+      "play_url": "https://claude.ai/artifact/XTPN49amJGjd9xE2xgMJFS",
+      "source_url": "https://x.com/realGauravVyas/status/2106439912438559150",
+      "found_via": "X @realGauravVyas Opus+Sonnet IITG campus",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "exploration",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "video_path": "videos/iitg-campus-3d.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/iitg-campus-3d.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "/workspace/Claude-vs-ChatGPT/videos/iitg-campus-3d.jpg",
+      "screenshots": [
+        {
+          "path": "/workspace/Claude-vs-ChatGPT/videos/iitg-campus-3d.jpg",
+          "score": null,
+          "notes": "Poster frame from intake clip"
+        }
+      ]
+    },
+    {
+      "id": "warcraft-rebirth",
+      "title": "Warcraft Rebirth (progress demo)",
+      "description": "Browser RTS remake experiment aiming at Warcraft 3 fidelity; started when Opus 5.5 launched (4-day progress demo).",
+      "play_url": "https://warcraftrebirth.onrender.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwlfjb/4_day_progress_on_an_old_school_style_rts/",
+      "found_via": "r/aigamedev Opus 5.5 Warcraft remake demo",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rts",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": null,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z"
     }
   ],
   "totals": {
-    "games": 327,
+    "games": 341,
     "by_made_with": {
-      "opus-5.5": 233,
-      "astra": 77,
+      "opus-5.5": 246,
+      "astra": 78,
       "sonnet-5.5": 14,
       "uncertain": 3
     }
