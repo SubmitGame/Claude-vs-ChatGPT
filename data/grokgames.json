@@ -6260,12 +6260,12 @@
       "description": "Club championship table tennis to 11 (win by 2) with Easy/Medium/Hard AI, sensitivity slider, and a packed low-poly riverside club. Built with Claude Opus 5.5 in about an hour by @worldpeace289.",
       "play_url": "https://dubai-red-ten.vercel.app/",
       "source_url": "https://x.com/worldpeace289/status/2105185212355535294",
-      "screenshot_path": "/workspace/opus-games-fresh/267-table-tennis-finals.jpg",
+      "screenshot_path": "screenshots/267-finals-night-table-tennis.jpg",
       "screenshot_score": 8.6,
       "screenshot_score_notes": "Indoor club finals: green-shirted opponent across the table under spotlights, trophies and spectators, clear FINALS NIGHT menu.",
       "screenshots": [
         {
-          "path": "/workspace/opus-games-fresh/267-table-tennis-finals.jpg",
+          "path": "screenshots/267-finals-night-table-tennis.jpg",
           "score": 8.6,
           "notes": "Title/menu over arena"
         }
@@ -6294,12 +6294,12 @@
       "source_url": "https://x.com/aisongman/status/2105174453818654723",
       "github_url": "https://github.com/KantLex/yoru-no-gakko",
       "github_user": "KantLex",
-      "screenshot_path": "/workspace/opus-games-fresh/268b-yoru-no-gakko-vid.jpg",
+      "screenshot_path": "screenshots/268-yoru-no-gakko.jpg",
       "screenshot_score": 8.8,
       "screenshot_score_notes": "CRT scanline hallway: schoolgirl, blue spirits, 七不思議 title — strong atmospheric still from trailer.",
       "screenshots": [
         {
-          "path": "/workspace/opus-games-fresh/268b-yoru-no-gakko-vid.jpg",
+          "path": "screenshots/268-yoru-no-gakko.jpg",
           "score": 8.8,
           "notes": "Gameplay trailer frame"
         },
