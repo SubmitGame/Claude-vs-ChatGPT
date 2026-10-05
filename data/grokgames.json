@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T01:42:38.000Z",
+  "updated_at": "2026-10-05T01:51:45.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -4533,7 +4533,7 @@
       "published_at": "2026-09-29T14:25:15.000Z",
       "listed_at": "2026-09-29T16:48:57.000Z",
       "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
       "remote_likes": 12,
       "likes_source": "reddit",
       "comments": [
@@ -6908,7 +6908,7 @@
       "screenshot_score": 8.6,
       "screenshot_score_notes": "Public Fallout: New York landing — Vault 120 / Big Apple ruins framing from official play page.",
       "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z"
     },
     {
@@ -8146,7 +8146,7 @@
       "remote_likes": 1,
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-05T01:51:45.000Z"
     },
     {
       "id": "neon-serpent-3d",
@@ -8445,13 +8445,456 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z"
+    },
+    {
+      "id": "snowline-rivals",
+      "title": "Snowline Rivals",
+      "description": "Downhill 3D snowboard time-trial: 5 courses, aerial tricks and friend ghost racing. Built with GPT-6 Astra/GPT-6 Pro plus Claude Opus 5.5 for the final visual polish (Alex_Vainshtein / freesoulapps).",
+      "play_url": "https://snowline.freesoul.games/",
+      "source_url": "https://x.com/Alex_Vainshtein/status/2106832285140238435",
+      "found_via": "X @Alex_Vainshtein + r/aigamedev Snowline Rivals (Astra + Opus 5.5)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/snowline-rivals.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/snowline-rivals.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/snowline-rivals.jpg",
+      "screenshots": [
+        {
+          "path": "videos/snowline-rivals.jpg",
+          "score": 8,
+          "notes": "A rider carving through snowy pines toward distant peaks reads instantly as a downhill racer, with legible timer and speed HUD; slight compression softness."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "A rider carving through snowy pines toward distant peaks reads instantly as a downhill racer, with legible timer and speed HUD; slight compression softness."
+    },
+    {
+      "id": "willowmere",
+      "title": "Willowmere",
+      "description": "Cozy 3D pixel-art mystery by the sea: three-act story, tide pools, lantern-making, moonlight fishing and a lighthouse Keep Watch mode. Iterated with Claude Opus 5.5 (BroEvenIDK).",
+      "play_url": "https://willowmere-nu.vercel.app/",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1wxhftq/i_let_opus_55_iterate_on_this_cozy_3d_pixel_art/",
+      "found_via": "r/ClaudeCode Opus 5.5 Willowmere",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 13,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/willowmere.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/willowmere.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/willowmere.jpg",
+      "screenshots": [
+        {
+          "path": "videos/willowmere.jpg",
+          "score": 8,
+          "notes": "Vibrant pixel-art cove with the hero, beach and sparkling water shows the cozy look well, though a large floating tide-pool prop dominates the center."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Vibrant pixel-art cove with the hero, beach and sparkling water shows the cozy look well, though a large floating tide-pool prop dominates the center."
+    },
+    {
+      "id": "boat-pirate-roguelike",
+      "title": "Boat! A Pirate Roguelike",
+      "description": "Web naval survival roguelike: sail, broadside enemy ships, scavenge treasure and pick upgrade cards. Basic architecture built with GPT-6 Astra, then Sol 6.1 (Grox_are_shitty / NateHarms.FPV).",
+      "play_url": "https://nateharmsfpv.itch.io/boat",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wx7zon/10_years_of_coding_this_was_the_first_time_i/",
+      "found_via": "r/aigamedev Astra pirate roguelike Boat!",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "roguelike",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 213,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/boat-pirate-roguelike.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/boat-pirate-roguelike.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/boat-pirate-roguelike.jpg",
+      "screenshots": [
+        {
+          "path": "videos/boat-pirate-roguelike.jpg",
+          "score": 6,
+          "notes": "Moody top-down sea with a lone ship and wake reads as naval combat, but the ship is small and letterbox bars plus trailer text eat the frame."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Moody top-down sea with a lone ship and wake reads as naval combat, but the ship is small and letterbox bars plus trailer text eat the frame."
+    },
+    {
+      "id": "shutter-island",
+      "title": "Shutter Island",
+      "description": "Narrative point-and-click adaptation: 14 hand-styled scenes, speech bubbles and 3 endings; every image drawn in code and every sound synthesized. Built with Claude Opus 5.5 (Neural333).",
+      "play_url": "https://shutter-island-six.vercel.app/",
+      "source_url": "https://x.com/Neural333/status/2106821350090502624",
+      "found_via": "X @Neural333 Opus 5.5 Shutter Island game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/shutter-island.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/shutter-island.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/shutter-island.jpg",
+      "screenshots": [
+        {
+          "path": "videos/shutter-island.jpg",
+          "score": 8,
+          "notes": "Striking rainy silhouette scene at the asylum gate with a crisp speech bubble conveys the noir story style clearly; little sense of interaction."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Striking rainy silhouette scene at the asylum gate with a crisp speech bubble conveys the noir story style clearly; little sense of interaction."
+    },
+    {
+      "id": "atomic-war-2d",
+      "title": "Atomic War 2D",
+      "description": "Dota 2 custom-game style auto-battler (Atomic War): draft heroes, items and lords, last one standing; vs bots or online. Vibe-coded with Claude Opus 5.5 (sonnylazuardi).",
+      "play_url": "https://atomic.sonnylab.com/",
+      "source_url": "https://x.com/sonnylazuardi/status/2106786651787923716",
+      "found_via": "X @sonnylazuardi Opus 5.5 Atomic War",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 7,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/atomic-war-2d.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/atomic-war-2d.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/atomic-war-2d.jpg",
+      "screenshots": [
+        {
+          "path": "videos/atomic-war-2d.jpg",
+          "score": 8,
+          "notes": "Clean arena board with labeled heroes, a VICTORY banner and item panels shows the auto-battler loop well; dense side UI crowds the edges."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Clean arena board with labeled heroes, a VICTORY banner and item panels shows the auto-battler loop well; dense side UI crowds the edges."
+    },
+    {
+      "id": "mu-veyra",
+      "title": "Mu Veyra",
+      "description": "MU Online Season 4 3D client playable in a browser tab (PC, tablet, phone), no download or launcher; online server with events. Built with Claude Opus 5.5 (wormzhero / OZOR_OZ).",
+      "play_url": "https://muveyra.com/",
+      "source_url": "https://x.com/wormzhero/status/2106672759442940202",
+      "found_via": "X @wormzhero Opus 5.5 MU Online in browser",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-none+xfo-deny",
+      "category": "mmorpg",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 69,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/mu-veyra.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/mu-veyra.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/mu-veyra.jpg",
+      "screenshots": [
+        {
+          "path": "videos/mu-veyra.jpg",
+          "score": 7,
+          "notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered."
+    },
+    {
+      "id": "sublevel-9",
+      "title": "SUBLEVEL 9",
+      "description": "First-person browser horror: wake in the dark on Sublevel 9, flashlight, inventory and interact puzzles. Made with Opus 5.5, textures/models via Blender (sufimaster_dev).",
+      "play_url": "https://famous-hamster-c90cd8.netlify.app/",
+      "source_url": "https://x.com/sufimaster_dev/status/2106917345629503805",
+      "found_via": "X @sufimaster_dev Opus 5.5 SUBLEVEL 9",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "screenshot_path": "screenshots/291-sublevel-9.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/291-sublevel-9.jpg",
+          "score": 5,
+          "notes": "Clean title menu sets the horror tone, but the morgue behind it is nearly black and no gameplay is visible."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Clean title menu sets the horror tone, but the morgue behind it is nearly black and no gameplay is visible."
+    },
+    {
+      "id": "corrida-quanta",
+      "title": "Corrida Quanta",
+      "description": "3D runner with mental-math challenges: solve, pick the right portal and advance through 7 levels (Portuguese). Made with Opus 5.5 (quantaaulas).",
+      "play_url": "https://quantaaulas.com/corrida/",
+      "source_url": "https://x.com/testesmnyv/status/2106851861953495531",
+      "found_via": "X Opus 5.5 Corrida Quanta",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "educational",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/corrida-quanta.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/corrida-quanta.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/corrida-quanta.jpg",
+      "screenshots": [
+        {
+          "path": "videos/corrida-quanta.jpg",
+          "score": 5,
+          "notes": "Voxel runner and math portal prompt are readable, but the vertical clip is pillarboxed with blurred sides and a large text overlay."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Voxel runner and math portal prompt are readable, but the vertical clip is pillarboxed with blurred sides and a large text overlay."
+    },
+    {
+      "id": "myth-fallen-levels",
+      "title": "Myth: The Fallen Levels (WebAssembly port)",
+      "description": "Bungie's Myth: The Fallen Lords ported to WebAssembly by Claude Opus 5.5: single-player campaign and PvP multiplayer in the browser (koomen).",
+      "play_url": "https://myth.game/",
+      "source_url": "https://x.com/koomen/status/2106877267255423338",
+      "found_via": "X @koomen Opus 5.5 Myth WASM port",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rts",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 55,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "screenshot_path": "screenshots/290-myth-fallen-levels.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/290-myth-fallen-levels.jpg",
+          "score": 8,
+          "notes": "Battlefield with formations of units, a bridge and minimap reads clearly as tactical RTS; dated textures and plain grass field."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Battlefield with formations of units, a bridge and minimap reads clearly as tactical RTS; dated textures and plain grass field."
+    },
+    {
+      "id": "many-roads",
+      "title": "MANY ROADS",
+      "description": "2.5D grid roguelite battler in the style of Battle Network, set in Toronto from day to night; demo. Fully built through Claude Opus 5.5 including the trailer (TdotsSolutionsz).",
+      "play_url": "https://playmanyroads.com/",
+      "source_url": "https://x.com/TdotsSolutionsz/status/2106850208206426486",
+      "found_via": "X @TdotsSolutionsz Opus 5.5 Many Roads",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-none",
+      "category": "roguelite",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/many-roads.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/many-roads.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/many-roads.jpg",
+      "screenshots": [
+        {
+          "path": "videos/many-roads.jpg",
+          "score": 6,
+          "notes": "Neon blue/red battle grid on a rooftop shows the Battle Network-style combat, but the vertical trailer frame is mostly blurred bars and caption text."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Neon blue/red battle grid on a rooftop shows the Battle Network-style combat, but the vertical trailer frame is mostly blurred bars and caption text."
+    },
+    {
+      "id": "petits-gardiens",
+      "title": "Petits Gardiens",
+      "description": "French tower defense across video-game eras (pixel, cartoon, voxel) with switchable art styles and ambiance. First browser game by Drpatapain, made with Opus 5.5.",
+      "play_url": "https://patapain18.github.io/petits-gardiens/",
+      "source_url": "https://x.com/Drpatapain/status/2106883027398009146",
+      "found_via": "X @Drpatapain Opus 5.5 Petits Gardiens",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "tower-defense",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/petits-gardiens.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/petits-gardiens.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/petits-gardiens.jpg",
+      "screenshots": [
+        {
+          "path": "videos/petits-gardiens.jpg",
+          "score": 9,
+          "notes": "Crisp top-down diorama with a winding path, tower plots, castle and full controls shows the tower defense loop at a glance with polished art."
+        }
+      ],
+      "screenshot_score": 9,
+      "screenshot_score_notes": "Crisp top-down diorama with a winding path, tower plots, castle and full controls shows the tower defense loop at a glance with polished art."
+    },
+    {
+      "id": "surfd",
+      "title": "Surfd",
+      "description": "Counter-Strike: Source surf in the browser: GPT-6 Astra recreated CS:S movement physics; surf_utopia, surf_mesa, surf_boreas with leaderboards (0yield).",
+      "play_url": "https://surfd.net/",
+      "source_url": "https://x.com/0yield/status/2106729377798951097",
+      "found_via": "X @0yield bookmark: GPT-6 Astra CS surf",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "movement",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 631,
+      "likes_source": "x",
+      "first_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "video_path": "videos/surfd.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/surfd.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/surfd.jpg",
+      "screenshots": [
+        {
+          "path": "videos/surfd.jpg",
+          "score": 6,
+          "notes": "First-person ramp run with timer, speed and checkpoint HUD fits CS surf, but flat textures make the still abstract without motion."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "First-person ramp run with timer, speed and checkpoint HUD fits CS surf, but flat textures make the still abstract without motion."
     }
   ],
   "totals": {
-    "games": 341,
+    "games": 353,
     "by_made_with": {
-      "opus-5.5": 246,
-      "astra": 78,
+      "opus-5.5": 256,
+      "astra": 80,
       "sonnet-5.5": 14,
       "uncertain": 3
     }
