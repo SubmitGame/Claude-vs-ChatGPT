@@ -4082,7 +4082,8 @@
       "likes_source": "x",
       "video_path": "videos/genex-skate.mp4",
       "screenshot_score": 7.6,
-      "screenshot_score_notes": "Sunset plaza clearly shows the skater, board, and control overlay, though the tiny HUD and stiff pose keep it short of polished key art."
+      "screenshot_score_notes": "Sunset plaza clearly shows the skater, board, and control overlay, though the tiny HUD and stiff pose keep it short of polished key art.",
+      "screenshot_path": "videos/genex-skate.jpg"
     },
     {
       "id": "speedracer-horizon",
@@ -4106,7 +4107,8 @@
       "likes_source": "x",
       "video_path": "videos/speedracer-horizon.mp4",
       "screenshot_score": 8.1,
-      "screenshot_score_notes": "A dense cockpit HUD and mountain road read instantly as a sim racer, but heavy sun glare washes out the track ahead."
+      "screenshot_score_notes": "A dense cockpit HUD and mountain road read instantly as a sim racer, but heavy sun glare washes out the track ahead.",
+      "screenshot_path": "videos/speedracer-horizon.jpg"
     },
     {
       "id": "mine-minecraft-opus",
@@ -4206,7 +4208,8 @@
       "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/operation-safe-return.mp4",
       "screenshot_score": 5.4,
-      "screenshot_score_notes": "Wireframe gun and water tower explain the stickman shooter, but the nearly blank white field feels unfinished and empty."
+      "screenshot_score_notes": "Wireframe gun and water tower explain the stickman shooter, but the nearly blank white field feels unfinished and empty.",
+      "screenshot_path": "videos/operation-safe-return.jpg"
     },
     {
       "id": "apex-coast-run",
@@ -4230,7 +4233,8 @@
       "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/apex-coast-run.mp4",
       "screenshot_score": 8.5,
-      "screenshot_score_notes": "A wet-road hero shot of the red convertible with crisp menu type is polished and immediately readable, though it is a menu rather than a race."
+      "screenshot_score_notes": "A wet-road hero shot of the red convertible with crisp menu type is polished and immediately readable, though it is a menu rather than a race.",
+      "screenshot_path": "videos/apex-coast-run.jpg"
     },
     {
       "id": "savannah-hunt",
@@ -4281,7 +4285,8 @@
       "last_seen": "2026-09-30T05:52:30.000Z",
       "video_path": "videos/eight-fronts.mp4",
       "screenshot_score": 7.8,
-      "screenshot_score_notes": "Colorful side-scrolling jungle action, soldiers, and HUD are clear, but browser chrome and soft low-poly rendering limit polish."
+      "screenshot_score_notes": "Colorful side-scrolling jungle action, soldiers, and HUD are clear, but browser chrome and soft low-poly rendering limit polish.",
+      "screenshot_path": "videos/eight-fronts.jpg"
     },
     {
       "id": "super-smash-royale",
@@ -4365,7 +4370,8 @@
         }
       ],
       "screenshot_score": 6.2,
-      "screenshot_score_notes": "A stickman firing across a Wikipedia page shows the gag, but the frame is mostly a web article with a tiny, messy sprite."
+      "screenshot_score_notes": "A stickman firing across a Wikipedia page shows the gag, but the frame is mostly a web article with a tiny, messy sprite.",
+      "screenshot_path": "videos/destroy-any-website.jpg"
     },
     {
       "id": "hearthlight",
@@ -4427,7 +4433,8 @@
         }
       ],
       "screenshot_score": 7.9,
-      "screenshot_score_notes": "Warm pixel autumn town and title type read as a cozy RPG, though the subtitle is cut off and the characters are small."
+      "screenshot_score_notes": "Warm pixel autumn town and title type read as a cozy RPG, though the subtitle is cut off and the characters are small.",
+      "screenshot_path": "videos/hearthlight.jpg"
     },
     {
       "id": "antkeeper",
@@ -4466,7 +4473,8 @@
         }
       ],
       "screenshot_score": 6.4,
-      "screenshot_score_notes": "The stored poster is a near-black lightning flash; a mid-clip frame shows clustered ants under a bold DEFEND title, readable but sparse and simple."
+      "screenshot_score_notes": "The stored poster is a near-black lightning flash; a mid-clip frame shows clustered ants under a bold DEFEND title, readable but sparse and simple.",
+      "screenshot_path": "videos/antkeeper.jpg"
     },
     {
       "id": "comfy-crawler",
@@ -4490,7 +4498,8 @@
       "likes_source": "reddit",
       "comments": [],
       "screenshot_score": 7.3,
-      "screenshot_score_notes": "The Windows-style dungeon wizard is crisp and on-concept, but it shows a setup form rather than the maze, on a flat teal backdrop."
+      "screenshot_score_notes": "The Windows-style dungeon wizard is crisp and on-concept, but it shows a setup form rather than the maze, on a flat teal backdrop.",
+      "screenshot_path": "videos/comfy-crawler.jpg"
     },
     {
       "id": "neon-asteroids",
@@ -4515,7 +4524,8 @@
       "likes_source": "reddit",
       "comments": [],
       "screenshot_score": 6.8,
-      "screenshot_score_notes": "Neon ship and outlined asteroids read instantly as Asteroids, with clean vector contrast but lots of empty grid and no HUD."
+      "screenshot_score_notes": "Neon ship and outlined asteroids read instantly as Asteroids, with clean vector contrast but lots of empty grid and no HUD.",
+      "screenshot_path": "videos/neon-asteroids.jpg"
     },
     {
       "id": "dropdead-plinko",
@@ -7662,7 +7672,8 @@
         }
       ],
       "screenshot_score": 8.4,
-      "screenshot_score_notes": "A chase view of the jet over a valley river, with rings cue and HUD, makes the flyer obvious in bright, clean low-poly production."
+      "screenshot_score_notes": "A chase view of the jet over a valley river, with rings cue and HUD, makes the flyer obvious in bright, clean low-poly production.",
+      "screenshot_path": "videos/mach-run.jpg"
     },
     {
       "id": "rope-ninja",
@@ -7687,7 +7698,8 @@
         }
       ],
       "screenshot_score": 6.5,
-      "screenshot_score_notes": "Bold graffiti title treatment has style, but the ninja is a speck and the overlay hides most of the rope-racing action."
+      "screenshot_score_notes": "Bold graffiti title treatment has style, but the ninja is a speck and the overlay hides most of the rope-racing action.",
+      "screenshot_path": "videos/rope-ninja.jpg"
     },
     {
       "id": "kaveth",
@@ -7712,7 +7724,8 @@
         }
       ],
       "screenshot_score": 7.5,
-      "screenshot_score_notes": "Over-the-shoulder lane fight, minions, and ability bar show the MOBA clearly, with simple tree meshes and a large caption overlay."
+      "screenshot_score_notes": "Over-the-shoulder lane fight, minions, and ability bar show the MOBA clearly, with simple tree meshes and a large caption overlay.",
+      "screenshot_path": "videos/kaveth.jpg"
     },
     {
       "id": "cowboys-vs-aliens",
@@ -7746,7 +7759,8 @@
         }
       ],
       "screenshot_score": 6.6,
-      "screenshot_score_notes": "A scope view of a desert gunfight reads as an FPS, but letterboxing, a facecam, and a huge caption crowd the frame."
+      "screenshot_score_notes": "A scope view of a desert gunfight reads as an FPS, but letterboxing, a facecam, and a huge caption crowd the frame.",
+      "screenshot_path": "videos/cowboys-vs-aliens.jpg"
     },
     {
       "id": "turbopaws",
@@ -7795,7 +7809,8 @@
         }
       ],
       "screenshot_score": 7.8,
-      "screenshot_score_notes": "Dog karts at the start line are bright and readable, though the giant GO! covers the pack and the scene is simple."
+      "screenshot_score_notes": "Dog karts at the start line are bright and readable, though the giant GO! covers the pack and the scene is simple.",
+      "screenshot_path": "videos/turbopaws.jpg"
     },
     {
       "id": "super-intelligence-bros",
@@ -7866,7 +7881,8 @@
         }
       ],
       "screenshot_score": 8.2,
-      "screenshot_score_notes": "Rainy palms, ocean, hands, and survival HUD sell the island immediately, with slight glare and basic hand models."
+      "screenshot_score_notes": "Rainy palms, ocean, hands, and survival HUD sell the island immediately, with slight glare and basic hand models.",
+      "screenshot_path": "videos/velmora.jpg"
     },
     {
       "id": "cake-walk",
