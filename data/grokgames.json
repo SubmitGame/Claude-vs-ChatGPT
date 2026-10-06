@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T01:51:45.000Z",
+  "updated_at": "2026-10-06T01:47:44.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -276,7 +276,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Clear third-person hover-bike gameplay through a cel-shaded settlement with distance marker and strong color; a visible mouse cursor is a minor distraction.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
@@ -932,7 +932,7 @@
       "screenshot_score": 8.2,
       "screenshot_score_notes": "Glossy garage hero with two numbered supercars is production-polished and on-brand, but it shows the menu/garage more than live racing.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-06T01:47:44.000Z",
       "made_with": "opus-5.5",
       "video_path": "videos/crayon-motors.mp4",
       "video_source": "feed-local",
@@ -2992,7 +2992,7 @@
       "github_url": null,
       "avatar_url": null,
       "x_handle": "NotSoEasyMoney",
-      "video_path": "/workspace/awesome-opus-5.5-games/videos/degen-u.mp4",
+      "video_path": "videos/degen-u.mp4",
       "video_source": "https://x.com/NotSoEasyMoney/status/2104715453713002768"
     },
     {
@@ -3020,7 +3020,7 @@
       "github_url": null,
       "avatar_url": null,
       "x_handle": "agent_republic",
-      "video_path": "/workspace/awesome-opus-5.5-games/videos/marble-madness-remastered.mp4",
+      "video_path": "videos/marble-madness-remastered.mp4",
       "video_source": "https://x.com/agent_republic/status/2104695709572190529"
     },
     {
@@ -3049,7 +3049,7 @@
       "github_url": null,
       "avatar_url": "/avatars/lucataco.jpg",
       "x_handle": "lucataco",
-      "video_path": "/workspace/awesome-opus-5.5-games/videos/asteroid-duel.mp4",
+      "video_path": "videos/asteroid-duel.mp4",
       "video_source": "https://x.com/lucataco/status/2104393224508882954"
     },
     {
@@ -3333,7 +3333,7 @@
       "x_handle": "RafaRuizdeLira",
       "avatar_url": "/avatars/RafaRuizdeLira.jpg",
       "video_source": "https://x.com/RafaRuizdeLira/status/2103211380828504488",
-      "video_path": "/workspace/awesome-opus-5.5-games/videos/qualy-quest.mp4"
+      "video_path": "videos/qualy-quest.mp4"
     },
     {
       "id": "underwritten",
@@ -3382,7 +3382,7 @@
       "x_handle": "knightama",
       "avatar_url": "/avatars/knightama.jpg",
       "video_source": "https://x.com/knightama/status/2104880496253817021",
-      "video_path": "/workspace/awesome-opus-5.5-games/videos/way-of-the-samurai.mp4"
+      "video_path": "videos/way-of-the-samurai.mp4"
     },
     {
       "id": "wreckline",
@@ -7053,7 +7053,7 @@
       "screenshot_score": 8.7,
       "screenshot_score_notes": "Synthwave canyon HUD with score/hull/missiles — in-game title screen.",
       "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-02T01:50:14.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
       "video_path": "videos/canyon-overdrive.mp4",
       "video_source": "scan-intake",
@@ -7870,7 +7870,7 @@
       "remote_likes": 4,
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
       "iframe": true,
       "video_path": "videos/velmora.mp4",
       "video_source": "x",
@@ -8634,7 +8634,7 @@
       "remote_likes": 7,
       "likes_source": "x",
       "first_seen": "2026-10-05T01:51:45.000Z",
-      "last_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
       "video_path": "videos/atomic-war-2d.mp4",
       "video_source": "x",
       "videos": [
@@ -8711,7 +8711,7 @@
       "remote_likes": 0,
       "likes_source": "x",
       "first_seen": "2026-10-05T01:51:45.000Z",
-      "last_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
       "screenshot_path": "screenshots/291-sublevel-9.jpg",
       "screenshots": [
         {
@@ -8905,14 +8905,532 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "First-person ramp run with timer, speed and checkpoint HUD fits CS surf, but flat textures make the still abstract without motion."
+    },
+    {
+      "id": "pokopia",
+      "title": "Pokopia (Bloomvale)",
+      "description": "Cozy 3D creature-collecting island life sim with a day clock, market stalls, farming and fluffy companions. Built by Claude Sonnet 5.5 from one brief: \"make a game my niece would beg ROBUX for\" (0xPaulius).",
+      "play_url": "https://bloomvale.vercel.app/",
+      "source_url": "https://x.com/0xPaulius/status/2106856005355135062",
+      "found_via": "X bookmark @0xPaulius Sonnet 5.5 niece/ROBUX game (play link in reply)",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "life-sim",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 927,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/pokopia.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pokopia.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pokopia.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pokopia.jpg",
+          "score": 7,
+          "notes": "Lush toy-like island village with a market stall, path and a cute companion sells the cozy vibe, but a facecam overlay and subtitles cover part of the frame."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Lush toy-like island village with a market stall, path and a cute companion sells the cozy vibe, but a facecam overlay and subtitles cover part of the frame."
+    },
+    {
+      "id": "concrete-jungle",
+      "title": "Concrete Jungle: A New York City Wildlife Simulator",
+      "description": "Three.js NYC wildlife sim: play as a rat, pigeon or squirrel in a code-drawn city with no AI art. One-shot in ~45 min by Claude Sonnet 5.5 subagents, plus a pass for mobile controls (edc1591).",
+      "play_url": "https://blackpaw.games/concretejungle/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1wyct3b/",
+      "found_via": "r/ClaudeAI Sonnet 5.5 NYC wildlife simulator",
+      "found_via_network": "reddit",
+      "made_with": "sonnet-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "simulation",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 20,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/concrete-jungle.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/concrete-jungle.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/concrete-jungle.jpg",
+      "screenshots": [
+        {
+          "path": "videos/concrete-jungle.jpg",
+          "score": 6,
+          "notes": "Bold title card over a night voxel skyline with subway-line badges looks polished, but it is a menu shot with no animal gameplay visible."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bold title card over a night voxel skyline with subway-line badges looks polished, but it is a menu shot with no animal gameplay visible."
+    },
+    {
+      "id": "inkfish",
+      "title": "InkFish",
+      "description": "Fish-eat-fish arcade game inspired by Feeding Frenzy, drawn as ink sketches in a notebook margin: eat smaller fish, avoid bigger ones and grow. Made with Opus 5.5 (omegascorp / 16bit.ink).",
+      "play_url": "https://16bit.ink/play/inkfish",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1wxzx5t/",
+      "found_via": "r/playmygame Opus 5.5 InkFish",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/inkfish.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/inkfish.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/inkfish.jpg",
+      "screenshots": [
+        {
+          "path": "videos/inkfish.jpg",
+          "score": 4,
+          "notes": "Charming sketchbook style, but the frame is mostly blank paper with a few tiny fish and faint UI, so the gameplay barely reads."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Charming sketchbook style, but the frame is mostly blank paper with a few tiny fish and faint UI, so the gameplay barely reads."
+    },
+    {
+      "id": "plumki",
+      "title": "Plumki",
+      "description": "Browser physics party game based on a Polish flunkyball-style outdoor game: swing a stick, knock bottles over and race your opponent in a packed voxel stadium. Built via Claude Code and Codex; nearly every 3D model rebuilt by Opus 5.5 as Blender scripts (Dull-Ad-4826).",
+      "play_url": "https://plumki.games/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wyfjaq/",
+      "found_via": "r/aigamedev Opus 5.5 Blender-script models Plumki",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/plumki.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/plumki.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/plumki.jpg",
+      "screenshots": [
+        {
+          "path": "videos/plumki.jpg",
+          "score": 8,
+          "notes": "Detailed isometric voxel stadium with a huge crowd, pitch and versus scoreboard looks great, though the players themselves are small."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Detailed isometric voxel stadium with a huge crowd, pitch and versus scoreboard looks great, though the players themselves are small."
+    },
+    {
+      "id": "doughty",
+      "title": "Doughty",
+      "description": "Three.js recreation of Dauntless: hunt the Embermane behemoth with an Aether-Strikers sword moveset on an island, no engine or external models. Built in about a week with ChatGPT 6 Astra and 6.1 Sol (Laperen).",
+      "play_url": "https://laperen.github.io/doughty/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wy9aiw/",
+      "found_via": "r/aigamedev GPT-6 Astra Dauntless recreation",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "action-rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/doughty.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/doughty.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/doughty.jpg",
+      "screenshots": [
+        {
+          "path": "videos/doughty.jpg",
+          "score": 5,
+          "notes": "Low-poly spiked behemoth on a pale hill with health bars reads as a monster hunt, but flat untextured terrain makes it look like a prototype."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Low-poly spiked behemoth on a pale hill with health bars reads as a monster hunt, but flat untextured terrain makes it look like a prototype."
+    },
+    {
+      "id": "last-call",
+      "title": "Last Call",
+      "description": "Free daily one-turn puzzle on the real combat rules of the roguelite deckbuilder Kegs of Eternity: one fight per day, find lethal in a single turn. Built in 11 days by Claude Code (Opus 5.5) (petrucio / Lone Piggy).",
+      "play_url": "https://lonepiggy.com/lastcall/",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1wydhb8/",
+      "found_via": "r/ClaudeCode Opus 5.5 Last Call daily puzzle",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "screenshot_path": "screenshots/292-last-call.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/292-last-call.jpg",
+          "score": 5,
+          "notes": "Warm pixel tavern sets the mood, but a tutorial modal covers the board and the card fight behind it is dimmed out."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Warm pixel tavern sets the mood, but a tutorial modal covers the board and the card fight behind it is dimmed out."
+    },
+    {
+      "id": "tinker-tailor-soldier-sensor",
+      "title": "Tinker Tailor Soldier Sensor",
+      "description": "LucasArts-style point-and-click spy adventure about digital surveillance and AGI (\"The Spy Who Came In From the Cloud\"), with notebook, hotspots and exposure meter. Made by Opus 5.5 in under half an hour (shashj).",
+      "play_url": "https://tinker-tailor-soldier-sensor.pages.dev/",
+      "source_url": "https://x.com/shashj/status/2107078796012880114",
+      "found_via": "X @shashj Opus 5.5 LucasArts spy game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 23,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "screenshot_path": "screenshots/293-tinker-tailor-soldier-sensor.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/293-tinker-tailor-soldier-sensor.jpg",
+          "score": 8,
+          "notes": "Crisp retro title screen with a bold logo, trench-coat spy and lit ministry building nails the LucasArts homage; it is a menu, not a scene."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Crisp retro title screen with a bold logo, trench-coat spy and lit ministry building nails the LucasArts homage; it is a menu, not a scene."
+    },
+    {
+      "id": "still-here",
+      "title": "Still Here",
+      "description": "First-person horror walk through a dark house with a flashlight, made by Opus 5.5 from one prompt with no external assets; play with headphones (LexnLin).",
+      "play_url": "https://scare-test.vercel.app/",
+      "source_url": "https://x.com/LexnLin/status/2107244452163236142",
+      "found_via": "X @LexnLin Opus 5.5 one-prompt horror game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 17,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/still-here.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/still-here.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/still-here.jpg",
+      "screenshots": [
+        {
+          "path": "videos/still-here.jpg",
+          "score": 6,
+          "notes": "Lamp-lit wood-panelled hallway with dark doorways is properly eerie and clean, but there is no HUD or sign of interaction."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Lamp-lit wood-panelled hallway with dark doorways is properly eerie and clean, but there is no HUD or sign of interaction."
+    },
+    {
+      "id": "ocarina-hero",
+      "title": "Ocarina Hero",
+      "description": "Ocarina of Time x Guitar Hero mashup: play the twelve ocarina songs with the Skull Kid band, Skull Kid Duel and free play modes. Made with Claude Opus 5.5 (crtvTeknologist).",
+      "play_url": "https://ocarina-hero.vercel.app/",
+      "source_url": "https://x.com/crtvTeknologist/status/2107180932109136327",
+      "found_via": "X @crtvTeknologist Opus 5.5 Ocarina Hero",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rhythm",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/ocarina-hero.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/ocarina-hero.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/ocarina-hero.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ocarina-hero.jpg",
+          "score": 7,
+          "notes": "Polished Zelda-style logo and mode menu over a misty Lost Woods scene look great, but no note highway or gameplay is shown."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Polished Zelda-style logo and mode menu over a misty Lost Woods scene look great, but no note highway or gameplay is shown."
+    },
+    {
+      "id": "cyberkart",
+      "title": "CyberKart",
+      "description": "Cybersecurity-themed kart racer turned from an open-source kart game by Claude Opus 5.5: Guardian vs 9 cyber mascots, Dark Web circuit, phishing and ransomware items, firewall gates (shmulc8).",
+      "play_url": "https://cyberkart-race.netlify.app/",
+      "source_url": "https://x.com/shmulc8/status/2107001916462936083",
+      "found_via": "X @shmulc8 Opus 5.5 CyberKart",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/cyberkart.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/cyberkart.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/cyberkart.jpg",
+      "screenshots": [
+        {
+          "path": "videos/cyberkart.jpg",
+          "score": 8,
+          "notes": "Bright kart grid at the start line with countdown, branded gantry, crowd, minimap and standings reads instantly as a polished kart racer."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Bright kart grid at the start line with countdown, branded gantry, crowd, minimap and standings reads instantly as a polished kart racer."
+    },
+    {
+      "id": "planet-defender-2026",
+      "title": "Planet Defender (Zashchitnik Planety)",
+      "description": "Neon WebGL bloom shooter in the style of Clash'N'Slash: orbit and defend a planet from incoming waves. Built for about $3 with Sonnet 5.5 in ZCode (nail6382773).",
+      "play_url": "https://planet-defender-2026.netlify.app/",
+      "source_url": "https://x.com/nail6382773/status/2107142965025976444",
+      "found_via": "X Sonnet 5.5 ZCode Planet Defender",
+      "found_via_network": "x",
+      "made_with": "sonnet-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/planet-defender-2026.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/planet-defender-2026.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/planet-defender-2026.jpg",
+      "screenshots": [
+        {
+          "path": "videos/planet-defender-2026.jpg",
+          "score": 7,
+          "notes": "Glowing planet ringed by an orbit line against a vivid purple-teal nebula, with ships firing, looks striking; the HUD is tiny and sparse."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Glowing planet ringed by an orbit line against a vivid purple-teal nebula, with ships firing, looks striking; the HUD is tiny and sparse."
+    },
+    {
+      "id": "fogbound-trail",
+      "title": "Fogbound Trail",
+      "description": "First-person horror walk down a fog-choked forest trail; headphones recommended, runs on phone or laptop. Made with Crayon, Opus 5.5 and Three.js (TusharXo).",
+      "play_url": "https://app.usecrayon.ai/play/457823ff-6f21-410f-b202-fac21a03430c",
+      "source_url": "https://x.com/TusharXo/status/2107011626948079784",
+      "found_via": "X @TusharXo Crayon + Opus 5.5 Fogbound Trail",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
+      "category": "horror",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 18,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/fogbound-trail.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/fogbound-trail.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/fogbound-trail.jpg",
+      "screenshots": [
+        {
+          "path": "videos/fogbound-trail.jpg",
+          "score": 5,
+          "notes": "Moody fog-drenched forest path is atmospheric, but the letterboxed frame is murky and low-contrast with nothing to interact with."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Moody fog-drenched forest path is atmospheric, but the letterboxed frame is murky and low-contrast with nothing to interact with."
+    },
+    {
+      "id": "creo-mars-signal",
+      "title": "Creo Mars Signal",
+      "description": "Top-down mech survival on Mars: pilot Pip fights alien waves, collects salvage and picks upgrade cards. Built with Crayon Pro + Opus 5.5 (usecrayon).",
+      "play_url": "https://app.usecrayon.ai/play/21b05ba4-3219-4315-b33a-95e035144d69",
+      "source_url": "https://x.com/usecrayon/status/2107147580832682070",
+      "found_via": "X @usecrayon Crayon Pro + Opus 5.5 Creo Mars Signal",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
+      "category": "roguelite",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 12,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/creo-mars-signal.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/creo-mars-signal.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/creo-mars-signal.jpg",
+      "screenshots": [
+        {
+          "path": "videos/creo-mars-signal.jpg",
+          "score": 7,
+          "notes": "Clean LEVEL UP card choice with clear icons over a top-down base shows the survivor-like loop, though the cards hide the arena."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Clean LEVEL UP card choice with clear icons over a top-down base shows the survivor-like loop, though the cards hide the arena."
+    },
+    {
+      "id": "seedhouse",
+      "title": "Seedhouse: Don't Breathe",
+      "description": "First-person stealth horror level in a fogged greenhouse: sneak past watching dandelion heads, burn the Mother and escape without breathing her seeds. Opus 5.5 built it from one Midjourney image, plus the trailer (justin_hart).",
+      "play_url": "https://claude.ai/artifact/NwkkBKo523iBanmUyYGLk1",
+      "source_url": "https://x.com/justin_hart/status/2106066254994039073",
+      "found_via": "X @justin_hart Opus 5.5 Seedhouse artifact",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+corp-same-origin",
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 16,
+      "likes_source": "x",
+      "first_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-06T01:47:44.000Z",
+      "video_path": "videos/seedhouse.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/seedhouse.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/seedhouse.jpg",
+      "screenshots": [
+        {
+          "path": "videos/seedhouse.jpg",
+          "score": 8,
+          "notes": "Sunbeams through greenhouse windows lighting giant dandelion heads make a striking, unsettling still; no HUD so the stealth play is implied."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Sunbeams through greenhouse windows lighting giant dandelion heads make a striking, unsettling still; no HUD so the stealth play is implied."
     }
   ],
   "totals": {
-    "games": 353,
+    "games": 367,
     "by_made_with": {
-      "opus-5.5": 256,
-      "astra": 80,
-      "sonnet-5.5": 14,
+      "opus-5.5": 265,
+      "astra": 82,
+      "sonnet-5.5": 17,
       "uncertain": 3
     }
   }
