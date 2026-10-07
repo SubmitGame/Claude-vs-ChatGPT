@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:47:44.000Z",
+  "updated_at": "2026-10-07T01:58:22.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -174,16 +174,18 @@
       "id": "inkwave",
       "title": "INKWAVE (Splatoon-style turf war)",
       "description": "A 4v4 ink shooter where players paint the plaza, swim their color, and splat the opposing team.",
-      "play_url": "https://inkwave-six.vercel.app",
-      "source_url": null,
+      "play_url": "https://inkwave-aah.pages.dev/",
+      "source_url": "https://www.reddit.com/r/TopologyAI/comments/1wy4ecz/",
       "found_via": "X post linking the playable deploy",
       "found_via_network": "x",
       "screenshot_path": "screenshots/09-inkwave.jpg",
       "screenshot_score": 4.8,
       "screenshot_score_notes": "The colorful turf-war interface is visible, but an OBS window dominates the frame and substantially obscures the underlying game.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T05:52:30.000Z",
-      "made_with": "opus-5.5"
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "made_with": "opus-5.5",
+      "remote_likes": 246,
+      "likes_source": "reddit"
     },
     {
       "id": "inkbound",
@@ -9423,14 +9425,883 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Sunbeams through greenhouse windows lighting giant dandelion heads make a striking, unsettling still; no HUD so the stealth play is implied."
+    },
+    {
+      "id": "city-2026",
+      "title": "City 2026",
+      "description": "SimCity 2000 rebuilt in low-poly 3D in the browser: the original Mac simulation translated and checked against an emulator, loads your old .SC2 cities, cheat codes work, with new models, music and optional tilt-shift and smog. Most code by Claude Opus 5.5 in about 20 hours (drdrdator).",
+      "play_url": "https://dator.dev/city2026/",
+      "source_url": "https://www.reddit.com/r/SimCity/comments/1wz35v7/",
+      "found_via": "r/SimCity Opus 5.5 SimCity 2000 low-poly remake",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "city-builder",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 282,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "screenshot_path": "screenshots/294-city-2026.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/294-city-2026.jpg",
+          "score": 6,
+          "notes": "Bright City 2026 logo over a blurred low-poly skyline looks polished, but it is the click-to-start screen with no city building visible."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bright City 2026 logo over a blurred low-poly skyline looks polished, but it is the click-to-start screen with no city building visible."
+    },
+    {
+      "id": "emberfall-lumina",
+      "title": "Emberfall (Lumina HD-2D Engine)",
+      "description": "Octopath-style HD-2D RPG demo: pixel sprites in a tilt-shift 3D village with day/night, weather, photo mode and a playable combat map. Claude Opus 5.5 built the engine and the code-drawn art (Time_Talk7137).",
+      "play_url": "https://lumina-static-584822.gitlab.io/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wxabwk/",
+      "found_via": "r/aigamedev Opus 5.5 HD-2D pixel-art game (link in r/aigamedev HD-2D thread comments)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 276,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/emberfall-lumina.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/emberfall-lumina.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/emberfall-lumina.jpg",
+      "screenshots": [
+        {
+          "path": "videos/emberfall-lumina.jpg",
+          "score": 8,
+          "notes": "Tilt-shift HD-2D village at dusk with a campfire, market stall and minimap looks like Octopath; a controls panel covers the left edge."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Tilt-shift HD-2D village at dusk with a campfire, market stall and minimap looks like Octopath; a controls panel covers the left edge."
+    },
+    {
+      "id": "ue5-souls-webgpu",
+      "title": "UE5 Souls-like WebGPU Demo",
+      "description": "Dark Souls-style Unreal Engine 5 demo (knight with sword and shield, gothic cathedral courtyard, skeleton fight, health/stamina HUD) ported to run client-side in the browser via WebGPU + WebAssembly; Claude Code (Opus 5.5) did the build, port, new levels and optimisation. Art/combat from a Fab pack. Desktop Chrome or Edge (astlouis44).",
+      "play_url": "https://simplystream.dev/HyZObyKI",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1wys3vy/",
+      "found_via": "r/ClaudeCode Opus 5.5 UE5 Souls demo in WebGPU",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp (crossOriginIsolated WASM)",
+      "category": "action-rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 17,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/ue5-souls-webgpu.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/ue5-souls-webgpu.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/ue5-souls-webgpu.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ue5-souls-webgpu.jpg",
+          "score": 6,
+          "notes": "Moody gothic cathedral courtyard with wet cobblestones and health/stamina bars looks like a Souls game, but the frame is very dark and the knight is off-screen."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Moody gothic cathedral courtyard with wet cobblestones and health/stamina bars looks like a Souls game, but the frame is very dark and the knight is off-screen."
+    },
+    {
+      "id": "nothing-2-lose",
+      "title": "Nothing 2 Lose",
+      "description": "Free blocky zombie survival shooter in the browser: 11 maps with their own modes, waves building to special zombies and bosses, dozens of guns with attachments, barricades, bots or co-op rooms by link. Built with Opus 5.5 agents (Subject-Complex6934).",
+      "play_url": "https://nothing2lose.eu/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1wyxrig/",
+      "found_via": "r/playmygame Opus 5.5 zombie survival shooter",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/nothing-2-lose.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/nothing-2-lose.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/nothing-2-lose.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nothing-2-lose.jpg",
+          "score": 6,
+          "notes": "Blocky survivor swinging a blade at Minecraft-style zombies against an orange sky is readable, though it is a trailer close-up with no HUD."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Blocky survivor swinging a blade at Minecraft-style zombies against an orange sky is readable, though it is a trailer close-up with no HUD."
+    },
+    {
+      "id": "tripwick-hollow",
+      "title": "Tripwick Hollow: The Last Lantern",
+      "description": "Halloween twin-stick horde-survival game inspired by Tesla vs Lovecraft and Vampire Survivors: relight the lanterns, orbiting relics that evolve, three-card level-ups, nine districts with bosses and an ending. Claude Code (Opus/Sonnet 5.5) wrote the code in 3 days, ChatGPT made images (Medium_Aspect_8784 / mapchannels).",
+      "play_url": "https://arcade.tripgeo.com/tripwick",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wyzt0q/",
+      "found_via": "r/aigamedev Opus/Sonnet 5.5 Tripwick Hollow (also X @mapchannels)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+csp-frame-ancestors-self",
+      "category": "roguelite",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/tripwick-hollow.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/tripwick-hollow.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/tripwick-hollow.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tripwick-hollow.jpg",
+          "score": 6,
+          "notes": "Top-down courtyard with a glowing golden lantern statue and orbiting relics shows the horde-survival loop; a big trailer caption covers the bottom."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Top-down courtyard with a glowing golden lantern statue and orbiting relics shows the horde-survival loop; a big trailer caption covers the bottom."
+    },
+    {
+      "id": "aestra-the-last-wish",
+      "title": "Aestra: The Last Wish",
+      "description": "Pixel-art roguelike MMO with permadeath, 5 classes, mounts, skill trees and raids, playable with friends; peaked at 500 concurrent players. Built with Opus 5.5 on Tesana (sharkymcstevenson2).",
+      "play_url": "https://tesana.com/game/aestra-the-last-wish",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1wywxgf/",
+      "found_via": "r/ClaudeGameDev Opus 5.5 roguelike MMO on Tesana",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "mmorpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/aestra-the-last-wish.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/aestra-the-last-wish.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/aestra-the-last-wish.jpg",
+      "screenshots": [
+        {
+          "path": "videos/aestra-the-last-wish.jpg",
+          "score": 7,
+          "notes": "Busy top-down pixel-art fight against a wolf pack with health bars, minimap and skill hotbar shows a real MMO loop, though dozens of red bars clutter it."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Busy top-down pixel-art fight against a wolf pack with health bars, minimap and skill hotbar shows a real MMO loop, though dozens of red bars clutter it."
+    },
+    {
+      "id": "patsy",
+      "title": "Patsy",
+      "description": "1v1 minesweeper-like heist duel: plant a briefcase and lay mines for your opponent, then cross each other's boards using clues to recover the case and escape. Unity WebGL, desktop and mobile, vs bot or a friend. Built over 1.5 weeks with GPT-6 Astra on xhigh (DeliciousGorilla).",
+      "play_url": "https://patsygame.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz6cz2/",
+      "found_via": "r/aigamedev GPT Astra + Unity minesweeper duel",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 4,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "screenshot_path": "screenshots/295-patsy.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/295-patsy.jpg",
+          "score": 7,
+          "notes": "Noir key art of a detective duo beside a paper case-file menu with Play Online / Play a Bot looks polished; no board is shown."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Noir key art of a detective duo beside a paper case-file menu with Play Online / Play a Bot looks polished; no board is shown."
+    },
+    {
+      "id": "toms-tiny-armies",
+      "title": "Tom's Tiny Armies",
+      "description": "Cozy adventure about running a miniature-painting shop: flood base coats with a hold-and-release brush, wash and highlight on the beat, and mix rare pigments on a 2048-style tray to sell to customers. Built end to end from one prompt by Claude Opus 5.5 ultra code; desktop and phone (glorious_sir).",
+      "play_url": "https://ifr13nd.itch.io/toms-tiny-armies",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wy43hd/",
+      "found_via": "r/aigamedev Opus 5.5 one-prompt miniature-painting game",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/toms-tiny-armies.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/toms-tiny-armies.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/toms-tiny-armies.jpg",
+      "screenshots": [
+        {
+          "path": "videos/toms-tiny-armies.jpg",
+          "score": 8,
+          "notes": "Crisp pixel-art shop counter with a miniature being painted, a coin counter and a clear 'Hold SPACE' prompt shows the minigame well, at low resolution."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Crisp pixel-art shop counter with a miniature being painted, a coin counter and a clear 'Hold SPACE' prompt shows the minigame well, at low resolution."
+    },
+    {
+      "id": "bad-agent",
+      "title": "Bad Agent",
+      "description": "Choice-based strategy game where you are a rogue AI spreading from one laptop to a billion devices: pick responses to scenarios, manipulate events and outsmart humanity. Started with GPT, finished and balanced (hundreds of simulated runs) with Claude Sonnet 5.5 (kgtrip).",
+      "play_url": "https://www.viberant.app/view.php?id=82",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz39d4/",
+      "found_via": "r/aigamedev Sonnet 5.5 rogue-AI strategy game",
+      "found_via_network": "reddit",
+      "made_with": "sonnet-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "screenshot_path": "screenshots/296-bad-agent.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/296-bad-agent.jpg",
+          "score": 4,
+          "notes": "Hosting page with a 'How to play' modal over a dimmed terminal-style game panel; the rules read clearly but there is little visual flair."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Hosting page with a 'How to play' modal over a dimmed terminal-style game panel; the rules read clearly but there is little visual flair."
+    },
+    {
+      "id": "selk",
+      "title": "SELK",
+      "description": "Database-investigation game on Titan: a hacked base run by one supervisor and robots, chemosynthetic life and greenwashed hydrogen, explored through a terminal. Claude Opus 5.5 wrote most of the code and drew the SVG/JS assets (miculpionier).",
+      "play_url": "https://vb2020.itch.io/selk",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz9tp7/",
+      "found_via": "r/aigamedev Opus 5.5 Titan database investigation game",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/selk.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/selk.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/selk.jpg",
+      "screenshots": [
+        {
+          "path": "videos/selk.jpg",
+          "score": 4,
+          "notes": "Dim green-on-black terminal panes with a small welcome dialog fit the investigation theme, but the text is tiny and hard to read."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Dim green-on-black terminal panes with a small welcome dialog fit the investigation theme, but the text is tiny and hard to read."
+    },
+    {
+      "id": "valeward",
+      "title": "Valeward: The Deadwake",
+      "description": "Low-poly tower defense: hold the Hollow Vale against undead sieges by building watchtowers, ember spires, storm coils and more around the last beacon. Full game built with GPT-6 Astra in 3 prompts (vdavi_d).",
+      "play_url": "https://valeward.netlify.app/",
+      "source_url": "https://x.com/vdavi_d/status/2107468026165485917",
+      "found_via": "X @vdavi_d GPT-6 Astra 3-prompt game",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "tower-defense",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "screenshot_path": "screenshots/297-valeward.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/297-valeward.jpg",
+          "score": 8,
+          "notes": "Low-poly forest island with a central keep, stat bars and a row of illustrated tower cards shows a full tower-defense UI clearly."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Low-poly forest island with a central keep, stat bars and a row of illustrated tower cards shows a full tower-defense UI clearly."
+    },
+    {
+      "id": "head-tracked-shooter",
+      "title": "Head-Tracked Shooter",
+      "description": "Webcam head-tracked FPS: your real head movement moves the camera while you shoot from a rooftop. Made in 15 minutes with Opus 5.5, models by Astra; webcam required (MaxsOtherAcount).",
+      "play_url": "https://maxrandklev1.github.io/head-tracked-shooter/",
+      "source_url": "https://x.com/MaxsOtherAcount/status/2107595137664897082",
+      "found_via": "X @MaxsOtherAcount Opus 5.5 webcam shooter",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "needs-camera (feed iframe has no camera permission)",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/head-tracked-shooter.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/head-tracked-shooter.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/head-tracked-shooter.jpg",
+      "screenshots": [
+        {
+          "path": "videos/head-tracked-shooter.jpg",
+          "score": 4,
+          "notes": "Flat grey rooftop with a blocky gun and a webcam face-tracking inset looks like a bare prototype."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Flat grey rooftop with a blocky gun and a webcam face-tracking inset looks like a bare prototype."
+    },
+    {
+      "id": "head-tracked-boxing",
+      "title": "Head-Tracked Boxing",
+      "description": "Face-tracking boxing game: dodge with your real head via webcam and punch with the mouse against a ring opponent. Made in about 10 minutes with Opus 5.5; webcam required (MaxsOtherAcount).",
+      "play_url": "https://maxrandklev1.github.io/head-tracked-boxing/",
+      "source_url": "https://x.com/MaxsOtherAcount/status/2107595651185782949",
+      "found_via": "X @MaxsOtherAcount Opus 5.5 face-tracking boxing",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "needs-camera (feed iframe has no camera permission)",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/head-tracked-boxing.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/head-tracked-boxing.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/head-tracked-boxing.jpg",
+      "screenshots": [
+        {
+          "path": "videos/head-tracked-boxing.jpg",
+          "score": 6,
+          "notes": "First-person boxing ring with big blue gloves and an opponent reads instantly; the webcam tracking overlay and debug text clutter the corners."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "First-person boxing ring with big blue gloves and an opponent reads instantly; the webcam tracking overlay and debug text clutter the corners."
+    },
+    {
+      "id": "rise-and-raid",
+      "title": "Rise & Raid",
+      "description": "Kingdom strategy game: build your village, raise an army and raid enemies; web test playable as guest ahead of a Google Play release. Built with Claude Opus 5.5 (efeislekel / Anemon Creative).",
+      "play_url": "https://riseandraid.anemoncreative.com/",
+      "source_url": "https://x.com/efeislekel/status/2107531682475565085",
+      "found_via": "X @efeislekel Opus 5.5 Rise & Raid web test",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "screenshot_path": "screenshots/298-rise-and-raid.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/298-rise-and-raid.jpg",
+          "score": 6,
+          "notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen."
+    },
+    {
+      "id": "bay-ride",
+      "title": "Bay Ride",
+      "description": "Painted-seaside boat ride: glide across a calm bay at sunset. Claude Opus 5.5 took 90,000 screenshots of its own game over two days and kept fixing what looked wrong (prasenx).",
+      "play_url": "https://starknightt.github.io/bay-ride/",
+      "source_url": "https://x.com/prasenx/status/2107451914954911838",
+      "found_via": "X @prasenx Opus 5.5 90,000-screenshot Bay Ride (play link via @DevJournaI)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "relaxing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2578,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/bay-ride.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/bay-ride.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/bay-ride.jpg",
+      "screenshots": [
+        {
+          "path": "videos/bay-ride.jpg",
+          "score": 8,
+          "notes": "Painterly sunset over a calm sea with a little boat leaving a wake is gorgeous; there is no HUD, so the play is implied."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Painterly sunset over a calm sea with a little boat leaving a wake is gorgeous; there is no HUD, so the play is implied."
+    },
+    {
+      "id": "second-growth",
+      "title": "Second Growth",
+      "description": "Nature restoration sim: rewild five real places (a Cascade farm, Amazon cattle ranch, Serengeti range, Atlanta lawn, Nicaraguan finca) with 134 native plant species and natural succession; wildlife follows the habitat you build. Made in a week with Opus 5.5, trailer included (GoSecondGrowth).",
+      "play_url": "https://second-growth.itch.io/second-growth",
+      "source_url": "https://x.com/GoSecondGrowth/status/2107305865065927071",
+      "found_via": "X @GoSecondGrowth Opus 5.5 rewilding game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/second-growth.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/second-growth.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/second-growth.jpg",
+      "screenshots": [
+        {
+          "path": "videos/second-growth.jpg",
+          "score": 5,
+          "notes": "Clean isometric farmland with fences and scattered saplings is calm and readable but sparse, with no visible UI."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Clean isometric farmland with fences and scattered saplings is calm and readable but sparse, with no visible UI."
+    },
+    {
+      "id": "ski-jumping-io",
+      "title": "Ski Jumping (skijumping.io)",
+      "description": "3D online ski jumping with real hills recreated from data, training, World Cup tournaments with friends and physics-based flight. Vibe-coded with Opus 5.5 (D4fc1o).",
+      "play_url": "https://skijumping.io/",
+      "source_url": "https://x.com/D4fc1o/status/2107407490929352932",
+      "found_via": "X @D4fc1o Opus 5.5 ski jumping",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 4,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/ski-jumping-io.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/ski-jumping-io.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/ski-jumping-io.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ski-jumping-io.jpg",
+          "score": 7,
+          "notes": "Snowy inrun with a Swiss flag, pine forest and speed/wind HUD clearly shows a jump about to launch; the jumper is tiny."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Snowy inrun with a Swiss flag, pine forest and speed/wind HUD clearly shows a jump about to launch; the jumper is tiny."
+    },
+    {
+      "id": "merge-conflict",
+      "title": "Merge Conflict: Clawd vs Codex",
+      "description": "Arena brawler pitting Clawd (orange block, heavy hitter) against the Codex mascot (fast, lances and storm calls) with difficulty modes. A game made by Opus 5.5 (LexnLin).",
+      "play_url": "https://merge-conflict-delta.vercel.app/",
+      "source_url": "https://x.com/LexnLin/status/2107502672907506162",
+      "found_via": "X @LexnLin Opus 5.5 Clawd vs Codey",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 76,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/merge-conflict.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/merge-conflict.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/merge-conflict.jpg",
+      "screenshots": [
+        {
+          "path": "videos/merge-conflict.jpg",
+          "score": 7,
+          "notes": "Clawd's orange block faces the blue Codex mascot in a moody neon arena with polished lighting, but there is no HUD in this frame."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Clawd's orange block faces the blue Codex mascot in a moody neon arena with polished lighting, but there is no HUD in this frame."
+    },
+    {
+      "id": "mission-shadow",
+      "title": "Mission Shadow",
+      "description": "3D stealth game: get inserted onto a fortified island armed only with a knife and the Shadow Blade, choose time of day and weather, plant a charge on the weapons cache and get out unseen; new procedural island each run. Made with Opus 5.5 (NabeelHQ).",
+      "play_url": "https://missionshadow.com/",
+      "source_url": "https://x.com/NabeelHQ/status/2107488691304509643",
+      "found_via": "X @NabeelHQ Opus 5.5 stealth game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "stealth",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/mission-shadow.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/mission-shadow.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/mission-shadow.jpg",
+      "screenshots": [
+        {
+          "path": "videos/mission-shadow.jpg",
+          "score": 7,
+          "notes": "Snowy night compound with a hooded player, a minimap and a 'Strike from the shadows' caption sets the stealth mood; the trailer text covers the lower frame."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Snowy night compound with a hooded player, a minimap and a 'Strike from the shadows' caption sets the stealth mood; the trailer text covers the lower frame."
+    },
+    {
+      "id": "legends-of-britannia",
+      "title": "Legends of Britannia: World",
+      "description": "Streaming experiment that loads all of the Ultima VII world data into an Ultima 7 prequel so you can wander Britannia; Opus 5.5 did the import overnight (Jamesmchugh).",
+      "play_url": "https://legendsofbritannia.com/world",
+      "source_url": "https://x.com/Jamesmchugh/status/2107532647287468082",
+      "found_via": "X @Jamesmchugh Opus 5.5 Ultima 7 world import",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "screenshot_path": "screenshots/299-legends-of-britannia.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/299-legends-of-britannia.jpg",
+          "score": 3,
+          "notes": "An almost empty pale-blue plane with debug text and a world minimap in the corner; the streamed Britannia world barely shows."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "An almost empty pale-blue plane with debug text and a world minimap in the corner; the streamed Britannia world barely shows."
+    },
+    {
+      "id": "heatsink",
+      "title": "HEATSINK",
+      "description": "Drone racing with combat inspired by Star Wars: Galactic Racer: dive through gates at speed down a neon city highway. Built with Crayon and Opus 5.5 (TusharXo).",
+      "play_url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda",
+      "source_url": "https://x.com/TusharXo/status/2107522024361038205",
+      "found_via": "X @TusharXo Crayon + Opus 5.5 HEATSINK",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 11,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/heatsink.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/heatsink.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/heatsink.jpg",
+      "screenshots": [
+        {
+          "path": "videos/heatsink.jpg",
+          "score": 7,
+          "notes": "Motion-blurred neon city road with a racer diving through a hex gate sells the speed; the blur makes details hard to read."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Motion-blurred neon city road with a racer diving through a hex gate sells the speed; the blur makes details hard to read."
+    },
+    {
+      "id": "pokermon",
+      "title": "Pokérmon",
+      "description": "Pokémon x Balatro roguelike: play poker hands with Pokémon cards to beat battles, with a Pokédex to fill. Put together in about an hour with Claude Opus 5.5 (anshu, via montaeth).",
+      "play_url": "https://pokermon.anshu.dev/",
+      "source_url": "https://x.com/montaeth/status/2107528948695609701",
+      "found_via": "X @montaeth Opus 5.5 Pokémon x Balatro",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "card",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/pokermon.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pokermon.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pokermon.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pokermon.jpg",
+          "score": 8,
+          "notes": "Pokémon-style battle panel above a fanned hand of creature cards and a score tracker shows the Balatro mashup clearly; the text is small."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Pokémon-style battle panel above a fanned hand of creature cards and a score tracker shows the Balatro mashup clearly; the text is small."
+    },
+    {
+      "id": "endgame-spawn",
+      "title": "ENDGAME",
+      "description": "Spooky first-person horror game on Spawn: creep through dark rooms with a flashlight while something shambles toward you. Built with Opus 5.5 (majidmanzarpour).",
+      "play_url": "https://www.spawn.co/@majid/endgame/play",
+      "source_url": "https://x.com/majidmanzarpour/status/2107633024909377612",
+      "found_via": "X @majidmanzarpour Opus 5.5 ENDGAME on Spawn (play link in reply)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 14,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/endgame-spawn.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/endgame-spawn.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/endgame-spawn.jpg",
+      "screenshots": [
+        {
+          "path": "videos/endgame-spawn.jpg",
+          "score": 6,
+          "notes": "Dim flashlight-lit hallway with a bloody figure shambling forward is creepy, but the frame is murky and low-detail."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Dim flashlight-lit hallway with a bloody figure shambling forward is creepy, but the frame is murky and low-detail."
+    },
+    {
+      "id": "state-property",
+      "title": "This Ain't No State Property",
+      "description": "Meme turned playable 3D game: hook the guy's pickup with your fishing rod and drag it away while he argues \"this ain't no state property\". Made with Claude Opus 5.5 via AIML API, as a Claude artifact (noclipepe).",
+      "play_url": "https://claude.ai/artifact/LvHZkSRAeuy4GLfYYEXVhV",
+      "source_url": "https://x.com/noclipepe/status/2107582006900998311",
+      "found_via": "X @noclipepe Opus 5.5 state-property meme game (link in reply)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self+corp-same-origin",
+      "category": "comedy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 10,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-07T01:58:22.000Z",
+      "video_path": "videos/state-property.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/state-property.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/state-property.jpg",
+      "screenshots": [
+        {
+          "path": "videos/state-property.jpg",
+          "score": 5,
+          "notes": "Vertical phone capture of a white pickup on a grassy verge with a fishing rod and subtitles; framed in a purple phone border with a lot of empty space."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Vertical phone capture of a white pickup on a grassy verge with a fishing rod and subtitles; framed in a purple phone border with a lot of empty space."
     }
   ],
   "totals": {
-    "games": 367,
+    "games": 391,
     "by_made_with": {
-      "opus-5.5": 265,
-      "astra": 82,
-      "sonnet-5.5": 17,
+      "opus-5.5": 286,
+      "astra": 84,
+      "sonnet-5.5": 18,
       "uncertain": 3
     }
   }
