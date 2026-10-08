@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:30:32.000Z",
+  "updated_at": "2026-10-08T02:30:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -7913,7 +7913,7 @@
       "remote_likes": 2,
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
-      "last_seen": "2026-10-03T01:40:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
       "iframe": true
     },
     {
@@ -9474,7 +9474,7 @@
       "remote_likes": 276,
       "likes_source": "reddit",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/emberfall-lumina.mp4",
       "video_source": "reddit",
       "videos": [
@@ -9551,7 +9551,7 @@
       "remote_likes": 2,
       "likes_source": "reddit",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/nothing-2-lose.mp4",
       "video_source": "reddit",
       "videos": [
@@ -9910,7 +9910,7 @@
       "remote_likes": 2,
       "likes_source": "x",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
       "screenshot_path": "screenshots/298-rise-and-raid.jpg",
       "screenshots": [
         {
@@ -10157,10 +10157,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 11,
+      "remote_likes": 21,
       "likes_source": "x",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/heatsink.mp4",
       "video_source": "x",
       "videos": [
@@ -12883,14 +12883,1539 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Hero-select screen with bold cartoon Wolverine, Cyclops and Iceman cards and difficulty slots; crisp but a menu."
+    },
+    {
+      "id": "moonbear",
+      "title": "Moonbear",
+      "description": "Star Fox 64-style rail shooter clone: fly an Arwing-like fighter over sea and canyons, shoot down enemy squadrons with radio chatter from your wingmen. Built in one shot by Claude Opus 5.5 on the author's custom C++ Cheesecake engine, playable in the browser via WebAssembly (apf6).",
+      "play_url": "https://cheesecake-engine.dev/demos/?game=moonbear",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x08z94/",
+      "found_via": "r/aigamedev Opus 5.5 one-shot Star Fox 64 clone",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 38,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/moonbear.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/moonbear.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/moonbear.jpg",
+      "screenshots": [
+        {
+          "path": "videos/moonbear.jpg",
+          "score": 8,
+          "notes": "Sunlit sea dotted with rock stacks, a blue fighter banking past enemy jets and a wingman radio box with shield/boost HUD; looks like a real Star Fox level."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Sunlit sea dotted with rock stacks, a blue fighter banking past enemy jets and a wingman radio box with shield/boost HUD; looks like a real Star Fox level."
+    },
+    {
+      "id": "perlune",
+      "title": "Perlune",
+      "description": "Dreamy auto-shooter roguelite: you are a droplet of liquid metal dashing across five tiny worlds while your shots fire themselves. About 4,600 lines of plain JavaScript and raw WebGL 2 with procedural chrome, glass and pearl materials, no engine or assets; built with Opus 5.5 (One_Low8664).",
+      "play_url": "https://bug.games/games/perlune",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x03cdc/",
+      "found_via": "r/aigamedev Opus 5.5 liquid-metal auto-shooter",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "roguelite",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 28,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/perlune.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/perlune.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/perlune.jpg",
+      "screenshots": [
+        {
+          "path": "videos/perlune.jpg",
+          "score": 8,
+          "notes": "Glossy pearl planet with a chrome droplet, iridescent bubbles and neon contour lines; gorgeous and unusual, though the action is hard to read."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Glossy pearl planet with a chrome droplet, iridescent bubbles and neon contour lines; gorgeous and unusual, though the action is hard to read."
+    },
+    {
+      "id": "pavement-pursuit",
+      "title": "Pavement Pursuit",
+      "description": "One-thumb Road Fighter / Spy Hunter style top-down racer: steer down an endless forking road, dodge traffic and pick routes, on phone or desktop. Five months of vibe coding with Claude Code, started on Sonnet and now built with Opus (johnesco).",
+      "play_url": "https://vibecodedgames.itch.io/pavement",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1wznrvo/",
+      "found_via": "r/vibecoding 5 months of vibe coding Pavement Pursuit",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says Sonnet then Opus (Opus 5.5 era); version not stated.",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "racing",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 12,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/pavement-pursuit.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/pavement-pursuit.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/pavement-pursuit.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pavement-pursuit.jpg",
+          "score": 4,
+          "notes": "Vertical phone capture of a plain grey road with one red car and a 'The road learns to bend' caption; readable but very sparse."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Vertical phone capture of a plain grey road with one red car and a 'The road learns to bend' caption; readable but very sparse."
+    },
+    {
+      "id": "minnows-den",
+      "title": "Minnow's Den",
+      "description": "Short first-person anomaly-detection game in a cozy apartment with a robot and a cat named Minnow: spot what changed and report it. Assets made with Claude Code + Opus 5.5 via Blender MCP and Godot, trailer by Codex with Astra; browser build on itch (Rot_Beurre / AgentButterBear).",
+      "play_url": "https://agentbutterbear.itch.io/minnows-den",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wzmduk/",
+      "found_via": "r/aigamedev Opus 5.5 anomaly game Minnow's Den",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/minnows-den.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/minnows-den.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/minnows-den.jpg",
+      "screenshots": [
+        {
+          "path": "videos/minnows-den.jpg",
+          "score": 5,
+          "notes": "Clean, evenly lit living room with a grey sofa, TV, bookshelf and posters; tidy 3D but nothing anomalous visible in the frame."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Clean, evenly lit living room with a grey sofa, TV, bookshelf and posters; tidy 3D but nothing anomalous visible in the frame."
+    },
+    {
+      "id": "shapeleon",
+      "title": "Shapeleon",
+      "description": "Family-friendly 2D platformer where you become the shape you catch: two worlds of levels that add new abilities and pickups, touch controls on phones and installable as a PWA. Built in Godot with Claude Opus 5.5 (high) and Kenney assets (tahazsh).",
+      "play_url": "https://demos.tahazsh.com/shapeleon/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x071vu/",
+      "found_via": "r/aigamedev Opus 5.5 Godot family platformer",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "platformer",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/shapeleon.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/shapeleon.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/shapeleon.jpg",
+      "screenshots": [
+        {
+          "path": "videos/shapeleon.jpg",
+          "score": 6,
+          "notes": "Bright pastel sky with cute blob and cube characters and a 'Become what you catch' banner; cheerful and clear, light on level detail."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bright pastel sky with cute blob and cube characters and a 'Become what you catch' banner; cheerful and clear, light on level detail."
+    },
+    {
+      "id": "saucerjam",
+      "title": "SaucerJam",
+      "description": "ARC (Attack, Retrieve, Capture) inspired top-down saucer combat: one energy bar for laser, ricochet and arcing grenade, rooms fill with bots after 10 seconds, districts open as more players join; any device, no account. Built with Claude Code (Opus), three.js and a Node server (Silent_Ad1589 / menezmethod).",
+      "play_url": "https://menezmethod.itch.io/saucerjam",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x0dz91/",
+      "found_via": "r/aigamedev Opus ARC-inspired browser saucer game",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says Claude Code (Opus); version not stated.",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/saucerjam.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/saucerjam.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/saucerjam.jpg",
+      "screenshots": [
+        {
+          "path": "videos/saucerjam.jpg",
+          "score": 6,
+          "notes": "Dark sci-fi arena with gold-trimmed crates, a glowing saucer and a minimap; moody and readable but mostly empty floor."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Dark sci-fi arena with gold-trimmed crates, a glowing saucer and a minimap; moody and readable but mostly empty floor."
+    },
+    {
+      "id": "splat-spree",
+      "title": "Splat Spree",
+      "description": "Browser paintball arena for friends from a link: stick figures in an abandoned office, paint shotgun and grenades, kill streaks like a wall-piercing laser cannon; solo or private rooms, no account. Inspired by Stick Arena, made in a day with Opus (playfuss).",
+      "play_url": "https://splat-spree-production.up.railway.app/",
+      "source_url": "https://www.reddit.com/r/SideProject/comments/1x0bz6c/",
+      "found_via": "r/SideProject Opus browser paintball",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says made with Opus; version not stated.",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/splat-spree.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/splat-spree.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/splat-spree.jpg",
+      "screenshots": [
+        {
+          "path": "videos/splat-spree.jpg",
+          "score": 5,
+          "notes": "Top-down grey office floor with desks, tiny stick figures and a green paint splatter; readable but small and flat."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Top-down grey office floor with desks, tiny stick figures and a green paint splatter; readable but small and flat."
+    },
+    {
+      "id": "retro-mars",
+      "title": "Retro Mars",
+      "description": "Papers, Please-style homage on Mars: run a retro game shop as a Martian under an authoritarian regime, buy cartridges and spot the counterfeits. Pixel diorama made with Opus 5.5 and the game with Claude; French only for now (Ostermiss).",
+      "play_url": "https://retro-mars.vercel.app/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x0a1v9/",
+      "found_via": "r/aigamedev Opus 5.5 Papers, Please homage on Mars",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/348-retro-mars.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/348-retro-mars.jpg",
+          "score": 6,
+          "notes": "Neon pixel-art Martian street with a RETRO MARS sign, shopfronts and a French menu; charming retro look, menu only."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Neon pixel-art Martian street with a RETRO MARS sign, shopfronts and a French menu; charming retro look, menu only."
+    },
+    {
+      "id": "pirate-raid",
+      "title": "Pirate Raid",
+      "description": "3D pirate action-adventure: sail and fight, grab the loot and upgrade your ship, tuned for 60 fps even on weak phones. Made in about 5 days with Opus 5.5 handling logic, 3D models, shaders, sound and UI (GPT for concept art) (No_Emphasis_2904).",
+      "play_url": "https://playgama.com/game/pirate-raid",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wzup8w/",
+      "found_via": "r/aigamedev Opus 5.5 five-day pirate game",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "action",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/pirate-raid.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/pirate-raid.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/pirate-raid.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pirate-raid.jpg",
+          "score": 5,
+          "notes": "Vertical phone capture of a cartoon pirate ship on bright blue water with a 'Grab the loot!' banner; colorful but narrow."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Vertical phone capture of a cartoon pirate ship on bright blue water with a 'Grab the loot!' banner; colorful but narrow."
+    },
+    {
+      "id": "dune-arrakis",
+      "title": "Dune: The Battle for Arrakis",
+      "description": "Dune II rebuilt in 3D three.js from the Dune Legacy source: three campaigns of 9 missions, skirmish vs AI up to 6 players, every unit and building, sandworms, spice blooms and the CHOAM starport. Opus 5.5 built the engine in one session, Sonnet 5.5 redid all 3D models (One_Turnover9394 / crocone).",
+      "play_url": "https://crocone.github.io/dune-arrakis/",
+      "source_url": "https://www.reddit.com/r/threejs/comments/1wzqo6x/",
+      "found_via": "r/threejs Opus 5.5 + Sonnet 5.5 Dune II remake",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rts",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/dune-arrakis.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/dune-arrakis.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/dune-arrakis.jpg",
+      "screenshots": [
+        {
+          "path": "videos/dune-arrakis.jpg",
+          "score": 7,
+          "notes": "Sunlit desert with a cluster of blue tanks and trikes firing at a refinery, explosions and an ornithopter; busy and clearly an RTS battle."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Sunlit desert with a cluster of blue tanks and trikes firing at a refinery, explosions and an ornithopter; busy and clearly an RTS battle."
+    },
+    {
+      "id": "pixel-miner",
+      "title": "Pixel Miner (Demo)",
+      "description": "Pixel-art mining adventure: as rookie Pyro-7 dig into a planet to find a lost survey team, upgrade at the workshop by day and listen to what the rock tells you. Made over 3 weeks with Claude Opus 5.5; free browser demo (Icy_Conversation1751 / ssilverbeardd).",
+      "play_url": "https://ssilverbeardd.itch.io/pixel-miner-demo",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz77md/",
+      "found_via": "r/aigamedev Opus 5.5 Pixel Miner demo",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/pixel-miner.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/pixel-miner.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/pixel-miner.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pixel-miner.jpg",
+          "score": 6,
+          "notes": "Pixel mining camp with a workshop, cabin and mine entrance under grey cliffs and a commander dialog; tidy pixel art with small HUD text."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Pixel mining camp with a workshop, cabin and mine entrance under grey cliffs and a commander dialog; tidy pixel art with small HUD text."
+    },
+    {
+      "id": "turfwar-taipei",
+      "title": "Turf War: Taipei",
+      "description": "Browser team shooter across Taipei: Taipei 101's 88th floor, Ximending and Chiang Kai-shek Memorial Hall, 1v1 up to 24v24 with bots, elimination and bomb modes, weapon customization and vehicles; open source. 100% vibe-coded with Opus 5.5, Sol 6.1 and Amp (MadEyeXZ).",
+      "play_url": "https://turfwar.ianhsiao.me/",
+      "source_url": "https://www.reddit.com/r/SideProject/comments/1wzx4ix/",
+      "found_via": "r/SideProject + r/playmygame Opus 5.5 Taipei shooter",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/turfwar-taipei.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/turfwar-taipei.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/turfwar-taipei.jpg",
+      "screenshots": [
+        {
+          "path": "videos/turfwar-taipei.jpg",
+          "score": 5,
+          "notes": "Trailer frame of a soldier climbing the side of Taipei 101 with a 'No ropes. Just a rifle.' caption; dramatic but dark and blurry."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Trailer frame of a soldier climbing the side of Taipei 101 with a 'No ropes. Just a rifle.' caption; dramatic but dark and blurry."
+    },
+    {
+      "id": "titan-royale",
+      "title": "Titan Royale",
+      "description": "Pixel-art auto-battle royale: pick one of 7 champions and fight 100 rivals across 7 arenas from lava rivers to a crypt; the last 6 alive become giant titans for a final showdown over rising lava. Opus 5.5 project with Claude Code; HTML5 build on itch plus Android (sapinhosapao / Aruvez).",
+      "play_url": "https://aruvez.itch.io/titan-royale",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wzg7yq/",
+      "found_via": "r/aigamedev Opus 5.5 pixel battle royale",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "battle-royale",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/titan-royale.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/titan-royale.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/titan-royale.jpg",
+      "screenshots": [
+        {
+          "path": "videos/titan-royale.jpg",
+          "score": 6,
+          "notes": "Pixel dungeon arena with tiny fighters, lava in the corner, '100 FIGHTERS. 1 ARENA.' text and mobile buttons; lively but small sprites."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Pixel dungeon arena with tiny fighters, lava in the corner, '100 FIGHTERS. 1 ARENA.' text and mobile buttons; lively but small sprites."
+    },
+    {
+      "id": "cardboard-conquest",
+      "title": "Cardboard Conquest",
+      "description": "Roguelike deckbuilder/autobattler in a papercraft world: summon armies, trace units to unlock cards and find a dozen mini-games hidden in events. Solo dev, Claude Code with Opus as the main workhorse; HTML5 build on itch, Steam page too (pbandgames / thepaulbooth).",
+      "play_url": "https://thepaulbooth.itch.io/cardboard-conquest",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz2tv4/",
+      "found_via": "r/aigamedev Opus papercraft autobattler",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says Claude Code with Opus; version not stated.",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "deckbuilder",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 53,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/cardboard-conquest.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/cardboard-conquest.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/cardboard-conquest.jpg",
+      "screenshots": [
+        {
+          "path": "videos/cardboard-conquest.jpg",
+          "score": 7,
+          "notes": "Papercraft battlefield with two cardboard armies clashing on a pink and green board; colorful and distinctive, a little crowded."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Papercraft battlefield with two cardboard armies clashing on a pink and green board; colorful and distinctive, a little crowded."
+    },
+    {
+      "id": "heroes-journey",
+      "title": "Heroes Journey",
+      "description": "Pixel-art side-scrolling RPG: a kilted hero trains against dummies in a forest village, with day counter, stamina and coin HUD and a skills panel. Made with Opus 5.5 (MemesVsMachine).",
+      "play_url": "https://heroezjourney.com/",
+      "source_url": "https://x.com/MemesVsMachine/status/2107783130212164031",
+      "found_via": "X @MemesVsMachine Opus 5.5 Heroes Journey",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/349-heroes-journey.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/349-heroes-journey.jpg",
+          "score": 7,
+          "notes": "Lush pixel forest with a kilted swordsman fighting training dummies and a big stats panel; charming art, though the panel covers the left third."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Lush pixel forest with a kilted swordsman fighting training dummies and a big stats panel; charming art, though the panel covers the left third."
+    },
+    {
+      "id": "ripple-pool",
+      "title": "Ripple Pool",
+      "description": "Calming physics puzzle: pull back, let go and watch colored orbs collide and merge until the pool is clear; daily puzzles, calm mode, no ads. Claude Opus 5.5 built the game and site, with Higgsfield for media (michaelirizarry).",
+      "play_url": "https://ripplepool.app/",
+      "source_url": "https://x.com/michaelirizarry/status/2107950053323378957",
+      "found_via": "X @michaelirizarry Opus 5.5 Ripple Pool",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/ripple-pool.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/ripple-pool.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/ripple-pool.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ripple-pool.jpg",
+          "score": 5,
+          "notes": "Dark promo frame of a phone showing a ring of colored orbs next to 'Take the calm with you.'; sleek but more ad than gameplay."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Dark promo frame of a phone showing a ring of colored orbs next to 'Take the calm with you.'; sleek but more ad than gameplay."
+    },
+    {
+      "id": "pinterm",
+      "title": "pinterm",
+      "description": "Top-down terminal pinball written in the Roc language, compiled to WebAssembly and rendered in the browser with libghostty, with synthesized sound and touch flippers. Opus 5.5 built it on the first try (pmarreck).",
+      "play_url": "https://pmarreck.github.io/pinterm/",
+      "source_url": "https://x.com/pmarreck/status/2108002628894650725",
+      "found_via": "X @pmarreck Opus 5.5 terminal pinball",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "pinball",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/350-pinterm.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/350-pinterm.jpg",
+          "score": 3,
+          "notes": "Black terminal screen with a small rainbow PINTERM title and key hints; the table is not visible yet."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Black terminal screen with a small rainbow PINTERM title and key hints; the table is not visible yet."
+    },
+    {
+      "id": "rim-runner",
+      "title": "Rim Runner",
+      "description": "Precision time-attack where you are the wheel, not the car: lean, balance and land clean along neon tracks. One week of grinding with Opus 5.5; free in the browser (JBTiebb).",
+      "play_url": "https://jbtieb.itch.io/rim-runner",
+      "source_url": "https://x.com/JBTiebb/status/2107599726447104006",
+      "found_via": "X @JBTiebb Opus 5.5 Rim Runner",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/rim-runner.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/rim-runner.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/rim-runner.jpg",
+      "screenshots": [
+        {
+          "path": "videos/rim-runner.jpg",
+          "score": 6,
+          "notes": "Glossy red track curving through a dark neon grid with a lone tire rolling along it; stylish, a bit abstract."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Glossy red track curving through a dark neon grid with a lone tire rolling along it; stylish, a bit abstract."
+    },
+    {
+      "id": "wording-well",
+      "title": "Wording Well",
+      "description": "Text word-puzzle adventure for the Super Free AI Game Jam #1: you are the tyrant at the bottom of a square well, lettered stones fall, spell words and the dead hold the stair. Built with Sol 6.1, then continued with Opus 5.5 (exedexes1).",
+      "play_url": "https://exedexes1.itch.io/wording-well",
+      "source_url": "https://x.com/exedexes1/status/2107730844681203805",
+      "found_via": "X @exedexes1 Opus 5.5 / Sol 6.1 jam game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "made_with_note": "Built with Sol 6.1 and continued with Opus 5.5.",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "word",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/351-wording-well.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/351-wording-well.jpg",
+          "score": 3,
+          "notes": "Monochrome terminal-style text panel with a few buttons on black; atmospheric text but almost no visuals."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Monochrome terminal-style text panel with a few buttons on black; atmospheric text but almost no visuals."
+    },
+    {
+      "id": "fourcities",
+      "title": "FourCities",
+      "description": "Multiplayer city-and-company builder: pick a city and rivals, set starting cash and match length, then build your company faster than the others; single player vs bots or online with friends. Built with Opus 5.5 (EmirhanOzsoy).",
+      "play_url": "https://play.fourcities.app/",
+      "source_url": "https://x.com/EmirhanOzsoy/status/2107887898171183465",
+      "found_via": "X @EmirhanOzsoy Opus 5.5 FourCities",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/352-fourcities.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/352-fourcities.jpg",
+          "score": 3,
+          "notes": "Dark setup form with seed, city and rival difficulty buttons; clean but it is only a lobby menu."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Dark setup form with seed, city and rival difficulty buttons; clean but it is only a lobby menu."
+    },
+    {
+      "id": "tweet-obby",
+      "title": "Tweet Obby",
+      "description": "Roblox-style multiplayer obby you can play right inside an X post via a player card: pick a color and race 12 stages with everyone else in the same world. Claude Opus 5.5 built it in 20 minutes; open source (starmexxx).",
+      "play_url": "https://roblox-production-e3f6.up.railway.app/embed",
+      "source_url": "https://x.com/starmexxx/status/2107828992841781535",
+      "found_via": "X @starmexxx Opus 5.5 Roblox obby in a tweet",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "platformer",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 31,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/353-tweet-obby.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/353-tweet-obby.jpg",
+          "score": 6,
+          "notes": "Bold TWEETOBBY lobby card with color swatches and server list over a blurred blocky obby course; clean, but the course is behind the menu."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bold TWEETOBBY lobby card with color swatches and server list over a blurred blocky obby course; clean, but the course is behind the menu."
+    },
+    {
+      "id": "neon-snake-spawn",
+      "title": "Neon Snake",
+      "description": "3D slither-style arena: neon snakes in a dark arena eat the glow, grow long and cut everyone off. Built on Spawn; Opus 5.5 even recorded the trailer (DevinSoto).",
+      "play_url": "https://www.spawn.co/@obeylegend/neon-snake/play",
+      "source_url": "https://x.com/DevinSoto/status/2107978235279720898",
+      "found_via": "X @DevinSoto Opus 5.5 3D snake game on Spawn",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "made_with_note": "Tweet credits Opus 5.5 (trailer and game, built on Spawn).",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/neon-snake-spawn.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/neon-snake-spawn.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/neon-snake-spawn.jpg",
+      "screenshots": [
+        {
+          "path": "videos/neon-snake-spawn.jpg",
+          "score": 7,
+          "notes": "Glowing pink, orange and yellow snakes weaving through a field of neon dots with a leaderboard; vivid and readable."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Glowing pink, orange and yellow snakes weaving through a field of neon dots with a leaderboard; vivid and readable."
+    },
+    {
+      "id": "starship-hearth",
+      "title": "Starship Hearth",
+      "description": "Hearthstone-style card duel against a bot with a custom Elon Musk legendary that launches a Starship. Built as a playable Claude artifact with Claude Opus 5.5 via AIML API (noclipepe).",
+      "play_url": "https://claude.ai/artifact/STJsgKFPPWKnxyBZXhUdzs",
+      "source_url": "https://x.com/noclipepe/status/2107844816516034671",
+      "found_via": "X @noclipepe Opus 5.5 Hearthstone remake (link in reply)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self+corp-same-origin",
+      "category": "card",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 17,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/starship-hearth.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/starship-hearth.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/starship-hearth.jpg",
+      "screenshots": [
+        {
+          "path": "videos/starship-hearth.jpg",
+          "score": 6,
+          "notes": "Hearthstone-like board with hero portraits, minions and a hand of cards inside a purple phone frame; recognisable, but small and framed."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Hearthstone-like board with hero portraits, minions and a hand of cards inside a purple phone frame; recognisable, but small and framed."
+    },
+    {
+      "id": "bug-pig-pogo",
+      "title": "Pogo Pig",
+      "description": "One-tap runner born from a bug: Opus 5.5 made a pig that runs on its tail, so the tail became a pogo spring. Bounce over BUGs, 404s and firewalls and grab the money as the speed climbs to 2.7x; one file, all by Opus 5.5, as a Claude artifact (Beyzikx).",
+      "play_url": "https://claude.ai/artifact/FGsbdmDV5UXgvJvDXnKDT1",
+      "source_url": "https://x.com/Beyzikx/status/2107880994527129924",
+      "found_via": "X @Beyzikx Opus 5.5 Pogo Pig (Claude artifact)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self+corp-same-origin",
+      "category": "arcade",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 7,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/bug-pig-pogo.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/bug-pig-pogo.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/bug-pig-pogo.jpg",
+      "screenshots": [
+        {
+          "path": "videos/bug-pig-pogo.jpg",
+          "score": 5,
+          "notes": "Vertical neon synthwave screen with a pink pig on a pogo spring and a TAP TO POGO prompt; cute and clear but narrow."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Vertical neon synthwave screen with a pink pig on a pogo spring and a TAP TO POGO prompt; cute and clear but narrow."
+    },
+    {
+      "id": "tweety-flap",
+      "title": "Tweety Flap",
+      "description": "Multiplayer Flappy Bird remix you can play in an X post: pick a bird and your handle and flap through pipes with others. OpenAI's Dots agents running Anthropic's Opus 5.5 built it in 30 minutes (me_barnyx).",
+      "play_url": "https://tweety-flap-production.up.railway.app/",
+      "source_url": "https://x.com/me_barnyx/status/2107880770006057242",
+      "found_via": "X @me_barnyx Opus 5.5 Tweety Flap",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 46,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/354-tweety-flap.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/354-tweety-flap.jpg",
+          "score": 5,
+          "notes": "Classic Flappy Bird style sky and city backdrop behind a name/handle form and bird picker; familiar look, menu only."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Classic Flappy Bird style sky and city backdrop behind a name/handle form and bird picker; familiar look, menu only."
+    },
+    {
+      "id": "i-want-it-right-meow",
+      "title": "I Want It Right Meow",
+      "description": "Story-driven boss fight you fly through in a browser tab: eleven cat friends cross five worlds, hold one to choose who leads, and when one falters the others share their light to break the serpent. three.js + Claude Code (Opus 5.5), no engine or assets (0xNextia / Nextia Studios).",
+      "play_url": "https://iwantitrightmeow.nextia.studio/",
+      "source_url": "https://x.com/0xNextia/status/2107852388203909541",
+      "found_via": "X @0xNextia Opus 5.5 three.js boss fight (link in reply)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/i-want-it-right-meow.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/i-want-it-right-meow.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/i-want-it-right-meow.jpg",
+      "screenshots": [
+        {
+          "path": "videos/i-want-it-right-meow.jpg",
+          "score": 7,
+          "notes": "Glowing orange and teal cats flying past a gold mechanical serpent through red light ribbons; striking and painterly."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Glowing orange and teal cats flying past a gold mechanical serpent through red light ribbons; striking and painterly."
+    },
+    {
+      "id": "sky-reach",
+      "title": "Sky Reach",
+      "description": "No Man's Sky style browser space game: fly a battered starship over planets, moons and a Ringworld, chase beacons for warp cores, fight sandworms and walkers on the ground and join space battles with 1000-player multiplayer. Built with Opus 5.5 and three.js on Tesana (Rubzem).",
+      "play_url": "https://tesana.com/game/sky-reach",
+      "source_url": "https://x.com/Rubzem/status/2107828818165833976",
+      "found_via": "X @Rubzem Opus 5.5 Sky Reach on Tesana (link in reply)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "space",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 496,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/sky-reach.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/sky-reach.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/sky-reach.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sky-reach.jpg",
+          "score": 8,
+          "notes": "A starship diving toward a huge glowing ringworld arc with Saturn-like planets and a mission HUD; epic and polished."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "A starship diving toward a huge glowing ringworld arc with Saturn-like planets and a mission HUD; epic and polished."
+    },
+    {
+      "id": "skyforge",
+      "title": "Skyforge",
+      "description": "Classic top-down vertical scroller shooter in three.js: fly over islands and shoot down enemy planes and ground defenses; works on mobile too. The first prompt to Astra gave a playable prototype, then polished with Claude Code Cloud and Blender (the_badget).",
+      "play_url": "https://www.playtest.win/games/skyforge",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz70dd/",
+      "found_via": "r/aigamedev Astra vertical shooter",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/355-skyforge.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/355-skyforge.jpg",
+          "score": 4,
+          "notes": "Playtest.win game page with a small Skyforge island thumbnail and Play button; the game is only a thumbnail."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Playtest.win game page with a small Skyforge island thumbnail and Play button; the game is only a thumbnail."
+    },
+    {
+      "id": "supermekabots",
+      "title": "Super Mekabots",
+      "description": "Browser mecha card game inspired by Duel Masters and Super Robot Wars: claim a unique founding Meka, pair a pilot, build a deck and watch cinematic attacks over Indonesian scenery, with an AI assistant. Built with Claude Design + Codex Astra, Seedance attack animations (SupMekBots).",
+      "play_url": "https://supermekabots.com/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x02oqv/",
+      "found_via": "r/aigamedev Codex Astra mecha card game",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "card",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/356-supermekabots.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/356-supermekabots.jpg",
+          "score": 4,
+          "notes": "Huge yellow SUPER MEKA/BOTS headline on dark brown with a 'Claim your starter' box; bold branding, no game view."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Huge yellow SUPER MEKA/BOTS headline on dark brown with a 'Claim your starter' box; bold branding, no game view."
+    },
+    {
+      "id": "dead-world",
+      "title": "DEAD WORLD",
+      "description": "Isometric zombie survival in the browser: explore a hostile map, scavenge resources and decide when to fight or run, never knowing what a door hides. Built as an experiment with GPT-6 Astra (GameOverClubBrazil).",
+      "play_url": "https://gameoverclub.com.br/dead_world/",
+      "source_url": "https://www.reddit.com/r/GameOverClubIABR/comments/1wz9fgy/",
+      "found_via": "r/GameOverClubIABR GPT-6 Astra zombie survival",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "survival",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/357-dead-world.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/357-dead-world.jpg",
+          "score": 7,
+          "notes": "Gritty key art of survivors firing into a zombie horde under a dripping red DEAD WORLD logo; dramatic, promotional art rather than gameplay."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Gritty key art of survivors firing into a zombie horde under a dripping red DEAD WORLD logo; dramatic, promotional art rather than gameplay."
+    },
+    {
+      "id": "embervale",
+      "title": "Embervale",
+      "description": "RuneScape-inspired fantasy adventure around Lumbridge: explore, gather, quest and fight with the classic inventory and minimap UI. Created by GPT-6 Astra (rsonline200).",
+      "play_url": "https://embervale-adventure.bhandari-adit.chatgpt.site/",
+      "source_url": "https://x.com/rsonline200/status/2107856803115749470",
+      "found_via": "X @rsonline200 GPT-6 Astra RuneScape-like",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/embervale.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/embervale.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/embervale.jpg",
+      "screenshots": [
+        {
+          "path": "videos/embervale.jpg",
+          "score": 4,
+          "notes": "Murky low-poly hillside with a tiny character and a building corner; dark and hard to read."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Murky low-poly hillside with a tiny character and a building corner; dark and hard to read."
+    },
+    {
+      "id": "typewriter-planet-defense",
+      "title": "Typewriter: Planet Defense",
+      "description": "Typing game where your keyboard is the weapon: type each word to shoot down the missiles falling on the planet, with English or Arabic word lists and difficulty levels. Written with ChatGPT Sol 6 and enhanced with Astra 6 Ultra (shohdi2).",
+      "play_url": "https://www.osiristoken.com/Typewriter/index.html",
+      "source_url": "https://x.com/shohdi2/status/2107925719288533253",
+      "found_via": "X @shohdi2 Sol 6 + Astra 6 typing game",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "made_with_note": "Sol 6 wrote it, Astra 6 Ultra enhanced it.",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "typing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/358-typewriter-planet-defense.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/358-typewriter-planet-defense.jpg",
+          "score": 4,
+          "notes": "Teal start panel ('The sky is falling. Your fingers are the defense.') with language and level pickers; neat but just the menu."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Teal start panel ('The sky is falling. Your fingers are the defense.') with language and level pickers; neat but just the menu."
+    },
+    {
+      "id": "winbloxos-disaster-survival",
+      "title": "WinbloxOS: Disaster Survival (web demo)",
+      "description": "Browser demo of a Roblox natural-disaster survival game: survive fire, flood and invasion across three original maps (Crossroads, Construction site, The tower). Made with GPT-6 Astra (kennyaanimator).",
+      "play_url": "https://wdsdemo.kenny-animator-dotex.chatgpt.site/",
+      "source_url": "https://x.com/kennyaanimator/status/2107905687821185212",
+      "found_via": "X @kennyaanimator GPT-6 Astra disaster survival demo",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "survival",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/359-winbloxos-disaster-survival.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/359-winbloxos-disaster-survival.jpg",
+          "score": 6,
+          "notes": "Bold 'Survive the unexpected.' landing over a sunny low-poly city diorama with three map cards; polished, menu only."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bold 'Survive the unexpected.' landing over a sunny low-poly city diorama with three map cards; polished, menu only."
+    },
+    {
+      "id": "grid-academy",
+      "title": "Grid Academy",
+      "description": "Fan-made 3D Off The Grid training game: learn weapons and cyberlimbs at a neon rooftop range, with hardware orientation drills and a scoreboard. Made with Astra 6 (Pardon_my_trade / Crypt0k1ng96).",
+      "play_url": "https://grid-academy.crypt0k1ngfx96.chatgpt.site/",
+      "source_url": "https://x.com/Pardon_my_trade/status/2107874314758631578",
+      "found_via": "X @Pardon_my_trade Astra 6 OTG mini-game",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/360-grid-academy.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/360-grid-academy.jpg",
+          "score": 6,
+          "notes": "Dark cyberpunk rooftop range with neon-yellow 'UPGRADE YOUR INSTINCT.' headline and a training-protocol panel; stylish, a little busy."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Dark cyberpunk rooftop range with neon-yellow 'UPGRADE YOUR INSTINCT.' headline and a training-protocol panel; stylish, a little busy."
+    },
+    {
+      "id": "tidesworn",
+      "title": "Tidesworn",
+      "description": "Free browser Viking action RPG in early access: wash ashore on the Saltvik Isles, no classes, rich items and proficiencies (fishing, smithing, mining), dungeons, world bosses and raids, opt-in PvP, longships, horses and canoes (Long-Ambassador-6429).",
+      "play_url": "https://tidesworn.com/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0e2yu/",
+      "found_via": "r/playmygame Tidesworn",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/tidesworn.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/tidesworn.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/tidesworn.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tidesworn.jpg",
+          "score": 5,
+          "notes": "Night-time dirt path with a lone armored Viking walking toward a dim camp; moody but very dark."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Night-time dirt path with a lone armored Viking walking toward a dim camp; moody but very dark."
+    },
+    {
+      "id": "turtle-tag",
+      "title": "Turtle Tag",
+      "description": "Free party tag game in the browser: be a turtle, run, belly-slide and hide in your shell against six AI turtles or friends; six modes, five arenas, no download, sign-up or ads (SunHopeful).",
+      "play_url": "https://turtletag.online/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0djip/",
+      "found_via": "r/playmygame Turtle Tag",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+csp-frame-ancestors-self",
+      "category": "party",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/361-turtle-tag.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/361-turtle-tag.jpg",
+          "score": 6,
+          "notes": "Bright teal landing with 'You're a turtle. One turtle is IT.' next to a live top-down arena preview; friendly and clear."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bright teal landing with 'You're a turtle. One turtle is IT.' next to a live top-down arena preview; friendly and clear."
+    },
+    {
+      "id": "workshop-of-stopped-clocks",
+      "title": "The Workshop of Stopped Clocks (Room Escape)",
+      "description": "First-person 3D escape room: your late grandfather's clock workshop is cleared out tomorrow, so open drawers, inspect objects and work its locks within 60 minutes; PC and mobile controls, Google sign-in required. Extensive AI-assisted development (RoomEscapeDev).",
+      "play_url": "https://roomescape.dev/?play=1&theme=stopped-clocks&lang=en",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0c27g/",
+      "found_via": "r/playmygame Workshop of Stopped Clocks",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/workshop-of-stopped-clocks.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/workshop-of-stopped-clocks.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/workshop-of-stopped-clocks.jpg",
+      "screenshots": [
+        {
+          "path": "videos/workshop-of-stopped-clocks.jpg",
+          "score": 4,
+          "notes": "Vertical trailer frame of a dim workshop shelf with a big 'CLEARED OUT TOMORROW.' caption; on theme but narrow and text-led."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Vertical trailer frame of a dim workshop shelf with a big 'CLEARED OUT TOMORROW.' caption; on theme but narrow and text-led."
+    },
+    {
+      "id": "spark-escape-to-luma",
+      "title": "Spark: Escape to Luma (Arcade)",
+      "description": "Fast skill arcade game: launch Spark through endless shifting rings, moving targets and lasers, leading your shot to where the opening will be; web Endless Voyage mode (powercouple08).",
+      "play_url": "https://escapetoluma.com/arcade/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0bw7m/",
+      "found_via": "r/playmygame Spark: Escape to Luma",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/362-spark-escape-to-luma.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/362-spark-escape-to-luma.jpg",
+          "score": 5,
+          "notes": "Neon-blue SPARK arcade title card with a glowing ring on a dark starfield site; slick, menu only."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Neon-blue SPARK arcade title card with a glowing ring on a dark starfield site; slick, menu only."
+    },
+    {
+      "id": "the-hollow-king",
+      "title": "The Hollow King",
+      "description": "Voiced dark-fantasy gamebook for 1-4 players around one phone: everyone picks a hero, a narrator reads each scene aloud, real d20 rolls, 25-30 minutes with 3 endings (campaignkeeper).",
+      "play_url": "https://radixitchio.itch.io/the-hollow-king",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1wzrl4m/",
+      "found_via": "r/playmygame The Hollow King",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "interactive-fiction",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/363-the-hollow-king.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/363-the-hollow-king.jpg",
+          "score": 5,
+          "notes": "Elegant cream serif 'The Hollow King' title with a crown icon on dark brown and feature tags; classy cover, no gameplay."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Elegant cream serif 'The Hollow King' title with a crown icon on dark brown and feature tags; classy cover, no gameplay."
+    },
+    {
+      "id": "incremental-table",
+      "title": "Incremental Table",
+      "description": "Science idle game about the photoelectric effect: light knocks electrons from metal plates to discover 36 real elements, 6 lab rooms, 69 compounds and a power station, with prestige by publishing research; ~13 hours, offline progress (InvestigatorDapper17).",
+      "play_url": "https://n3utr0ne.itch.io/incremental-table",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1wzvwqt/",
+      "found_via": "r/playmygame Incremental Table",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "idle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/incremental-table.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/incremental-table.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/incremental-table.jpg",
+      "screenshots": [
+        {
+          "path": "videos/incremental-table.jpg",
+          "score": 4,
+          "notes": "Vertical capture of a pastel periodic table grid with a 'Discover 36 real elements' banner; clear concept but tiny and narrow."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Vertical capture of a pastel periodic table grid with a 'Discover 36 real elements' banner; clear concept but tiny and narrow."
+    },
+    {
+      "id": "bubbles-and-durians",
+      "title": "Bubbles & Durians",
+      "description": "3D arcade shooter in the browser: blast angry durians with bubbles in a sunny palace setting; the developer's first game (woba_games).",
+      "play_url": "https://wobagames.itch.io/bubblesanddurians",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1ww633n/",
+      "found_via": "r/playmygame Bubbles & Durians",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/364-bubbles-and-durians.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/364-bubbles-and-durians.jpg",
+          "score": 6,
+          "notes": "Bright yellow cover art with a cartoon bubble, chattering teeth and a grumpy durian in front of a golden palace; fun but key art only."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bright yellow cover art with a cartoon bubble, chattering teeth and a grumpy durian in front of a golden palace; fun but key art only."
+    },
+    {
+      "id": "dust-2-dm-spawn",
+      "title": "Dust 2 DM (Counter-Strike remake)",
+      "description": "Counter-Strike style multiplayer deathmatch on a sun-bleached Dust 2: AK, Glock and knife, drop in and first to 30 wins; runs smoothly even on weak GPUs. Vibe-coded in a week on Spawn (TAbrodi).",
+      "play_url": "https://www.spawn.co/@tiger/dust-2-dm/play",
+      "source_url": "https://x.com/TAbrodi/status/2107247111024890114",
+      "found_via": "X @TAbrodi bookmark: vibecoded Counter-Strike remake on Spawn (play link in reply)",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 888,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/dust-2-dm-spawn.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/dust-2-dm-spawn.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/dust-2-dm-spawn.jpg",
+      "screenshots": [
+        {
+          "path": "videos/dust-2-dm-spawn.jpg",
+          "score": 8,
+          "notes": "First-person AK firing down a sandy Dust 2 lane past a white van with full CS-style HUD; instantly recognisable and crisp."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "First-person AK firing down a sandy Dust 2 lane past a white van with full CS-style HUD; instantly recognisable and crisp."
+    },
+    {
+      "id": "endless-drive",
+      "title": "Endless Drive",
+      "description": "Moody first-person night drive through endless snowy forest roads in three.js, with dashboard, wipers and a dreamcatcher swinging from the mirror (_kuma_boy_ / mamimumeme).",
+      "play_url": "https://mamimumeme.com/endless-drive/",
+      "source_url": "https://x.com/threejs/status/2107735439679615295",
+      "found_via": "X @threejs bookmark: Endless Drive by @_kuma_boy_",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "driving",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 244,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "video_path": "videos/endless-drive.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/endless-drive.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/endless-drive.jpg",
+      "screenshots": [
+        {
+          "path": "videos/endless-drive.jpg",
+          "score": 6,
+          "notes": "Black-and-white view through a car windshield into falling snow and pines with a dreamcatcher hanging; atmospheric but grainy."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Black-and-white view through a car windshield into falling snow and pines with a dreamcatcher hanging; atmospheric but grainy."
     }
   ],
   "totals": {
-    "games": 468,
+    "games": 511,
     "by_made_with": {
-      "opus-5.5": 287,
-      "astra": 84,
-      "unknown": 76,
+      "opus-5.5": 314,
+      "astra": 91,
+      "unknown": 85,
       "sonnet-5.5": 18,
       "uncertain": 3
     }
