@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T02:30:00.000Z",
+  "updated_at": "2026-10-09T03:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -2561,7 +2561,7 @@
       "screenshot_score": 9.1,
       "screenshot_score_notes": "Packed stadium, dual scoreboards, pitch branding and exhibition settings panel are instantly legible; very polished for a browser remake.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02T12:34:06.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
       "made_with": "opus-5.5",
       "category": "sports",
       "platforms": [
@@ -2569,7 +2569,7 @@
       ],
       "video_path": "videos/soccar.mp4",
       "video_source": "https://x.com/BlendiByl/status/2104800823620632641",
-      "remote_likes": 141,
+      "remote_likes": 1178,
       "likes_source": "x"
     },
     {
@@ -4654,8 +4654,8 @@
       "published_at": "2026-09-29T22:43:15.000Z",
       "listed_at": "2026-09-29T23:56:48.000Z",
       "first_seen": "2026-09-29T23:56:48.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z",
-      "remote_likes": 205,
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "remote_likes": 588,
       "likes_source": "x",
       "author": "KalraIshaan11",
       "avatar_path": "/workspace/opus-feed/public/avatars/KalraIshaan11.jpg",
@@ -9174,10 +9174,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 17,
+      "remote_likes": 66,
       "likes_source": "x",
       "first_seen": "2026-10-06T01:47:44.000Z",
-      "last_seen": "2026-10-06T01:47:44.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
       "video_path": "videos/still-here.mp4",
       "video_source": "x",
       "videos": [
@@ -10157,10 +10157,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 21,
+      "remote_likes": 272,
       "likes_source": "x",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
       "video_path": "videos/heatsink.mp4",
       "video_source": "x",
       "videos": [
@@ -14408,16 +14408,1087 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Black-and-white view through a car windshield into falling snow and pines with a dreamcatcher hanging; atmospheric but grainy."
+    },
+    {
+      "id": "flap-nyc",
+      "title": "Flap NYC",
+      "description": "Flappy Bird but Midtown Manhattan at night: be a chubby NYC pigeon and flap from golden hour to neon rain. Free browser three.js game built with Opus 5.5 (sara_kumodeck).",
+      "play_url": "https://flapnyc.kumodeck.app/",
+      "source_url": "https://x.com/sara_kumodeck/status/2108367760984338575",
+      "found_via": "X @sara_kumodeck Opus 5.5 Flap NYC",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/flap-nyc.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/flap-nyc.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/flap-nyc.jpg",
+      "screenshots": [
+        {
+          "path": "videos/flap-nyc.jpg",
+          "score": 7,
+          "notes": "Cute low-poly pigeon threading yellow girders over a foggy Midtown of glowing windows and a row of taxis; clear and charming."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Cute low-poly pigeon threading yellow girders over a foggy Midtown of glowing windows and a row of taxis; clear and charming."
+    },
+    {
+      "id": "clawd-rpg",
+      "title": "CLAWD: Out of Context",
+      "description": "3D action RPG starring Clawd, improved with Opus 5.5 Ultracode orchestrating Haiku subagents (LexnLin).",
+      "play_url": "https://clawd-rpg.vercel.app/",
+      "source_url": "https://x.com/LexnLin/status/2108320373397770624",
+      "found_via": "X @LexnLin Opus 5.5 Clawd RPG",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 35,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/clawd-rpg.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/clawd-rpg.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/clawd-rpg.jpg",
+      "screenshots": [
+        {
+          "path": "videos/clawd-rpg.jpg",
+          "score": 6,
+          "notes": "Trailer frame of a 3D action scene with Clawd; readable action, a bit dark."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Trailer frame of a 3D action scene with Clawd; readable action, a bit dark."
+    },
+    {
+      "id": "pixshard",
+      "title": "PixShard",
+      "description": "Browser combat loot game: play with friends, hunt elemental items, level up and climb the leaderboard. Started from one Opus 5.5 prompt (0xRayer).",
+      "play_url": "https://pixshard.com/",
+      "source_url": "https://x.com/0xRayer/status/2108317689957802106",
+      "found_via": "X @0xRayer Opus 5.5 PixShard",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 4,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/pixshard.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pixshard.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pixshard.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pixshard.jpg",
+          "score": 7,
+          "notes": "Isometric pixel night meadow with Ranger Jansen fighting elite slimes and a full RPG HUD; busy but vivid."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Isometric pixel night meadow with Ranger Jansen fighting elite slimes and a full RPG HUD; busy but vivid."
+    },
+    {
+      "id": "pokeup",
+      "title": "PokéUp",
+      "description": "Multiplayer Pokémon OnlyUp! in the browser: switch Pokémon mid-jump, ride Gyarados' waves, race past Rayquaza to Arceus at 431 m. Built in 24h with Opus 5.5 (srepdor).",
+      "play_url": "https://pokeup-three.vercel.app/",
+      "source_url": "https://x.com/srepdor/status/2108309121661366390",
+      "found_via": "X @srepdor Opus 5.5 PokéUp",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "platformer",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 2,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/pokeup.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pokeup.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pokeup.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pokeup.jpg",
+          "score": 5,
+          "notes": "Vertical climb teaser with Pokémon silhouettes; energetic but small and mobile-framed."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Vertical climb teaser with Pokémon silhouettes; energetic but small and mobile-framed."
+    },
+    {
+      "id": "plane-sailing",
+      "title": "Plane Sailing",
+      "description": "Free paper-plane journey game for phone or browser: throw, glide and upgrade from the garden out to sea. Built with Opus 5.5 with the kids (paalsoberg).",
+      "play_url": "https://www.playplanesailing.com/",
+      "source_url": "https://x.com/paalsoberg/status/2108308525604626571",
+      "found_via": "X @paalsoberg Opus 5.5 Plane Sailing",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/365-plane-sailing.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/365-plane-sailing.jpg",
+          "score": 4,
+          "notes": "Sparse landing / loading capture of the paper-plane site; concept clear, little gameplay visible."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Sparse landing / loading capture of the paper-plane site; concept clear, little gameplay visible."
+    },
+    {
+      "id": "one-beam",
+      "title": "One Beam",
+      "description": "Indie multiplayer WebGPU browser game: four worlds, one Hunter, a crew trying to last the window. Demo playable; Opus 5.5 (OrbiumGames).",
+      "play_url": "https://orbium.games/play",
+      "source_url": "https://x.com/OrbiumGames/status/2108302762845110756",
+      "found_via": "X @OrbiumGames Opus 5.5 One Beam",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "multiplayer",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/one-beam.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/one-beam.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/one-beam.jpg",
+      "screenshots": [
+        {
+          "path": "videos/one-beam.jpg",
+          "score": 5,
+          "notes": "Dark sci-fi multiplayer demo frame; moody but hard to read the action."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Dark sci-fi multiplayer demo frame; moody but hard to read the action."
+    },
+    {
+      "id": "gigacity",
+      "title": "Gigacity",
+      "description": "Endless procedural vertical city in the browser (WebGPU): one seed grows every tower, room, car and light. 100% code by Opus 5.5 (RyanSael).",
+      "play_url": "https://sael.net/gigacity/",
+      "source_url": "https://x.com/RyanSael/status/2108203997480063196",
+      "found_via": "X @RyanSael Opus 5.5 Gigacity",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "exploration",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 7699,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/gigacity.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/gigacity.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/gigacity.jpg",
+      "screenshots": [
+        {
+          "path": "videos/gigacity.jpg",
+          "score": 9,
+          "notes": "Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable."
+        }
+      ],
+      "screenshot_score": 9,
+      "screenshot_score_notes": "Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable."
+    },
+    {
+      "id": "alandys",
+      "title": "Alandys",
+      "description": "Roguelite co-op in the browser: raise creatures and fight floating-island guardians, solo or up to 3 online. 383 commits with Opus 5.5 (AlandysGame).",
+      "play_url": "https://dapp.alandys.com/",
+      "source_url": "https://x.com/AlandysGame/status/2108381328299176238",
+      "found_via": "X @AlandysGame Opus 5.5 Alandys co-op",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "roguelite",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/alandys.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/alandys.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/alandys.jpg",
+      "screenshots": [
+        {
+          "path": "videos/alandys.jpg",
+          "score": 6,
+          "notes": "Trailer of floating-island creature combat; colorful co-op vibes, a little busy."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Trailer of floating-island creature combat; colorful co-op vibes, a little busy."
+    },
+    {
+      "id": "cod-web-collection",
+      "title": "Call of Duty: The Web Collection",
+      "description": "Fan-made browser ports of Moon, Kino, Nuketown, Hijacked and Cheese Cube under one link. Built with Opus 5.5 and GPT Astra (luckeyfaraday).",
+      "play_url": "https://cod-webports.pages.dev/",
+      "source_url": "https://x.com/luckeyfaraday/status/2108364242038710533",
+      "found_via": "X @luckeyfaraday Opus 5.5 + Astra CoD web ports",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "made_with_note": "Credits Opus 5.5 and GPT Astra.",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 364,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/cod-web-collection.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/cod-web-collection.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/cod-web-collection.jpg",
+      "screenshots": [
+        {
+          "path": "videos/cod-web-collection.jpg",
+          "score": 6,
+          "notes": "Black Ops-style map select for Kino der Toten with orange accents; polished menu, no in-match view."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Black Ops-style map select for Kino der Toten with orange accents; polished menu, no in-match view."
+    },
+    {
+      "id": "doorstep",
+      "title": "Doorstep",
+      "description": "Tower defence you can play with any postcode / address, built with Opus 5.5 (goalmine.games).",
+      "play_url": "https://goalmine.games/doorstep",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x12e4t/",
+      "found_via": "r/aigamedev Opus 5.5 postcode tower defence",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "tower-defense",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 32,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/doorstep.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/doorstep.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/doorstep.jpg",
+      "screenshots": [
+        {
+          "path": "videos/doorstep.jpg",
+          "score": 5,
+          "notes": "Postcode tower-defence trailer frame; readable concept, average polish."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Postcode tower-defence trailer frame; readable concept, average polish."
+    },
+    {
+      "id": "git-city-towns",
+      "title": "The Git City (Towns)",
+      "description": "Whole game plus trailer built with Opus 5.5 / Claude Code vs Codex comparison (thegitcity.com/towns).",
+      "play_url": "https://thegitcity.com/towns",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1x0w03z/",
+      "found_via": "r/vibecoding Opus 5.5 Git City towns",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 8,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/git-city-towns.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/git-city-towns.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/git-city-towns.jpg",
+      "screenshots": [
+        {
+          "path": "videos/git-city-towns.jpg",
+          "score": 5,
+          "notes": "Town-builder trailer frame; clear but not flashy."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Town-builder trailer frame; clear but not flashy."
+    },
+    {
+      "id": "lanterns-of-aldermere",
+      "title": "Lanterns of Aldermere",
+      "description": "HD-2D pixel RPG chapter one, free in browser on itch; Opus-era AI game (rivetmothgames).",
+      "play_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x18uma/",
+      "found_via": "r/aigamedev Lanterns of Aldermere HD-2D",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/lanterns-of-aldermere.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/lanterns-of-aldermere.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/lanterns-of-aldermere.jpg",
+      "screenshots": [
+        {
+          "path": "videos/lanterns-of-aldermere.jpg",
+          "score": 6,
+          "notes": "HD-2D trailer with pixel heroes in a lit fantasy town; Octopath-like mood."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "HD-2D trailer with pixel heroes in a lit fantasy town; Octopath-like mood."
+    },
+    {
+      "id": "grand-total-anarchy",
+      "title": "Grand Total Anarchy (Temu GTA)",
+      "description": "Feature-filled GTA-style open-world browser game built in ~30 days with Astra (nitzan.games).",
+      "play_url": "https://nitzan.games/play/grand-total-anarchy",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x11niu/",
+      "found_via": "r/aigamedev Astra Temu GTA / Grand Total Anarchy",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "made_with_note": "Post/trailer credit Astra (~30 days).",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "open-world",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 29,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "video_path": "videos/grand-total-anarchy.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/grand-total-anarchy.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/grand-total-anarchy.jpg",
+      "screenshots": [
+        {
+          "path": "videos/grand-total-anarchy.jpg",
+          "score": 7,
+          "notes": "Bright low-poly Palm Bay beach city with palm boardwalk and toy cars; clear open-world showcase."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Bright low-poly Palm Bay beach city with palm boardwalk and toy cars; clear open-world showcase."
+    },
+    {
+      "id": "worlds-alpha",
+      "title": "Worlds Alpha",
+      "description": "Minecraft meets RuneScape meets Path of Exile 2 style browser voxel world in alpha (worldsalpha.com).",
+      "play_url": "https://worldsalpha.com/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x17axy/",
+      "found_via": "r/playmygame Worlds Alpha",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "mmo",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/366-worlds-alpha.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/366-worlds-alpha.jpg",
+          "score": 6,
+          "notes": "Lush voxel river landscape behind a Worlds Alpha sign-in modal; pretty backdrop, login-gated."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Lush voxel river landscape behind a Worlds Alpha sign-in modal; pretty backdrop, login-gated."
+    },
+    {
+      "id": "crash-dead-on-the-line",
+      "title": "Crash Bandicoot: Dead on the Line",
+      "description": "GBA-style Crash Bandicoot fan game, college final, free on itch HTML5 (maherbd).",
+      "play_url": "https://maherbd.itch.io/crash-bandicoot-dead-on-the-line",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0zluf/",
+      "found_via": "r/playmygame Crash Bandicoot fan game",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "platformer",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/367-crash-dead-on-the-line.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/367-crash-dead-on-the-line.jpg",
+          "score": 6,
+          "notes": "GBA-flavoured Crash cover / key art; nostalgic and clear."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "GBA-flavoured Crash cover / key art; nostalgic and clear."
+    },
+    {
+      "id": "boomerville-land",
+      "title": "BoomER Ville Land",
+      "description": "Free browser board game where rules change mid-game (jsilver52).",
+      "play_url": "https://jsilver52.itch.io/bvl",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x159td/",
+      "found_via": "r/playmygame BoomER Ville Land",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "board",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/368-boomerville-land.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/368-boomerville-land.jpg",
+          "score": 5,
+          "notes": "Itch cover for a quirky board-game mashup; colorful key art."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Itch cover for a quirky board-game mashup; colorful key art."
+    },
+    {
+      "id": "dawnless",
+      "title": "Dawnless",
+      "description": "Free gothic metroidvania beta on itch; looking for combat feedback (mooncartridge).",
+      "play_url": "https://mooncartridge.itch.io/dawnless",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0san2/",
+      "found_via": "r/playmygame Dawnless",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "metroidvania",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/369-dawnless.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/369-dawnless.jpg",
+          "score": 5,
+          "notes": "Gothic metroidvania cover; atmospheric, light on gameplay detail."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Gothic metroidvania cover; atmospheric, light on gameplay detail."
+    },
+    {
+      "id": "carry-the-one",
+      "title": "Carry The One",
+      "description": "Dice roguelike with math as the focus, free on itch (cazisaprogrammer).",
+      "play_url": "https://cazisaprogrammer.itch.io/carry-the-one",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0pc3d/",
+      "found_via": "r/playmygame Carry The One",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "roguelike",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/370-carry-the-one.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/370-carry-the-one.jpg",
+          "score": 5,
+          "notes": "Math-dice roguelike cover art; concept-forward."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Math-dice roguelike cover art; concept-forward."
+    },
+    {
+      "id": "homo-ludens",
+      "title": "Homo Ludens",
+      "description": "Small browser games inspired by history (homoludens.oalpcakir.workers.dev).",
+      "play_url": "https://homoludens.oalpcakir.workers.dev/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x16viw/",
+      "found_via": "r/playmygame Homo Ludens",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/371-homo-ludens.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/371-homo-ludens.jpg",
+          "score": 5,
+          "notes": "History-game hub OG image; clean branding."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "History-game hub OG image; clean branding."
+    },
+    {
+      "id": "reiver",
+      "title": "Reiver",
+      "description": "Dark fantasy hexcrawl CRPG entering public beta on Wavedash (free to play).",
+      "play_url": "https://wavedash.com/games/reiver",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0vort/",
+      "found_via": "r/playmygame Reiver",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
+      "category": "crpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/372-reiver.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/372-reiver.jpg",
+          "score": 5,
+          "notes": "Wavedash store card for a dark hexcrawl; moody promo."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Wavedash store card for a dark hexcrawl; moody promo."
+    },
+    {
+      "id": "bingepedia",
+      "title": "Bingepedia",
+      "description": "Browser trading card game powered by real-world media data (bingepedia.com).",
+      "play_url": "https://bingepedia.com/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x0unry/",
+      "found_via": "r/playmygame Bingepedia",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "card",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 2,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/373-bingepedia.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/373-bingepedia.jpg",
+          "score": 5,
+          "notes": "Share image for a media TCG; marketing-forward."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Share image for a media TCG; marketing-forward."
+    },
+    {
+      "id": "stack-and-sigil",
+      "title": "Stack and Sigil",
+      "description": "Block-building browser game seeking early-minute playtesters (wburd itch).",
+      "play_url": "https://wburd.itch.io/stack-and-sigil",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x19u5t/",
+      "found_via": "r/playmygame Stack and Sigil",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/374-stack-and-sigil.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/374-stack-and-sigil.jpg",
+          "score": 5,
+          "notes": "Itch cover of stacked blocks and sigils; tidy."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Itch cover of stacked blocks and sigils; tidy."
+    },
+    {
+      "id": "corp-gpt",
+      "title": "Corp GPT (LinkedIn: The Game)",
+      "description": "Satirical LinkedIn: The Game where everyone is AI (corp-gpt.com).",
+      "play_url": "https://corp-gpt.com/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x19hbn/",
+      "found_via": "r/playmygame Corp GPT",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/375-corp-gpt.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/375-corp-gpt.jpg",
+          "score": 4,
+          "notes": "Sparse Chrome capture of the satirical LinkedIn game landing; thin visuals."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Sparse Chrome capture of the satirical LinkedIn game landing; thin visuals."
+    },
+    {
+      "id": "amazeamaze",
+      "title": "AmazeAmaze",
+      "description": "Browser maze game (playamazeamaze.com).",
+      "play_url": "https://playamazeamaze.com/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x17m9h/",
+      "found_via": "r/playmygame AmazeAmaze",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/376-amazeamaze.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/376-amazeamaze.jpg",
+          "score": 4,
+          "notes": "Simple maze preview image; minimal."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Simple maze preview image; minimal."
+    },
+    {
+      "id": "element-bound",
+      "title": "Element Bound",
+      "description": "Elemental card game playable in mobile browser (element-bound.vercel.app).",
+      "play_url": "https://element-bound.vercel.app/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x16zi4/",
+      "found_via": "r/playmygame Element Bound",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "card",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/377-element-bound.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/377-element-bound.jpg",
+          "score": 5,
+          "notes": "Mobile-friendly elemental card UI screenshot; readable."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Mobile-friendly elemental card UI screenshot; readable."
+    },
+    {
+      "id": "coreheist",
+      "title": "Core Heist",
+      "description": "Small turn-based tactics game in the browser (coreheist.com).",
+      "play_url": "https://coreheist.com/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x15e3y/",
+      "found_via": "r/playmygame Core Heist",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "tactics",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/378-coreheist.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/378-coreheist.jpg",
+          "score": 6,
+          "notes": "Strong OG art for a tactics heist; promotional but clear."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Strong OG art for a tactics heist; promotional but clear."
+    },
+    {
+      "id": "disorderly-run",
+      "title": "Disorderly RUN",
+      "description": "One-button browser runner with a server-verified leaderboard (disorderly.ai/game).",
+      "play_url": "https://disorderly.ai/game/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x14b2z/",
+      "found_via": "r/playmygame Disorderly RUN",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "runner",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/379-disorderly-run.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/379-disorderly-run.jpg",
+          "score": 4,
+          "notes": "Runner landing / playframe capture; sparse."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Runner landing / playframe capture; sparse."
+    },
+    {
+      "id": "dugout",
+      "title": "Dugout",
+      "description": "Baseball card roguelike playtest on itch (somekindadonkus).",
+      "play_url": "https://somekindadonkus.itch.io/dugout",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x14cx0/",
+      "found_via": "r/playmygame Dugout",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "roguelike",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/380-dugout.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/380-dugout.jpg",
+          "score": 3,
+          "notes": "Tiny itch thumbnail; hard to judge the game."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Tiny itch thumbnail; hard to judge the game."
+    },
+    {
+      "id": "kingbots",
+      "title": "Kingbots",
+      "description": "Browser castle/bot combat game shared by @threejs (kingbots.lcbgames.com).",
+      "play_url": "https://kingbots.lcbgames.com/",
+      "source_url": "https://x.com/threejs",
+      "found_via": "X @threejs bookmark Kingbots",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 63,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/381-kingbots.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/381-kingbots.jpg",
+          "score": 6,
+          "notes": "Bold castle/bot OG art; punchy key art."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bold castle/bot OG art; punchy key art."
+    },
+    {
+      "id": "deadlight",
+      "title": "Deadlight",
+      "description": "3D Call of Duty: Zombies-inspired game on Imagine Studio (three.js + blender) (imaginegamelabs).",
+      "play_url": "https://imaginestudio.fun/play?game=deadlight",
+      "source_url": "https://x.com/imaginegamelabs",
+      "found_via": "X bookmark Deadlight on Imagine",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 56,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/382-deadlight.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/382-deadlight.jpg",
+          "score": 5,
+          "notes": "Imagine Studio playframe of a zombie-inspired 3D scene; dark."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Imagine Studio playframe of a zombie-inspired 3D scene; dark."
+    },
+    {
+      "id": "last-lantern",
+      "title": "The Last Lantern",
+      "description": "Updated browser game with new mode, merchant, achievements and gamepad support (newkrok).",
+      "play_url": "https://newkrok.com/gamer-zone/last-lantern",
+      "source_url": "https://x.com/KSomoracz",
+      "found_via": "X bookmark The Last Lantern update",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 11,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/383-last-lantern.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/383-last-lantern.jpg",
+          "score": 6,
+          "notes": "Dark lantern-lit action scene from the update page; moody and clear."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Dark lantern-lit action scene from the update page; moody and clear."
+    },
+    {
+      "id": "halo-ce-universal",
+      "title": "Halo CE Universal (iOS browser)",
+      "description": "Halo CE decomp running as a web app on iPhone/iPad: 60fps, widescreen, online system link (fucktrevor).",
+      "play_url": "https://fucktrevor.github.io/halo-ce-universal/",
+      "source_url": "https://x.com/CustomRider05",
+      "found_via": "X bookmark Halo CE universal browser",
+      "found_via_network": "x",
+      "made_with": "uncertain",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "remote_likes": 2034,
+      "likes_source": "x",
+      "first_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-09T03:00:00.000Z",
+      "screenshot_path": "screenshots/384-halo-ce-universal.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/384-halo-ce-universal.jpg",
+          "score": 5,
+          "notes": "Browser Halo CE capture on mobile/desktop; recognisable, UI-heavy."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Browser Halo CE capture on mobile/desktop; recognisable, UI-heavy."
     }
   ],
   "totals": {
-    "games": 511,
+    "games": 543,
     "by_made_with": {
-      "opus-5.5": 314,
-      "astra": 91,
-      "unknown": 85,
+      "opus-5.5": 326,
+      "unknown": 103,
+      "astra": 92,
       "sonnet-5.5": 18,
-      "uncertain": 3
+      "uncertain": 4
     }
   }
 }
