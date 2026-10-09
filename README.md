@@ -9,6 +9,8 @@ A live **[SubmitGame](https://github.com/SubmitGame)** catalog of **vibecoded br
 > **screenshot score** is visual polish only (1–10): clarity, composition, how well the still shows the game. It is **not** a gameplay rating.
 >
 > `made_with` marks the credited model (`opus-5.5`, `sonnet-5.5`, or `astra`). Use `uncertain` when the model is unknown.
+>
+> `engine` (optional) names what the game was built in: an AI game generator/platform (`Spawn`, `Ryft`, `Crayon`, `Claude artifact`, `ChatGPT`, `Replit`, `GameFoundry`, …) or a game engine/framework (`Three.js`, `Godot`, `Unity`, `Phaser`, `PixiJS`, …). Omit it when unknown; never write `unknown`.
 
 ## Contents
 
@@ -308,6 +310,8 @@ A live **[SubmitGame](https://github.com/SubmitGame)** catalog of **vibecoded br
 ## Data
 
 Machine-readable catalog: [`data/grokgames.json`](data/grokgames.json).
+
+Optional per-game `engine` field: short human label for the AI game generator/platform or game engine the game was made in (e.g. `Three.js`, `Godot`, `Unity`, `Phaser`, `Spawn`, `Ryft`, `Claude artifact`). Set it only from concrete evidence (play host, creator's description, itch.io "Made with", or engine fingerprints in the page); omit when unknown. The feed shows it as a tag.
 
 ## Contributing
 
