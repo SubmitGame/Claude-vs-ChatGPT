@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T03:30:00.000Z",
+  "updated_at": "2026-10-10T02:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -8688,7 +8688,7 @@
       "remote_likes": 3,
       "likes_source": "x",
       "first_seen": "2026-10-05T01:51:45.000Z",
-      "last_seen": "2026-10-05T01:51:45.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/snowline-rivals.mp4",
       "video_source": "x",
       "videos": [
@@ -10507,10 +10507,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 172,
+      "remote_likes": 197,
       "likes_source": "reddit",
       "first_seen": "2026-10-07T23:30:32.000Z",
-      "last_seen": "2026-10-07T23:30:32.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/stickfrag.mp4",
       "video_source": "reddit",
       "videos": [
@@ -11778,7 +11778,7 @@
       "remote_likes": 888,
       "likes_source": "x",
       "first_seen": "2026-10-08T02:30:00.000Z",
-      "last_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/dust-2-dm-spawn.mp4",
       "video_source": "x",
       "videos": [
@@ -11935,7 +11935,7 @@
       "remote_likes": 4,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/pixshard.mp4",
       "video_source": "x",
       "videos": [
@@ -12045,7 +12045,7 @@
       "remote_likes": 1,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/one-beam.mp4",
       "video_source": "x",
       "videos": [
@@ -12083,7 +12083,7 @@
       "remote_likes": 7699,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/gigacity.mp4",
       "video_source": "x",
       "videos": [
@@ -12315,10 +12315,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 29,
+      "remote_likes": 39,
       "likes_source": "reddit",
       "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
       "video_path": "videos/grand-total-anarchy.mp4",
       "video_source": "reddit",
       "videos": [
@@ -12501,15 +12501,734 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Fight scene in a pixel-art server-hall stage: Elon Musk stands over a knocked-down 'Scam Altman' under big health bars, timer and SUPER meters; crisp, funny and clearly a Street Fighter-style brawler."
+    },
+    {
+      "id": "rx78-2-reentry",
+      "title": "RX-78-2 Atmospheric Re-entry",
+      "description": "Fly the RX-78-2 Gundam through atmospheric re-entry while fending off a Zaku, managing heat, attitude and the Wave Rider shield. Browser three.js sim in EN/日本語/繁中, built with Claude Opus 5.5 (lancetw).",
+      "play_url": "https://rx78-2-reentry.vercel.app/",
+      "source_url": "https://x.com/lancetw/status/2108460659772199154",
+      "found_via": "X @lancetw Opus 5.5 Gundam re-entry",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/385-rx78-2-reentry.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/385-rx78-2-reentry.jpg",
+          "score": 5,
+          "notes": "Mission-briefing overlay with control keys over a dark cockpit HUD and speed/altitude gauges; readable but mostly text, little of the re-entry itself."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Mission-briefing overlay with control keys over a dark cockpit HUD and speed/altitude gauges; readable but mostly text, little of the re-entry itself."
+    },
+    {
+      "id": "stardust-isles",
+      "title": "Stardust Isles",
+      "description": "Endless low-poly 3D island exploration and collecting game where every model, track and sound effect is generated in code; one prompt with Claude Opus 5.5 (DanzerChan).",
+      "play_url": "https://game.danzechen.world/",
+      "source_url": "https://x.com/DanzerChan/status/2108438627755905471",
+      "found_via": "X @DanzerChan Opus 5.5 Stardust Isles",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "exploration",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 6,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/stardust-isles.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/stardust-isles.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/stardust-isles.jpg",
+      "screenshots": [
+        {
+          "path": "videos/stardust-isles.jpg",
+          "score": 6,
+          "notes": "Over-the-shoulder view of a chunky voxel hero meeting a granny islander by a windmill with a quest dialog; cute and clear, toy-like."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Over-the-shoulder view of a chunky voxel hero meeting a granny islander by a windmill with a quest dialog; cute and clear, toy-like."
+    },
+    {
+      "id": "aeloria",
+      "title": "Aeloria",
+      "description": "Avatar-style flying game in a browser tab: six riders, floating mountains, ring races and storms, all generated from one seed with three.js and no assets (370 KB). Built with Claude Opus 5.5 (0xRhinoX).",
+      "play_url": "https://aeloria.pokeable.app/",
+      "source_url": "https://x.com/0xRhinoX/status/2108588869255827570",
+      "found_via": "X @0xRhinoX Opus 5.5 Aeloria",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "flight",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 35,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/aeloria.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/aeloria.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/aeloria.jpg",
+      "screenshots": [
+        {
+          "path": "videos/aeloria.jpg",
+          "score": 8,
+          "notes": "Pink-sky vista of floating mountains with waterfalls and glowing teal foliage around a huge moon; striking Pandora-like composition."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Pink-sky vista of floating mountains with waterfalls and glowing teal foliage around a huge moon; striking Pandora-like composition."
+    },
+    {
+      "id": "poke-defense-magikarp",
+      "title": "Poké Defense Arcade",
+      "description": "Pokémon tower-defense fan game where every tower is a Magikarp (Splash does 1 damage) with Gyarados/Hyper Beam upgrades against the Elite Four. Built by Claude Opus 5.5 for the Ctrl+Vibe arcade (ctrlvibedev).",
+      "play_url": "https://ctrlvibe.dev/games/poke-defense/",
+      "source_url": "https://x.com/ctrlvibedev/status/2108392005680480462",
+      "found_via": "X @ctrlvibedev Opus 5.5 Magikarp tower defense",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "tower-defense",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/poke-defense-magikarp.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/poke-defense-magikarp.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/poke-defense-magikarp.jpg",
+      "screenshots": [
+        {
+          "path": "videos/poke-defense-magikarp.jpg",
+          "score": 5,
+          "notes": "Vertical phone capture of a pixel TD lane lined with Magikarp and a 'SPLASH: 1 DAMAGE' banner; funny but small and cramped."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Vertical phone capture of a pixel TD lane lined with Magikarp and a 'SPLASH: 1 DAMAGE' banner; funny but small and cramped."
+    },
+    {
+      "id": "unburied",
+      "title": "UNBURIED — Blackwald Bunker",
+      "description": "Call of Duty Zombies-style round-based survival FPS with multiplayer in the browser: board windows, hold the bunker, survive the waves. Made with Opus 5.5 (JaydenDavisNC).",
+      "play_url": "https://unburied.inkwave.workers.dev/",
+      "source_url": "https://x.com/JaydenDavisNC/status/2108731577765355704",
+      "found_via": "X @JaydenDavisNC Opus 5.5 CoD Zombies",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/386-unburied.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/386-unburied.jpg",
+          "score": 6,
+          "notes": "Lamp-lit concrete bunker with shambling soldier zombies advancing past tables; moody and recognisably CoD Zombies, a bit dark."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Lamp-lit concrete bunker with shambling soldier zombies advancing past tables; moody and recognisably CoD Zombies, a bit dark."
+    },
+    {
+      "id": "lantern-isle",
+      "title": "Lantern Isle",
+      "description": "Shipwrecked pixel platform-adventure across 30 screens: explore, collect and trade items to relight the lighthouse. Tribute to ZX Spectrum's Three Weeks in Paradise, developed with Opus 5.5 (jchandra Game Room).",
+      "play_url": "https://games.jimmychandra.com/games/lantern_isle/",
+      "source_url": "https://x.com/jchandra/status/2108423240762933728",
+      "found_via": "X @jchandra Game Room Lantern Isle (Opus 5.5)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "platformer",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/387-lantern-isle.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/387-lantern-isle.jpg",
+          "score": 6,
+          "notes": "Framed pixel 'Wreck Beach' screen with a beached wooden ship, crab and inventory bar; tidy retro look, small at full size."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Framed pixel 'Wreck Beach' screen with a beached wooden ship, crab and inventory bar; tidy retro look, small at full size."
+    },
+    {
+      "id": "coin-collector-3d",
+      "title": "Coin Collector 3D",
+      "description": "Multiplayer arena coin grab in three.js: start with 20 coins, hit rivals to make them drop theirs, and climb the persistent ranking. Built with Opus 5.5 (notef_fn).",
+      "play_url": "https://notef.dreamcore.gg/coin-collector-3d/",
+      "source_url": "https://x.com/notef_fn/status/2108693622346633716",
+      "found_via": "X @notef_fn Opus 5.5 Coin Collector 3D",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "multiplayer",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/coin-collector-3d.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/coin-collector-3d.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/coin-collector-3d.jpg",
+      "screenshots": [
+        {
+          "path": "videos/coin-collector-3d.jpg",
+          "score": 7,
+          "notes": "Bright toy-box arena of grassy blocks, giant pudding and coins with a kart racing through and clean HUD timers; colourful and readable."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Bright toy-box arena of grassy blocks, giant pudding and coins with a kart racing through and clean HUD timers; colourful and readable."
+    },
+    {
+      "id": "dino-souls-arena",
+      "title": "Dino Souls Arena",
+      "description": "Multiplayer Chrome-dino arena: two teams of two dinosaurs, revive your downed ally, quick match or private rooms. Built with Opus 5.5 (whoimmorttal).",
+      "play_url": "https://updateddino.xyz/",
+      "source_url": "https://x.com/whoimmorttal/status/2108666187953693056",
+      "found_via": "X @whoimmorttal Opus 5.5 multiplayer dino",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "multiplayer",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/388-dino-souls-arena.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/388-dino-souls-arena.jpg",
+          "score": 3,
+          "notes": "Plain dark lobby with name field, quick-match/private-room panels and no gameplay visible; functional but bare."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Plain dark lobby with name field, quick-match/private-room panels and no gameplay visible; functional but bare."
+    },
+    {
+      "id": "nearia",
+      "title": "NEARIA",
+      "description": "Vibe-coded browser MMORPG mixing Minecraft-style voxel worlds, Diablo-style action and WoW-inspired progression, tied to the NEAR blockchain (play-to-earn). Built with Claude Opus 5.5 (charl1esp).",
+      "play_url": "https://playnearia.online/",
+      "source_url": "https://x.com/charl1esp/status/2108662450631364993",
+      "found_via": "X @charl1esp Opus 5.5 NEARIA",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "made_with_note": "Crypto/play-to-earn tie-in ($NEAR).",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "mmo",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/389-nearia.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/389-nearia.jpg",
+          "score": 5,
+          "notes": "Landing page with a glossy NEARIA hero crest (Play · Earn · Own) and a big Play button; polished branding, no in-game view."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Landing page with a glossy NEARIA hero crest (Play · Earn · Own) and a big Play button; polished branding, no in-game view."
+    },
+    {
+      "id": "monster-defense",
+      "title": "Monster Defense",
+      "description": "Dark-fantasy tower defense with boiling oil, werewolves and monster hordes; code by Opus 5.5 with Blender and ChatGPT Image 2.5 art (Treynor87).",
+      "play_url": "https://monster-defense-production.up.railway.app/",
+      "source_url": "https://x.com/Treynor87/status/2104677520557949277",
+      "found_via": "X @Treynor87 Opus 5.5 Monster Defense (reply 2108633714507018304)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Phaser",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "tower-defense",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/monster-defense.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/monster-defense.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/monster-defense.jpg",
+      "screenshots": [
+        {
+          "path": "videos/monster-defense.jpg",
+          "score": 6,
+          "notes": "Promo frame: 'BOILING OIL.' title over a top-down cobblestone keep with braziers and a few soldiers; handsome art, trailer-styled."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Promo frame: 'BOILING OIL.' title over a top-down cobblestone keep with braziers and a few soldiers; handsome art, trailer-styled."
+    },
+    {
+      "id": "till-dark",
+      "title": "Till Dark",
+      "description": "Tiny procedural horror level: find the exit from a fog-bound forest before night, with no downloaded assets (trees, fog, sound, the things in the woods). Opus 5.5, ~34 active hours (AndreiProvkin).",
+      "play_url": "https://till-dark.vercel.app/",
+      "source_url": "https://x.com/AndreiProvkin/status/2108632742967791760",
+      "found_via": "X @AndreiProvkin Opus 5.5 Till Dark",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/till-dark.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/till-dark.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/till-dark.jpg",
+      "screenshots": [
+        {
+          "path": "videos/till-dark.jpg",
+          "score": 6,
+          "notes": "Misty redwood forest floor with ferns and shafts of grey light; atmospheric and clean, deliberately dim."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Misty redwood forest floor with ferns and shafts of grey light; atmospheric and clean, deliberately dim."
+    },
+    {
+      "id": "cows-with-buns",
+      "title": "Cows With Buns",
+      "description": "Side-scrolling 'moo-sical uprising' where an armed herd fights back with plant-based burgers; inspired by the 1996 Cows with Guns. One overnight prompt in Claude Code with Opus 5.5 (stevenrouk).",
+      "play_url": "https://cowswithbuns.stevenrouk.com/",
+      "source_url": "https://x.com/stevenrouk/status/2108582487257436208",
+      "found_via": "X @stevenrouk Opus 5.5 Cows With Buns",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "platformer",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/390-cows-with-buns.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/390-cows-with-buns.jpg",
+          "score": 6,
+          "notes": "Bold cartoon title screen with chunky COWS with BUNS lettering, Play/How to play buttons and a herd almanac; bright and inviting."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bold cartoon title screen with chunky COWS with BUNS lettering, Play/How to play buttons and a herd almanac; bright and inviting."
+    },
+    {
+      "id": "roadster-flying-car",
+      "title": "Roadster: The Flying Car Game",
+      "description": "Flying-car game over a dense neon tower city, with thrusters, slow-motion moments and an in-game-footage trailer. Built over a few weeks with Claude Opus 5.5 (k_millionaire_).",
+      "play_url": "https://roadster-the-flying-car-gamev28.vercel.app/",
+      "source_url": "https://x.com/k_millionaire_/status/2108490551385624581",
+      "found_via": "X @k_millionaire_ Opus 5.5 Roadster flying car",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/roadster-flying-car.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/roadster-flying-car.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/roadster-flying-car.jpg",
+      "screenshots": [
+        {
+          "path": "videos/roadster-flying-car.jpg",
+          "score": 6,
+          "notes": "Retro flying car threading a canyon of lit skyscraper windows at dusk; nice sense of scale, slightly soft."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Retro flying car threading a canyon of lit skyscraper windows at dusk; nice sense of scale, slightly soft."
+    },
+    {
+      "id": "cowduction",
+      "title": "Cowduction",
+      "description": "Browser game where a cow pilots a UFO and abducts aliens to avenge its family across the galaxy; Codex build with GPT-6.1 Sol + GPT-6 Astra (guibsonvg).",
+      "play_url": "https://cowduction.guibsonv.chatgpt.site/",
+      "source_url": "https://x.com/guibsonvg/status/2108622504839541228",
+      "found_via": "X @guibsonvg GPT-6 Astra Cowduction",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "made_with_note": "Credits GPT-6.1 Sol + GPT-6 Astra.",
+      "engine": "ChatGPT",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/391-cowduction.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/391-cowduction.jpg",
+          "score": 6,
+          "notes": "Neon title screen: cow in a flying saucer beaming up green aliens over a purple planet, Portuguese menu; vivid key art, no gameplay."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Neon title screen: cow in a flying saucer beaming up green aliens over a purple planet, Portuguese menu; vivid key art, no gameplay."
+    },
+    {
+      "id": "rally-road-rash",
+      "title": "Rally Road Rash",
+      "description": "Road Rash x DiRT mashup: 4 vehicles, 5 dirt stages, drift boost, jump pads and rockets, with multiplayer and leaderboards on Sandscape. Vehicles and physics by Opus 5.5, visuals by Astra 6 (titkun).",
+      "play_url": "https://sandscape.app/play?g=3UpDloEh",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x1mb45/",
+      "found_via": "r/ClaudeAI Opus 5.5 Road Rash x DiRT mashup (also r/aigamedev 1x1lkiu)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "made_with_note": "Opus 5.5 vehicles/physics; Astra 6 for visuals.",
+      "engine": "Sandscape",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 85,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/rally-road-rash.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/rally-road-rash.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/rally-road-rash.jpg",
+      "screenshots": [
+        {
+          "path": "videos/rally-road-rash.jpg",
+          "score": 6,
+          "notes": "Moody amber-lit stage with a rider on a dirt bike under a big HORNET vehicle-select title; atmospheric but dark."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Moody amber-lit stage with a rider on a dirt bike under a big HORNET vehicle-select title; atmospheric but dark."
+    },
+    {
+      "id": "blood-slayers",
+      "title": "Blood Slayers",
+      "description": "Action game, Acts 1-5, written in Rust with Bevy and running on the web via WASM on Wavedash; built with Opus 5.5 (W2DGAMES).",
+      "play_url": "https://wavedash.com/games/blood-slayers",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x208pw/",
+      "found_via": "r/aigamedev Opus 5.5 Blood Slayers (Rust/Bevy wasm)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "engine": "Bevy",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "screenshot_path": "screenshots/392-blood-slayers.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/392-blood-slayers.jpg",
+          "score": 6,
+          "notes": "Wavedash cover: gothic BLOOD SLAYERS logo over a hellish red battlefield of demons; dramatic key art, not in-game."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Wavedash cover: gothic BLOOD SLAYERS logo over a hellish red battlefield of demons; dramatic key art, not in-game."
+    },
+    {
+      "id": "new-rad-city",
+      "title": "New Rad City",
+      "description": "Post-nuclear open-world RPG set in the ruins of 1989 Manhattan, made with three.js in 22 MB and played by 25k people in its first day (chrisfirst).",
+      "play_url": "https://newrad.city/",
+      "source_url": "https://x.com/chrisfirst/status/2107966951200866422",
+      "found_via": "X bookmark @friuns2 → @chrisfirst / @threejs New Rad City",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 578,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/new-rad-city.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/new-rad-city.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/new-rad-city.jpg",
+      "screenshots": [
+        {
+          "path": "videos/new-rad-city.jpg",
+          "score": 7,
+          "notes": "First-person pistol view down a neon-pink street under a 'WELCOME TO THE NEON' gate with a minimap; stylish and clear."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "First-person pistol view down a neon-pink street under a 'WELCOME TO THE NEON' gate with a minimap; stylish and clear."
+    },
+    {
+      "id": "tailgrab",
+      "title": "Tailgrab",
+      "description": "THPS-inspired multiplayer skateboarding in the browser: 21 animal pros, a Skate Hub, career goals and parks you build yourself; three.js + Colyseus (endel).",
+      "play_url": "https://tailgrab.io/",
+      "source_url": "https://x.com/threejs/status/2108011934750773251",
+      "found_via": "X bookmark @friuns2 → @threejs Tailgrab",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 126,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/tailgrab.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/tailgrab.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/tailgrab.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tailgrab.jpg",
+          "score": 7,
+          "notes": "Cartoon skater mid-air above a wooden halfpipe with trick meter, combo string and leaderboard plus a '6 GAME MODES' badge; bright and readable."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Cartoon skater mid-air above a wooden halfpipe with trick meter, combo string and leaderboard plus a '6 GAME MODES' badge; bright and readable."
+    },
+    {
+      "id": "bmx-mountain",
+      "title": "BMX Mountain",
+      "description": "Co-op mountain bike downhill through pine forest and golden aspens: carve berms, pump rollers and throw spins, flips and barspins off jumps. Built with three.js, free on Wavedash (franzwarning).",
+      "play_url": "https://wavedash.com/games/bmx-mountain",
+      "source_url": "https://x.com/franzwarning/status/2108298722044149801",
+      "found_via": "X bookmark @friuns2 → @franzwarning co-op mountain bike",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 242,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/bmx-mountain.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/bmx-mountain.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/bmx-mountain.jpg",
+      "screenshots": [
+        {
+          "path": "videos/bmx-mountain.jpg",
+          "score": 7,
+          "notes": "Rider bombing a dusty trail toward hazy mountain ridges in warm late light; cinematic, slightly washed-out."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Rider bombing a dusty trail toward hazy mountain ridges in warm late light; cinematic, slightly washed-out."
+    },
+    {
+      "id": "voxel-rush-frontline",
+      "title": "Voxel Rush · Frontline",
+      "description": "Multiplayer voxel war sandbox (Minecraft meets Battlefield): tanks, jets, raids and base building on a live server; also playable inside X (0xProbabillity).",
+      "play_url": "https://play.voxelrush.app/?mode=frontline",
+      "source_url": "https://x.com/0xProbabillity/status/2108310199610036398",
+      "found_via": "X bookmark @friuns2 → @0xProbabillity Voxel Rush Frontline",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "category": "shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 818,
+      "likes_source": "x",
+      "first_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-10T02:00:00.000Z",
+      "video_path": "videos/voxel-rush-frontline.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/voxel-rush-frontline.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/voxel-rush-frontline.jpg",
+      "screenshots": [
+        {
+          "path": "videos/voxel-rush-frontline.jpg",
+          "score": 7,
+          "notes": "Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter."
     }
   ],
   "totals": {
-    "games": 544,
+    "games": 465,
     "by_made_with": {
-      "opus-5.5": 327,
-      "unknown": 103,
-      "astra": 92,
+      "opus-5.5": 339,
+      "astra": 93,
       "sonnet-5.5": 18,
+      "unknown": 11,
       "uncertain": 4
     }
   }
