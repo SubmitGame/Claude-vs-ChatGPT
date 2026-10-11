@@ -13780,8 +13780,8 @@
         "decomp",
         "rom"
       ],
-      "iframe": true,
-      "iframe_block_reason": null,
+      "iframe": false,
+      "iframe_block_reason": "Igor: open external (new tab)",
       "platforms": [
         "desktop"
       ],
@@ -13800,8 +13800,8 @@
           "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 2.0,
-      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
+      "screenshot_score": 9.5,
+      "screenshot_score_notes": "Set to 9.5 by Igor (2026-10-12).",
       "x_handle": "BanTrev",
       "author_source": "https://hcemobile.com/",
       "video_path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
