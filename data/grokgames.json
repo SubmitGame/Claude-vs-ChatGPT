@@ -6421,7 +6421,7 @@
         "desktop"
       ],
       "x_handle": "mitchellhynes",
-      "remote_likes": 13759,
+      "remote_likes": 16617,
       "likes_source": "x",
       "published_at": "2026-09-29T16:21:10.000Z",
       "listed_at": "2026-09-30T06:01:41.000Z",
@@ -6432,7 +6432,9 @@
       "iframe_block_reason": "wasm-sharedarraybuffer-needs-cross-origin-isolated (halo.js postMessage SharedArrayBuffer fails without COI; iframe cannot be crossOriginIsolated)",
       "tags": [
         "decomp"
-      ]
+      ],
+      "author_source": "https://x.com/mitchellhynes/status/2104969744721883474",
+      "comment_count": 342
     },
     {
       "id": "finals-night-table-tennis",
@@ -9101,7 +9103,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 631,
+      "remote_likes": 1318,
       "likes_source": "x",
       "first_seen": "2026-10-05T01:51:45.000Z",
       "last_seen": "2026-10-05T01:51:45.000Z",
@@ -9125,7 +9127,10 @@
       "screenshot_score_notes": "First-person ramp run with timer, speed and checkpoint HUD fits CS surf, but flat textures make the still abstract without motion.",
       "tags": [
         "decomp"
-      ]
+      ],
+      "x_handle": "0yield",
+      "author_source": "https://x.com/0yield/status/2106729377798951097",
+      "comment_count": 73
     },
     {
       "id": "pokopia",
@@ -13269,14 +13274,20 @@
           "path": "videos/quake-iii-arena.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "x_handle": "lukathedev",
+      "github_user": "lklacar",
+      "author_source": "https://q3js.com/",
+      "remote_likes": 83,
+      "likes_source": "github",
+      "github_url": "https://github.com/lklacar/q3js"
     },
     {
       "id": "call-of-duty-black-ops-zombies",
       "title": "Call of Duty: Black Ops Zombies",
       "description": "Call of Duty: Black Ops Zombies running in the browser (PC decomp/port).",
       "play_url": "https://vel.gg/bo1z",
-      "source_url": "https://recompiledgames.com/black-ops-zombies-recompiled/",
+      "source_url": "https://x.com/MrTLexify/status/2107937584051875909",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -13311,6 +13322,27 @@
         {
           "path": "videos/call-of-duty-black-ops-zombies.mp4",
           "source": "youtube"
+        }
+      ],
+      "x_handle": "MrTLexify",
+      "author_source": "https://x.com/MrTLexify/status/2107937584051875909",
+      "remote_likes": 114653,
+      "likes_source": "x",
+      "comment_count": 731,
+      "comments": [
+        {
+          "author": "urmajestyx0",
+          "text": "Dude you deserve like an award for this thank you so much 💜💜",
+          "likes": 0,
+          "url": "https://x.com/urmajestyx0/status/2108945742266048751",
+          "created_at": "2026-10-10T15:40:21Z"
+        },
+        {
+          "author": "kevdog824",
+          "text": "It's pretty good!",
+          "likes": 1,
+          "url": "https://x.com/kevdog824/status/2108682321637363852",
+          "created_at": "2026-10-09T22:13:37Z"
         }
       ]
     },
@@ -13385,7 +13417,13 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "author": "Origami",
+      "github_user": "origami-ltd",
+      "author_source": "https://generals.wasm.ltd",
+      "remote_likes": 9,
+      "likes_source": "github",
+      "github_url": "https://github.com/origami-ltd/wasm-generals"
     },
     {
       "id": "command-conquer-red-alert-2",
@@ -13428,7 +13466,10 @@
           "path": "videos/command-conquer-red-alert-2.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "x_handle": "chronodivide",
+      "github_user": "chronodivide",
+      "author_source": "https://chronodivide.com/"
     },
     {
       "id": "counter-strike-1-6",
@@ -13471,7 +13512,10 @@
           "path": "videos/counter-strike-1-6.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "x_handle": "lukathedev",
+      "github_user": "lklacar",
+      "author_source": "https://csjs.live"
     },
     {
       "id": "counter-strike-source-bunnyhop-bunnyhop-lol",
@@ -13492,8 +13536,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+      "screenshot_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
       "screenshots": [
+        {
+          "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
           "score": 10,
@@ -13501,7 +13550,15 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "crash-team-racing-turbocharged",
@@ -13522,8 +13579,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-team-racing-turbocharged.jpg",
+      "screenshot_path": "videos/crash-team-racing-turbocharged.jpg",
       "screenshots": [
+        {
+          "path": "videos/crash-team-racing-turbocharged.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-team-racing-turbocharged.jpg",
           "score": 10,
@@ -13531,7 +13593,20 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "github_user": "CameronRedmore",
+      "author_source": "https://ctr.cmzi.uk/",
+      "remote_likes": 89,
+      "likes_source": "github",
+      "github_url": "https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged",
+      "video_path": "videos/crash-team-racing-turbocharged.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/crash-team-racing-turbocharged.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "diablo",
@@ -13561,7 +13636,13 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "author": "RiV",
+      "github_user": "d07RiV",
+      "author_source": "https://recompiledgames.com/diablo-recompiled/",
+      "remote_likes": 2886,
+      "likes_source": "github",
+      "github_url": "https://github.com/d07RiV/diabloweb"
     },
     {
       "id": "doom-multiplayer-silent-space-marine",
@@ -13591,7 +13672,13 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5.",
+      "author": "Cloudflare",
+      "github_user": "cloudflare",
+      "author_source": "https://recompiledgames.com/doom-multiplayer-recompiled/",
+      "remote_likes": 416,
+      "likes_source": "github",
+      "github_url": "https://github.com/cloudflare/doom-wasm"
     },
     {
       "id": "golden-sun-recompilation",
@@ -13621,7 +13708,12 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "github_user": "Shmargus",
+      "author_source": "https://shmargus.github.io/GSRecomp/",
+      "remote_likes": 33,
+      "likes_source": "github",
+      "github_url": "https://github.com/Shmargus/GSRecomp"
     },
     {
       "id": "grand-theft-auto-vice-city",
@@ -13642,8 +13734,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-vice-city.jpg",
+      "screenshot_path": "videos/grand-theft-auto-vice-city.jpg",
       "screenshots": [
+        {
+          "path": "videos/grand-theft-auto-vice-city.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-vice-city.jpg",
           "score": 6,
@@ -13651,7 +13748,20 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "github_user": "joncodeofficial",
+      "author_source": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
+      "remote_likes": 41,
+      "likes_source": "github",
+      "github_url": "https://github.com/joncodeofficial/gta-vice-city-wasm",
+      "video_path": "videos/grand-theft-auto-vice-city.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/grand-theft-auto-vice-city.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "half-life-pixelsuft",
@@ -13672,8 +13782,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-pixelsuft.jpg",
+      "screenshot_path": "videos/half-life-pixelsuft.jpg",
       "screenshots": [
+        {
+          "path": "videos/half-life-pixelsuft.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-pixelsuft.jpg",
           "score": 6,
@@ -13681,7 +13796,20 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "github_user": "Pixelsuft",
+      "author_source": "https://pixelsuft.github.io/hl/",
+      "remote_likes": 116,
+      "likes_source": "github",
+      "github_url": "https://github.com/Pixelsuft/hl",
+      "video_path": "videos/half-life-pixelsuft.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/half-life-pixelsuft.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "half-life-and-counter-strike-1-6-webxash",
@@ -13702,8 +13830,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-and-counter-strike-1-6-webxash.jpg",
+      "screenshot_path": "videos/half-life-and-counter-strike-1-6-webxash.jpg",
       "screenshots": [
+        {
+          "path": "videos/half-life-and-counter-strike-1-6-webxash.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-and-counter-strike-1-6-webxash.jpg",
           "score": 6,
@@ -13711,7 +13844,20 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "github_user": "x8BitRain",
+      "author_source": "https://x8bitrain.github.io/webXash/",
+      "remote_likes": 156,
+      "likes_source": "github",
+      "github_url": "https://github.com/x8BitRain/webXash",
+      "video_path": "videos/half-life-and-counter-strike-1-6-webxash.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/half-life-and-counter-strike-1-6-webxash.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "halo-combat-evolved-mobile-hcemobile",
@@ -13741,7 +13887,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "x_handle": "BanTrev",
+      "author_source": "https://hcemobile.com/"
     },
     {
       "id": "netquake-io",
@@ -13762,8 +13910,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-netquake-io.jpg",
+      "screenshot_path": "videos/netquake-io.jpg",
       "screenshots": [
+        {
+          "path": "videos/netquake-io.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-netquake-io.jpg",
           "score": 6,
@@ -13771,7 +13924,15 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/netquake-io.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/netquake-io.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "pro-evolution-soccer-6",
@@ -13801,7 +13962,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "author": "OptiProjects",
+      "author_source": "https://recompiledgames.com/pro-evolution-soccer-6-recompiled/"
     },
     {
       "id": "quake-ii",
@@ -13822,8 +13985,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-ii.jpg",
+      "screenshot_path": "videos/quake-ii.jpg",
       "screenshots": [
+        {
+          "path": "videos/quake-ii.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-ii.jpg",
           "score": 6,
@@ -13831,7 +13999,17 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "x_handle": "levelsio",
+      "author_source": "https://recompiledgames.com/quake-ii-recompiled/",
+      "video_path": "videos/quake-ii.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/quake-ii.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "quake-iii-arena-q3-pieter-com",
@@ -13852,8 +14030,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-iii-arena-q3-pieter-com.jpg",
+      "screenshot_path": "videos/quake-iii-arena-q3-pieter-com.jpg",
       "screenshots": [
+        {
+          "path": "videos/quake-iii-arena-q3-pieter-com.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-iii-arena-q3-pieter-com.jpg",
           "score": 10,
@@ -13861,7 +14044,17 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "x_handle": "lukathedev",
+      "author_source": "https://q3.pieter.com",
+      "video_path": "videos/quake-iii-arena-q3-pieter-com.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/quake-iii-arena-q3-pieter-com.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "quakeworld",
@@ -13891,7 +14084,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "x_handle": "levelsio",
+      "author_source": "https://recompiledgames.com/quakeworld-recompiled/"
     },
     {
       "id": "ratchet-clank-pc-port",
@@ -13912,8 +14107,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-ratchet-clank-pc-port.jpg",
+      "screenshot_path": "videos/ratchet-clank-pc-port.jpg",
       "screenshots": [
+        {
+          "path": "videos/ratchet-clank-pc-port.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-ratchet-clank-pc-port.jpg",
           "score": 10,
@@ -13921,7 +14121,20 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "github_user": "re-rac",
+      "author_source": "https://re-rac.github.io/",
+      "remote_likes": 26,
+      "likes_source": "github",
+      "github_url": "https://github.com/re-rac/rerac",
+      "video_path": "videos/ratchet-clank-pc-port.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/ratchet-clank-pc-port.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "return-to-castle-wolfenstein",
@@ -13951,7 +14164,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "x_handle": "levelsio",
+      "author_source": "https://recompiledgames.com/return-to-castle-wolfenstein-recompiled/"
     },
     {
       "id": "skate-3",
@@ -13972,8 +14187,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-skate-3.jpg",
+      "screenshot_path": "videos/skate-3.jpg",
       "screenshots": [
+        {
+          "path": "videos/skate-3.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-skate-3.jpg",
           "score": 6,
@@ -13981,7 +14201,15 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/skate-3.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/skate-3.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "star-fox-adventures",
@@ -14011,7 +14239,12 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "github_user": "JackPriceBurns",
+      "author_source": "https://foxhollow.dev/",
+      "remote_likes": 61,
+      "likes_source": "github",
+      "github_url": "https://github.com/JackPriceBurns/foxhollow"
     },
     {
       "id": "star-wars-jedi-knight-jedi-academy",
@@ -14041,7 +14274,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "x_handle": "lukathedev",
+      "github_user": "lklacar",
+      "author_source": "https://jk.q3js.com"
     },
     {
       "id": "super-mario-64-multiplayer",
@@ -14071,14 +14307,16 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "x_handle": "olivers_tools",
+      "author_source": "https://x.com/olivers_tools/status/2107937496634126643"
     },
     {
       "id": "the-simpsons-hit-run",
       "title": "The Simpsons: Hit & Run",
       "description": "The Simpsons: Hit & Run running in the browser (PC decomp/port).",
       "play_url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
-      "source_url": "https://recompiledgames.com/the-simpsons-hit-and-run-recompiled/",
+      "source_url": "https://news.ycombinator.com/item?id=47851546",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -14101,7 +14339,12 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "author": "calebj0seph",
+      "author_source": "https://recompiledgames.com/the-simpsons-hit-and-run-recompiled/",
+      "remote_likes": 1,
+      "likes_source": "hn",
+      "comment_count": 2
     },
     {
       "id": "urban-terror-listed-as-unreal-tournament",
@@ -14161,7 +14404,12 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "github_user": "mr-finster",
+      "author_source": "https://vf1-recomp.pages.dev/",
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_url": "https://github.com/mr-finster/vf1-recomp"
     },
     {
       "id": "wadcmd-doom-in-the-browser",
@@ -14191,7 +14439,9 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "x_handle": "level0x40",
+      "author_source": "https://wadcmd.com/"
     },
     {
       "id": "warzone-2100-web-edition",
@@ -14281,7 +14531,12 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "First-person BO2-style yacht map with gun, minimap and ammo HUD; reads as a real shooter."
+      "screenshot_score_notes": "First-person BO2-style yacht map with gun, minimap and ammo HUD; reads as a real shooter.",
+      "github_user": "Froydinger",
+      "author_source": "https://froydinger.github.io/claude-of-duty/",
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_url": "https://github.com/Froydinger/claude-of-duty"
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror",
@@ -14311,7 +14566,12 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Title/loading screen only (\"tap or click to load\"); no gameplay visible."
+      "screenshot_score_notes": "Title/loading screen only (\"tap or click to load\"); no gameplay visible.",
+      "github_user": "GoofyAhhBro69420",
+      "author_source": "https://goofyahhbro69420.github.io/Black-Ops-2/",
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_url": "https://github.com/GoofyAhhBro69420/Black-Ops-2"
     },
     {
       "id": "kino-der-toten-goofyahhbro69420-mirror",
@@ -14341,7 +14601,12 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look."
+      "screenshot_score_notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look.",
+      "github_user": "GoofyAhhBro69420",
+      "author_source": "https://goofyahhbro69420.github.io/COD-ZOMBIES/",
+      "remote_likes": 1,
+      "likes_source": "github",
+      "github_url": "https://github.com/GoofyAhhBro69420/COD-ZOMBIES"
     },
     {
       "id": "kino-der-toten-theeagler1234-mirror",
@@ -14371,7 +14636,12 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look."
+      "screenshot_score_notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look.",
+      "github_user": "theeagler1234-alt",
+      "author_source": "https://theeagler1234-alt.github.io/kino-der-toten/",
+      "remote_likes": 0,
+      "likes_source": "github",
+      "github_url": "https://github.com/theeagler1234-alt/kino-der-toten"
     },
     {
       "id": "cheese-cube-black-ops-iii-custom-map",
@@ -14491,7 +14761,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "author": "kem0X",
+      "author_source": "https://recompiledgames.com/pepsiman-recompiled/"
     }
   ],
   "totals": {
