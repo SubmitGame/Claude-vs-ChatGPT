@@ -14223,7 +14223,7 @@
     {
       "id": "ratchet-clank-pc-port",
       "title": "Ratchet & Clank (PC port)",
-      "description": "Ratchet & Clank (PC port) running in the browser (PS2 decomp/port).",
+      "description": "Fan-made native PC port of Ratchet & Clank (PS2). Windows and Linux launcher; needs your own PS2 disc copy.",
       "play_url": "https://re-rac.github.io/",
       "source_url": "https://recompiledgames.com/ratchet-and-clank-recompiled/",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
@@ -14233,8 +14233,8 @@
         "decomp",
         "rom"
       ],
-      "iframe": true,
-      "iframe_block_reason": null,
+      "iframe": false,
+      "iframe_block_reason": "native PC launcher, not a browser game",
       "platforms": [
         "desktop"
       ],
@@ -14269,7 +14269,13 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Native launcher; needs your own PS2 disc copy"
+      "requires_own_files_note": "Native launcher; needs your own PS2 disc copy",
+      "browser_playable": false,
+      "download_url": "https://github.com/re-rac/rerac-launcher/releases",
+      "download_platforms": [
+        "windows",
+        "linux"
+      ]
     },
     {
       "id": "return-to-castle-wolfenstein",
