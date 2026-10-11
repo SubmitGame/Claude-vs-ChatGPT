@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T02:00:00.000Z",
+  "updated_at": "2026-10-11T04:25:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -16008,16 +16008,146 @@
       ],
       "screenshot_score": 9.5,
       "screenshot_score_notes": "Set to 9.5 by Igor (curator pick). Media: poster from creator-shared gameplay clip (@heynavtoor on X) — third-person walk through sunlit Taipei streets with scooters, yellow taxi, minimap and Mandarin quest HUD; crisp, polished low-poly city."
+    },
+    {
+      "id": "gameer-museum-heist",
+      "title": "Museum Heist",
+      "description": "Slip through a cinematic museum mystery where every clue can change the ending.",
+      "play_url": "https://www.gameer.io/museum-heist",
+      "source_url": "https://www.gameer.io/feed",
+      "found_via": "gameer.io public feed (/api/feed)",
+      "found_via_network": "gameer",
+      "made_with": "unknown",
+      "tags": [
+        "gameer",
+        "Mystery",
+        "Thriller"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "first_seen": "2026-10-11T01:10:00.000Z",
+      "last_seen": "2026-10-11T01:10:00.000Z",
+      "remote_likes": 21205,
+      "likes_source": "gameer",
+      "likes_source_url": "https://www.gameer.io/api/games/museum-heist/engagement",
+      "screenshot_path": "screenshots/gameer-museum-heist.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/gameer-museum-heist.jpg",
+          "score": 7.5,
+          "notes": "Frame from gameer.io preview video; scored on still only."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Frame from gameer.io preview video; scored on still only.",
+      "video_path": "videos/gameer-museum-heist.mp4",
+      "video_poster": "videos/gameer-museum-heist.jpg",
+      "video_source": "gameer-preview",
+      "videos": [
+        {
+          "path": "videos/gameer-museum-heist.mp4",
+          "poster": "videos/gameer-museum-heist.jpg",
+          "source": "gameer-preview"
+        }
+      ]
+    },
+    {
+      "id": "gameer-qlskwgb5vmbs8c3czlwb",
+      "title": "Colosseum Breakout",
+      "description": "A young gladiator Cassian Dravus is thrown into the Roman Colosseum and, in the first two seconds, the arena erupts into chaos with roaring crowds, charging beasts, and collapsing gates. The player must survive the arena, steal a chariot, and break out through the underground tunnels beneath ancient Rome. Keep it one level, three beats, under one minute total. Make it feel epic, brutal, kinetic, and instantly understandable with clear movement, danger, and a strong final escape payoff.",
+      "play_url": "https://www.gameer.io/play-game/QlsKWgb5VMbS8C3cZlwB",
+      "source_url": "https://www.gameer.io/feed",
+      "found_via": "gameer.io public feed (/api/feed)",
+      "found_via_network": "gameer",
+      "made_with": "unknown",
+      "tags": [
+        "gameer",
+        "adventure"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "first_seen": "2026-10-11T01:10:00.000Z",
+      "last_seen": "2026-10-11T01:10:00.000Z",
+      "remote_likes": 19488,
+      "likes_source": "gameer",
+      "likes_source_url": "https://www.gameer.io/api/games/QlsKWgb5VMbS8C3cZlwB/engagement",
+      "screenshot_path": "screenshots/gameer-qlskwgb5vmbs8c3czlwb.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/gameer-qlskwgb5vmbs8c3czlwb.jpg",
+          "score": 7.5,
+          "notes": "Frame from gameer.io preview video; scored on still only."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Frame from gameer.io preview video; scored on still only.",
+      "video_path": "videos/gameer-qlskwgb5vmbs8c3czlwb.mp4",
+      "video_poster": "videos/gameer-qlskwgb5vmbs8c3czlwb.jpg",
+      "video_source": "gameer-preview",
+      "videos": [
+        {
+          "path": "videos/gameer-qlskwgb5vmbs8c3czlwb.mp4",
+          "poster": "videos/gameer-qlskwgb5vmbs8c3czlwb.jpg",
+          "source": "gameer-preview"
+        }
+      ]
+    },
+    {
+      "id": "gameer-aq7g7fz7rgndebxallme",
+      "title": "Facility 70",
+      "description": "Genre: horror\nVisual style: cinematic\n\nYou wake up alone in an underground military facility in Alaska. Lights flicker, corridors are damaged, and something in the walls is moving toward you.",
+      "play_url": "https://www.gameer.io/play-game/aQ7G7FZ7RGNdeBXalLME",
+      "source_url": "https://www.gameer.io/feed",
+      "found_via": "gameer.io public feed (/api/feed)",
+      "found_via_network": "gameer",
+      "made_with": "unknown",
+      "tags": [
+        "gameer",
+        "adventure"
+      ],
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "first_seen": "2026-10-11T01:10:00.000Z",
+      "last_seen": "2026-10-11T01:10:00.000Z",
+      "remote_likes": 19405,
+      "likes_source": "gameer",
+      "likes_source_url": "https://www.gameer.io/api/games/aQ7G7FZ7RGNdeBXalLME/engagement",
+      "screenshot_path": "screenshots/gameer-aq7g7fz7rgndebxallme.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/gameer-aq7g7fz7rgndebxallme.jpg",
+          "score": 7.5,
+          "notes": "Frame from gameer.io preview video; scored on still only."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Frame from gameer.io preview video; scored on still only.",
+      "video_path": "videos/gameer-aq7g7fz7rgndebxallme.mp4",
+      "video_poster": "videos/gameer-aq7g7fz7rgndebxallme.jpg",
+      "video_source": "gameer-preview",
+      "videos": [
+        {
+          "path": "videos/gameer-aq7g7fz7rgndebxallme.mp4",
+          "poster": "videos/gameer-aq7g7fz7rgndebxallme.jpg",
+          "source": "gameer-preview"
+        }
+      ]
     }
   ],
   "totals": {
-    "games": 527,
+    "games": 530,
     "by_made_with": {
       "opus-5.5": 347,
       "astra": 94,
-      "unknown": 64,
       "sonnet-5.5": 18,
-      "uncertain": 4
+      "uncertain": 4,
+      "unknown": 67
     }
   }
 }
