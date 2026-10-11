@@ -1178,23 +1178,6 @@
       "likes_source": "x"
     },
     {
-      "id": "scallywag-isle",
-      "title": "Scallywag Isle",
-      "description": "Classic early-90s point-and-click pirate comedy: help Rupert Flintwhistle relight a haunted lighthouse. Pixel art, characters, music and SFX are all generated in code (~880KB HTML). Part Three live on Wavedash; built with Claude Code and Opus 5.5.",
-      "play_url": "https://wavedash.com/games/scallywag-isle",
-      "source_url": "https://x.com/pipisonx/status/2104541322900123800",
-      "found_via": "X post by @pipisonx (Part Three live; Opus 5.5 + Claude Code)",
-      "found_via_network": "x",
-      "screenshot_path": "screenshots/63-scallywag-isle.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Atmospheric pixel title still with lighthouse, ghost ship, and moon reflection — theme and polish read immediately.",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "remote_likes": 4,
-      "likes_source": "x"
-    },
-    {
       "id": "puzzle-bracket",
       "title": "The Puzzle Bracket (Tidekeeper)",
       "description": "Twelve tiny Opus 5.5 puzzle games in a judged bracket; Tidekeeper won. Play Umbra, Warp & Weft, Leadlight, Topple Town, Tidekeeper, and the rest from one browser hub (Forward Future / Brian).",
@@ -3377,28 +3360,6 @@
       "github_user": "tahcin",
       "github_url": "https://github.com/tahcin/pet-island",
       "avatar_url": "https://github.com/tahcin.png"
-    },
-    {
-      "id": "claude-jump",
-      "title": "ClaudeJump",
-      "description": "Pixel-art arena platformer: knock friends into the sea in Versus or climb forever in Survival. Opus 5.5 plans/reviews with Sonnet 5 coding; public ticket history.",
-      "play_url": "https://claudejump.netlify.app/",
-      "source_url": "https://github.com/PrabhjotSodhi/ClaudeJump",
-      "found_via": "SubmitGame catalog Claude Opus 5.5",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/180-claude-jump.jpg",
-      "screenshot_score": 7.6,
-      "screenshot_score_notes": "Clean chunky pixel menu (VERSUS/SURVIVAL) with dual-player control legend on navy background.",
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "category": "platformer",
-      "platforms": [
-        "desktop"
-      ],
-      "github_user": "PrabhjotSodhi",
-      "github_url": "https://github.com/PrabhjotSodhi/ClaudeJump",
-      "avatar_url": "https://github.com/PrabhjotSodhi.png"
     },
     {
       "id": "driftwing",
@@ -6026,39 +5987,6 @@
       "last_seen": "2026-09-30T03:48:00.000Z"
     },
     {
-      "id": "garrafao-basketball",
-      "title": "Garrafão — Basketball Manager",
-      "description": "Browser basketball manager in the spirit of Elifoot: NBB, Liga Ouro, EuroLeague and NBA, local saves. Portuguese UI; built with Claude Opus 5.5.",
-      "play_url": "https://garrafao-production.up.railway.app/",
-      "source_url": "https://x.com/rgoalves/status/2105002289849364603",
-      "found_via": "X post by @rgoalves",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "category": "sports",
-      "platforms": [
-        "desktop"
-      ],
-      "author": "rgoalves",
-      "x_handle": "rgoalves",
-      "avatar_path": "/workspace/opus-feed/public/avatars/rgoalves.jpg",
-      "remote_likes": 0,
-      "likes_source": "x",
-      "screenshot_path": "screenshots/246-garrafao-basketball.jpg",
-      "screenshot_score": 8.5,
-      "screenshot_score_notes": "Polished title menu over live low-poly court, scoreboard and Novo Jogo CTA.",
-      "screenshots": [
-        {
-          "path": "screenshots/246-garrafao-basketball.jpg",
-          "score": 8.5,
-          "notes": "Main menu over live match"
-        }
-      ],
-      "published_at": "2026-09-29T18:30:29.000Z",
-      "listed_at": "2026-09-30T03:48:00.000Z",
-      "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
-    },
-    {
       "id": "bird-siege",
       "title": "Bird Siege",
       "description": "Emoji slingshot playground: pull back, let fly, topple pig outposts across three levels. ChatGPT Sites / GPT-6 Astra build by @TonyClimate.",
@@ -7089,26 +7017,6 @@
           "created_at": "2026-10-01T03:03:31Z"
         }
       ]
-    },
-    {
-      "id": "fallout-new-york",
-      "title": "Fallout: New York",
-      "description": "Desktop browser Fallout fan RPG in ruined Manhattan: quests, dialogue, V.A.T.S., S.P.E.C.I.A.L., Pip-Boy; graphics/audio generated in-code. Built with Claude Opus 5.5 (Chris First).",
-      "play_url": "https://fallout.nyc/",
-      "source_url": "https://x.com/chrisfirst/status/2104644598626934858",
-      "found_via": "X / web (minchoi highlight + fallout.nyc)",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "iframe": true,
-      "category": "rpg",
-      "platforms": [
-        "desktop"
-      ],
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Public Fallout: New York landing — Vault 120 / Big Apple ruins framing from official play page.",
-      "first_seen": "2026-10-02T01:50:14.000Z",
-      "last_seen": "2026-10-05T01:51:45.000Z",
-      "listed_at": "2026-10-02T01:50:14.000Z"
     },
     {
       "id": "kals-valley",
@@ -8658,26 +8566,6 @@
       "screenshot_score_notes": "An aerial campus with labeled hostels and a clear start menu shows the explorer well, though the left-side UI covers much of the map."
     },
     {
-      "id": "warcraft-rebirth",
-      "title": "Warcraft Rebirth (progress demo)",
-      "description": "Browser RTS remake experiment aiming at Warcraft 3 fidelity; started when Opus 5.5 launched (4-day progress demo).",
-      "play_url": "https://warcraftrebirth.onrender.com/",
-      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwlfjb/4_day_progress_on_an_old_school_style_rts/",
-      "found_via": "r/aigamedev Opus 5.5 Warcraft remake demo",
-      "found_via_network": "reddit",
-      "made_with": "opus-5.5",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "rts",
-      "platforms": [
-        "desktop"
-      ],
-      "remote_likes": null,
-      "likes_source": "reddit",
-      "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
-    },
-    {
       "id": "snowline-rivals",
       "title": "Snowline Rivals",
       "description": "Downhill 3D snowboard time-trial: 5 courses, aerial tricks and friend ghost racing. Built with GPT-6 Astra/GPT-6 Pro plus Claude Opus 5.5 for the final visual polish (Alex_Vainshtein / freesoulapps).",
@@ -8794,44 +8682,6 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Moody top-down sea with a lone ship and wake reads as naval combat, but the ship is small and letterbox bars plus trailer text eat the frame."
-    },
-    {
-      "id": "shutter-island",
-      "title": "Shutter Island",
-      "description": "Narrative point-and-click adaptation: 14 hand-styled scenes, speech bubbles and 3 endings; every image drawn in code and every sound synthesized. Built with Claude Opus 5.5 (Neural333).",
-      "play_url": "https://shutter-island-six.vercel.app/",
-      "source_url": "https://x.com/Neural333/status/2106821350090502624",
-      "found_via": "X @Neural333 Opus 5.5 Shutter Island game",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "adventure",
-      "platforms": [
-        "desktop"
-      ],
-      "remote_likes": 0,
-      "likes_source": "x",
-      "first_seen": "2026-10-05T01:51:45.000Z",
-      "last_seen": "2026-10-05T01:51:45.000Z",
-      "video_path": "videos/shutter-island.mp4",
-      "video_source": "x",
-      "videos": [
-        {
-          "path": "videos/shutter-island.mp4",
-          "source": "x"
-        }
-      ],
-      "screenshot_path": "videos/shutter-island.jpg",
-      "screenshots": [
-        {
-          "path": "videos/shutter-island.jpg",
-          "score": 8,
-          "notes": "Striking rainy silhouette scene at the asylum gate with a crisp speech bubble conveys the noir story style clearly; little sense of interaction."
-        }
-      ],
-      "screenshot_score": 8,
-      "screenshot_score_notes": "Striking rainy silhouette scene at the asylum gate with a crisp speech bubble conveys the noir story style clearly; little sense of interaction."
     },
     {
       "id": "atomic-war-2d",
@@ -13642,7 +13492,13 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Native PC port; needs your own CTR PS1 disc image"
+      "requires_own_files_note": "Native PC port; needs your own CTR PS1 disc image",
+      "browser_playable": false,
+      "download_url": "https://ctr.cmzi.uk/#downloads",
+      "download_platforms": [
+        "windows",
+        "linux"
+      ]
     },
     {
       "id": "diablo",
@@ -13793,7 +13649,13 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Native recomp; needs your own GBA ROM"
+      "requires_own_files_note": "Native recomp; needs your own GBA ROM",
+      "browser_playable": false,
+      "download_url": "https://github.com/Shmargus/GSRecomp/releases",
+      "download_platforms": [
+        "windows",
+        "linux"
+      ]
     },
     {
       "id": "grand-theft-auto-vice-city",
@@ -14418,7 +14280,14 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Native port; needs your own GameCube ISO"
+      "requires_own_files_note": "Native port; needs your own GameCube ISO",
+      "browser_playable": false,
+      "download_url": "https://github.com/JackPriceBurns/foxhollow/releases",
+      "download_platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ]
     },
     {
       "id": "star-wars-jedi-knight-jedi-academy",
@@ -14657,7 +14526,14 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Native recomp; needs your own arcade ROM"
+      "requires_own_files_note": "Native recomp; needs your own arcade ROM",
+      "browser_playable": false,
+      "download_url": "https://github.com/mr-finster/vf1-recomp/releases",
+      "download_platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ]
     },
     {
       "id": "wadcmd-doom-in-the-browser",
@@ -15032,142 +14908,6 @@
         }
       ],
       "requires_own_files": false
-    },
-    {
-      "id": "kino-der-toten-zombies",
-      "title": "Kino der Toten (Zombies)",
-      "description": "Kino der Toten (Zombies) running in the browser (PC decomp/port).",
-      "play_url": "https://kino-der-toten.pages.dev",
-      "source_url": "https://recompiledgames.com/kino-der-toten-zombies-recompiled/",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": true,
-      "iframe_block_reason": null,
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/kino-der-toten-zombies.jpg",
-      "screenshots": [
-        {
-          "path": "videos/kino-der-toten-zombies.jpg",
-          "score": 6,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-zombies.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
-        }
-      ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
-      "video_path": "videos/kino-der-toten-zombies.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/kino-der-toten-zombies.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false
-    },
-    {
-      "id": "moon-zombies",
-      "title": "Moon (Zombies)",
-      "description": "Moon (Zombies) running in the browser (PC decomp/port).",
-      "play_url": "https://moon-zombies.pages.dev",
-      "source_url": "https://recompiledgames.com/moon-zombies-recompiled/",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": true,
-      "iframe_block_reason": null,
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/moon-zombies.jpg",
-      "screenshots": [
-        {
-          "path": "videos/moon-zombies.jpg",
-          "score": 6,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-moon-zombies.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
-        }
-      ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
-      "video_path": "videos/moon-zombies.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/moon-zombies.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false
-    },
-    {
-      "id": "pepsiman-recompiled",
-      "title": "Pepsiman Recompiled",
-      "description": "Pepsiman Recompiled running in the browser (PS1 decomp/port).",
-      "play_url": "https://pepsiman.ol.mr/",
-      "source_url": "https://recompiledgames.com/pepsiman-recompiled/",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp",
-        "rom"
-      ],
-      "iframe": false,
-      "iframe_block_reason": "x-frame-options-sameorigin",
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/pepsiman-recompiled.jpg",
-      "screenshots": [
-        {
-          "path": "videos/pepsiman-recompiled.jpg",
-          "score": 2.0,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pepsiman-recompiled.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
-        }
-      ],
-      "screenshot_score": 2.0,
-      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
-      "author": "kem0X",
-      "author_source": "https://recompiledgames.com/pepsiman-recompiled/",
-      "video_path": "videos/pepsiman-recompiled.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/pepsiman-recompiled.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": true,
-      "requires_own_files_note": "Needs your own Pepsiman PS1 disc image"
     },
     {
       "id": "aetherfall",
@@ -16222,11 +15962,11 @@
     }
   ],
   "totals": {
-    "games": 530,
+    "games": 521,
     "by_made_with": {
-      "opus-5.5": 347,
+      "opus-5.5": 341,
       "astra": 94,
-      "unknown": 67,
+      "unknown": 64,
       "sonnet-5.5": 18,
       "uncertain": 4
     }
