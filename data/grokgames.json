@@ -6429,7 +6429,10 @@
       "last_seen": "2026-10-01T05:01:39.000Z",
       "video_path": "videos/halo-ce-browser.mp4",
       "iframe": false,
-      "iframe_block_reason": "wasm-sharedarraybuffer-needs-cross-origin-isolated (halo.js postMessage SharedArrayBuffer fails without COI; iframe cannot be crossOriginIsolated)"
+      "iframe_block_reason": "wasm-sharedarraybuffer-needs-cross-origin-isolated (halo.js postMessage SharedArrayBuffer fails without COI; iframe cannot be crossOriginIsolated)",
+      "tags": [
+        "decomp"
+      ]
     },
     {
       "id": "finals-night-table-tennis",
@@ -9119,7 +9122,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "First-person ramp run with timer, speed and checkpoint HUD fits CS surf, but flat textures make the still abstract without motion."
+      "screenshot_score_notes": "First-person ramp run with timer, speed and checkpoint HUD fits CS surf, but flat textures make the still abstract without motion.",
+      "tags": [
+        "decomp"
+      ]
     },
     {
       "id": "pokopia",
@@ -13220,6 +13226,1272 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter."
+    },
+    {
+      "id": "quake-iii-arena",
+      "title": "Quake III Arena (q3js)",
+      "description": "Quake III Arena in the browser (WebAssembly ioquake3): click and play instantly, demo data included.",
+      "play_url": "https://q3js.com/",
+      "source_url": "https://recompiledgames.com/quake-iii-arena-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "videos/quake-iii-arena.jpg",
+      "screenshots": [
+        {
+          "path": "videos/quake-iii-arena.jpg",
+          "score": 8,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/quake-iii-arena.jpg",
+          "score": 8,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5.",
+      "original_video_url": "https://www.youtube.com/watch?v=de7PNFRHNts",
+      "video_path": "videos/quake-iii-arena.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/quake-iii-arena.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-black-ops-zombies",
+      "title": "Call of Duty: Black Ops Zombies",
+      "description": "Call of Duty: Black Ops Zombies running in the browser (PC decomp/port).",
+      "play_url": "https://vel.gg/bo1z",
+      "source_url": "https://recompiledgames.com/black-ops-zombies-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "corp-same-origin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "videos/call-of-duty-black-ops-zombies.jpg",
+      "screenshots": [
+        {
+          "path": "videos/call-of-duty-black-ops-zombies.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-call-of-duty-black-ops-zombies.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/call-of-duty-black-ops-zombies.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/call-of-duty-black-ops-zombies.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-2",
+      "title": "Call of Duty: Modern Warfare 2",
+      "description": "Call of Duty: Modern Warfare 2 running in the browser (PC decomp/port).",
+      "play_url": "https://ovz-game-production.up.railway.app",
+      "source_url": "https://recompiledgames.com/modern-warfare-2-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "videos/call-of-duty-modern-warfare-2.jpg",
+      "screenshots": [
+        {
+          "path": "videos/call-of-duty-modern-warfare-2.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-call-of-duty-modern-warfare-2.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/call-of-duty-modern-warfare-2.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/call-of-duty-modern-warfare-2.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "command-conquer-generals-zero-hour",
+      "title": "Command & Conquer: Generals Zero Hour",
+      "description": "Command & Conquer: Generals Zero Hour running in the browser (PC decomp/port).",
+      "play_url": "https://generals.wasm.ltd",
+      "source_url": "https://recompiledgames.com/command-and-conquer-generals-zero-hour-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-generals-zero-hour.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-generals-zero-hour.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "command-conquer-red-alert-2",
+      "title": "Command & Conquer: Red Alert 2",
+      "description": "Command & Conquer: Red Alert 2 running in the browser (PC decomp/port).",
+      "play_url": "https://chronodivide.com/",
+      "source_url": "https://recompiledgames.com/red-alert-2-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "videos/command-conquer-red-alert-2.jpg",
+      "screenshots": [
+        {
+          "path": "videos/command-conquer-red-alert-2.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-red-alert-2.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/command-conquer-red-alert-2.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/command-conquer-red-alert-2.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "counter-strike-1-6",
+      "title": "Counter-Strike 1.6",
+      "description": "Counter-Strike 1.6 running in the browser (PC decomp/port).",
+      "play_url": "https://csjs.live",
+      "source_url": "https://recompiledgames.com/counter-strike-1-6-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "videos/counter-strike-1-6.jpg",
+      "screenshots": [
+        {
+          "path": "videos/counter-strike-1-6.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-1-6.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/counter-strike-1-6.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/counter-strike-1-6.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "counter-strike-source-bunnyhop-bunnyhop-lol",
+      "title": "Counter-Strike: Source Bunnyhop (bunnyhop.lol)",
+      "description": "Counter-Strike: Source Bunnyhop (bunnyhop.lol) running in the browser (PC decomp/port).",
+      "play_url": "https://bunnyhop.lol",
+      "source_url": "https://recompiledgames.com/bunnyhop-lol-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "crash-team-racing-turbocharged",
+      "title": "Crash Team Racing Turbocharged",
+      "description": "Crash Team Racing Turbocharged running in the browser (PS1 decomp/port).",
+      "play_url": "https://ctr.cmzi.uk/",
+      "source_url": "https://recompiledgames.com/crash-team-racing-turbocharged-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-team-racing-turbocharged.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-team-racing-turbocharged.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "diablo",
+      "title": "Diablo (diablo_web)",
+      "description": "Diablo (diablo_web) running in the browser (PC decomp/port).",
+      "play_url": "https://johnimril.github.io/diablo_web/",
+      "source_url": "https://recompiledgames.com/diablo-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-diablo.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-diablo.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "doom-multiplayer-silent-space-marine",
+      "title": "Doom Multiplayer (Silent Space Marine)",
+      "description": "Doom Multiplayer (Silent Space Marine) running in the browser (PC decomp/port).",
+      "play_url": "https://silentspacemarine.com/",
+      "source_url": "https://recompiledgames.com/doom-multiplayer-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-doom-multiplayer-silent-space-marine.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-doom-multiplayer-silent-space-marine.jpg",
+          "score": 8,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+    },
+    {
+      "id": "golden-sun-recompilation",
+      "title": "Golden Sun (recompilation)",
+      "description": "Golden Sun (recompilation) running in the browser (GBA decomp/port).",
+      "play_url": "https://shmargus.github.io/GSRecomp/",
+      "source_url": "https://recompiledgames.com/golden-sun-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-golden-sun-recompilation.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-golden-sun-recompilation.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "grand-theft-auto-vice-city",
+      "title": "Grand Theft Auto: Vice City",
+      "description": "Grand Theft Auto: Vice City running in the browser (PC decomp/port).",
+      "play_url": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
+      "source_url": "https://recompiledgames.com/gta-vice-city-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-vice-city.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-vice-city.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "half-life-pixelsuft",
+      "title": "Half-Life (pixelsuft)",
+      "description": "Half-Life (pixelsuft) running in the browser (PC decomp/port).",
+      "play_url": "https://pixelsuft.github.io/hl/",
+      "source_url": "https://recompiledgames.com/half-life-pixelsuft-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-pixelsuft.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-pixelsuft.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "half-life-and-counter-strike-1-6-webxash",
+      "title": "Half-Life and Counter-Strike 1.6 (WebXash)",
+      "description": "Half-Life and Counter-Strike 1.6 (WebXash) running in the browser (PC decomp/port).",
+      "play_url": "https://x8bitrain.github.io/webXash/",
+      "source_url": "https://recompiledgames.com/half-life-counter-strike-webxash-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-and-counter-strike-1-6-webxash.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-and-counter-strike-1-6-webxash.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "halo-combat-evolved-mobile-hcemobile",
+      "title": "Halo: Combat Evolved Mobile (HCEMobile)",
+      "description": "Halo: Combat Evolved Mobile (HCEMobile) running in the browser (Xbox decomp/port).",
+      "play_url": "https://hcemobile.com/",
+      "source_url": "https://hcemobile.com",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved-mobile-hcemobile.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved-mobile-hcemobile.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "netquake-io",
+      "title": "NetQuake.io",
+      "description": "NetQuake.io running in the browser (PC decomp/port).",
+      "play_url": "https://www.netquake.io/",
+      "source_url": "https://recompiledgames.com/netquake-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-netquake-io.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-netquake-io.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "pro-evolution-soccer-6",
+      "title": "Pro Evolution Soccer 6",
+      "description": "Pro Evolution Soccer 6 running in the browser (PC decomp/port).",
+      "play_url": "https://pes6.optijuegos.net",
+      "source_url": "https://recompiledgames.com/pro-evolution-soccer-6-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pro-evolution-soccer-6.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pro-evolution-soccer-6.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "quake-ii",
+      "title": "Quake II (q2.pieter.com)",
+      "description": "Quake II (q2.pieter.com) running in the browser (PC decomp/port).",
+      "play_url": "https://q2.pieter.com",
+      "source_url": "https://recompiledgames.com/quake-ii-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-ii.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-ii.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "quake-iii-arena-q3-pieter-com",
+      "title": "Quake III Arena (q3.pieter.com)",
+      "description": "Quake III Arena (q3.pieter.com) running in the browser (PC decomp/port).",
+      "play_url": "https://q3.pieter.com",
+      "source_url": "https://q3.pieter.com",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-iii-arena-q3-pieter-com.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-iii-arena-q3-pieter-com.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "quakeworld",
+      "title": "QuakeWorld (q1.pieter.com)",
+      "description": "QuakeWorld (q1.pieter.com) running in the browser (PC decomp/port).",
+      "play_url": "https://q1.pieter.com",
+      "source_url": "https://recompiledgames.com/quakeworld-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quakeworld.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quakeworld.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "ratchet-clank-pc-port",
+      "title": "Ratchet & Clank (PC port)",
+      "description": "Ratchet & Clank (PC port) running in the browser (PS2 decomp/port).",
+      "play_url": "https://re-rac.github.io/",
+      "source_url": "https://recompiledgames.com/ratchet-and-clank-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-ratchet-clank-pc-port.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-ratchet-clank-pc-port.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "return-to-castle-wolfenstein",
+      "title": "Return to Castle Wolfenstein (rtcw.pieter.com)",
+      "description": "Return to Castle Wolfenstein (rtcw.pieter.com) running in the browser (PC decomp/port).",
+      "play_url": "https://rtcw.pieter.com",
+      "source_url": "https://recompiledgames.com/return-to-castle-wolfenstein-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-return-to-castle-wolfenstein.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-return-to-castle-wolfenstein.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "skate-3",
+      "title": "Skate 3 (fan browser game)",
+      "description": "Skate 3 (fan browser game) running in the browser (Xbox 360 decomp/port).",
+      "play_url": "https://skate.aaddpp.lol",
+      "source_url": "https://recompiledgames.com/skate-3-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-skate-3.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-skate-3.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "star-fox-adventures",
+      "title": "Star Fox Adventures",
+      "description": "Star Fox Adventures running in the browser (GameCube decomp/port).",
+      "play_url": "https://foxhollow.dev/",
+      "source_url": "https://recompiledgames.com/star-fox-adventures-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-fox-adventures.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-fox-adventures.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "star-wars-jedi-knight-jedi-academy",
+      "title": "Star Wars Jedi Knight: Jedi Academy",
+      "description": "Star Wars Jedi Knight: Jedi Academy running in the browser (PC decomp/port).",
+      "play_url": "https://jk.q3js.com",
+      "source_url": "https://recompiledgames.com/jedi-academy-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-wars-jedi-knight-jedi-academy.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-wars-jedi-knight-jedi-academy.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "super-mario-64-multiplayer",
+      "title": "Super Mario 64 Multiplayer",
+      "description": "Super Mario 64 Multiplayer running in the browser (N64 decomp/port).",
+      "play_url": "https://olivers.tools/play/",
+      "source_url": "https://recompiledgames.com/super-mario-64-multiplayer-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-64-multiplayer.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-64-multiplayer.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "the-simpsons-hit-run",
+      "title": "The Simpsons: Hit & Run",
+      "description": "The Simpsons: Hit & Run running in the browser (PC decomp/port).",
+      "play_url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+      "source_url": "https://recompiledgames.com/the-simpsons-hit-and-run-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-the-simpsons-hit-run.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-the-simpsons-hit-run.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "urban-terror-listed-as-unreal-tournament",
+      "title": "Urban Terror (ut.pieter.com)",
+      "description": "Urban Terror (ut.pieter.com) running in the browser (PC decomp/port).",
+      "play_url": "https://ut.pieter.com",
+      "source_url": "https://recompiledgames.com/urban-terror-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-urban-terror-listed-as-unreal-tournament.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-urban-terror-listed-as-unreal-tournament.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "virtua-fighter-arcade-recompilation",
+      "title": "Virtua Fighter (arcade recompilation)",
+      "description": "Virtua Fighter (arcade recompilation) running in the browser (Arcade decomp/port).",
+      "play_url": "https://vf1-recomp.pages.dev/",
+      "source_url": "https://recompiledgames.com/virtua-fighter-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-virtua-fighter-arcade-recompilation.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-virtua-fighter-arcade-recompilation.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "wadcmd-doom-in-the-browser",
+      "title": "WadCMD (Doom in the browser)",
+      "description": "WadCMD (Doom in the browser) running in the browser (PC decomp/port).",
+      "play_url": "https://wadcmd.com/",
+      "source_url": "https://recompiledgames.com/doom-wadcmd-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "warzone-2100-web-edition",
+      "title": "Warzone 2100 (Web Edition)",
+      "description": "Warzone 2100 (Web Edition) running in the browser (PC decomp/port).",
+      "play_url": "https://wz2100.net/news/warzone-2100-web-edition/",
+      "source_url": "https://recompiledgames.com/warzone-2100-web-edition-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-warzone-2100-web-edition.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-warzone-2100-web-edition.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "wasm-arcade-gta-minecraft-web-ports",
+      "title": "WASM Arcade (GTA / Minecraft web ports)",
+      "description": "WASM Arcade (GTA / Minecraft web ports) running in the browser (PC decomp/port).",
+      "play_url": "https://wasmarcade.com/",
+      "source_url": "https://wasmarcade.com",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wasm-arcade-gta-minecraft-web-ports.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wasm-arcade-gta-minecraft-web-ports.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+    },
+    {
+      "id": "claude-of-duty-vibe-slops-ii-froydinger-mirror",
+      "title": "Claude of Duty: Vibe Slops II (froydinger mirror)",
+      "description": "Claude of Duty: Vibe Slops II (froydinger mirror) running in the browser (PC decomp/port).",
+      "play_url": "https://froydinger.github.io/claude-of-duty/",
+      "source_url": "https://froydinger.github.io/claude-of-duty",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
+          "score": 7,
+          "notes": "First-person BO2-style yacht map with gun, minimap and ammo HUD; reads as a real shooter."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "First-person BO2-style yacht map with gun, minimap and ammo HUD; reads as a real shooter."
+    },
+    {
+      "id": "claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror",
+      "title": "Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)",
+      "description": "Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror) running in the browser (PC decomp/port).",
+      "play_url": "https://goofyahhbro69420.github.io/Black-Ops-2/",
+      "source_url": "https://goofyahhbro69420.github.io/Black-Ops-2",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirr.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirr.jpg",
+          "score": 4,
+          "notes": "Title/loading screen only (\"tap or click to load\"); no gameplay visible."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Title/loading screen only (\"tap or click to load\"); no gameplay visible."
+    },
+    {
+      "id": "kino-der-toten-goofyahhbro69420-mirror",
+      "title": "Kino der Toten (GoofyAhhBro69420 mirror)",
+      "description": "Kino der Toten (GoofyAhhBro69420 mirror) running in the browser (PC decomp/port).",
+      "play_url": "https://goofyahhbro69420.github.io/COD-ZOMBIES/",
+      "source_url": "https://goofyahhbro69420.github.io/COD-ZOMBIES",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-goofyahhbro69420-mirror.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-goofyahhbro69420-mirror.jpg",
+          "score": 7,
+          "notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look."
+    },
+    {
+      "id": "kino-der-toten-theeagler1234-mirror",
+      "title": "Kino der Toten (theeagler1234 mirror)",
+      "description": "Kino der Toten (theeagler1234 mirror) running in the browser (PC decomp/port).",
+      "play_url": "https://theeagler1234-alt.github.io/kino-der-toten/",
+      "source_url": "https://theeagler1234-alt.github.io/kino-der-toten",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-theeagler1234-mirror.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-theeagler1234-mirror.jpg",
+          "score": 7,
+          "notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Kino der Toten lobby, Round 1 with pistol, points and ammo HUD; clear zombies-mode look."
+    },
+    {
+      "id": "cheese-cube-black-ops-iii-custom-map",
+      "title": "Cheese Cube (Black Ops III custom map)",
+      "description": "Cheese Cube (Black Ops III custom map) running in the browser (PC decomp/port).",
+      "play_url": "https://cheese-cube.pages.dev",
+      "source_url": "https://recompiledgames.com/cheese-cube-black-ops-3-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-cheese-cube-black-ops-iii-custom-map.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-cheese-cube-black-ops-iii-custom-map.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "kino-der-toten-zombies",
+      "title": "Kino der Toten (Zombies)",
+      "description": "Kino der Toten (Zombies) running in the browser (PC decomp/port).",
+      "play_url": "https://kino-der-toten.pages.dev",
+      "source_url": "https://recompiledgames.com/kino-der-toten-zombies-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-zombies.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-zombies.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "moon-zombies",
+      "title": "Moon (Zombies)",
+      "description": "Moon (Zombies) running in the browser (PC decomp/port).",
+      "play_url": "https://moon-zombies.pages.dev",
+      "source_url": "https://recompiledgames.com/moon-zombies-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-moon-zombies.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-moon-zombies.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+    },
+    {
+      "id": "pepsiman-recompiled",
+      "title": "Pepsiman Recompiled",
+      "description": "Pepsiman Recompiled running in the browser (PS1 decomp/port).",
+      "play_url": "https://pepsiman.ol.mr/",
+      "source_url": "https://recompiledgames.com/pepsiman-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-11T00:30:00.000Z",
+      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pepsiman-recompiled.jpg",
+      "screenshots": [
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pepsiman-recompiled.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
     }
   ],
   "totals": {
