@@ -13689,8 +13689,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-doom-multiplayer-silent-space-marine.jpg",
+      "screenshot_path": "videos/doom-multiplayer-silent-space-marine.jpg",
       "screenshots": [
+        {
+          "path": "videos/doom-multiplayer-silent-space-marine.jpg",
+          "score": 8,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-doom-multiplayer-silent-space-marine.jpg",
           "score": 8,
@@ -13704,7 +13709,15 @@
       "author_source": "https://recompiledgames.com/doom-multiplayer-recompiled/",
       "remote_likes": 416,
       "likes_source": "github",
-      "github_url": "https://github.com/cloudflare/doom-wasm"
+      "github_url": "https://github.com/cloudflare/doom-wasm",
+      "video_path": "videos/doom-multiplayer-silent-space-marine.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/doom-multiplayer-silent-space-marine.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "golden-sun-recompilation",
@@ -13725,8 +13738,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-golden-sun-recompilation.jpg",
+      "screenshot_path": "videos/golden-sun-recompilation.jpg",
       "screenshots": [
+        {
+          "path": "videos/golden-sun-recompilation.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-golden-sun-recompilation.jpg",
           "score": 10,
@@ -13739,7 +13757,15 @@
       "author_source": "https://shmargus.github.io/GSRecomp/",
       "remote_likes": 33,
       "likes_source": "github",
-      "github_url": "https://github.com/Shmargus/GSRecomp"
+      "github_url": "https://github.com/Shmargus/GSRecomp",
+      "video_path": "videos/golden-sun-recompilation.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/golden-sun-recompilation.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "grand-theft-auto-vice-city",
@@ -13904,8 +13930,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved-mobile-hcemobile.jpg",
+      "screenshot_path": "videos/halo-combat-evolved-mobile-hcemobile.jpg",
       "screenshots": [
+        {
+          "path": "videos/halo-combat-evolved-mobile-hcemobile.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved-mobile-hcemobile.jpg",
           "score": 6,
@@ -13915,7 +13946,15 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
       "x_handle": "BanTrev",
-      "author_source": "https://hcemobile.com/"
+      "author_source": "https://hcemobile.com/",
+      "video_path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "netquake-io",
@@ -14207,8 +14246,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-return-to-castle-wolfenstein.jpg",
+      "screenshot_path": "videos/return-to-castle-wolfenstein.jpg",
       "screenshots": [
+        {
+          "path": "videos/return-to-castle-wolfenstein.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-return-to-castle-wolfenstein.jpg",
           "score": 6,
@@ -14218,7 +14262,15 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
       "x_handle": "levelsio",
-      "author_source": "https://recompiledgames.com/return-to-castle-wolfenstein-recompiled/"
+      "author_source": "https://recompiledgames.com/return-to-castle-wolfenstein-recompiled/",
+      "video_path": "videos/return-to-castle-wolfenstein.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/return-to-castle-wolfenstein.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "skate-3",
@@ -14282,8 +14334,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-fox-adventures.jpg",
+      "screenshot_path": "videos/star-fox-adventures.jpg",
       "screenshots": [
+        {
+          "path": "videos/star-fox-adventures.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-fox-adventures.jpg",
           "score": 10,
@@ -14296,7 +14353,15 @@
       "author_source": "https://foxhollow.dev/",
       "remote_likes": 61,
       "likes_source": "github",
-      "github_url": "https://github.com/JackPriceBurns/foxhollow"
+      "github_url": "https://github.com/JackPriceBurns/foxhollow",
+      "video_path": "videos/star-fox-adventures.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/star-fox-adventures.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "star-wars-jedi-knight-jedi-academy",
@@ -14317,8 +14382,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-wars-jedi-knight-jedi-academy.jpg",
+      "screenshot_path": "videos/star-wars-jedi-knight-jedi-academy.jpg",
       "screenshots": [
+        {
+          "path": "videos/star-wars-jedi-knight-jedi-academy.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-wars-jedi-knight-jedi-academy.jpg",
           "score": 6,
@@ -14329,7 +14399,15 @@
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
       "x_handle": "lukathedev",
       "github_user": "lklacar",
-      "author_source": "https://jk.q3js.com"
+      "author_source": "https://jk.q3js.com",
+      "video_path": "videos/star-wars-jedi-knight-jedi-academy.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/star-wars-jedi-knight-jedi-academy.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "super-mario-64-multiplayer",
@@ -14395,8 +14473,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-the-simpsons-hit-run.jpg",
+      "screenshot_path": "videos/the-simpsons-hit-run.jpg",
       "screenshots": [
+        {
+          "path": "videos/the-simpsons-hit-run.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-the-simpsons-hit-run.jpg",
           "score": 6,
@@ -14409,7 +14492,15 @@
       "author_source": "https://recompiledgames.com/the-simpsons-hit-and-run-recompiled/",
       "remote_likes": 1,
       "likes_source": "hn",
-      "comment_count": 2
+      "comment_count": 2,
+      "video_path": "videos/the-simpsons-hit-run.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/the-simpsons-hit-run.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "urban-terror-listed-as-unreal-tournament",
@@ -14430,8 +14521,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-urban-terror-listed-as-unreal-tournament.jpg",
+      "screenshot_path": "videos/urban-terror-listed-as-unreal-tournament.jpg",
       "screenshots": [
+        {
+          "path": "videos/urban-terror-listed-as-unreal-tournament.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-urban-terror-listed-as-unreal-tournament.jpg",
           "score": 10,
@@ -14439,7 +14535,15 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/urban-terror-listed-as-unreal-tournament.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/urban-terror-listed-as-unreal-tournament.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "virtua-fighter-arcade-recompilation",
@@ -14553,8 +14657,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-warzone-2100-web-edition.jpg",
+      "screenshot_path": "videos/warzone-2100-web-edition.jpg",
       "screenshots": [
+        {
+          "path": "videos/warzone-2100-web-edition.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-warzone-2100-web-edition.jpg",
           "score": 10,
@@ -14562,7 +14671,15 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/warzone-2100-web-edition.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/warzone-2100-web-edition.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "wasm-arcade-gta-minecraft-web-ports",
