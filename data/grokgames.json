@@ -13408,8 +13408,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-generals-zero-hour.jpg",
+      "screenshot_path": "videos/command-conquer-generals-zero-hour.jpg",
       "screenshots": [
+        {
+          "path": "videos/command-conquer-generals-zero-hour.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-generals-zero-hour.jpg",
           "score": 10,
@@ -13423,7 +13428,15 @@
       "author_source": "https://generals.wasm.ltd",
       "remote_likes": 9,
       "likes_source": "github",
-      "github_url": "https://github.com/origami-ltd/wasm-generals"
+      "github_url": "https://github.com/origami-ltd/wasm-generals",
+      "video_path": "videos/command-conquer-generals-zero-hour.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/command-conquer-generals-zero-hour.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "command-conquer-red-alert-2",
@@ -13627,8 +13640,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-diablo.jpg",
+      "screenshot_path": "videos/diablo.jpg",
       "screenshots": [
+        {
+          "path": "videos/diablo.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-diablo.jpg",
           "score": 6,
@@ -13642,7 +13660,15 @@
       "author_source": "https://recompiledgames.com/diablo-recompiled/",
       "remote_likes": 2886,
       "likes_source": "github",
-      "github_url": "https://github.com/d07RiV/diabloweb"
+      "github_url": "https://github.com/d07RiV/diabloweb",
+      "video_path": "videos/diablo.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/diablo.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "doom-multiplayer-silent-space-marine",
@@ -13953,8 +13979,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pro-evolution-soccer-6.jpg",
+      "screenshot_path": "videos/pro-evolution-soccer-6.jpg",
       "screenshots": [
+        {
+          "path": "videos/pro-evolution-soccer-6.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pro-evolution-soccer-6.jpg",
           "score": 6,
@@ -13964,7 +13995,15 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
       "author": "OptiProjects",
-      "author_source": "https://recompiledgames.com/pro-evolution-soccer-6-recompiled/"
+      "author_source": "https://recompiledgames.com/pro-evolution-soccer-6-recompiled/",
+      "video_path": "videos/pro-evolution-soccer-6.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/pro-evolution-soccer-6.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "quake-ii",
@@ -14075,8 +14114,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quakeworld.jpg",
+      "screenshot_path": "videos/quakeworld.jpg",
       "screenshots": [
+        {
+          "path": "videos/quakeworld.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quakeworld.jpg",
           "score": 6,
@@ -14086,7 +14130,15 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
       "x_handle": "levelsio",
-      "author_source": "https://recompiledgames.com/quakeworld-recompiled/"
+      "author_source": "https://recompiledgames.com/quakeworld-recompiled/",
+      "video_path": "videos/quakeworld.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/quakeworld.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "ratchet-clank-pc-port",
@@ -14298,8 +14350,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-64-multiplayer.jpg",
+      "screenshot_path": "videos/super-mario-64-multiplayer.jpg",
       "screenshots": [
+        {
+          "path": "videos/super-mario-64-multiplayer.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-64-multiplayer.jpg",
           "score": 10,
@@ -14309,7 +14366,15 @@
       "screenshot_score": 10,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
       "x_handle": "olivers_tools",
-      "author_source": "https://x.com/olivers_tools/status/2107937496634126643"
+      "author_source": "https://x.com/olivers_tools/status/2107937496634126643",
+      "video_path": "videos/super-mario-64-multiplayer.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/super-mario-64-multiplayer.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "the-simpsons-hit-run",
@@ -14395,8 +14460,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-virtua-fighter-arcade-recompilation.jpg",
+      "screenshot_path": "videos/virtua-fighter-arcade-recompilation.jpg",
       "screenshots": [
+        {
+          "path": "videos/virtua-fighter-arcade-recompilation.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-virtua-fighter-arcade-recompilation.jpg",
           "score": 10,
@@ -14409,7 +14479,15 @@
       "author_source": "https://vf1-recomp.pages.dev/",
       "remote_likes": 0,
       "likes_source": "github",
-      "github_url": "https://github.com/mr-finster/vf1-recomp"
+      "github_url": "https://github.com/mr-finster/vf1-recomp",
+      "video_path": "videos/virtua-fighter-arcade-recompilation.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/virtua-fighter-arcade-recompilation.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "wadcmd-doom-in-the-browser",
@@ -14430,8 +14508,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
+      "screenshot_path": "videos/wadcmd-doom-in-the-browser.jpg",
       "screenshots": [
+        {
+          "path": "videos/wadcmd-doom-in-the-browser.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
           "score": 10,
@@ -14441,7 +14524,15 @@
       "screenshot_score": 10,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
       "x_handle": "level0x40",
-      "author_source": "https://wadcmd.com/"
+      "author_source": "https://wadcmd.com/",
+      "video_path": "videos/wadcmd-doom-in-the-browser.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/wadcmd-doom-in-the-browser.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "warzone-2100-web-edition",
@@ -14492,8 +14583,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wasm-arcade-gta-minecraft-web-ports.jpg",
+      "screenshot_path": "videos/wasm-arcade-gta-minecraft-web-ports.jpg",
       "screenshots": [
+        {
+          "path": "videos/wasm-arcade-gta-minecraft-web-ports.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wasm-arcade-gta-minecraft-web-ports.jpg",
           "score": 10,
@@ -14501,7 +14597,15 @@
         }
       ],
       "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/wasm-arcade-gta-minecraft-web-ports.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/wasm-arcade-gta-minecraft-web-ports.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-froydinger-mirror",
@@ -14522,8 +14626,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
+      "screenshot_path": "videos/claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
       "screenshots": [
+        {
+          "path": "videos/claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
+          "score": 7,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-froydinger-mirror.jpg",
           "score": 7,
@@ -14536,7 +14645,15 @@
       "author_source": "https://froydinger.github.io/claude-of-duty/",
       "remote_likes": 0,
       "likes_source": "github",
-      "github_url": "https://github.com/Froydinger/claude-of-duty"
+      "github_url": "https://github.com/Froydinger/claude-of-duty",
+      "video_path": "videos/claude-of-duty-vibe-slops-ii-froydinger-mirror.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/claude-of-duty-vibe-slops-ii-froydinger-mirror.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror",
@@ -14557,8 +14674,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirr.jpg",
+      "screenshot_path": "videos/claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror.jpg",
       "screenshots": [
+        {
+          "path": "videos/claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror.jpg",
+          "score": 4,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirr.jpg",
           "score": 4,
@@ -14571,7 +14693,15 @@
       "author_source": "https://goofyahhbro69420.github.io/Black-Ops-2/",
       "remote_likes": 0,
       "likes_source": "github",
-      "github_url": "https://github.com/GoofyAhhBro69420/Black-Ops-2"
+      "github_url": "https://github.com/GoofyAhhBro69420/Black-Ops-2",
+      "video_path": "videos/claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "kino-der-toten-goofyahhbro69420-mirror",
@@ -14592,8 +14722,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-goofyahhbro69420-mirror.jpg",
+      "screenshot_path": "videos/kino-der-toten-goofyahhbro69420-mirror.jpg",
       "screenshots": [
+        {
+          "path": "videos/kino-der-toten-goofyahhbro69420-mirror.jpg",
+          "score": 7,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-goofyahhbro69420-mirror.jpg",
           "score": 7,
@@ -14606,7 +14741,15 @@
       "author_source": "https://goofyahhbro69420.github.io/COD-ZOMBIES/",
       "remote_likes": 1,
       "likes_source": "github",
-      "github_url": "https://github.com/GoofyAhhBro69420/COD-ZOMBIES"
+      "github_url": "https://github.com/GoofyAhhBro69420/COD-ZOMBIES",
+      "video_path": "videos/kino-der-toten-goofyahhbro69420-mirror.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/kino-der-toten-goofyahhbro69420-mirror.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "kino-der-toten-theeagler1234-mirror",
@@ -14627,8 +14770,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-theeagler1234-mirror.jpg",
+      "screenshot_path": "videos/kino-der-toten-theeagler1234-mirror.jpg",
       "screenshots": [
+        {
+          "path": "videos/kino-der-toten-theeagler1234-mirror.jpg",
+          "score": 7,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-theeagler1234-mirror.jpg",
           "score": 7,
@@ -14641,7 +14789,15 @@
       "author_source": "https://theeagler1234-alt.github.io/kino-der-toten/",
       "remote_likes": 0,
       "likes_source": "github",
-      "github_url": "https://github.com/theeagler1234-alt/kino-der-toten"
+      "github_url": "https://github.com/theeagler1234-alt/kino-der-toten",
+      "video_path": "videos/kino-der-toten-theeagler1234-mirror.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/kino-der-toten-theeagler1234-mirror.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "cheese-cube-black-ops-iii-custom-map",
@@ -14662,8 +14818,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-cheese-cube-black-ops-iii-custom-map.jpg",
+      "screenshot_path": "videos/cheese-cube-black-ops-iii-custom-map.jpg",
       "screenshots": [
+        {
+          "path": "videos/cheese-cube-black-ops-iii-custom-map.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-cheese-cube-black-ops-iii-custom-map.jpg",
           "score": 6,
@@ -14671,7 +14832,15 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/cheese-cube-black-ops-iii-custom-map.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/cheese-cube-black-ops-iii-custom-map.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "kino-der-toten-zombies",
@@ -14692,8 +14861,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-zombies.jpg",
+      "screenshot_path": "videos/kino-der-toten-zombies.jpg",
       "screenshots": [
+        {
+          "path": "videos/kino-der-toten-zombies.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-kino-der-toten-zombies.jpg",
           "score": 6,
@@ -14701,7 +14875,15 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/kino-der-toten-zombies.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/kino-der-toten-zombies.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "moon-zombies",
@@ -14722,8 +14904,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-moon-zombies.jpg",
+      "screenshot_path": "videos/moon-zombies.jpg",
       "screenshots": [
+        {
+          "path": "videos/moon-zombies.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-moon-zombies.jpg",
           "score": 6,
@@ -14731,7 +14918,15 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/moon-zombies.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/moon-zombies.mp4",
+          "source": "youtube"
+        }
+      ]
     },
     {
       "id": "pepsiman-recompiled",
@@ -14752,8 +14947,13 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pepsiman-recompiled.jpg",
+      "screenshot_path": "videos/pepsiman-recompiled.jpg",
       "screenshots": [
+        {
+          "path": "videos/pepsiman-recompiled.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pepsiman-recompiled.jpg",
           "score": 6,
@@ -14763,7 +14963,15 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
       "author": "kem0X",
-      "author_source": "https://recompiledgames.com/pepsiman-recompiled/"
+      "author_source": "https://recompiledgames.com/pepsiman-recompiled/",
+      "video_path": "videos/pepsiman-recompiled.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/pepsiman-recompiled.mp4",
+          "source": "youtube"
+        }
+      ]
     }
   ],
   "totals": {
