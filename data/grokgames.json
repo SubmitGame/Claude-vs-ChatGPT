@@ -6404,12 +6404,12 @@
       "github_url": null,
       "github_user": null,
       "screenshot_path": "screenshots/256-halo-ce-browser.jpg",
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "Clear first-person Halo CE combat still: assault rifle, shield/ammo HUD, and rocky outdoor map are legible; surrounding web chrome and PiP webcam slightly clutter the frame.",
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Capped at 2.5/3 (was 8.2): player must load their own game files (Igor's rule). Clear first-person Halo CE combat still: assault rifle, shield/ammo HUD, and rocky outdoor map are legible; surrounding web chrome and PiP webcam slightly clutter the frame.",
       "screenshots": [
         {
           "path": "screenshots/256-halo-ce-browser.jpg",
-          "score": 8.2,
+          "score": 2.5,
           "notes": "FPS view with assault rifle on outdoor Halo CE map"
         }
       ],
@@ -6431,10 +6431,13 @@
       "iframe": false,
       "iframe_block_reason": "wasm-sharedarraybuffer-needs-cross-origin-isolated (halo.js postMessage SharedArrayBuffer fails without COI; iframe cannot be crossOriginIsolated)",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "author_source": "https://x.com/mitchellhynes/status/2104969744721883474",
-      "comment_count": 342
+      "comment_count": 342,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Halo CE Xbox game files (file picker)"
     },
     {
       "id": "finals-night-table-tennis",
@@ -9130,7 +9133,8 @@
       ],
       "x_handle": "0yield",
       "author_source": "https://x.com/0yield/status/2106729377798951097",
-      "comment_count": 73
+      "comment_count": 73,
+      "requires_own_files": false
     },
     {
       "id": "pokopia",
@@ -13287,7 +13291,8 @@
       "author_source": "https://q3js.com/",
       "remote_likes": 83,
       "likes_source": "github",
-      "github_url": "https://github.com/lklacar/q3js"
+      "github_url": "https://github.com/lklacar/q3js",
+      "requires_own_files": false
     },
     {
       "id": "call-of-duty-black-ops-zombies",
@@ -13351,7 +13356,8 @@
           "url": "https://x.com/kevdog824/status/2108682321637363852",
           "created_at": "2026-10-09T22:13:37Z"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "call-of-duty-modern-warfare-2",
@@ -13394,7 +13400,8 @@
           "path": "videos/call-of-duty-modern-warfare-2.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "command-conquer-generals-zero-hour",
@@ -13406,7 +13413,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": false,
       "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
@@ -13419,7 +13427,7 @@
       "screenshots": [
         {
           "path": "videos/command-conquer-generals-zero-hour.jpg",
-          "score": 10,
+          "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -13428,8 +13436,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
       "author": "Origami",
       "github_user": "origami-ltd",
       "author_source": "https://generals.wasm.ltd",
@@ -13443,7 +13451,9 @@
           "path": "videos/command-conquer-generals-zero-hour.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Load your game files: pick your Generals/Zero Hour data folder"
     },
     {
       "id": "command-conquer-red-alert-2",
@@ -13489,7 +13499,8 @@
       ],
       "x_handle": "chronodivide",
       "github_user": "chronodivide",
-      "author_source": "https://chronodivide.com/"
+      "author_source": "https://chronodivide.com/",
+      "requires_own_files": false
     },
     {
       "id": "counter-strike-1-6",
@@ -13535,7 +13546,8 @@
       ],
       "x_handle": "lukathedev",
       "github_user": "lklacar",
-      "author_source": "https://csjs.live"
+      "author_source": "https://csjs.live",
+      "requires_own_files": false
     },
     {
       "id": "counter-strike-source-bunnyhop-bunnyhop-lol",
@@ -13578,7 +13590,8 @@
           "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "crash-team-racing-turbocharged",
@@ -13590,7 +13603,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -13603,7 +13617,7 @@
       "screenshots": [
         {
           "path": "videos/crash-team-racing-turbocharged.jpg",
-          "score": 10,
+          "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -13612,8 +13626,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
       "github_user": "CameronRedmore",
       "author_source": "https://ctr.cmzi.uk/",
       "remote_likes": 89,
@@ -13626,7 +13640,9 @@
           "path": "videos/crash-team-racing-turbocharged.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Native PC port; needs your own CTR PS1 disc image"
     },
     {
       "id": "diablo",
@@ -13675,7 +13691,8 @@
           "path": "videos/diablo.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "doom-multiplayer-silent-space-marine",
@@ -13724,7 +13741,8 @@
           "path": "videos/doom-multiplayer-silent-space-marine.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "golden-sun-recompilation",
@@ -13736,7 +13754,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -13749,7 +13768,7 @@
       "screenshots": [
         {
           "path": "videos/golden-sun-recompilation.jpg",
-          "score": 10,
+          "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -13758,8 +13777,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
       "github_user": "Shmargus",
       "author_source": "https://shmargus.github.io/GSRecomp/",
       "remote_likes": 33,
@@ -13772,7 +13791,9 @@
           "path": "videos/golden-sun-recompilation.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Native recomp; needs your own GBA ROM"
     },
     {
       "id": "grand-theft-auto-vice-city",
@@ -13784,7 +13805,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -13797,7 +13819,7 @@
       "screenshots": [
         {
           "path": "videos/grand-theft-auto-vice-city.jpg",
-          "score": 6,
+          "score": 2.0,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -13806,8 +13828,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 2.0,
+      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
       "github_user": "joncodeofficial",
       "author_source": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
       "remote_likes": 41,
@@ -13820,7 +13842,9 @@
           "path": "videos/grand-theft-auto-vice-city.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Import your own Vice City game.tar.gz"
     },
     {
       "id": "half-life-pixelsuft",
@@ -13868,7 +13892,8 @@
           "path": "videos/half-life-pixelsuft.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "half-life-and-counter-strike-1-6-webxash",
@@ -13916,7 +13941,8 @@
           "path": "videos/half-life-and-counter-strike-1-6-webxash.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "halo-combat-evolved-mobile-hcemobile",
@@ -13928,7 +13954,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -13941,7 +13968,7 @@
       "screenshots": [
         {
           "path": "videos/halo-combat-evolved-mobile-hcemobile.jpg",
-          "score": 6,
+          "score": 2.0,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -13950,8 +13977,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 2.0,
+      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
       "x_handle": "BanTrev",
       "author_source": "https://hcemobile.com/",
       "video_path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
@@ -13961,7 +13988,9 @@
           "path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Upload your own Halo CE ISO"
     },
     {
       "id": "netquake-io",
@@ -14004,7 +14033,8 @@
           "path": "videos/netquake-io.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "pro-evolution-soccer-6",
@@ -14049,7 +14079,8 @@
           "path": "videos/pro-evolution-soccer-6.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "quake-ii",
@@ -14094,7 +14125,8 @@
           "path": "videos/quake-ii.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "quake-iii-arena-q3-pieter-com",
@@ -14139,7 +14171,8 @@
           "path": "videos/quake-iii-arena-q3-pieter-com.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "quakeworld",
@@ -14184,7 +14217,8 @@
           "path": "videos/quakeworld.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "ratchet-clank-pc-port",
@@ -14196,7 +14230,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -14209,7 +14244,7 @@
       "screenshots": [
         {
           "path": "videos/ratchet-clank-pc-port.jpg",
-          "score": 10,
+          "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -14218,8 +14253,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
       "github_user": "re-rac",
       "author_source": "https://re-rac.github.io/",
       "remote_likes": 26,
@@ -14232,7 +14267,9 @@
           "path": "videos/ratchet-clank-pc-port.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Native launcher; needs your own PS2 disc copy"
     },
     {
       "id": "return-to-castle-wolfenstein",
@@ -14277,7 +14314,8 @@
           "path": "videos/return-to-castle-wolfenstein.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "skate-3",
@@ -14289,7 +14327,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -14302,7 +14341,7 @@
       "screenshots": [
         {
           "path": "videos/skate-3.jpg",
-          "score": 6,
+          "score": 2.0,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -14311,8 +14350,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 2.0,
+      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
       "video_path": "videos/skate-3.mp4",
       "video_source": "youtube",
       "videos": [
@@ -14320,7 +14359,9 @@
           "path": "videos/skate-3.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Bring your own Skate 3 copy (game files)"
     },
     {
       "id": "star-fox-adventures",
@@ -14332,7 +14373,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -14345,7 +14387,7 @@
       "screenshots": [
         {
           "path": "videos/star-fox-adventures.jpg",
-          "score": 10,
+          "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -14354,8 +14396,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
       "github_user": "JackPriceBurns",
       "author_source": "https://foxhollow.dev/",
       "remote_likes": 61,
@@ -14368,7 +14410,9 @@
           "path": "videos/star-fox-adventures.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Native port; needs your own GameCube ISO"
     },
     {
       "id": "star-wars-jedi-knight-jedi-academy",
@@ -14380,7 +14424,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -14393,7 +14438,7 @@
       "screenshots": [
         {
           "path": "videos/star-wars-jedi-knight-jedi-academy.jpg",
-          "score": 6,
+          "score": 2.0,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -14402,8 +14447,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 2.0,
+      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
       "x_handle": "lukathedev",
       "github_user": "lklacar",
       "author_source": "https://jk.q3js.com",
@@ -14414,7 +14459,9 @@
           "path": "videos/star-wars-jedi-knight-jedi-academy.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Select your own .pk3 files from GameData/base"
     },
     {
       "id": "super-mario-64-multiplayer",
@@ -14459,7 +14506,8 @@
           "path": "videos/super-mario-64-multiplayer.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "the-simpsons-hit-run",
@@ -14507,7 +14555,8 @@
           "path": "videos/the-simpsons-hit-run.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "urban-terror-listed-as-unreal-tournament",
@@ -14550,7 +14599,8 @@
           "path": "videos/urban-terror-listed-as-unreal-tournament.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "virtua-fighter-arcade-recompilation",
@@ -14562,7 +14612,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": true,
       "iframe_block_reason": null,
@@ -14575,7 +14626,7 @@
       "screenshots": [
         {
           "path": "videos/virtua-fighter-arcade-recompilation.jpg",
-          "score": 10,
+          "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -14584,8 +14635,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
       "github_user": "mr-finster",
       "author_source": "https://vf1-recomp.pages.dev/",
       "remote_likes": 0,
@@ -14598,7 +14649,9 @@
           "path": "videos/virtua-fighter-arcade-recompilation.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Native recomp; needs your own arcade ROM"
     },
     {
       "id": "wadcmd-doom-in-the-browser",
@@ -14643,7 +14696,8 @@
           "path": "videos/wadcmd-doom-in-the-browser.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "warzone-2100-web-edition",
@@ -14686,7 +14740,8 @@
           "path": "videos/warzone-2100-web-edition.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "wasm-arcade-gta-minecraft-web-ports",
@@ -14729,7 +14784,8 @@
           "path": "videos/wasm-arcade-gta-minecraft-web-ports.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-froydinger-mirror",
@@ -14777,7 +14833,8 @@
           "path": "videos/claude-of-duty-vibe-slops-ii-froydinger-mirror.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror",
@@ -14825,7 +14882,8 @@
           "path": "videos/claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "kino-der-toten-goofyahhbro69420-mirror",
@@ -14873,7 +14931,8 @@
           "path": "videos/kino-der-toten-goofyahhbro69420-mirror.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "kino-der-toten-theeagler1234-mirror",
@@ -14921,7 +14980,8 @@
           "path": "videos/kino-der-toten-theeagler1234-mirror.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "cheese-cube-black-ops-iii-custom-map",
@@ -14964,7 +15024,8 @@
           "path": "videos/cheese-cube-black-ops-iii-custom-map.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "kino-der-toten-zombies",
@@ -15007,7 +15068,8 @@
           "path": "videos/kino-der-toten-zombies.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "moon-zombies",
@@ -15050,7 +15112,8 @@
           "path": "videos/moon-zombies.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "pepsiman-recompiled",
@@ -15062,7 +15125,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": false,
       "iframe_block_reason": "x-frame-options-sameorigin",
@@ -15075,7 +15139,7 @@
       "screenshots": [
         {
           "path": "videos/pepsiman-recompiled.jpg",
-          "score": 6,
+          "score": 2.0,
           "notes": "Poster frame from original-game gameplay clip."
         },
         {
@@ -15084,8 +15148,8 @@
           "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 2.0,
+      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
       "author": "kem0X",
       "author_source": "https://recompiledgames.com/pepsiman-recompiled/",
       "video_path": "videos/pepsiman-recompiled.mp4",
@@ -15095,7 +15159,9 @@
           "path": "videos/pepsiman-recompiled.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Pepsiman PS1 disc image"
     },
     {
       "id": "aetherfall",
@@ -15588,7 +15654,8 @@
           "path": "videos/crash-bash-online.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "fortnite-og-fortniteog-lol",
@@ -15659,7 +15726,8 @@
           "path": "videos/fortnite-og-fortniteog-lol.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "grand-theft-auto-iii",
@@ -15702,7 +15770,8 @@
           "path": "videos/grand-theft-auto-iii.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "grand-theft-auto-v",
@@ -15745,7 +15814,8 @@
           "path": "videos/grand-theft-auto-v.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "lego-island",
@@ -15788,7 +15858,8 @@
           "path": "videos/lego-island.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "minecraft-1-8-8-eaglercraftx",
@@ -15831,7 +15902,8 @@
           "path": "videos/minecraft-1-8-8-eaglercraftx.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "nacht-der-untoten",
@@ -15874,7 +15946,8 @@
           "path": "videos/nacht-der-untoten.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "runescape-classic",
@@ -15917,7 +15990,8 @@
           "path": "videos/runescape-classic.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "super-mario-zombies",
@@ -15965,7 +16039,8 @@
           "path": "videos/super-mario-zombies.mp4",
           "source": "youtube"
         }
-      ]
+      ],
+      "requires_own_files": false
     },
     {
       "id": "taipei-rush",
@@ -16145,9 +16220,9 @@
     "by_made_with": {
       "opus-5.5": 347,
       "astra": 94,
+      "unknown": 67,
       "sonnet-5.5": 18,
-      "uncertain": 4,
-      "unknown": 67
+      "uncertain": 4
     }
   }
 }
