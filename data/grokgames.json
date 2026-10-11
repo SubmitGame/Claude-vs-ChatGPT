@@ -15541,6 +15541,431 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "WipEout-style craft streaking along a banked track under steel arches with position, lap and speed HUD; polished and fast-looking."
+    },
+    {
+      "id": "crash-bash-online",
+      "title": "Crash Bash Online",
+      "description": "Crash Bash Online playable in the browser (PS1 fan port/remake).",
+      "play_url": "https://crashbash.app/",
+      "source_url": "https://x.com/crashbashapp/status/2107557615676928068",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/crash-bash-online.jpg",
+      "screenshots": [
+        {
+          "path": "videos/crash-bash-online.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-bash-online.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "x_handle": "crashbashapp",
+      "author_source": "https://crashbash.app/",
+      "remote_likes": 415,
+      "likes_source": "x",
+      "comment_count": 9,
+      "video_path": "videos/crash-bash-online.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/crash-bash-online.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-og-fortniteog-lol",
+      "title": "Fortnite OG (fortniteog.lol)",
+      "description": "Fortnite OG (fortniteog.lol) playable in the browser (PC fan port/remake).",
+      "play_url": "https://fortniteog.lol/",
+      "source_url": "https://x.com/omonkeyzz/status/2108486163497402475",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/fortnite-og-fortniteog-lol.jpg",
+      "screenshots": [
+        {
+          "path": "videos/fortnite-og-fortniteog-lol.jpg",
+          "score": 4,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-fortnite-og-fortniteog-lol.jpg",
+          "score": 4,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 2/5."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 2/5.",
+      "x_handle": "omonkeyzz",
+      "author_source": "https://x.com/omonkeyzz/status/2108486163497402475",
+      "remote_likes": 264,
+      "likes_source": "x",
+      "comment_count": 13,
+      "comments": [
+        {
+          "author": "Kanvinc",
+          "text": "holy what a grinder. this project is moving so fast",
+          "likes": 6,
+          "url": "https://x.com/Kanvinc/status/2108486638640701946",
+          "created_at": "2026-10-09T09:16:03Z"
+        },
+        {
+          "author": "VICEXGTA",
+          "text": "Online?",
+          "likes": 5,
+          "url": "https://x.com/VICEXGTA/status/2108486604499083707",
+          "created_at": "2026-10-09T09:15:54Z"
+        },
+        {
+          "author": "Drragon_Boy",
+          "text": "Looking good 🔥🔥🚀",
+          "likes": 3,
+          "url": "https://x.com/Drragon_Boy/status/2108486620433490378",
+          "created_at": "2026-10-09T09:15:58Z"
+        }
+      ],
+      "video_path": "videos/fortnite-og-fortniteog-lol.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/fortnite-og-fortniteog-lol.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-iii",
+      "title": "Grand Theft Auto III",
+      "description": "Grand Theft Auto III playable in the browser (PC fan port/remake).",
+      "play_url": "https://wasmarcade.com/gta3",
+      "source_url": "https://recompiledgames.com/gta-3-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/grand-theft-auto-iii.jpg",
+      "screenshots": [
+        {
+          "path": "videos/grand-theft-auto-iii.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-iii.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/grand-theft-auto-iii.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/grand-theft-auto-iii.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "description": "Grand Theft Auto V playable in the browser (PC fan port/remake).",
+      "play_url": "https://web.archive.org/web/20261006055917/https://playgta5.com/",
+      "source_url": "https://recompiledgames.com/gta-5-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/grand-theft-auto-v.jpg",
+      "screenshots": [
+        {
+          "path": "videos/grand-theft-auto-v.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-v.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/grand-theft-auto-v.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/grand-theft-auto-v.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "lego-island",
+      "title": "LEGO Island",
+      "description": "LEGO Island playable in the browser (PC fan port/remake).",
+      "play_url": "https://isle.pizza/",
+      "source_url": "https://recompiledgames.com/lego-island-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/lego-island.jpg",
+      "screenshots": [
+        {
+          "path": "videos/lego-island.jpg",
+          "score": 6,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-lego-island.jpg",
+          "score": 6,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "video_path": "videos/lego-island.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/lego-island.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-1-8-8-eaglercraftx",
+      "title": "Minecraft 1.8.8 (EaglercraftX)",
+      "description": "Minecraft 1.8.8 (EaglercraftX) playable in the browser (PC fan port/remake).",
+      "play_url": "https://wasmarcade.com/minecraft",
+      "source_url": "https://recompiledgames.com/minecraft-1-8-8-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/minecraft-1-8-8-eaglercraftx.jpg",
+      "screenshots": [
+        {
+          "path": "videos/minecraft-1-8-8-eaglercraftx.jpg",
+          "score": 8,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-minecraft-1-8-8-eaglercraftx.jpg",
+          "score": 8,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5.",
+      "video_path": "videos/minecraft-1-8-8-eaglercraftx.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/minecraft-1-8-8-eaglercraftx.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "nacht-der-untoten",
+      "title": "Nacht der Untoten",
+      "description": "Nacht der Untoten playable in the browser (PC fan port/remake).",
+      "play_url": "https://zombies.bitcoinsapi.com/",
+      "source_url": "https://recompiledgames.com/nacht-der-untoten-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/nacht-der-untoten.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nacht-der-untoten.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-nacht-der-untoten.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/nacht-der-untoten.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/nacht-der-untoten.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "runescape-classic",
+      "title": "RuneScape Classic",
+      "description": "RuneScape Classic playable in the browser (PC fan port/remake).",
+      "play_url": "https://runescapeclassic.gold/",
+      "source_url": "https://recompiledgames.com/runescape-classic-recompiled/",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/runescape-classic.jpg",
+      "screenshots": [
+        {
+          "path": "videos/runescape-classic.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-runescape-classic.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "video_path": "videos/runescape-classic.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/runescape-classic.mp4",
+          "source": "youtube"
+        }
+      ]
+    },
+    {
+      "id": "super-mario-zombies",
+      "title": "Super Mario Zombies",
+      "description": "Super Mario Zombies playable in the browser (PC fan port/remake).",
+      "play_url": "https://smz.fun/",
+      "source_url": "https://x.com/0xRishi/status/2108274463922069954",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "corp-same-origin",
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/super-mario-zombies.jpg",
+      "screenshots": [
+        {
+          "path": "videos/super-mario-zombies.jpg",
+          "score": 10,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-zombies.jpg",
+          "score": 10,
+          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+        }
+      ],
+      "screenshot_score": 10,
+      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "x_handle": "0xRishi",
+      "author_source": "https://smz.fun/",
+      "remote_likes": 2211,
+      "likes_source": "x",
+      "comment_count": 50,
+      "video_path": "videos/super-mario-zombies.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/super-mario-zombies.mp4",
+          "source": "youtube"
+        }
+      ]
     }
   ],
   "totals": {
