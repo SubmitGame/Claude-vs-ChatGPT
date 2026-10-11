@@ -15966,14 +15966,56 @@
           "source": "youtube"
         }
       ]
+    },
+    {
+      "id": "taipei-rush",
+      "title": "Taipei Rush (臺北狂飆)",
+      "description": "Viral vibe-coded open-world GTA-style game set in Taipei (formerly 'Taipei GTA'): walk the city, ride scooters, drive cars and take missions in the browser; creator claims 1.2M players.",
+      "play_url": "https://www.taipei-rush.app/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x2f26u/a_vibecoded_gta_clone_of_taipei_drew_12_million/",
+      "found_via": "r/aigamedev 'A vibe-coded GTA clone of Taipei drew 1.2 million players' (u/ross2000)",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "open-world",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 150,
+      "likes_source": "reddit",
+      "comment_count": 71,
+      "author": "ross2000",
+      "author_source": "https://www.reddit.com/user/ross2000/",
+      "first_seen": "2026-10-11T04:00:00.000Z",
+      "last_seen": "2026-10-11T04:00:00.000Z",
+      "video_path": "videos/taipei-rush.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/heynavtoor/status/2107785334386045346",
+      "videos": [
+        {
+          "path": "videos/taipei-rush.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/taipei-rush.jpg",
+      "screenshots": [
+        {
+          "path": "videos/taipei-rush.jpg",
+          "score": 9.5,
+          "notes": "Set to 9.5 by Igor (curator pick). Media: poster from creator-shared gameplay clip (@heynavtoor on X) — third-person walk through sunlit Taipei streets with scooters, yellow taxi, minimap and Mandarin quest HUD; crisp, polished low-poly city."
+        }
+      ],
+      "screenshot_score": 9.5,
+      "screenshot_score_notes": "Set to 9.5 by Igor (curator pick). Media: poster from creator-shared gameplay clip (@heynavtoor on X) — third-person walk through sunlit Taipei streets with scooters, yellow taxi, minimap and Mandarin quest HUD; crisp, polished low-poly city."
     }
   ],
   "totals": {
-    "games": 517,
+    "games": 527,
     "by_made_with": {
       "opus-5.5": 347,
       "astra": 94,
-      "unknown": 54,
+      "unknown": 64,
       "sonnet-5.5": 18,
       "uncertain": 4
     }
