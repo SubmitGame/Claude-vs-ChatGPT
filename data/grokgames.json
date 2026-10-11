@@ -12014,45 +12014,6 @@
       "screenshot_score_notes": "Trailer of floating-island creature combat; colorful co-op vibes, a little busy."
     },
     {
-      "id": "cod-web-collection",
-      "title": "Call of Duty: The Web Collection",
-      "description": "Fan-made browser ports of Moon, Kino, Nuketown, Hijacked and Cheese Cube under one link. Built with Opus 5.5 and GPT Astra (luckeyfaraday).",
-      "play_url": "https://cod-webports.pages.dev/",
-      "source_url": "https://x.com/luckeyfaraday/status/2108364242038710533",
-      "found_via": "X @luckeyfaraday Opus 5.5 + Astra CoD web ports",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "made_with_note": "Credits Opus 5.5 and GPT Astra.",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "shooter",
-      "platforms": [
-        "desktop"
-      ],
-      "remote_likes": 364,
-      "likes_source": "x",
-      "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
-      "video_path": "videos/cod-web-collection.mp4",
-      "video_source": "x",
-      "videos": [
-        {
-          "path": "videos/cod-web-collection.mp4",
-          "source": "x"
-        }
-      ],
-      "screenshot_path": "videos/cod-web-collection.jpg",
-      "screenshots": [
-        {
-          "path": "videos/cod-web-collection.jpg",
-          "score": 6,
-          "notes": "Black Ops-style map select for Kino der Toten with orange accents; polished menu, no in-match view."
-        }
-      ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Black Ops-style map select for Kino der Toten with orange accents; polished menu, no in-match view."
-    },
-    {
       "id": "doorstep",
       "title": "Doorstep",
       "description": "Tower defence you can play with any postcode / address, built with Opus 5.5 (goalmine.games).",
@@ -13122,11 +13083,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/quake-iii-arena.jpg",
           "score": 8,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+          "notes": "Classic Q3 arena frame: sunlit gothic architecture, rocket launcher, HUD; sharp and instantly readable."
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5.",
+      "screenshot_score_notes": "Classic Q3 arena frame: sunlit gothic architecture, rocket launcher, HUD; sharp and instantly readable.",
       "original_video_url": "https://www.youtube.com/watch?v=de7PNFRHNts",
       "video_path": "videos/quake-iii-arena.mp4",
       "video_source": "youtube",
@@ -13173,11 +13134,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-call-of-duty-black-ops-zombies.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "Dark first-person pistol shot in a gloomy corridor; atmospheric but murky."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Dark first-person pistol shot in a gloomy corridor; atmospheric but murky.",
       "video_path": "videos/call-of-duty-black-ops-zombies.mp4",
       "video_source": "youtube",
       "videos": [
@@ -13238,11 +13199,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-call-of-duty-modern-warfare-2.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "Sepia promo-style soldier and helicopter art rather than a clear gameplay frame."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Sepia promo-style soldier and helicopter art rather than a clear gameplay frame.",
       "video_path": "videos/call-of-duty-modern-warfare-2.mp4",
       "video_source": "youtube",
       "videos": [
@@ -13282,12 +13243,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-generals-zero-hour.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 3.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3.0,
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "author": "Origami",
       "github_user": "origami-ltd",
       "author_source": "https://generals.wasm.ltd",
@@ -13333,12 +13294,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-command-conquer-red-alert-2.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 4,
+          "notes": "Chrono Divide title logo over a blurred map; no gameplay shown."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Chrono Divide title logo over a blurred map; no gameplay shown.",
       "video_path": "videos/command-conquer-red-alert-2.mp4",
       "video_source": "youtube",
       "videos": [
@@ -13380,12 +13341,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-1-6.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 7,
+          "notes": "Recognisable Dust-style CS 1.6 frame with two soldiers; clear, dated low-poly look."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Recognisable Dust-style CS 1.6 frame with two soldiers; clear, dated low-poly look.",
       "video_path": "videos/counter-strike-1-6.mp4",
       "video_source": "youtube",
       "videos": [
@@ -13427,12 +13388,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 4,
+          "notes": "Site landing card with text and a play button over a faint map; no gameplay frame."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Site landing card with text and a play button over a faint map; no gameplay frame.",
       "video_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.mp4",
       "video_source": "youtube",
       "videos": [
@@ -13472,12 +13433,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-team-racing-turbocharged.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 3.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3.0,
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "CameronRedmore",
       "author_source": "https://ctr.cmzi.uk/",
       "remote_likes": 89,
@@ -13528,12 +13489,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-diablo.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 7,
+          "notes": "Isometric Diablo hellscape with lava and full classic HUD; clear and iconic."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Isometric Diablo hellscape with lava and full classic HUD; clear and iconic.",
       "author": "RiV",
       "github_user": "d07RiV",
       "author_source": "https://recompiledgames.com/diablo-recompiled/",
@@ -13578,12 +13539,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-doom-multiplayer-silent-space-marine.jpg",
-          "score": 8,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+          "score": 3,
+          "notes": "EDGE logo card \"Doom Multiplayer on Cloudflare Workers\"; no gameplay."
         }
       ],
-      "screenshot_score": 8,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "EDGE logo card \"Doom Multiplayer on Cloudflare Workers\"; no gameplay.",
       "author": "Cloudflare",
       "github_user": "cloudflare",
       "author_source": "https://recompiledgames.com/doom-multiplayer-recompiled/",
@@ -13629,12 +13590,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-golden-sun-recompilation.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 3.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3.0,
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "Shmargus",
       "author_source": "https://shmargus.github.io/GSRecomp/",
       "remote_likes": 33,
@@ -13686,12 +13647,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-vice-city.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 2.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
       "screenshot_score": 2.0,
-      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "joncodeofficial",
       "author_source": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
       "remote_likes": 41,
@@ -13736,12 +13697,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-pixelsuft.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 7,
+          "notes": "Half-Life combat frame with shotgun, blood and HUD; readable action."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Half-Life combat frame with shotgun, blood and HUD; readable action.",
       "github_user": "Pixelsuft",
       "author_source": "https://pixelsuft.github.io/hl/",
       "remote_likes": 116,
@@ -13785,12 +13746,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-half-life-and-counter-strike-1-6-webxash.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 7,
+          "notes": "CS 1.6 Dust-style frame with two soldiers; clear but dated."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "CS 1.6 Dust-style frame with two soldiers; clear but dated.",
       "github_user": "x8BitRain",
       "author_source": "https://x8bitrain.github.io/webXash/",
       "remote_likes": 156,
@@ -13835,12 +13796,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-halo-combat-evolved-mobile-hcemobile.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 2.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
       "screenshot_score": 2.0,
-      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "x_handle": "BanTrev",
       "author_source": "https://hcemobile.com/",
       "video_path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
@@ -13883,11 +13844,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-netquake-io.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "Bright Quake-style castle courtyard with chaingun; clean but empty, no action."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Bright Quake-style castle courtyard with chaingun; clean but empty, no action.",
       "video_path": "videos/netquake-io.mp4",
       "video_source": "youtube",
       "videos": [
@@ -13927,11 +13888,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-pro-evolution-soccer-6.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "Broadcast-view PES6 match with HUD and minimap; clear, small players."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Broadcast-view PES6 match with HUD and minimap; clear, small players.",
       "author": "OptiProjects",
       "author_source": "https://recompiledgames.com/pro-evolution-soccer-6-recompiled/",
       "video_path": "videos/pro-evolution-soccer-6.mp4",
@@ -13972,12 +13933,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-ii.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 5,
+          "notes": "Dim moody skybox over a dark fortress; little readable gameplay."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Dim moody skybox over a dark fortress; little readable gameplay.",
       "x_handle": "levelsio",
       "author_source": "https://recompiledgames.com/quake-ii-recompiled/",
       "video_path": "videos/quake-ii.mp4",
@@ -14018,12 +13979,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quake-iii-arena-q3-pieter-com.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 7,
+          "notes": "Mid-fight Q3 frame with explosion and gibs; action-packed but cluttered."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Mid-fight Q3 frame with explosion and gibs; action-packed but cluttered.",
       "x_handle": "lukathedev",
       "author_source": "https://q3.pieter.com",
       "video_path": "videos/quake-iii-arena-q3-pieter-com.mp4",
@@ -14065,11 +14026,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-quakeworld.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "Bright castle courtyard with chaingun (same view as NetQuake); clean, no action."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Bright castle courtyard with chaingun (same view as NetQuake); clean, no action.",
       "x_handle": "levelsio",
       "author_source": "https://recompiledgames.com/quakeworld-recompiled/",
       "video_path": "videos/quakeworld.mp4",
@@ -14111,12 +14072,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-ratchet-clank-pc-port.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 3.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3.0,
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "re-rac",
       "author_source": "https://re-rac.github.io/",
       "remote_likes": 26,
@@ -14168,11 +14129,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-return-to-castle-wolfenstein.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "RTCW explosion with enemy soldier in a dim room; dramatic but dark."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "RTCW explosion with enemy soldier in a dim room; dramatic but dark.",
       "x_handle": "levelsio",
       "author_source": "https://recompiledgames.com/return-to-castle-wolfenstein-recompiled/",
       "video_path": "videos/return-to-castle-wolfenstein.mp4",
@@ -14214,12 +14175,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-skate-3.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 2.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
       "screenshot_score": 2.0,
-      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "video_path": "videos/skate-3.mp4",
       "video_source": "youtube",
       "videos": [
@@ -14260,12 +14221,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-fox-adventures.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 3.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3.0,
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "JackPriceBurns",
       "author_source": "https://foxhollow.dev/",
       "remote_likes": 61,
@@ -14318,12 +14279,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-star-wars-jedi-knight-jedi-academy.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 2.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
       "screenshot_score": 2.0,
-      "screenshot_score_notes": "Capped at 2.0/3 (was 6): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "x_handle": "lukathedev",
       "github_user": "lklacar",
       "author_source": "https://jk.q3js.com",
@@ -14366,12 +14327,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-64-multiplayer.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 7,
+          "notes": "Mario outside Peach's castle on green grass; iconic, clean, simple."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Mario outside Peach's castle on green grass; iconic, clean, simple.",
       "x_handle": "olivers_tools",
       "author_source": "https://x.com/olivers_tools/status/2107937496634126643",
       "video_path": "videos/super-mario-64-multiplayer.mp4",
@@ -14412,12 +14373,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-the-simpsons-hit-run.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 8,
+          "notes": "Homer's pink sedan in Springfield with full HUD; colourful, clear, instantly recognisable."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Homer's pink sedan in Springfield with full HUD; colourful, clear, instantly recognisable.",
       "author": "calebj0seph",
       "author_source": "https://recompiledgames.com/the-simpsons-hit-and-run-recompiled/",
       "remote_likes": 1,
@@ -14461,12 +14422,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-urban-terror-listed-as-unreal-tournament.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 6,
+          "notes": "Casa map arches view with a text banner across the bottom; nice but static."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Casa map arches view with a text banner across the bottom; nice but static.",
       "video_path": "videos/urban-terror-listed-as-unreal-tournament.mp4",
       "video_source": "youtube",
       "videos": [
@@ -14506,12 +14467,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-virtua-fighter-arcade-recompilation.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 3.0,
+          "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Capped at 3/3 (was 10): player must load their own game files (Igor's rule). Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 3.0,
+      "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "mr-finster",
       "author_source": "https://vf1-recomp.pages.dev/",
       "remote_likes": 0,
@@ -14563,12 +14524,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 4,
+          "notes": "WAD Commander site banner; no in-game frame."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "WAD Commander site banner; no in-game frame.",
       "x_handle": "level0x40",
       "author_source": "https://wadcmd.com/",
       "video_path": "videos/wadcmd-doom-in-the-browser.mp4",
@@ -14576,94 +14537,6 @@
       "videos": [
         {
           "path": "videos/wadcmd-doom-in-the-browser.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false
-    },
-    {
-      "id": "warzone-2100-web-edition",
-      "title": "Warzone 2100 (Web Edition)",
-      "description": "Warzone 2100 (Web Edition) running in the browser (PC decomp/port).",
-      "play_url": "https://wz2100.net/news/warzone-2100-web-edition/",
-      "source_url": "https://recompiledgames.com/warzone-2100-web-edition-recompiled/",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": true,
-      "iframe_block_reason": null,
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/warzone-2100-web-edition.jpg",
-      "screenshots": [
-        {
-          "path": "videos/warzone-2100-web-edition.jpg",
-          "score": 10,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-warzone-2100-web-edition.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
-        }
-      ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
-      "video_path": "videos/warzone-2100-web-edition.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/warzone-2100-web-edition.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false
-    },
-    {
-      "id": "wasm-arcade-gta-minecraft-web-ports",
-      "title": "WASM Arcade (GTA / Minecraft web ports)",
-      "description": "WASM Arcade (GTA / Minecraft web ports) running in the browser (PC decomp/port).",
-      "play_url": "https://wasmarcade.com/",
-      "source_url": "https://wasmarcade.com",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": false,
-      "iframe_block_reason": "x-frame-options-sameorigin",
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/wasm-arcade-gta-minecraft-web-ports.jpg",
-      "screenshots": [
-        {
-          "path": "videos/wasm-arcade-gta-minecraft-web-ports.jpg",
-          "score": 10,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wasm-arcade-gta-minecraft-web-ports.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
-        }
-      ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
-      "video_path": "videos/wasm-arcade-gta-minecraft-web-ports.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/wasm-arcade-gta-minecraft-web-ports.mp4",
           "source": "youtube"
         }
       ],
@@ -14894,11 +14767,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-cheese-cube-black-ops-iii-custom-map.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "Bright cheese-themed zombies map with wonder weapon and HUD; busy but fun."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "Bright cheese-themed zombies map with wonder weapon and HUD; busy but fun.",
       "video_path": "videos/cheese-cube-black-ops-iii-custom-map.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15382,12 +15255,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-crash-bash-online.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 5,
+          "notes": "Crash Bash Online logo/title art over a temple scene; no gameplay."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Crash Bash Online logo/title art over a temple scene; no gameplay.",
       "x_handle": "crashbashapp",
       "author_source": "https://crashbash.app/",
       "remote_likes": 415,
@@ -15431,12 +15304,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-fortnite-og-fortniteog-lol.jpg",
-          "score": 4,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 2/5."
+          "score": 5,
+          "notes": "Fan key art with \"OG Battle Royale\" logo; polished but not gameplay."
         }
       ],
-      "screenshot_score": 4,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 2/5.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Fan key art with \"OG Battle Royale\" logo; polished but not gameplay.",
       "x_handle": "omonkeyzz",
       "author_source": "https://x.com/omonkeyzz/status/2108486163497402475",
       "remote_likes": 264,
@@ -15503,12 +15376,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-iii.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 7,
+          "notes": "Claude with a gun among Liberty City towers; clear character shot."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Claude with a gun among Liberty City towers; clear character shot.",
       "video_path": "videos/grand-theft-auto-iii.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15548,11 +15421,11 @@
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-grand-theft-auto-v.jpg",
           "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "notes": "GTA Online promo-style flying-DeLorean frame; striking but not representative gameplay."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score_notes": "GTA Online promo-style flying-DeLorean frame; striking but not representative gameplay.",
       "video_path": "videos/grand-theft-auto-v.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15591,12 +15464,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-lego-island.jpg",
-          "score": 6,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 3/5."
+          "score": 3,
+          "notes": "LEGO Island start menu on black; no gameplay."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 3/5.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "LEGO Island start menu on black; no gameplay.",
       "video_path": "videos/lego-island.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15635,12 +15508,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-minecraft-1-8-8-eaglercraftx.jpg",
-          "score": 8,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 4/5."
+          "score": 4,
+          "notes": "Minecraft title menu over blurred world; no gameplay."
         }
       ],
-      "screenshot_score": 8,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 4/5.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Minecraft title menu over blurred world; no gameplay.",
       "video_path": "videos/minecraft-1-8-8-eaglercraftx.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15679,12 +15552,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-nacht-der-untoten.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 6,
+          "notes": "Landing hero with title text over a dark zombie scene; moody, partly a menu."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Landing hero with title text over a dark zombie scene; moody, partly a menu.",
       "video_path": "videos/nacht-der-untoten.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15723,12 +15596,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-runescape-classic.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 4,
+          "notes": "Website landing page with sign-in buttons over a classic map render."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Website landing page with sign-in buttons over a classic map render.",
       "video_path": "videos/runescape-classic.mp4",
       "video_source": "youtube",
       "videos": [
@@ -15767,12 +15640,12 @@
         },
         {
           "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-super-mario-zombies.jpg",
-          "score": 10,
-          "notes": "Scaled from awesome-decomp-games screenshot_score 5/5."
+          "score": 5,
+          "notes": "Map-select menu with Mario characters thumbnail; menu, not gameplay."
         }
       ],
-      "screenshot_score": 10,
-      "screenshot_score_notes": "Scaled from awesome-decomp-games screenshot_score 5/5.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Map-select menu with Mario characters thumbnail; menu, not gameplay.",
       "x_handle": "0xRishi",
       "author_source": "https://smz.fun/",
       "remote_likes": 2211,
@@ -15962,11 +15835,11 @@
     }
   ],
   "totals": {
-    "games": 521,
+    "games": 518,
     "by_made_with": {
-      "opus-5.5": 341,
+      "opus-5.5": 340,
       "astra": 94,
-      "unknown": 64,
+      "unknown": 62,
       "sonnet-5.5": 18,
       "uncertain": 4
     }
