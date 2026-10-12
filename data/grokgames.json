@@ -125,7 +125,16 @@
       "likes_source": "x",
       "comment_count": 1,
       "x_handle": "18reuchagas",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "18reuchagas",
+          "text": "https://t.co/34vTRAh0Qd",
+          "likes": 0,
+          "url": "https://x.com/18reuchagas/status/2103143122196992121",
+          "created_at": "2026-09-24T15:22:49Z"
+        }
+      ]
     },
     {
       "id": "inkwave",
@@ -928,7 +937,30 @@
       "likes_source": "x",
       "likes_source_url": "https://x.com/i/status/2104451132001276348",
       "comment_count": 2,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "hunchcapital",
+          "text": "Definitely not for mobile as a flag.",
+          "likes": 3,
+          "url": "https://x.com/hunchcapital/status/2104451404882747410",
+          "created_at": "2026-09-28T06:01:28Z"
+        },
+        {
+          "author": "markscianna",
+          "text": "@hunchcapital That was fun! Having the up/down controls inverted would feel more natural to me (more like a stick), maybe a toggle for that.",
+          "likes": 1,
+          "url": "https://x.com/markscianna/status/2104455594635854113",
+          "created_at": "2026-09-28T06:18:07Z"
+        },
+        {
+          "author": "hunchcapital",
+          "text": "@markscianna Thank you Mark! There’s a toggle in the opening screen for that. Maybe should have just set it like that.",
+          "likes": 0,
+          "url": "https://x.com/hunchcapital/status/2104458939576512815",
+          "created_at": "2026-09-28T06:31:24Z"
+        }
+      ]
     },
     {
       "id": "sangoku-tojo",
@@ -1637,7 +1669,23 @@
       "likes_source": "x",
       "likes_source_url": "https://x.com/i/status/2104761613433831490",
       "comment_count": 2,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "forthefam365247",
+          "text": "@riccoasi Ok will be jamming this this weekend",
+          "likes": 0,
+          "url": "https://x.com/forthefam365247/status/2105577992223076486",
+          "created_at": "2026-10-01T08:38:07Z"
+        },
+        {
+          "author": "forthefam365247",
+          "text": "@riccoasi Oh wow",
+          "likes": 0,
+          "url": "https://x.com/forthefam365247/status/2105577779400180021",
+          "created_at": "2026-10-01T08:37:17Z"
+        }
+      ]
     },
     {
       "id": "noclipped",
@@ -1997,7 +2045,16 @@
       "likes_source": "x",
       "likes_source_url": "https://x.com/i/status/2104791643107000437",
       "comment_count": 1,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "keylimesoda",
+          "text": "@BennettSchwartz I've been playing it for the last hour or so.  Lots of fun, thank you!",
+          "likes": 1,
+          "url": "https://x.com/keylimesoda/status/2104838184681284096",
+          "created_at": "2026-09-29T07:38:23Z"
+        }
+      ]
     },
     {
       "id": "cropper-seven",
@@ -4524,7 +4581,30 @@
       "last_seen": "2026-09-30T06:49:37.000Z",
       "likes_source_url": "https://x.com/i/status/2105157614355268011",
       "comment_count": 3,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "BattleArenaMan",
+          "text": "@_nilni nice, I'm developing a management game about MOBAs.. :)",
+          "likes": 0,
+          "url": "https://x.com/BattleArenaMan/status/2105930190564032783",
+          "created_at": "2026-10-02T07:57:38Z"
+        },
+        {
+          "author": "MyPC98com",
+          "text": "@_nilni Multiplayer too? How much back-and-forth did getting everyone in sync take?",
+          "likes": 0,
+          "url": "https://x.com/MyPC98com/status/2105379359796191659",
+          "created_at": "2026-09-30T19:28:50Z"
+        },
+        {
+          "author": "_nilni",
+          "text": "Link: https://t.co/mc8uBcqSyp",
+          "likes": 0,
+          "url": "https://x.com/_nilni/status/2105158386404970699",
+          "created_at": "2026-09-30T04:50:45Z"
+        }
+      ]
     },
     {
       "id": "keep-climbing",
@@ -10127,7 +10207,16 @@
       "screenshot_score_notes": "Retro flying car threading a canyon of lit skyscraper windows at dusk; nice sense of scale, slightly soft.",
       "likes_source_url": "https://x.com/i/status/2108490551385624581",
       "comment_count": 1,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "WENERC20",
+          "text": "@k_millionaire_ @bot @claudeai Send it",
+          "likes": 0,
+          "url": "https://x.com/WENERC20/status/2109081302754537800",
+          "created_at": "2026-10-11T00:39:02Z"
+        }
+      ]
     },
     {
       "id": "rally-road-rash",
@@ -12082,7 +12171,30 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Og card: elegant 'Drawdown' serif title on navy beside a blue-and-cream woven diamond pattern; tasteful, no gameplay UI."
+      "screenshot_score_notes": "Og card: elegant 'Drawdown' serif title on navy beside a blue-and-cream woven diamond pattern; tasteful, no gameplay UI.",
+      "comments": [
+        {
+          "author": "Shadow_Rebbe",
+          "text": "@mattgoldenberg neat game, like the idea",
+          "likes": 1,
+          "url": "https://x.com/Shadow_Rebbe/status/2109192215301943669",
+          "created_at": "2026-10-11T07:59:45Z"
+        },
+        {
+          "author": "mattgoldenberg",
+          "text": "drawdown, the puzzle game opus 5.5 made from scratch in 39 hours.\n\nhttps://t.co/K8z3s4GmHp",
+          "likes": 1,
+          "url": "https://x.com/mattgoldenberg/status/2109041299617956160",
+          "created_at": "2026-10-10T22:00:04Z"
+        },
+        {
+          "author": "mattgoldenberg",
+          "text": "btw, my answer to \"does it have taste\" is: mostly not yet, but it's getting there. it does come up with interesting ideas, mechanics, levels, but it also comes up with dumb and useless mechanics and horrible, boring levels.",
+          "likes": 0,
+          "url": "https://x.com/mattgoldenberg/status/2109059320725778865",
+          "created_at": "2026-10-10T23:11:41Z"
+        }
+      ]
     },
     {
       "id": "rive-city",
@@ -15067,7 +15179,30 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Detailed voxel harbour town with boats, docks, NPC name tags, minimap and creature menu bar; colourful and charming."
+      "screenshot_score_notes": "Detailed voxel harbour town with boats, docks, NPC name tags, minimap and creature menu bar; colourful and charming.",
+      "comments": [
+        {
+          "author": "CRTkafa",
+          "text": "@AlexSaliDev @threejs @claudeai 🤘",
+          "likes": 0,
+          "url": "https://x.com/CRTkafa/status/2109240042694803865",
+          "created_at": "2026-10-11T11:09:48Z"
+        },
+        {
+          "author": "missykrayz",
+          "text": "@AlexSaliDev @threejs @claudeai Amazing job what a workflow? Vox",
+          "likes": 0,
+          "url": "https://x.com/missykrayz/status/2109163751006249296",
+          "created_at": "2026-10-11T06:06:39Z"
+        },
+        {
+          "author": "AlexSaliDev",
+          "text": "Try here &gt; https://t.co/e3uC5PQgk8",
+          "likes": 0,
+          "url": "https://x.com/AlexSaliDev/status/2109162576286261385",
+          "created_at": "2026-10-11T06:01:59Z"
+        }
+      ]
     },
     {
       "id": "sonic-cd-little-planet",
