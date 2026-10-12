@@ -15635,7 +15635,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "rom"
       ],
       "iframe": false,
       "iframe_block_reason": "corp-same-origin",
@@ -15657,8 +15658,8 @@
           "notes": "Map-select menu with Mario characters thumbnail; menu, not gameplay."
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Map-select menu with Mario characters thumbnail; menu, not gameplay.",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Capped at 3/3 (was 5): player must own/load Black Ops 1 files (Igor's rule). Map-select menu with Mario characters thumbnail; menu, not gameplay.",
       "x_handle": "0xRishi",
       "author_source": "https://smz.fun/",
       "remote_likes": 2211,
@@ -15672,7 +15673,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": true,
+      "requires_own_files_note": "smz.fun asks you to confirm you own Black Ops 1 before loading"
     },
     {
       "id": "taipei-rush",
