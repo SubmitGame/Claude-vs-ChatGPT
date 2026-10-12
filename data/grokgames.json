@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T04:25:00.000Z",
+  "updated_at": "2026-10-12T02:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -9637,10 +9637,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
+      "remote_likes": 84,
       "likes_source": "reddit",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/aestra-the-last-wish.mp4",
       "video_source": "reddit",
       "videos": [
@@ -9658,7 +9658,11 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Busy top-down pixel-art fight against a wolf pack with health bars, minimap and skill hotbar shows a real MMO loop, though dozens of red bars clutter it."
+      "screenshot_score_notes": "Busy top-down pixel-art fight against a wolf pack with health bars, minimap and skill hotbar shows a real MMO loop, though dozens of red bars clutter it.",
+      "comment_count": 32,
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1wy6rmf/",
+      "author": "Jonesiller5383",
+      "author_source": "https://www.reddit.com/r/aigamedev/comments/1wy6rmf/"
     },
     {
       "id": "patsy",
@@ -10181,7 +10185,7 @@
       "remote_likes": 272,
       "likes_source": "x",
       "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-11T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/heatsink.mp4",
       "video_source": "x",
       "videos": [
@@ -10199,7 +10203,8 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Motion-blurred neon city road with a racer diving through a hex gate sells the speed; the blur makes details hard to read."
+      "screenshot_score_notes": "Motion-blurred neon city road with a racer diving through a hex gate sells the speed; the blur makes details hard to read.",
+      "x_handle": "aniketjart"
     },
     {
       "id": "pokermon",
@@ -10372,10 +10377,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 201,
+      "remote_likes": 203,
       "likes_source": "reddit",
       "first_seen": "2026-10-07T23:30:32.000Z",
-      "last_seen": "2026-10-11T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/stickfrag.mp4",
       "video_source": "reddit",
       "videos": [
@@ -10394,7 +10399,7 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "First-person rifle aimed at a big orange wall under a pastel sky with ammo and timer HUD; clean but the shot is mostly wall.",
-      "comment_count": 116,
+      "comment_count": 121,
       "author": "Alternative_Cow_3674",
       "author_source": "https://www.reddit.com/r/playmygame/comments/1wy7z0c/"
     },
@@ -12107,10 +12112,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
+      "remote_likes": 94,
       "likes_source": "reddit",
       "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/lanterns-of-aldermere.mp4",
       "video_source": "reddit",
       "videos": [
@@ -12128,7 +12133,11 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "HD-2D trailer with pixel heroes in a lit fantasy town; Octopath-like mood."
+      "screenshot_score_notes": "HD-2D trailer with pixel heroes in a lit fantasy town; Octopath-like mood.",
+      "comment_count": 21,
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3f29z/",
+      "author": "EdgarDruin",
+      "author_source": "https://www.reddit.com/r/ClaudeAI/comments/1x3f29z/"
     },
     {
       "id": "grand-total-anarchy",
@@ -12419,10 +12428,10 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 35,
+      "remote_likes": 395,
       "likes_source": "x",
       "first_seen": "2026-10-10T02:00:00.000Z",
-      "last_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/aeloria.mp4",
       "video_source": "x",
       "videos": [
@@ -12440,7 +12449,11 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Pink-sky vista of floating mountains with waterfalls and glowing teal foliage around a huge moon; striking Pandora-like composition."
+      "screenshot_score_notes": "Pink-sky vista of floating mountains with waterfalls and glowing teal foliage around a huge moon; striking Pandora-like composition.",
+      "comment_count": 43,
+      "likes_source_url": "https://x.com/0xRhinoX/status/2108931642542698801",
+      "x_handle": "0xRhinoX",
+      "github_user": "0xRhinoX"
     },
     {
       "id": "poke-defense-magikarp",
@@ -12461,7 +12474,7 @@
       "remote_likes": 0,
       "likes_source": "x",
       "first_seen": "2026-10-10T02:00:00.000Z",
-      "last_seen": "2026-10-11T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/poke-defense-magikarp.mp4",
       "video_source": "x",
       "videos": [
@@ -13034,7 +13047,7 @@
       "remote_likes": 818,
       "likes_source": "x",
       "first_seen": "2026-10-10T02:00:00.000Z",
-      "last_seen": "2026-10-10T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/voxel-rush-frontline.mp4",
       "video_source": "x",
       "videos": [
@@ -15207,7 +15220,7 @@
       "comment_count": 19,
       "x_handle": "pipisonx",
       "first_seen": "2026-10-11T02:00:00.000Z",
-      "last_seen": "2026-10-11T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
       "video_path": "videos/vector-anti-gravity-racing.mp4",
       "video_source": "x",
       "videos": [
@@ -15832,14 +15845,887 @@
           "source": "gameer-preview"
         }
       ]
+    },
+    {
+      "id": "underbloom",
+      "title": "Underbloom",
+      "description": "Top-down action game in a dark, spore-filled underworld, built solo in 8 days for the DreamLayer AI game jam. Code and art 100% AI-made: Unity 6 with Claude Opus 5.5, DreamLayerAI and Magnific (u/Certain_Ad9908, a 12-year game dev).",
+      "play_url": "https://motawe3.itch.io/underbloom",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x36ues/",
+      "found_via": "r/aigamedev Opus 5.5 Unity jam game (u/Certain_Ad9908)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "engine": "Unity",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 228,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x36ues/",
+      "comment_count": 57,
+      "author": "Certain_Ad9908",
+      "author_source": "https://www.reddit.com/r/aigamedev/comments/1x36ues/",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/underbloom.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/underbloom.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/underbloom.jpg",
+      "screenshots": [
+        {
+          "path": "videos/underbloom.jpg",
+          "score": 5,
+          "notes": "Dark starfield arena with a huge purple spore cloud, glowing orbs and a tiny white hero; moody but murky and hard to read."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Dark starfield arena with a huge purple spore cloud, glowing orbs and a tiny white hero; moody but murky and hard to read."
+    },
+    {
+      "id": "worldseed",
+      "title": "Worldseed",
+      "description": "Retro low-poly open-world fantasy adventure in the browser: wander forests, hills, medieval settlements and ancient ruins at your own pace. Fully made by Claude Opus 5.5 (u/niklasdaking).",
+      "play_url": "https://generic-king.itch.io/worldseed",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x341mb/",
+      "found_via": "r/aigamedev Opus 5.5 open-world adventure (u/niklasdaking)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 65,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x341mb/",
+      "comment_count": 27,
+      "author": "niklasdaking",
+      "author_source": "https://www.reddit.com/r/aigamedev/comments/1x341mb/",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/worldseed.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/worldseed.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/worldseed.jpg",
+      "screenshots": [
+        {
+          "path": "videos/worldseed.jpg",
+          "score": 5,
+          "notes": "Blocky voxel villagers around a teepee campfire at night under a 'JOIN ITS FEASTS' caption; charming retro look, dark and trailer-styled."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Blocky voxel villagers around a teepee campfire at night under a 'JOIN ITS FEASTS' caption; charming retro look, dark and trailer-styled."
+    },
+    {
+      "id": "psx-souls",
+      "title": "PSX Souls",
+      "description": "PSX-style souls-like boss rush with 7 bosses (first one inspired by Lies of P's tutorial boss), built by prompting Claude Opus 5.5 in Rust/Bevy; open source (wormsparty).",
+      "play_url": "https://wormsparty.github.io/psx-souls/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x36opj/",
+      "found_via": "r/aigamedev \"PSX souls-like with Opus\" (u/wormsparty5; OP confirms Opus-5.5 in comments)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "engine": "Bevy",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 23,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x36opj/",
+      "comment_count": 12,
+      "author": "wormsparty5",
+      "author_source": "https://www.reddit.com/r/aigamedev/comments/1x36opj/",
+      "github_user": "wormsparty",
+      "github_url": "https://github.com/wormsparty/psx-souls",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/psx-souls.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/psx-souls.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/psx-souls.jpg",
+      "screenshots": [
+        {
+          "path": "videos/psx-souls.jpg",
+          "score": 4,
+          "notes": "Murky low-poly arena with a lantern-like boss hanging overhead, boss bar 'The Great Marionette' and item HUD; authentic PSX feel but very dark."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Murky low-poly arena with a lantern-like boss hanging overhead, boss bar 'The Great Marionette' and item HUD; authentic PSX feel but very dark."
+    },
+    {
+      "id": "grayfall",
+      "title": "GRAYFALL (Demo)",
+      "description": "Co-op pixel-art beat 'em up with procedurally Python-rendered sprites in 3D-lit dungeons; 100% vibe-coded with Claude Opus 5.5. Free Windows demo on itch.io (Godot).",
+      "play_url": "https://guilhermeandradejid-eng.itch.io/grayfall-demo",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz6m0d/",
+      "found_via": "r/aigamedev \"Claude 5.5 Opus is capable of building a full indie game\" (u/Final_Huckleberry408; demo link in OP comment)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "engine": "Godot",
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 285,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1wz6m0d/",
+      "comment_count": 277,
+      "author": "Final_Huckleberry408",
+      "author_source": "https://www.reddit.com/r/aigamedev/comments/1wz6m0d/",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/grayfall.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/grayfall.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/grayfall.jpg",
+      "screenshots": [
+        {
+          "path": "videos/grayfall.jpg",
+          "score": 6,
+          "notes": "Torch-lit purple dungeon hall with a pixel hero mid-spell and a 'DAGNA / ARTIFICER' nameplate; atmospheric, sprites small."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Torch-lit purple dungeon hall with a pixel hero mid-spell and a 'DAGNA / ARTIFICER' nameplate; atmospheric, sprites small.",
+      "browser_playable": false,
+      "download_url": "https://guilhermeandradejid-eng.itch.io/grayfall-demo",
+      "download_platforms": [
+        "windows"
+      ]
+    },
+    {
+      "id": "tidebreaker",
+      "title": "Tidebreaker",
+      "description": "Atmospheric Ori-inspired platformer across a stormy harbour with an epic giant-boss chase; vibe coded with Opus 5.5 (GPT Images 2.5 mockups, Blender + Tripo models, ElevenLabs audio). Hosted on Wavedash (chongdashu).",
+      "play_url": "https://tidebreaker.vercel.app/",
+      "source_url": "https://x.com/chongdashu/status/2109278486015914364",
+      "found_via": "X @chongdashu Opus 5.5 Ori-style platformer",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "platformer",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 155,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/chongdashu/status/2109278486015914364",
+      "comment_count": 17,
+      "x_handle": "chongdashu",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/tidebreaker.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/tidebreaker.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/tidebreaker.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tidebreaker.jpg",
+          "score": 7,
+          "notes": "Rain-lashed night harbour with a wrecked ship and a glowing-eyed sea monster looming over a tiny hero on the pier; dramatic and atmospheric."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Rain-lashed night harbour with a wrecked ship and a glowing-eyed sea monster looming over a tiny hero on the pier; dramatic and atmospheric."
+    },
+    {
+      "id": "dystopia",
+      "title": "DYSTOPIA",
+      "description": "Rain-soaked noir cyber-city you can drive, fly and explore in a WebGPU browser tab: patrol in the SABLE spinner, launch the KITE drone to scan cars, robots and buildings across a 4 km procedural city with live interiors. three.js r186 + Rapier, made with Claude Opus 5.5 (cryptomanavan).",
+      "play_url": "https://dystopia-noir.netlify.app/",
+      "source_url": "https://x.com/cryptomanavan/status/2109107708192284923",
+      "found_via": "X @cryptomanavan Claude Opus 5.5 WebGPU noir city",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "open-world",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 149,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/cryptomanavan/status/2109107708192284923",
+      "comment_count": 18,
+      "x_handle": "cryptomanavan",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/dystopia.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/dystopia.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/dystopia.jpg",
+      "screenshots": [
+        {
+          "path": "videos/dystopia.jpg",
+          "score": 7,
+          "notes": "Flying spinner streaking between neon skyscrapers with searchlight beams through the rain; cinematic Blade Runner mood, dark and motion-blurred."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Flying spinner streaking between neon skyscrapers with searchlight beams through the rain; cinematic Blade Runner mood, dark and motion-blurred."
+    },
+    {
+      "id": "frontier-habitat",
+      "title": "Frontier Habitat",
+      "description": "Planetbase-style colony management game on a dusty orange world: build linked domes, power, food and research, manage colonists and vehicles. Vibe coded over four weekends with Claude Opus 5.5; Godot 4.4 web build, open source (PaulJBarby).",
+      "play_url": "https://paulbarby.github.io/frontier-habitat/",
+      "source_url": "https://x.com/PaulJBarby/status/2109130115066331489",
+      "found_via": "X @PaulJBarby Opus 5.5 colony sim (reply to @MatthewBerman)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Godot",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 11,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/PaulJBarby/status/2109130115066331489",
+      "comment_count": 0,
+      "x_handle": "PaulJBarby",
+      "github_user": "paulbarby",
+      "github_url": "https://github.com/paulbarby/frontier-habitat",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/396-frontier-habitat.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/396-frontier-habitat.jpg",
+          "score": 7,
+          "notes": "Repo screenshot: domed colony linked by tubes on orange Martian ground with a full management HUD, goals panel and minimap; detailed and readable."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Repo screenshot: domed colony linked by tubes on orange Martian ground with a full management HUD, goals panel and minimap; detailed and readable."
+    },
+    {
+      "id": "hot-dog-please",
+      "title": "Hot Dog Please!",
+      "description": "Run your own hot dog stand: serve customers, upgrade your truck and grow a hot dog empire across Istanbul districts. Web version built with Claude Opus 5.5; iOS/Android coming (efeislekel).",
+      "play_url": "https://hotdogplease.anemoncreative.com/",
+      "source_url": "https://x.com/efeislekel/status/2109316378394046970",
+      "found_via": "X @efeislekel Opus 5.5 hot dog tycoon",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "simulation",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/efeislekel/status/2109316378394046970",
+      "comment_count": 0,
+      "x_handle": "efeislekel",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/397-hot-dog-please.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/397-hot-dog-please.jpg",
+          "score": 6,
+          "notes": "Portrait title screen: glossy 'Hot Dog Please!' logo over a cartoon hot dog truck on an Istanbul waterfront, stand-name form and Play button; polished art, no gameplay."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Portrait title screen: glossy 'Hot Dog Please!' logo over a cartoon hot dog truck on an Istanbul waterfront, stand-name form and Play button; polished art, no gameplay."
+    },
+    {
+      "id": "snakes-snake-artillery",
+      "title": "SNAKES",
+      "description": "Turn-based Worms-style snake artillery in the browser: sheep rain, holy eggs and a CPU that trolls you. Open source; credited 'Snake x Opus 5.5' (wise_snake69420 / snakewizardd).",
+      "play_url": "https://snakewizardd.github.io/snake-worms/",
+      "source_url": "https://x.com/wise_snake69420/status/2109098954826633305",
+      "found_via": "X @wise_snake69420 Opus 5.5 Worms-style artillery",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/wise_snake69420/status/2109098954826633305",
+      "comment_count": 0,
+      "x_handle": "wise_snake69420",
+      "github_user": "snakewizardd",
+      "github_url": "https://github.com/snakewizardd/snake-worms",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/398-snakes-snake-artillery.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/398-snakes-snake-artillery.jpg",
+          "score": 6,
+          "notes": "Pixel Worms-style island under a purple dusk sky with sheep raining down, two snakes with HP tags and team bars; clear and fun."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Pixel Worms-style island under a purple dusk sky with sheep raining down, two snakes with HP tags and team bars; clear and fun."
+    },
+    {
+      "id": "sky-chariot",
+      "title": "Sky Chariot",
+      "description": "Race a chariot along stone causeways between misty floating islands and temples in the browser; built with Opus 5.5 at extra effort (deeprajO1).",
+      "play_url": "https://sky-chariot.vercel.app/",
+      "source_url": "https://x.com/deeprajO1/status/2109282903658270829",
+      "found_via": "X @deeprajO1 Opus 5.5 chariot game",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/deeprajO1/status/2109282903658270829",
+      "comment_count": 0,
+      "x_handle": "deeprajO1",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/sky-chariot.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/sky-chariot.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/sky-chariot.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sky-chariot.jpg",
+          "score": 6,
+          "notes": "Red chariot on a long stone bridge toward a stepped temple among misty floating islands, speed and progress HUD; pleasant, a bit flat."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Red chariot on a long stone bridge toward a stepped temple among misty floating islands, speed and progress HUD; pleasant, a bit flat."
+    },
+    {
+      "id": "slipper-escape",
+      "title": "Slipper Escape",
+      "description": "Clean the house for pocket money without breaking anything or running indoors, buy the gate key and escape Mum's slipper. Free browser game made with Opus 5.5 (Vinway7 / VCDW Studio).",
+      "play_url": "https://vcdw-studio.itch.io/slipper-escape",
+      "source_url": "https://x.com/Vinway7/status/2109217595845185683",
+      "found_via": "X @Vinway7 Opus 5.5 slipper escape",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/Vinway7/status/2109217595845185683",
+      "comment_count": 0,
+      "x_handle": "Vinway7",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/slipper-escape.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/slipper-escape.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/slipper-escape.jpg",
+      "screenshots": [
+        {
+          "path": "videos/slipper-escape.jpg",
+          "score": 4,
+          "notes": "First-person low-poly kitchen with chairs, plates and a doormat, motion-blurred mid-turn; simple and soft."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "First-person low-poly kitchen with chairs, plates and a doormat, motion-blurred mid-turn; simple and soft."
+    },
+    {
+      "id": "star-outpost-command",
+      "title": "Star Outpost Command",
+      "description": "Browser space-outpost command game with guest quick play; built with GPT-6 Astra and GPT-6.1 Sol (JudiciousBlaze). Link is the creator's staging build.",
+      "play_url": "https://staging.staroutpost.com/",
+      "source_url": "https://x.com/JudiciousBlaze/status/2109139190801748011",
+      "found_via": "X @JudiciousBlaze reply: game built by GPT-6 Astra and 6.1 Sol",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "made_with_note": "post credits GPT-6 Astra and GPT-6.1 Sol",
+      "engine": "React",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/JudiciousBlaze/status/2109139190801748011",
+      "comment_count": 0,
+      "x_handle": "JudiciousBlaze",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/399-star-outpost-command.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/399-star-outpost-command.jpg",
+          "score": 2,
+          "notes": "Only the dark 'Commander Authentication' login card (guest or Google sign-in) on a black page; no gameplay visible."
+        }
+      ],
+      "screenshot_score": 2,
+      "screenshot_score_notes": "Only the dark 'Commander Authentication' login card (guest or Google sign-in) on a black page; no gameplay visible."
+    },
+    {
+      "id": "san-theft-auto",
+      "title": "San Theft Auto",
+      "description": "Multiplayer, open-source racing game set in San Francisco: pick a driver, share a room and race friends over the hills. Creator spent 950M tokens having GPT 6 map the city in Blender (NaderLikeLadder).",
+      "play_url": "https://santheftauto.com/",
+      "source_url": "https://x.com/NaderLikeLadder/status/2108984108722655466",
+      "found_via": "X bookmark @friuns2 → @NaderLikeLadder San Theft Auto",
+      "found_via_network": "x",
+      "made_with": "astra",
+      "made_with_note": "post says 'GPT 6' (mapped to GPT-6 Astra)",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 343,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/NaderLikeLadder/status/2108984108722655466",
+      "comment_count": 56,
+      "x_handle": "NaderLikeLadder",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/san-theft-auto.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/san-theft-auto.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/san-theft-auto.jpg",
+      "screenshots": [
+        {
+          "path": "videos/san-theft-auto.jpg",
+          "score": 6,
+          "notes": "Teal roadster driving down a sunny Union Square street with lap timer, turn prompt, minimap and speedometer; clean but flat-lit."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Teal roadster driving down a sunny Union Square street with lap timer, turn prompt, minimap and speedometer; clean but flat-lit."
+    },
+    {
+      "id": "aimflare",
+      "title": "Aimflare",
+      "description": "Browser aim trainer / shooting range in the style of Valorant and CS 1.6, rendered in three.js (r9nxn). No AI model named.",
+      "play_url": "https://aimflare.com.br/",
+      "source_url": "https://x.com/r9nxn/status/2109012510049522164",
+      "found_via": "X bookmark @friuns2 → @r9nxn \"Valorant 1.6\"",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 350,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/r9nxn/status/2109012510049522164",
+      "comment_count": 14,
+      "x_handle": "r9nxn",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/aimflare.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/aimflare.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/aimflare.jpg",
+      "screenshots": [
+        {
+          "path": "videos/aimflare.jpg",
+          "score": 5,
+          "notes": "First-person rifle beside a stone wall in a sunny courtyard map with ammo HUD; clean CS-like look, plain textures."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "First-person rifle beside a stone wall in a sunny courtyard map with ammo HUD; clean CS-like look, plain textures."
+    },
+    {
+      "id": "midnight-apex",
+      "title": "MIDNIGHT APEX",
+      "description": "Rain-soaked neon night street race: drive a mid-engine supercar against four AI rivals over 3 laps of a 2.9 km downtown circuit with drift, nitrous, slipstream and launch control. 'One prompt to Claude Opus 5.5' in three.js; published on Genex.",
+      "play_url": "https://genex.games/midnight-apex",
+      "source_url": "https://x.com/buzzybats/status/2108195714081738990",
+      "found_via": "X bookmark @friuns2 → @threejs repost (128 likes) of @buzzybats Opus 5.5 clip",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Genex",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-none",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 14,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/buzzybats/status/2108195714081738990",
+      "comment_count": 3,
+      "x_handle": "buzzybats",
+      "author": "John Travolte",
+      "author_source": "https://genex.games/u/Gab3GLs4ndGbXE40zDPcl2GNz424dXUS",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/midnight-apex.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/midnight-apex.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/midnight-apex.jpg",
+      "screenshots": [
+        {
+          "path": "videos/midnight-apex.jpg",
+          "score": 7,
+          "notes": "Blue supercar racing through a neon-lit wet downtown at night with position, lap and speedometer HUD; polished and atmospheric."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Blue supercar racing through a neon-lit wet downtown at night with position, lap and speedometer HUD; polished and atmospheric."
+    },
+    {
+      "id": "slap-summit",
+      "title": "Slap Summit",
+      "description": "Slap fifteen cartoon parody dignitaries until their dignity hits zero: unlock weapons from a flip-flop to a baguette by slap count, three modes, leaderboard and 14 trophies. Built with Opus 5.5 (0xbalzzam).",
+      "play_url": "https://slap-summit.onrender.com/",
+      "source_url": "https://x.com/0xbalzzam/status/2109352415992455375",
+      "found_via": "X @0xbalzzam Opus 5.5 Slap Summit",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 4,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/0xbalzzam/status/2109352415992455375",
+      "comment_count": 2,
+      "x_handle": "0xbalzzam",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/slap-summit.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/slap-summit.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/slap-summit.jpg",
+      "screenshots": [
+        {
+          "path": "videos/slap-summit.jpg",
+          "score": 5,
+          "notes": "Flat cartoon parody leader getting smacked with a baguette ('CRUNCH!') above a weapon bar and dignity meter; clean and funny, simple."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Flat cartoon parody leader getting smacked with a baguette ('CRUNCH!') above a weapon bar and dignity meter; clean and funny, simple."
+    },
+    {
+      "id": "voxemon",
+      "title": "VOXEMON",
+      "description": "Voxel monster-catching RPG with a story, in the browser: explore a harbour town, catch and battle creatures. One prompt with Opus 5.5 and GPT-6 Astra, three.js (AlexSaliDev; link in reply).",
+      "play_url": "https://voxemon.com/",
+      "source_url": "https://x.com/AlexSaliDev/status/2109162062643372294",
+      "found_via": "X @AlexSaliDev Opus 5.5 & Astra monster-catching RPG (link in reply 2109162576286261385)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "made_with_note": "post credits Opus 5.5 & Astra",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/AlexSaliDev/status/2109162062643372294",
+      "comment_count": 3,
+      "x_handle": "AlexSaliDev",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "video_path": "videos/voxemon.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/voxemon.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/voxemon.jpg",
+      "screenshots": [
+        {
+          "path": "videos/voxemon.jpg",
+          "score": 7,
+          "notes": "Detailed voxel harbour town with boats, docks, NPC name tags, minimap and creature menu bar; colourful and charming."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Detailed voxel harbour town with boats, docks, NPC name tags, minimap and creature menu bar; colourful and charming."
+    },
+    {
+      "id": "jk-snowboard-v2",
+      "title": "JK Snowboard v2",
+      "description": "Browser snowboard game grown with Claude Opus 5.5 from version 22 to 59: new levels, a choice of music, a ghost of your fastest run and a leaderboard (jkagents).",
+      "play_url": "https://jkagents.nl/snowboardgame-v2/",
+      "source_url": "https://x.com/jkagents/status/2109302771576979892",
+      "found_via": "X @jkagents Opus 5.5 snowboard game v2 (play page linked from jkagents.nl article)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 0,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/jkagents/status/2109302771576979892",
+      "comment_count": 0,
+      "x_handle": "jkagents",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/400-jk-snowboard-v2.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/400-jk-snowboard-v2.jpg",
+          "score": 6,
+          "notes": "Bright alpine slope with a snowboarder, chalet, chairlift and speed/score HUD; clean and scenic."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bright alpine slope with a snowboarder, chalet, chairlift and speed/score HUD; clean and scenic."
+    },
+    {
+      "id": "sonic-cd-little-planet",
+      "title": "Little Planet (Sonic CD decomp)",
+      "description": "Native Windows/macOS/Linux port of Sonic CD from a full decompilation by Claude Opus 5.5: high-level Mega-CD runtime (no BIOS), recompiled C, quality-of-life options and true 16:9.",
+      "play_url": "https://github.com/carlosrmz009/littleplanet",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "found_via": "r/ClaudeAI \"Opus 5.5 is INSANE at decompilation / ports\" (u/CarlosGOAT09)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "platformer",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 163,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "comment_count": 80,
+      "author": "CarlosGOAT09",
+      "author_source": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "github_user": "carlosrmz009",
+      "github_url": "https://github.com/carlosrmz009/littleplanet",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/401-sonic-cd-little-planet.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/401-sonic-cd-little-planet.jpg",
+          "score": 3,
+          "notes": "Repo screenshot of Stardust Speedway with score/time/rings HUD; original 16-bit art. Needs your own disc image; capped at 3."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Repo screenshot of Stardust Speedway with score/time/rings HUD; original 16-bit art. Needs your own disc image; capped at 3.",
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Sonic CD disc image (cue/bin, iso, chd...)",
+      "browser_playable": false,
+      "download_url": "https://github.com/carlosrmz009/littleplanet/releases/latest",
+      "download_platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ]
+    },
+    {
+      "id": "star-fox-project-arwing",
+      "title": "Project Arwing (Star Fox decomp)",
+      "description": "Star Fox SNES decomp and native PC port made with Claude Opus 5.5: full disassembly, from-scratch PPU/SuperFX runtime, launcher with HD 3D, CRT filters, controller support and SuperFX overclocking.",
+      "play_url": "https://github.com/carlosrmz009/arwing",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "found_via": "r/ClaudeAI \"Opus 5.5 is INSANE at decompilation / ports\" (u/CarlosGOAT09)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 163,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "comment_count": 80,
+      "author": "CarlosGOAT09",
+      "author_source": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "github_user": "carlosrmz009",
+      "github_url": "https://github.com/carlosrmz009/arwing",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/402-star-fox-project-arwing.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/402-star-fox-project-arwing.jpg",
+          "score": 3,
+          "notes": "Repo screenshot of the attack carrier in HD 3D over an orange sky with shield HUD; crisp flat polygons. Needs your own ROM; capped at 3."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Repo screenshot of the attack carrier in HD 3D over an orange sky with shield HUD; crisp flat polygons. Needs your own ROM; capped at 3.",
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Star Fox (USA) (Rev 2) ROM",
+      "browser_playable": false,
+      "download_url": "https://github.com/carlosrmz009/arwing/releases/latest",
+      "download_platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ]
+    },
+    {
+      "id": "star-fox-2-project-arwing",
+      "title": "Project Arwing 2 (Star Fox 2 decomp)",
+      "description": "Star Fox 2 decomp and native PC port made with Claude Opus 5.5: disassembly, from-scratch SNES/SuperFX runtime and a launcher with HD 3D, CRT filters and controller support.",
+      "play_url": "https://github.com/carlosrmz009/arwing2",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "found_via": "r/ClaudeAI \"Opus 5.5 is INSANE at decompilation / ports\" (u/CarlosGOAT09)",
+      "found_via_network": "reddit",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 163,
+      "likes_source": "reddit",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "comment_count": 80,
+      "author": "CarlosGOAT09",
+      "author_source": "https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/",
+      "github_user": "carlosrmz009",
+      "github_url": "https://github.com/carlosrmz009/arwing2",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/403-star-fox-2-project-arwing.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/403-star-fox-2-project-arwing.jpg",
+          "score": 3,
+          "notes": "Repo screenshot of the Great Fox with the STARFOX logo over a starry sea in HD 3D; clean retro polygons. Needs your own ROM; capped at 3."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Repo screenshot of the Great Fox with the STARFOX logo over a starry sea in HD 3D; clean retro polygons. Needs your own ROM; capped at 3.",
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Star Fox 2 ROM from the SNES Classic/Mini release",
+      "browser_playable": false,
+      "download_url": "https://github.com/carlosrmz009/arwing2/releases/latest",
+      "download_platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ]
     }
   ],
   "totals": {
-    "games": 518,
+    "games": 539,
     "by_made_with": {
-      "opus-5.5": 340,
-      "astra": 94,
-      "unknown": 62,
+      "opus-5.5": 358,
+      "astra": 96,
+      "unknown": 63,
       "sonnet-5.5": 18,
       "uncertain": 4
     }
