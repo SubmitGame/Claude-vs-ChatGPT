@@ -106,53 +106,11 @@
       "likes_check": "no original post found 2026-10-12"
     },
     {
-      "id": "aurora-grand-prix",
-      "title": "Aurora Grand Prix (F1 sim)",
-      "description": "Browser F1 race with 20 cars, start lights, DRS, and AI drivers, built with three.js without an engine.",
-      "play_url": "https://vibe-f1-racing.pages.dev",
-      "source_url": "https://youtu.be/MpA7wOWsNB8",
-      "found_via": "X post from Vibe Game Lab linking the demo",
-      "found_via_network": "x",
-      "screenshot_path": "screenshots/05-aurora-grand-prix.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "A highly polished promotional composite shows two readable racing views, cars, track context, and race HUD, albeit surrounded by large tutorial branding.",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "made_with": "opus-5.5",
-      "engine": "Three.js",
-      "video_path": "videos/aurora-grand-prix.mp4",
-      "video_source": "awesome-local",
-      "videos": [
-        {
-          "path": "videos/aurora-grand-prix.mp4",
-          "source": "awesome-local"
-        }
-      ],
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
-      "id": "harbor-master",
-      "title": "Harbor Master (superyacht docking)",
-      "description": "Docking challenge with twin engines, thrusters, and crosswinds where bumps cost stars.",
-      "play_url": "https://vibe-harbor-master.pages.dev",
-      "source_url": "https://youtu.be/FOrxecuRTAk",
-      "found_via": "X post from Vibe Game Lab linking the demo",
-      "found_via_network": "x",
-      "screenshot_path": "screenshots/06-harbor-master.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "The bright, clean promo composition clearly communicates yacht handling and a colorful harbor setting through two attractive gameplay views.",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "made_with": "opus-5.5",
-      "engine": "Three.js",
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
       "id": "spider-man-miles-morales",
       "title": "Spider-Man: Miles Morales (web-swing browser)",
       "description": "Swing, wall-crawl, and web-zip through a Spider-Verse-style sunset city in the browser.",
       "play_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
-      "source_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
+      "source_url": "https://x.com/18reuchagas/status/2103142691005751468",
       "found_via": "X post linking the playable Hugging Face Space",
       "found_via_network": "x",
       "screenshot_path": "screenshots/08-spiderman-miles.jpg",
@@ -162,7 +120,12 @@
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/18reuchagas/status/2103142691005751468",
+      "remote_likes": 9,
+      "likes_source": "x",
+      "comment_count": 1,
+      "x_handle": "18reuchagas",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "inkwave",
@@ -237,7 +200,7 @@
       "title": "Pressure Wash Panic",
       "description": "A casual washer game where players blast grime while dodging delicate objects.",
       "play_url": "https://wavedash.com/games/pressure-wash-panic",
-      "source_url": null,
+      "source_url": "https://x.com/chongdashu/status/2102674509593796808",
       "found_via": "aicookd.com catalog row and WebSearch confirmation",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/13-pressure-wash-panic.jpg",
@@ -246,7 +209,12 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/chongdashu/status/2102674509593796808",
+      "remote_likes": 817,
+      "likes_source": "x",
+      "comment_count": 55,
+      "x_handle": "chongdashu",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kettu-vellam",
@@ -430,7 +398,7 @@
       "title": "Opus 5.5 NBA 2K",
       "description": "Solo basketball in a dark atmospheric arena: dribble, shoot, lay up and dunk with one-key controls. Browser playable on Genex; titled as an Opus 5.5 build.",
       "play_url": "https://genex.games/opus-2k",
-      "source_url": "https://genex.games/opus-2k",
+      "source_url": "https://x.com/genex_games/status/2102695292113981770",
       "found_via": "Live web search → Genex catalog page for Opus 5.5 NBA 2K by @Simeon M",
       "found_via_network": "web",
       "screenshot_path": "screenshots/24-opus-nba-2k.jpg",
@@ -439,24 +407,12 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
-      "id": "catwalk",
-      "title": "CatWalk",
-      "description": "One-button night stroll as a black cat along moonlit canals; four short scenes, firefly collection, online ranking. ~200KB three.js build with code-generated art and music; MagicCreator lists it as an Opus 5.5 itch demo.",
-      "play_url": "https://blitastxyz.itch.io/catwalk",
-      "source_url": "https://magiccreator.ai/claude-opus-5-5-demos",
-      "found_via": "MagicCreator Claude Opus 5.5 demos (Catwalk live itch link by @blitast_studio / BLITAST.STUDIO)",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/25-catwalk.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Strong canal-side gameplay still: black cat mid-run under a volumetric streetlamp, water reflections, and glowing firefly orbs make the one-button night stroll obvious.",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "engine": "Three.js",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/genex_games/status/2102695292113981770",
+      "remote_likes": 1144,
+      "likes_source": "x",
+      "comment_count": 62,
+      "x_handle": "genex_games",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "double-feature",
@@ -652,7 +608,7 @@
       "title": "Voxel Musou — Zhao Yun",
       "description": "Dynasty Warriors-style browser musou: Zhao Yun vs ~300 voxel Wei soldiers with combos, charges, dodges, and Musou. Built with Claude Opus 5.5 ultracode on Three.js.",
       "play_url": "https://voxel-musou.vercel.app",
-      "source_url": "https://bubucn.com/en/ai-model-evals/voxel-musou",
+      "source_url": "https://x.com/BubuStd/status/2105592147286409275",
       "found_via": "Bubu Studio writeup + X @BubuStd; play URL voxel-musou.vercel.app / GitHub mike007jd/voxel-musou",
       "found_via_network": "web",
       "screenshot_path": "screenshots/41-voxel-musou.jpg",
@@ -662,7 +618,12 @@
       "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/BubuStd/status/2105592147286409275",
+      "remote_likes": 3,
+      "likes_source": "x",
+      "comment_count": 0,
+      "x_handle": "BubuStd",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "fierro",
@@ -1541,24 +1502,6 @@
       "likes_checked": "2026-10-12"
     },
     {
-      "id": "merge-to-the-moon",
-      "title": "Merge to the Moon (月餅合成)",
-      "description": "Pixel-art Suika-style merge: drop sesame seeds and mooncakes up to the moon. Credited to Claude Opus 5.5.",
-      "play_url": "https://meowmeowmeowcute.github.io/merge-to-the-moon/",
-      "source_url": "https://tikgame.org/game/merge-to-the-moon/",
-      "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/109-merge-to-the-moon.jpg",
-      "screenshot_score": 7.5,
-      "screenshot_score_notes": "Clear pixel title screen with moon graphic and start button; little merge gameplay yet.",
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "remote_likes": 0,
-      "likes_source": "github",
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
       "id": "turbo-kart-rally",
       "title": "Turbo Kart Rally",
       "description": "Mario Kart–style three.js racer: eight racers, coastal circuit, drifting and items. Credited to Claude Opus 5.5 (bridge-mind).",
@@ -1577,27 +1520,11 @@
       "likes_source": "github"
     },
     {
-      "id": "palmera-bay",
-      "title": "Palmera Bay",
-      "description": "Free-roam sunset drive in a convertible through a neon tropical coastal city with nitro, drift and radio. Credited to Claude Opus 5.5.",
-      "play_url": "https://cahlik.net/palmera-bay/",
-      "source_url": "https://cahlik.net/palmera-bay/",
-      "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/111-palmera-bay.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Synthwave pixel-filter street with red convertible, minimap, NOS and full control legend.",
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
       "id": "coral-reef-day",
       "title": "A Day on the Coral Reef",
       "description": "Pixel-art reef ecosystem that lives through dawn, day, dusk and night. Credited to Claude Opus 5.5.",
       "play_url": "https://coral-reef-site.vercel.app/",
-      "source_url": "https://tikgame.org/game/coral-reef/",
+      "source_url": "https://x.com/akiy_8/status/2102545213218803769",
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/112-coral-reef.jpg",
@@ -1606,25 +1533,12 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
-      "id": "roll-everything",
-      "title": "Roll Everything (万物皆可滚)",
-      "description": "Katamari-style roll-and-grow fan game themed on Nüwa repairing the sky — roll from seeds up to mountains. Credited to Claude Opus 5.5.",
-      "play_url": "https://superdiaodiao.github.io/wanwu-gun/",
-      "source_url": "https://superdiaodiao.github.io/wanwu-gun/",
-      "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/127-roll-everything.jpg",
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "Colorful Chinese title over a low-poly city and sky vortex; busy but readable menu.",
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "remote_likes": 0,
-      "likes_source": "github",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/akiy_8/status/2102545213218803769",
+      "remote_likes": 474,
+      "likes_source": "x",
+      "comment_count": 6,
+      "x_handle": "akiy_8",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "derelict",
@@ -2565,7 +2479,7 @@
       "title": "Karts.com World Tour Grand Prix",
       "description": "Arcade kart racing across 30 cities with 24 drivers and 18 karts. Low-poly Three.js World Tour Grand Prix; credited to Claude Opus 5.5 + Blender.",
       "play_url": "https://karts.com/",
-      "source_url": "https://karts.com/",
+      "source_url": "https://x.com/KenLin1985/status/2103866807954399530",
       "found_via": "onehack catalog (Karts.com Opus 5.5)",
       "found_via_network": "web",
       "screenshot_path": "screenshots/167-karts-world-tour.jpg",
@@ -2581,13 +2495,15 @@
         "mobile",
         "touch"
       ],
-      "remote_likes": 0,
-      "likes_source": "catalog",
+      "remote_likes": 533,
+      "likes_source": "x",
       "github_user": null,
       "github_url": null,
       "avatar_url": null,
-      "x_handle": null,
-      "likes_check": "no original post found 2026-10-12"
+      "x_handle": "KenLin1985",
+      "likes_source_url": "https://x.com/KenLin1985/status/2103866807954399530",
+      "comment_count": 59,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "degen-u",
@@ -2700,30 +2616,6 @@
       "avatar_url": "/avatars/knightama.jpg",
       "video_source": "https://x.com/knightama/status/2104880496253817021",
       "video_path": "videos/way-of-the-samurai.mp4"
-    },
-    {
-      "id": "call-of-naija",
-      "title": "Call of Naija",
-      "description": "Lagos battlefield FPS: campaign, multiplayer modes, Lagos Siege co-op and extraction. Lo-fi night cityscape with Naira loadouts; Claude Opus 5.5.",
-      "play_url": "https://callofnaija.vercel.app/",
-      "source_url": "https://github.com/bigbadbillion/game",
-      "found_via": "AgentsLoop / GitHub Call of Naija Opus 5.5",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/187-call-of-naija.jpg",
-      "screenshot_score": 8.0,
-      "screenshot_score_notes": "Night lo-fi Lagos skyline with lit windows, green CALL OF NAIJA wordmark and full mode list.",
-      "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29",
-      "made_with": "opus-5.5",
-      "engine": "Three.js",
-      "category": "fps",
-      "platforms": [
-        "desktop"
-      ],
-      "github_user": "bigbadbillion",
-      "github_url": "https://github.com/bigbadbillion/game",
-      "avatar_url": "https://github.com/bigbadbillion.png",
-      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "neon-siege",
@@ -3818,7 +3710,7 @@
       "title": "PacBench — Claude Sonnet 5.5 Pac-Man",
       "description": "One-shot Pac-Man clone from PacBench (\"Create a Pac-Man game in a single html page\"). Entry slug claude-sonnet-5-5 via OpenRouter/Claude Code; model anthropic/claude-sonnet-5.5-20260928, PacBench score 95/100.",
       "play_url": "https://jonclegg.github.io/pacman-bakeoff/entries/claude-sonnet-5-5.html",
-      "source_url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "source_url": "https://github.com/jonclegg/pacman-bakeoff",
       "found_via": "PacBench (jonclegg) + HN",
       "found_via_network": "web",
       "made_with": "sonnet-5.5",
@@ -3828,8 +3720,8 @@
         "mobile"
       ],
       "author": "jonclegg",
-      "remote_likes": null,
-      "likes_source": null,
+      "remote_likes": 4,
+      "likes_source": "github_stars",
       "comments": [],
       "screenshot_path": "screenshots/219-pacbench-sonnet-55.jpg",
       "screenshot_score": 8.0,
@@ -3845,7 +3737,8 @@
       "listed_at": "2026-09-30T01:17:33.000Z",
       "first_seen": "2026-09-30T01:17:33.000Z",
       "last_seen": "2026-09-30T01:17:33.000Z",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://github.com/jonclegg/pacman-bakeoff",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kaldr",
@@ -4142,25 +4035,6 @@
       "engine": "Three.js",
       "remote_likes": 219,
       "likes_source": "x"
-    },
-    {
-      "id": "slide-rush",
-      "title": "Slide Rush",
-      "description": "Race a dozen rivals down a giant tropical waterslide — fall off and you are out. Three.js browser build (Opus 5.5 path/host); sibling of the Astra Splashline waterslide racer.",
-      "play_url": "https://kjlkurt.github.io/waterslide-game-opus-5.5/",
-      "source_url": "https://kjlkurt.github.io/waterslide-game-opus-5.5/",
-      "found_via": "frontier-games + GitHub Pages path waterslide-game-opus-5.5",
-      "found_via_network": "catalog",
-      "screenshot_path": "screenshots/225-slide-rush.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Bright low-poly waterslide start line over turquoise ocean islands with twelve tube racers and a clean Race menu card.",
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-09-30",
-      "made_with": "opus-5.5",
-      "engine": "Three.js",
-      "remote_likes": null,
-      "likes_source": null,
-      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "color-quest",
@@ -10278,7 +10152,7 @@
       "title": "Quake II (q2.pieter.com)",
       "description": "Quake II (q2.pieter.com) running in the browser (PC decomp/port).",
       "play_url": "https://q2.pieter.com",
-      "source_url": "https://recompiledgames.com/quake-ii-recompiled/",
+      "source_url": "https://x.com/levelsio/status/2107511131690434577",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -10318,14 +10192,18 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/levelsio/status/2107511131690434577",
+      "remote_likes": 84,
+      "likes_source": "x",
+      "comment_count": 16,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "quake-iii-arena-q3-pieter-com",
       "title": "Quake III Arena (q3.pieter.com)",
       "description": "Quake III Arena (q3.pieter.com) running in the browser (PC decomp/port).",
       "play_url": "https://q3.pieter.com",
-      "source_url": "https://q3.pieter.com",
+      "source_url": "https://x.com/levelsio/status/2107511131690434577",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -10354,7 +10232,7 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Mid-fight Q3 frame with explosion and gibs; action-packed but cluttered.",
-      "x_handle": "lukathedev",
+      "x_handle": "levelsio",
       "author_source": "https://q3.pieter.com",
       "video_path": "videos/quake-iii-arena-q3-pieter-com.mp4",
       "video_source": "youtube",
@@ -10365,14 +10243,18 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/levelsio/status/2107511131690434577",
+      "remote_likes": 84,
+      "likes_source": "x",
+      "comment_count": 16,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "quakeworld",
       "title": "QuakeWorld (q1.pieter.com)",
       "description": "QuakeWorld (q1.pieter.com) running in the browser (PC decomp/port).",
       "play_url": "https://q1.pieter.com",
-      "source_url": "https://recompiledgames.com/quakeworld-recompiled/",
+      "source_url": "https://x.com/levelsio/status/2107511131690434577",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -10412,7 +10294,11 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/levelsio/status/2107511131690434577",
+      "remote_likes": 84,
+      "likes_source": "x",
+      "comment_count": 16,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "ratchet-clank-pc-port",
@@ -10476,7 +10362,7 @@
       "title": "Return to Castle Wolfenstein (rtcw.pieter.com)",
       "description": "Return to Castle Wolfenstein (rtcw.pieter.com) running in the browser (PC decomp/port).",
       "play_url": "https://rtcw.pieter.com",
-      "source_url": "https://recompiledgames.com/return-to-castle-wolfenstein-recompiled/",
+      "source_url": "https://x.com/levelsio/status/2107511131690434577",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -10516,7 +10402,11 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/levelsio/status/2107511131690434577",
+      "remote_likes": 84,
+      "likes_source": "x",
+      "comment_count": 16,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "skate-3",
@@ -10775,7 +10665,7 @@
       "title": "Urban Terror (ut.pieter.com)",
       "description": "Urban Terror (ut.pieter.com) running in the browser (PC decomp/port).",
       "play_url": "https://ut.pieter.com",
-      "source_url": "https://recompiledgames.com/urban-terror-recompiled/",
+      "source_url": "https://x.com/levelsio/status/2107511131690434577",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -10813,7 +10703,12 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_source_url": "https://x.com/levelsio/status/2107511131690434577",
+      "remote_likes": 84,
+      "likes_source": "x",
+      "comment_count": 16,
+      "x_handle": "levelsio",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "wadcmd-doom-in-the-browser",
