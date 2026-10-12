@@ -102,7 +102,8 @@
           "path": "videos/ascent.mp4",
           "source": "awesome-local"
         }
-      ]
+      ],
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "aurora-grand-prix",
@@ -126,7 +127,8 @@
           "path": "videos/aurora-grand-prix.mp4",
           "source": "awesome-local"
         }
-      ]
+      ],
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "harbor-master",
@@ -142,7 +144,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "dawnroll",
@@ -160,7 +163,10 @@
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 1,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2102543532309270803",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "spider-man-miles-morales",
@@ -176,7 +182,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "inkwave",
@@ -209,7 +216,8 @@
       "screenshot_score_notes": "The minimalist title treatment is crisp and distinctive, but the still does not show the chase or any playable scene.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "low-tide",
@@ -225,7 +233,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "night-cruise",
@@ -241,7 +250,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "pressure-wash-panic",
@@ -256,7 +266,8 @@
       "screenshot_score_notes": "Bright cartoon rendering, expressive character art, readable grime and water effects, and a clear cleaning action make this exceptionally legible.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "kettu-vellam",
@@ -452,7 +463,10 @@
       "video_path": "videos/godroll.mp4",
       "video_source": "feed-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104235308749627732",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "opus-55-nba-2k",
@@ -467,7 +481,8 @@
       "screenshot_score_notes": "Cinematic behind-the-player arena still with reflective court wood, readable hoop/shot clock, and clear dribble pose that immediately sells the basketball sim.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-30T05:52:30.000Z",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "catwalk",
@@ -483,7 +498,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "double-feature",
@@ -560,7 +576,10 @@
       "video_path": "videos/nushi-fishing.mp4",
       "video_source": "feed-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104114871063425147",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "supa-smackdown",
@@ -579,7 +598,10 @@
       "video_path": "videos/supa-smackdown.mp4",
       "video_source": "feed-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104302073349046403",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "flip-clash",
@@ -618,7 +640,10 @@
       "video_path": "videos/volleyrush.mp4",
       "video_source": "feed-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104245434050855135",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "river-rush",
@@ -658,7 +683,10 @@
       "video_path": "videos/mini-mart-lab.mp4",
       "video_source": "feed-local",
       "remote_likes": 2,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104428535620493402",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pokemon-claude-red",
@@ -691,7 +719,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "goodgame",
@@ -749,7 +778,10 @@
       "video_path": "videos/operation-sunset.mp4",
       "video_source": "feed-local",
       "remote_likes": 1,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104339627394085184",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "towline",
@@ -785,7 +817,8 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "fierro",
@@ -802,8 +835,11 @@
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 2,
-      "likes_source": "x"
+      "remote_likes": 3,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104451132001276348",
+      "comment_count": 2,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sangoku-tojo",
@@ -841,7 +877,10 @@
       "video_path": "videos/zig-zag-dash.mp4",
       "video_source": "feed-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104034700771959210",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sukhna-lake",
@@ -893,7 +932,8 @@
       "screenshot_score_notes": "Atmospheric rainy night title with glowing fox on a floating island, clear pixel typography, and strong mood lighting.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "koi-pond-garden",
@@ -1012,7 +1052,10 @@
       "video_path": "videos/harbor-chef.mp4",
       "video_source": "awesome-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104476894238556286",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "emberwake",
@@ -1030,7 +1073,10 @@
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104484460926472275",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "wildbrush",
@@ -1066,8 +1112,11 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "remote_likes": 0,
-      "likes_source": "x"
+      "remote_likes": 1,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104504963833753777",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "most-annoying-game-ever",
@@ -1084,7 +1133,10 @@
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104506292601794764",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "somethingbig-world",
@@ -1119,7 +1171,10 @@
       "made_with": "opus-5.5",
       "engine": "PixiJS",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104477047267713099",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "cozy-cove",
@@ -1154,8 +1209,11 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "remote_likes": 0,
-      "likes_source": "x"
+      "remote_likes": 1,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104530933345116651",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "spawn-legends",
@@ -1190,7 +1248,8 @@
       "screenshot_score_notes": "Clean magenta bracket layout crowns Tidekeeper with readable thumbs for all twelve playable puzzles.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "nand-16",
@@ -1297,8 +1356,10 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T01:56:38.000Z",
       "made_with": "opus-5.5",
-      "remote_likes": 1,
-      "likes_source": "github"
+      "remote_likes": 3,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/deepujain/casadegema",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "felt-world",
@@ -1315,8 +1376,10 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 1,
-      "likes_source": "github"
+      "remote_likes": 2,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/az9713/opus-5.5-open-world-game",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "ombres",
@@ -1333,8 +1396,10 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 1,
-      "likes_source": "github"
+      "remote_likes": 2,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/briossant/ombres",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "emilius",
@@ -1351,8 +1416,10 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 0,
-      "likes_source": "github"
+      "remote_likes": 2,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/dliedke/emilius_wingsuit",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "volley-rally",
@@ -1371,8 +1438,11 @@
       "engine": "Three.js",
       "video_path": "videos/volley-rally.mp4",
       "video_source": "feed-local",
-      "remote_likes": 2,
-      "likes_source": "x"
+      "remote_likes": 3,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104721555641270436",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "wanju-bara",
@@ -1392,7 +1462,10 @@
       "video_path": "videos/wanju-bara.mp4",
       "video_source": "awesome-local",
       "remote_likes": 2,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104743474549694736",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "squall-riders",
@@ -1431,7 +1504,10 @@
       "video_path": "videos/rc30-dash.mp4",
       "video_source": "awesome-local",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104711402867105935",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "megaman-legends",
@@ -1447,7 +1523,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "tanggulan",
@@ -1462,7 +1539,8 @@
       "screenshot_score_notes": "Elegant parchment-map menu with bilingual Philippine–American War framing and clear Campaign/Last Stand options — thematic and polished.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T03:48:00.000Z",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "ciela-story",
@@ -1477,7 +1555,8 @@
       "screenshot_score_notes": "Colorful Toy Story–style title over a soft bedroom backdrop with clear Play/How to Play buttons — cheerful and readable.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29T23:57:00.000Z",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "void-explorer",
@@ -1493,7 +1572,8 @@
       "screenshot_score": 8.9,
       "screenshot_score_notes": "Cinematic menu still: ship, planet, neon phosphor UI and expedition HUD are immediately readable with strong composition.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "sunwake",
@@ -1509,7 +1589,8 @@
       "screenshot_score": 8.8,
       "screenshot_score_notes": "Atmospheric golden-hour boat on stylized water with clean title typography and readable control legend.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "hollowflux",
@@ -1525,7 +1606,8 @@
       "screenshot_score": 8.1,
       "screenshot_score_notes": "Moody pixel title screen clearly brands the game; cavern silhouette and control hints are legible but sparse on active combat.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "velocity-loop",
@@ -1541,7 +1623,8 @@
       "screenshot_score": 9,
       "screenshot_score_notes": "Split UI with photoreal miniature car on a wooden track reads as highly polished; car/track selection is crystal clear.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "little-ritual",
@@ -1557,7 +1640,8 @@
       "screenshot_score": 8.5,
       "screenshot_score_notes": "Warm illustrated title with terminal, robot barista and latte art; charming and clear though light on in-world action.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "mosswing",
@@ -1627,7 +1711,9 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "remote_likes": 1,
-      "likes_source": "github"
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/stackloomdev/last-beacon",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "hot-wheeler",
@@ -1684,7 +1770,10 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "remote_likes": 2,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2096348348773028115",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "chill-race",
@@ -1780,7 +1869,10 @@
       "video_path": "videos/racido.mp4",
       "video_source": "feed-local",
       "remote_likes": 1,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2100980253221134759",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "arcane-orb-reforged",
@@ -1796,7 +1888,8 @@
       "screenshot_score": 8.2,
       "screenshot_score_notes": "Dark fantasy title modal with clear Enter the sanctum CTA; atmospheric but light on tower gameplay.",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "convergence-rts",
@@ -1815,8 +1908,11 @@
       "engine": "Godot",
       "video_path": "videos/convergence-rts.mp4",
       "video_source": "feed-local",
-      "remote_likes": 2,
-      "likes_source": "x"
+      "remote_likes": 3,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104761613433831490",
+      "comment_count": 2,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "noclipped",
@@ -1853,7 +1949,9 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 1,
-      "likes_source": "github"
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/gordensun/last-firewall",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sprout-quest",
@@ -1869,8 +1967,10 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "remote_likes": 2,
-      "likes_source": "github"
+      "remote_likes": 4,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/aibengineering/sprout-quest",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "nova-lancer",
@@ -1905,7 +2005,9 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 0,
-      "likes_source": "github"
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/itsdannyt/crab-dash",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "fall-line",
@@ -1922,8 +2024,10 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 1,
-      "likes_source": "github"
+      "remote_likes": 6,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/Nipale-ai/opus-5-5-overnight-builds",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kagit-kart",
@@ -1940,8 +2044,10 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 0,
-      "likes_source": "github"
+      "remote_likes": 5,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/BurakErdemci/kagit-kart",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "merge-to-the-moon",
@@ -1958,7 +2064,8 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 0,
-      "likes_source": "github"
+      "likes_source": "github",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "turbo-kart-rally",
@@ -1991,7 +2098,8 @@
       "screenshot_score_notes": "Synthwave pixel-filter street with red convertible, minimap, NOS and full control legend.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "coral-reef-day",
@@ -2006,7 +2114,8 @@
       "screenshot_score_notes": "Dense lively pixel reef with schools, turtle and jellyfish under a clear Japanese title.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "roll-everything",
@@ -2023,7 +2132,8 @@
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 0,
-      "likes_source": "github"
+      "likes_source": "github",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "derelict",
@@ -2110,7 +2220,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "tamba-vinecrown",
@@ -2126,7 +2237,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "voxel-fight-night",
@@ -2142,7 +2254,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "crazy-taxi-bay-city",
@@ -2158,7 +2271,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "encantadia-casita",
@@ -2174,7 +2288,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "blockfront",
@@ -2190,7 +2305,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "maynila-sa-ilalim",
@@ -2205,7 +2321,8 @@
       "screenshot_score_notes": "Striking silhouette waterfront under a watchful moon with strong Tagalog title treatment.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "megasisig-x4",
@@ -2220,7 +2337,8 @@
       "screenshot_score_notes": "Near-black start screen with tiny pixel prop and PRESS ANY KEY — almost no gameplay visible.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "manila-streetball-jam",
@@ -2235,7 +2353,8 @@
       "screenshot_score_notes": "Festive Filipino street court under banderitas with punchy STREETBALL JAM branding.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "made_with": "opus-5.5"
+      "made_with": "opus-5.5",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "scorch-line",
@@ -2251,7 +2370,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "noli-me-tangere",
@@ -2266,7 +2386,8 @@
       "screenshot_score_notes": "Capiz-window framed night town with bangka and gold Begin-the-journey CTA; strong literary atmosphere.",
       "made_with": "opus-5.5",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "devin-vs-backlog",
@@ -2303,7 +2424,10 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "remote_likes": 1,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104613479420498354",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "splashline",
@@ -2339,7 +2463,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02T12:34:06.000Z"
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "kiriko-foxlight-crossing",
@@ -2355,7 +2480,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "dva-busan-burst",
@@ -2371,7 +2497,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "stillwater-genji",
@@ -2387,7 +2514,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "last-light-cassidy",
@@ -2403,7 +2531,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "lucio-rio-remix",
@@ -2419,7 +2548,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "mercy-angels-reach",
@@ -2435,7 +2565,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02T12:34:06.000Z"
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "iron-oath-reinhardt",
@@ -2451,7 +2582,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "nocturne-widowmaker",
@@ -2467,7 +2599,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "crazy-taxi-astra",
@@ -2483,7 +2616,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-02T12:34:06.000Z"
+      "last_seen": "2026-10-02T12:34:06.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "voxel-frontline-astra",
@@ -2499,7 +2633,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "komorebi-pagoda",
@@ -2515,7 +2650,8 @@
       "made_with": "astra",
       "engine": "Three.js",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-29",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "winston-little-spark",
@@ -2531,7 +2667,8 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
-      "engine": "Three.js"
+      "engine": "Three.js",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "pixel-poker",
@@ -2547,8 +2684,11 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "remote_likes": 1,
-      "likes_source": "x"
+      "remote_likes": 4,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104791643107000437",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "ember-and-ivory",
@@ -2565,7 +2705,10 @@
       "last_seen": "2026-09-29",
       "made_with": "astra",
       "remote_likes": 0,
-      "likes_source": "x"
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/i/status/2104748429192884380",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "cropper-seven",
@@ -2604,7 +2747,8 @@
       "platforms": [
         "desktop",
         "mobile"
-      ]
+      ],
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "lantern-spaceship",
@@ -2625,7 +2769,8 @@
       "platforms": [
         "desktop",
         "mobile"
-      ]
+      ],
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "soccar",
@@ -2808,7 +2953,8 @@
       "github_user": "Olivia295",
       "github_url": "https://github.com/Olivia295/SURGE-for-Oinja",
       "avatar_url": "/avatars/Olivia295.jpg",
-      "x_handle": null
+      "x_handle": null,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "jellyblob",
@@ -2831,7 +2977,8 @@
         "touch"
       ],
       "remote_likes": 0,
-      "likes_source": "catalog"
+      "likes_source": "catalog",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "odyssey-fighters",
@@ -2852,7 +2999,8 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "catalog"
+      "likes_source": "catalog",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "harbor-skirmish",
@@ -2873,10 +3021,13 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
+      "remote_likes": 52,
       "likes_source": "x",
       "x_handle": "OpenDesignHQ",
-      "avatar_url": "/avatars/OpenDesignHQ.jpg"
+      "avatar_url": "/avatars/OpenDesignHQ.jpg",
+      "likes_source_url": "https://x.com/i/status/2097635757917983223",
+      "comment_count": 3,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "ascii-district",
@@ -2900,7 +3051,10 @@
       "remote_likes": 0,
       "likes_source": "x",
       "x_handle": "acker_code",
-      "avatar_url": "/avatars/acker_code.jpg"
+      "avatar_url": "/avatars/acker_code.jpg",
+      "likes_source_url": "https://x.com/i/status/2097542957070975286",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "astra-floor",
@@ -2925,7 +3079,8 @@
       "github_user": "BEROCHLU",
       "github_url": "https://github.com/BEROCHLU/astrafloor",
       "avatar_url": "/avatars/BEROCHLU.jpg",
-      "x_handle": null
+      "x_handle": null,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "fishslop",
@@ -2946,12 +3101,14 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "github",
+      "remote_likes": 3,
+      "likes_source": "github_stars",
       "github_user": "vasu-devs",
       "github_url": "https://github.com/vasu-devs/FishSlop_Opus5.5",
       "avatar_url": "/avatars/vasu-devs.jpg",
-      "x_handle": null
+      "x_handle": null,
+      "likes_source_url": "https://github.com/vasu-devs/FishSlop_Opus5.5",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "lumenrift",
@@ -2971,12 +3128,14 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
-      "likes_source": "github",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
       "github_user": "WhiteBlackGoose",
       "github_url": "https://github.com/WhiteBlackGoose/Lumenrift",
       "avatar_url": "/avatars/WhiteBlackGoose.jpg",
-      "x_handle": null
+      "x_handle": null,
+      "likes_source_url": "https://github.com/WhiteBlackGoose/Lumenrift",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "neural-sight",
@@ -2996,12 +3155,14 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
-      "likes_source": "github",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
       "github_user": "monstercameron",
       "github_url": "https://github.com/monstercameron/Neural-Sight",
       "avatar_url": "/avatars/monstercameron.jpg",
-      "x_handle": null
+      "x_handle": null,
+      "likes_source_url": "https://github.com/monstercameron/Neural-Sight",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "silent-meridian",
@@ -3026,7 +3187,8 @@
       "github_user": null,
       "github_url": null,
       "avatar_url": null,
-      "x_handle": null
+      "x_handle": null,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "karts-world-tour",
@@ -3054,7 +3216,8 @@
       "github_user": null,
       "github_url": null,
       "avatar_url": null,
-      "x_handle": null
+      "x_handle": null,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "degen-u",
@@ -3112,7 +3275,10 @@
       "avatar_url": null,
       "x_handle": "agent_republic",
       "video_path": "videos/marble-madness-remastered.mp4",
-      "video_source": "https://x.com/agent_republic/status/2104695709572190529"
+      "video_source": "https://x.com/agent_republic/status/2104695709572190529",
+      "likes_source_url": "https://x.com/i/status/2104695709572190529",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "asteroid-duel",
@@ -3165,7 +3331,11 @@
       ],
       "github_user": "Carte1972",
       "github_url": "https://github.com/Carte1972/forja-abisal",
-      "avatar_url": "https://github.com/Carte1972.png"
+      "avatar_url": "https://github.com/Carte1972.png",
+      "likes_source_url": "https://github.com/Carte1972/forja-abisal",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "radikal-riders",
@@ -3190,7 +3360,11 @@
       ],
       "github_user": "javichur",
       "github_url": "https://github.com/javichur/radikal-bikers",
-      "avatar_url": "https://github.com/javichur.png"
+      "avatar_url": "https://github.com/javichur.png",
+      "likes_source_url": "https://github.com/javichur/radikal-bikers",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "out-of-the-box",
@@ -3213,7 +3387,11 @@
       ],
       "github_user": "tanuu5",
       "github_url": "https://github.com/tanuu5/out-of-the-box",
-      "avatar_url": "https://github.com/tanuu5.png"
+      "avatar_url": "https://github.com/tanuu5.png",
+      "likes_source_url": "https://github.com/tanuu5/out-of-the-box",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "arkanoid-neon",
@@ -3237,7 +3415,11 @@
       ],
       "github_user": "Jack-c3l2w",
       "github_url": "https://github.com/Jack-c3l2w/arkanoid-neon",
-      "avatar_url": "https://github.com/Jack-c3l2w.png"
+      "avatar_url": "https://github.com/Jack-c3l2w.png",
+      "likes_source_url": "https://github.com/Jack-c3l2w/arkanoid-neon",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "meridian-wake",
@@ -3262,7 +3444,11 @@
       ],
       "github_user": "michaelcrosato",
       "github_url": "https://github.com/michaelcrosato/meridian-wake-g6a",
-      "avatar_url": "https://github.com/michaelcrosato.png"
+      "avatar_url": "https://github.com/michaelcrosato.png",
+      "likes_source_url": "https://github.com/michaelcrosato/meridian-wake-g6a",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "survive-coders",
@@ -3286,7 +3472,11 @@
       ],
       "github_user": "travisstephenfraser",
       "github_url": "https://github.com/travisstephenfraser/survive-coders",
-      "avatar_url": "https://github.com/travisstephenfraser.png"
+      "avatar_url": "https://github.com/travisstephenfraser.png",
+      "likes_source_url": "https://github.com/travisstephenfraser/survive-coders",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kaiju-dokan",
@@ -3311,7 +3501,11 @@
       ],
       "github_user": "tanuu5",
       "github_url": "https://github.com/tanuu5/kaiju-dokan",
-      "avatar_url": "https://github.com/tanuu5.png"
+      "avatar_url": "https://github.com/tanuu5.png",
+      "likes_source_url": "https://github.com/tanuu5/kaiju-dokan",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "lethal-company-opus",
@@ -3334,7 +3528,11 @@
       ],
       "github_user": "TESTYEE-09",
       "github_url": "https://github.com/TESTYEE-09/opus5.5Lethal",
-      "avatar_url": "https://github.com/TESTYEE-09.png"
+      "avatar_url": "https://github.com/TESTYEE-09.png",
+      "likes_source_url": "https://github.com/TESTYEE-09/opus5.5Lethal",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pet-island",
@@ -3359,7 +3557,11 @@
       ],
       "github_user": "tahcin",
       "github_url": "https://github.com/tahcin/pet-island",
-      "avatar_url": "https://github.com/tahcin.png"
+      "avatar_url": "https://github.com/tahcin.png",
+      "likes_source_url": "https://github.com/tahcin/pet-island",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "driftwing",
@@ -3384,7 +3586,11 @@
       ],
       "github_user": "KyleBuildsAI",
       "github_url": "https://github.com/KyleBuildsAI/driftwing",
-      "avatar_url": "https://github.com/KyleBuildsAI.png"
+      "avatar_url": "https://github.com/KyleBuildsAI.png",
+      "likes_source_url": "https://github.com/KyleBuildsAI/driftwing",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "qualy-quest",
@@ -3435,7 +3641,10 @@
       "remote_likes": 0,
       "likes_source": "x",
       "x_handle": "Marcus_Rummler",
-      "avatar_url": "/avatars/Marcus_Rummler.jpg"
+      "avatar_url": "/avatars/Marcus_Rummler.jpg",
+      "likes_source_url": "https://x.com/i/status/2104858733750976881",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "way-of-the-samurai",
@@ -3485,7 +3694,11 @@
       ],
       "github_user": "Legerdo",
       "github_url": "https://github.com/Legerdo/WRECKLINE",
-      "avatar_url": "https://github.com/Legerdo.png"
+      "avatar_url": "https://github.com/Legerdo.png",
+      "likes_source_url": "https://github.com/Legerdo/WRECKLINE",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "bee-garden",
@@ -3508,7 +3721,11 @@
       ],
       "github_user": "arnicas",
       "github_url": "https://github.com/arnicas/bee-garden-game",
-      "avatar_url": "https://github.com/arnicas.png"
+      "avatar_url": "https://github.com/arnicas.png",
+      "likes_source_url": "https://github.com/arnicas/bee-garden-game",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "call-of-naija",
@@ -3531,7 +3748,8 @@
       ],
       "github_user": "bigbadbillion",
       "github_url": "https://github.com/bigbadbillion/game",
-      "avatar_url": "https://github.com/bigbadbillion.png"
+      "avatar_url": "https://github.com/bigbadbillion.png",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "hop-bot",
@@ -3555,7 +3773,11 @@
       ],
       "github_user": "abc-wvc",
       "github_url": "https://github.com/abc-wvc/hop-bot",
-      "avatar_url": "https://github.com/abc-wvc.png"
+      "avatar_url": "https://github.com/abc-wvc.png",
+      "likes_source_url": "https://github.com/abc-wvc/hop-bot",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pro-skater-warehouse",
@@ -3578,7 +3800,11 @@
       ],
       "github_user": "3D-Stories",
       "github_url": "https://github.com/3D-Stories/skate-game-opus-5-5",
-      "avatar_url": "https://github.com/3D-Stories.png"
+      "avatar_url": "https://github.com/3D-Stories.png",
+      "likes_source_url": "https://github.com/3D-Stories/skate-game-opus-5-5",
+      "remote_likes": 2,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "deep-dive",
@@ -3602,7 +3828,11 @@
       ],
       "github_user": "chichiroxursox-droid",
       "github_url": "https://github.com/chichiroxursox-droid/deep-dive",
-      "avatar_url": "https://github.com/chichiroxursox-droid.png"
+      "avatar_url": "https://github.com/chichiroxursox-droid.png",
+      "likes_source_url": "https://github.com/chichiroxursox-droid/deep-dive",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "tempora",
@@ -3625,7 +3855,11 @@
       ],
       "github_user": "Mofferato",
       "github_url": "https://github.com/Mofferato/tempora",
-      "avatar_url": "https://github.com/Mofferato.png"
+      "avatar_url": "https://github.com/Mofferato.png",
+      "likes_source_url": "https://github.com/Mofferato/tempora",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "akhbar-rush",
@@ -3649,7 +3883,11 @@
       ],
       "github_user": "Shiva78388789",
       "github_url": "https://github.com/Shiva78388789/Akhbar-Rush",
-      "avatar_url": "https://github.com/Shiva78388789.png"
+      "avatar_url": "https://github.com/Shiva78388789.png",
+      "likes_source_url": "https://github.com/Shiva78388789/Akhbar-Rush",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "voxel-galleons",
@@ -3672,7 +3910,11 @@
       ],
       "github_user": "GraceUnderGravity",
       "github_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
-      "avatar_url": "https://github.com/GraceUnderGravity.png"
+      "avatar_url": "https://github.com/GraceUnderGravity.png",
+      "likes_source_url": "https://github.com/GraceUnderGravity/VoxelGalleons",
+      "remote_likes": 2,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "crabhouse-v2",
@@ -3696,7 +3938,11 @@
       ],
       "github_user": "kamibukuro18",
       "github_url": "https://github.com/kamibukuro18/opuscrabhouse",
-      "avatar_url": "https://github.com/kamibukuro18.png"
+      "avatar_url": "https://github.com/kamibukuro18.png",
+      "likes_source_url": "https://github.com/kamibukuro18/opuscrabhouse",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pixel-survivors-nocturne",
@@ -3718,7 +3964,11 @@
       ],
       "github_user": "Black2856",
       "github_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
-      "avatar_url": "https://github.com/Black2856.png"
+      "avatar_url": "https://github.com/Black2856.png",
+      "likes_source_url": "https://github.com/Black2856/pixel_survivors_opus5.5test",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "emberglade",
@@ -3742,7 +3992,10 @@
       "remote_likes": 2,
       "likes_source": "x",
       "x_handle": "agentcelldotdev",
-      "avatar_url": "/avatars/agentcelldotdev.jpg"
+      "avatar_url": "/avatars/agentcelldotdev.jpg",
+      "likes_source_url": "https://x.com/i/status/2104893456028160336",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "neon-siege",
@@ -3765,9 +4018,11 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "github",
-      "avatar_url": "https://github.com/PromptEngineer48.png"
+      "remote_likes": 3,
+      "likes_source": "github_stars",
+      "avatar_url": "https://github.com/PromptEngineer48.png",
+      "likes_source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "mortal-clash",
@@ -3790,9 +4045,11 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "github",
-      "avatar_url": "https://github.com/PromptEngineer48.png"
+      "remote_likes": 3,
+      "likes_source": "github_stars",
+      "avatar_url": "https://github.com/PromptEngineer48.png",
+      "likes_source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rooftop-sniper",
@@ -3815,9 +4072,11 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "github",
-      "avatar_url": "https://github.com/PromptEngineer48.png"
+      "remote_likes": 3,
+      "likes_source": "github_stars",
+      "avatar_url": "https://github.com/PromptEngineer48.png",
+      "likes_source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "neon-ridge-rider",
@@ -3838,12 +4097,15 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 3,
       "likes_source": "x",
       "x_handle": "SoonLab_AI",
       "avatar_url": "/avatars/SoonLab_AI.jpg",
       "video_path": "videos/neon-ridge-rider.mp4",
-      "video_source": "https://x.com/SoonLab_AI/status/2104887052659728605"
+      "video_source": "https://x.com/SoonLab_AI/status/2104887052659728605",
+      "likes_source_url": "https://x.com/i/status/2104887052659728605",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sf-founder-mode",
@@ -3928,7 +4190,10 @@
       "likes_source": "x",
       "x_handle": "Fireupup",
       "video_path": "videos/tower-archer.mp4",
-      "video_source": "https://x.com/Fireupup/status/2104909575820653004"
+      "video_source": "https://x.com/Fireupup/status/2104909575820653004",
+      "likes_source_url": "https://x.com/i/status/2104909575820653004",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "talk-me-into-it",
@@ -4011,9 +4276,11 @@
         "mobile"
       ],
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_user": "zahid23saim",
-      "avatar_url": "/avatars/zahid23saim.jpg"
+      "avatar_url": "/avatars/zahid23saim.jpg",
+      "likes_source_url": "https://github.com/zahid23saim/one-sky",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "metric-bloom",
@@ -4037,9 +4304,11 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_user": "Legerdo",
-      "avatar_url": "/avatars/Legerdo.jpg"
+      "avatar_url": "/avatars/Legerdo.jpg",
+      "likes_source_url": "https://github.com/Legerdo/metric-bloom-opus-5-5",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "deepsea",
@@ -4064,9 +4333,11 @@
         "mobile"
       ],
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_user": "daforce1984",
-      "avatar_url": "https://github.com/daforce1984.png"
+      "avatar_url": "https://github.com/daforce1984.png",
+      "likes_source_url": "https://github.com/daforce1984/deepsea",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "boxhead-online",
@@ -4091,9 +4362,11 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_user": "sameid",
-      "avatar_url": "/avatars/sameid.jpg"
+      "avatar_url": "/avatars/sameid.jpg",
+      "likes_source_url": "https://github.com/sameid/boxhead-online-html",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "cf-transport-ship",
@@ -4117,11 +4390,13 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "github",
+      "remote_likes": 2,
+      "likes_source": "github_stars",
       "github_user": "xiiyioozzz",
       "x_handle": "xiiyioo",
-      "avatar_url": "/avatars/xiiyioo.jpg"
+      "avatar_url": "/avatars/xiiyioo.jpg",
+      "likes_source_url": "https://github.com/xiiyioozzz/opus55-3d-games",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "qq-speed",
@@ -4144,11 +4419,13 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "github",
+      "remote_likes": 2,
+      "likes_source": "github_stars",
       "github_user": "xiiyioozzz",
       "x_handle": "xiiyioo",
-      "avatar_url": "/avatars/xiiyioo.jpg"
+      "avatar_url": "/avatars/xiiyioo.jpg",
+      "likes_source_url": "https://github.com/xiiyioozzz/opus55-3d-games",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "genex-skate",
@@ -4626,7 +4903,8 @@
       "comments": [],
       "screenshot_score": 6.8,
       "screenshot_score_notes": "Neon ship and outlined asteroids read instantly as Asteroids, with clean vector contrast but lots of empty grid and no HUD.",
-      "screenshot_path": "videos/neon-asteroids.jpg"
+      "screenshot_path": "videos/neon-asteroids.jpg",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "dropdead-plinko",
@@ -4714,7 +4992,8 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsvqxp/",
           "created_at": "2026-09-29T15:03:14Z"
         }
-      ]
+      ],
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "spider-man-spiderverse",
@@ -4910,7 +5189,8 @@
       "last_seen": "2026-09-30T03:48:00.000Z",
       "remote_likes": 1,
       "likes_source": "reddit",
-      "comments": []
+      "comments": [],
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "sadak",
@@ -5027,7 +5307,7 @@
       ],
       "author": "yelnur_k",
       "avatar_path": "/workspace/opus-feed/public/avatars/yelnur_k.png",
-      "remote_likes": 0,
+      "remote_likes": 2,
       "likes_source": "x",
       "comments": [],
       "screenshot_path": "screenshots/218-carbon-body.jpg",
@@ -5055,7 +5335,10 @@
       "published_at": "2026-09-29T21:26:05.000Z",
       "listed_at": "2026-09-30T00:52:14.000Z",
       "first_seen": "2026-09-30T00:52:14.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105046481136717901",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pacbench-claude-sonnet-5-5",
@@ -5088,7 +5371,8 @@
       "published_at": "2026-09-28T00:00:00.000Z",
       "listed_at": "2026-09-30T01:17:33.000Z",
       "first_seen": "2026-09-30T01:17:33.000Z",
-      "last_seen": "2026-09-30T01:17:33.000Z"
+      "last_seen": "2026-09-30T01:17:33.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "kaldr",
@@ -5266,7 +5550,7 @@
       "author": "riccoasi",
       "x_handle": "riccoasi",
       "avatar_path": "/workspace/opus-feed/public/avatars/riccoasi.jpg",
-      "remote_likes": 2,
+      "remote_likes": 3,
       "likes_source": "x",
       "comments": [],
       "screenshot_path": "screenshots/229-avengers-last-stand.jpg",
@@ -5294,7 +5578,10 @@
       "published_at": "2026-09-29T15:06:00.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T01:56:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2104950830927601769",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "turbo-kart-gp",
@@ -5399,7 +5686,10 @@
       "published_at": "2026-09-29T17:10:31.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T01:56:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2104982163301261340",
+      "comment_count": 3,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pixel-flow-sonnet",
@@ -5419,7 +5709,7 @@
       "author": "longmaba",
       "x_handle": "longmaba",
       "avatar_path": "/workspace/opus-feed/public/avatars/longmaba.jpg",
-      "remote_likes": 1,
+      "remote_likes": 0,
       "likes_source": "x",
       "comments": [],
       "screenshot_path": "screenshots/233-pixel-flow-sonnet.jpg",
@@ -5447,7 +5737,10 @@
       "published_at": "2026-09-29T17:10:31.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T01:56:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2104982165352288395",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "amar-io",
@@ -5464,8 +5757,8 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
-      "likes_source": "github",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
       "comments": [],
       "screenshot_path": "screenshots/234-amar-io.jpg",
       "screenshot_score": 8.5,
@@ -5485,7 +5778,9 @@
       "published_at": "2026-09-30T00:02:36.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T01:56:38.000Z",
+      "likes_source_url": "https://github.com/onehundredapps/amar.io",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "frontline-cod",
@@ -5502,8 +5797,8 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
-      "likes_source": "github",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
       "comments": [],
       "screenshot_path": "screenshots/235-frontline-cod.jpg",
       "screenshot_score": 9.0,
@@ -5518,7 +5813,9 @@
       "published_at": "2026-09-30T01:45:00.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T01:56:38.000Z"
+      "last_seen": "2026-09-30T01:56:38.000Z",
+      "likes_source_url": "https://github.com/TESTYEE-09/Opus5.5Cod",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "overrun-dockyard-nine",
@@ -5554,7 +5851,8 @@
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": null,
-      "likes_source": null
+      "likes_source": null,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "emberdeep",
@@ -5570,8 +5868,10 @@
       "first_seen": "2026-09-30",
       "last_seen": "2026-09-30",
       "made_with": "opus-5.5",
-      "remote_likes": null,
-      "likes_source": null
+      "remote_likes": 1,
+      "likes_source": "github_stars",
+      "likes_source_url": "https://github.com/JerryLiu369/noita-benchmark",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "eight-ball-pool",
@@ -5617,7 +5917,10 @@
       "published_at": "2026-09-29T15:36:24.000Z",
       "listed_at": "2026-09-30T02:45:01.000Z",
       "first_seen": "2026-09-30T02:45:01.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z"
+      "last_seen": "2026-09-30T02:45:01.000Z",
+      "likes_source_url": "https://x.com/i/status/2104958478435385535",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "synesthesia",
@@ -5652,7 +5955,10 @@
       "published_at": "2026-09-29T13:15:05.000Z",
       "listed_at": "2026-09-30T02:45:01.000Z",
       "first_seen": "2026-09-30T02:45:01.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z"
+      "last_seen": "2026-09-30T02:45:01.000Z",
+      "likes_source_url": "https://x.com/i/status/2104922915779317903",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "color-quest",
@@ -5789,7 +6095,8 @@
       "published_at": "2026-09-30T03:29:16.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "monochrome-circuit-opus",
@@ -5828,7 +6135,8 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "monochrome-circuit-sonnet",
@@ -5862,7 +6170,8 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "monochrome-circuit-astra",
@@ -5896,7 +6205,8 @@
       "published_at": "2026-09-30T03:12:34.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "ozapft-is",
@@ -5942,7 +6252,10 @@
       "published_at": "2026-09-29T19:08:55.000Z",
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
-      "last_seen": "2026-09-30T03:48:00.000Z"
+      "last_seen": "2026-09-30T03:48:00.000Z",
+      "likes_source_url": "https://x.com/i/status/2105011961239113761",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "squish-club",
@@ -6048,7 +6361,11 @@
       "published_at": "2026-09-28T00:00:00.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "likes_source_url": "https://github.com/Odiriuss/PixelArtGameOpus",
+      "remote_likes": 9,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "fast-rocket",
@@ -6082,7 +6399,8 @@
       "published_at": "2026-09-30T03:54:30.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "long-exposure",
@@ -6127,7 +6445,10 @@
       "published_at": "2026-09-30T04:36:11.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z",
+      "likes_source_url": "https://x.com/i/status/2105154719241187809",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "span-nine",
@@ -6214,14 +6535,17 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 2,
+      "remote_likes": 5,
       "likes_source": "x",
       "x_handle": "_nilni",
       "avatar_url": "/avatars/_nilni.jpg",
       "published_at": "2026-09-30T04:47:41.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T06:49:37.000Z"
+      "last_seen": "2026-09-30T06:49:37.000Z",
+      "likes_source_url": "https://x.com/i/status/2105157614355268011",
+      "comment_count": 3,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "axioma",
@@ -6253,7 +6577,10 @@
       "published_at": "2026-09-30T00:16:28.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "likes_source_url": "https://x.com/i/status/2105089357556158712",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "keep-climbing",
@@ -6285,7 +6612,8 @@
       "published_at": "2026-09-30T05:14:29.000Z",
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "lost-cathedral",
@@ -6398,7 +6726,10 @@
       "published_at": "2026-09-30T06:37:21.000Z",
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105185212355535294",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "yoru-no-gakko",
@@ -6446,7 +6777,10 @@
       "published_at": "2026-09-30T05:54:36.000Z",
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105174453818654723",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "carry-the-ring",
@@ -6471,14 +6805,17 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "x_handle": "Paninosoffline",
       "avatar_url": "/avatars/Paninosoffline.jpg",
       "published_at": "2026-09-30T06:16:10.000Z",
       "listed_at": "2026-09-30T06:49:37.000Z",
       "first_seen": "2026-09-30T06:49:37.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105179882216952220",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pips-big-city",
@@ -6505,13 +6842,16 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "x_handle": "deathgod2266",
       "published_at": "2026-09-30T07:20:20.000Z",
       "listed_at": "2026-09-30T07:51:31.000Z",
       "first_seen": "2026-09-30T07:51:31.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105196029406777377",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "one-more-floor-opus",
@@ -6543,13 +6883,16 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "x_handle": "SharvyLabs",
       "published_at": "2026-09-30T07:09:04.000Z",
       "listed_at": "2026-09-30T07:51:31.000Z",
       "first_seen": "2026-09-30T07:51:31.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105193193272955012",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "one-more-floor-sonnet",
@@ -6581,13 +6924,16 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "x_handle": "SharvyLabs",
       "published_at": "2026-09-30T07:09:04.000Z",
       "listed_at": "2026-09-30T07:51:31.000Z",
       "first_seen": "2026-09-30T07:51:31.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "likes_source_url": "https://x.com/i/status/2105193193272955012",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "marble-gp-v2",
@@ -6705,7 +7051,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/eRom/agenthot-the-game",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "outpace",
@@ -6734,7 +7084,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/ethanplusai/outpace",
+      "remote_likes": 3,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "knesset-kombat-26",
@@ -6763,7 +7117,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/yarinbnyamin/knesset-kombat-26",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "blockworld",
@@ -6792,7 +7150,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/L1vsun/BLOCKWORLD",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "gravewake",
@@ -6822,7 +7184,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/LioraLabs/gravewake",
+      "remote_likes": 10,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "type-or-die",
@@ -6850,7 +7216,8 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "neon-bay",
@@ -6879,7 +7246,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/L1vsun/NEONBAY",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "last-courier",
@@ -6908,7 +7279,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/tanuu5/last-courier",
+      "remote_likes": 0,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "core-business",
@@ -6937,7 +7312,11 @@
       ],
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
-      "listed_at": "2026-10-01T01:30:00.000Z"
+      "listed_at": "2026-10-01T01:30:00.000Z",
+      "likes_source_url": "https://github.com/leichtbier/core-business",
+      "remote_likes": 1,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "halo-ce-mobile-sol61",
@@ -7129,7 +7508,8 @@
           "score": 8.0,
           "notes": "Neon Kowloon alley FPS still from creator X post photos."
         }
-      ]
+      ],
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "canyon-overdrive",
@@ -7205,7 +7585,12 @@
           "score": 8.8,
           "notes": "Dubovsky Labs Neon Palms hero still"
         }
-      ]
+      ],
+      "likes_source_url": "https://x.com/i/status/2105725141531701682",
+      "remote_likes": 0,
+      "comment_count": 0,
+      "likes_source": "x",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "baa-sheep-opus",
@@ -7225,7 +7610,8 @@
       "screenshot_score_notes": "Sheep-herding arcade benchmark page / demo chrome.",
       "first_seen": "2026-10-02T01:50:14.000Z",
       "last_seen": "2026-10-02T01:50:14.000Z",
-      "listed_at": "2026-10-02T01:50:14.000Z"
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "attack-on-titan-shiganshina",
@@ -7302,7 +7688,10 @@
           "score": 7.6,
           "notes": "Inward maze title / atmospheric corridor."
         }
-      ]
+      ],
+      "likes_source_url": "https://x.com/i/status/2105447832165532022",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rex-chase",
@@ -7394,7 +7783,11 @@
       "screenshot_score_notes": "Rocket-car soccer arena title / boost ball framing.",
       "first_seen": "2026-10-02T01:50:14.000Z",
       "last_seen": "2026-10-02T01:50:14.000Z",
-      "listed_at": "2026-10-02T01:50:14.000Z"
+      "listed_at": "2026-10-02T01:50:14.000Z",
+      "likes_source_url": "https://github.com/am-will/rl-opus",
+      "remote_likes": 34,
+      "likes_source": "github_stars",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "opus-surfers",
@@ -7410,7 +7803,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 2,
+      "remote_likes": 4,
       "likes_source": "x",
       "screenshot_score": 7.9,
       "screenshot_score_notes": "Endless line runner clip from Whip Opus Surfers promo.",
@@ -7432,7 +7825,10 @@
           "score": 7.9,
           "notes": "Endless line runner clip from Whip Opus Surfers promo."
         }
-      ]
+      ],
+      "likes_source_url": "https://x.com/i/status/2105667846307279269",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rivets-and-roses",
@@ -7511,7 +7907,8 @@
       ],
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
-      "listed_at": "2026-10-02T12:34:06.000Z"
+      "listed_at": "2026-10-02T12:34:06.000Z",
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "relight-lantern-expanse",
@@ -7551,7 +7948,8 @@
       ],
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
-      "listed_at": "2026-10-02T12:34:06.000Z"
+      "listed_at": "2026-10-02T12:34:06.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "colony-exodus",
@@ -7574,7 +7972,8 @@
       "screenshot_score_notes": "Landing page / prison planet idle RPG framing (no dedicated clip this run).",
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
-      "listed_at": "2026-10-02T12:34:06.000Z"
+      "listed_at": "2026-10-02T12:34:06.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "vybenomad",
@@ -7654,7 +8053,8 @@
       ],
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
-      "listed_at": "2026-10-02T12:34:06.000Z"
+      "listed_at": "2026-10-02T12:34:06.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "blank-the-spire",
@@ -7693,7 +8093,8 @@
       ],
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
-      "listed_at": "2026-10-02T12:34:06.000Z"
+      "listed_at": "2026-10-02T12:34:06.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "flappy-claude",
@@ -7715,7 +8116,8 @@
       "screenshot_score_notes": "No clip this run; page documents Opus 5.5 Flappy build.",
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
-      "listed_at": "2026-10-02T12:34:06.000Z"
+      "listed_at": "2026-10-02T12:34:06.000Z",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "mach-run",
@@ -7834,7 +8236,8 @@
       ],
       "screenshot_score": 7.5,
       "screenshot_score_notes": "Over-the-shoulder lane fight, minions, and ability bar show the MOBA clearly, with simple tree meshes and a large caption overlay.",
-      "screenshot_path": "videos/kaveth.jpg"
+      "screenshot_path": "videos/kaveth.jpg",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "cowboys-vs-aliens",
@@ -7870,7 +8273,10 @@
       ],
       "screenshot_score": 6.6,
       "screenshot_score_notes": "A scope view of a desert gunfight reads as an FPS, but letterboxing, a facecam, and a huge caption crowd the frame.",
-      "screenshot_path": "videos/cowboys-vs-aliens.jpg"
+      "screenshot_path": "videos/cowboys-vs-aliens.jpg",
+      "likes_source_url": "https://x.com/i/status/2106187099196289527",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "turbopaws",
@@ -7882,7 +8288,7 @@
       "found_via_network": "x",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "remote_likes": 0,
+      "remote_likes": 3,
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
@@ -7921,7 +8327,10 @@
       ],
       "screenshot_score": 7.8,
       "screenshot_score_notes": "Dog karts at the start line are bright and readable, though the giant GO! covers the pack and the scene is simple.",
-      "screenshot_path": "videos/turbopaws.jpg"
+      "screenshot_path": "videos/turbopaws.jpg",
+      "likes_source_url": "https://x.com/i/status/2106167454573494341",
+      "comment_count": 4,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "super-intelligence-bros",
@@ -7932,11 +8341,14 @@
       "found_via": "X @mikepat711 Super Intelligence Bros; Opus 5.5",
       "found_via_network": "x",
       "made_with": "opus-5.5",
-      "remote_likes": 1,
+      "remote_likes": 7,
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
-      "iframe": true
+      "iframe": true,
+      "likes_source_url": "https://x.com/i/status/2106176362444922934",
+      "comment_count": 2,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "blockblast-fps",
@@ -8010,7 +8422,10 @@
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
-      "iframe": true
+      "iframe": true,
+      "likes_source_url": "https://x.com/i/status/2106043331335917580",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "railfall",
@@ -8025,7 +8440,10 @@
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
-      "iframe": true
+      "iframe": true,
+      "likes_source_url": "https://x.com/i/status/2106033806369263914",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "neon-nightfall",
@@ -8041,7 +8459,10 @@
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
-      "iframe": true
+      "iframe": true,
+      "likes_source_url": "https://x.com/i/status/2106031575859351576",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "brazilian-folklore-oneshot",
@@ -8057,7 +8478,10 @@
       "likes_source": "x",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
-      "iframe": true
+      "iframe": true,
+      "likes_source_url": "https://x.com/i/status/2106020134548894187",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "deepcore",
@@ -8279,7 +8703,8 @@
       "remote_likes": 1,
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-05T01:51:45.000Z"
+      "last_seen": "2026-10-05T01:51:45.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "neon-serpent-3d",
@@ -8321,7 +8746,10 @@
       "remote_likes": 0,
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2106513899226861568",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "lx40-academy",
@@ -8342,7 +8770,10 @@
       "remote_likes": 0,
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2106501241358667811",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "fizzfin",
@@ -8362,7 +8793,10 @@
       "remote_likes": 0,
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2106495538866659693",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "lion-city-life",
@@ -8460,10 +8894,13 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2106437301463126211",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "doom-ai",
@@ -8483,7 +8920,8 @@
       "remote_likes": 2,
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "mandris",
@@ -8521,10 +8959,13 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": null,
+      "remote_likes": 85,
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "likes_source_url": "https://x.com/i/status/2106460767667253514",
+      "comment_count": 9,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "iitg-campus-3d",
@@ -8542,7 +8983,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 2,
+      "remote_likes": 5,
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
@@ -8563,7 +9004,10 @@
         }
       ],
       "screenshot_score": 8.0,
-      "screenshot_score_notes": "An aerial campus with labeled hostels and a clear start menu shows the explorer well, though the left-side UI covers much of the map."
+      "screenshot_score_notes": "An aerial campus with labeled hostels and a clear start menu shows the explorer well, though the left-side UI covers much of the map.",
+      "likes_source_url": "https://x.com/i/status/2106439912438559150",
+      "comment_count": 3,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "snowline-rivals",
@@ -8791,7 +9235,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Clean title menu sets the horror tone, but the morgue behind it is nearly black and no gameplay is visible."
+      "screenshot_score_notes": "Clean title menu sets the horror tone, but the morgue behind it is nearly black and no gameplay is visible.",
+      "likes_source_url": "https://x.com/i/status/2106917345629503805",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "corrida-quanta",
@@ -8831,7 +9278,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Voxel runner and math portal prompt are readable, but the vertical clip is pillarboxed with blurred sides and a large text overlay."
+      "screenshot_score_notes": "Voxel runner and math portal prompt are readable, but the vertical clip is pillarboxed with blurred sides and a large text overlay.",
+      "likes_source_url": "https://x.com/i/status/2106851861953495531",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "myth-fallen-levels",
@@ -8900,7 +9350,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Neon blue/red battle grid on a rooftop shows the Battle Network-style combat, but the vertical trailer frame is mostly blurred bars and caption text."
+      "screenshot_score_notes": "Neon blue/red battle grid on a rooftop shows the Battle Network-style combat, but the vertical trailer frame is mostly blurred bars and caption text.",
+      "likes_source_url": "https://x.com/i/status/2106850208206426486",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "petits-gardiens",
@@ -8938,7 +9391,10 @@
         }
       ],
       "screenshot_score": 9,
-      "screenshot_score_notes": "Crisp top-down diorama with a winding path, tower plots, castle and full controls shows the tower defense loop at a glance with polished art."
+      "screenshot_score_notes": "Crisp top-down diorama with a winding path, tower plots, castle and full controls shows the tower defense loop at a glance with polished art.",
+      "likes_source_url": "https://x.com/i/status/2106883027398009146",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "surfd",
@@ -9101,7 +9557,8 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Detailed isometric voxel stadium with a huge crowd, pitch and versus scoreboard looks great, though the players themselves are small."
+      "screenshot_score_notes": "Detailed isometric voxel stadium with a huge crowd, pitch and versus scoreboard looks great, though the players themselves are small.",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "doughty",
@@ -9140,7 +9597,8 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Low-poly spiked behemoth on a pale hill with health bars reads as a monster hunt, but flat untextured terrain makes it look like a prototype."
+      "screenshot_score_notes": "Low-poly spiked behemoth on a pale hill with health bars reads as a monster hunt, but flat untextured terrain makes it look like a prototype.",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "last-call",
@@ -9170,7 +9628,8 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Warm pixel tavern sets the mood, but a tutorial modal covers the board and the card fight behind it is dimmed out."
+      "screenshot_score_notes": "Warm pixel tavern sets the mood, but a tutorial modal covers the board and the card fight behind it is dimmed out.",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "tinker-tailor-soldier-sensor",
@@ -9317,7 +9776,10 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Bright kart grid at the start line with countdown, branded gantry, crowd, minimap and standings reads instantly as a polished kart racer."
+      "screenshot_score_notes": "Bright kart grid at the start line with countdown, branded gantry, crowd, minimap and standings reads instantly as a polished kart racer.",
+      "likes_source_url": "https://x.com/i/status/2107001916462936083",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "planet-defender-2026",
@@ -9356,7 +9818,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Glowing planet ringed by an orbit line against a vivid purple-teal nebula, with ships firing, looks striking; the HUD is tiny and sparse."
+      "screenshot_score_notes": "Glowing planet ringed by an orbit line against a vivid purple-teal nebula, with ships firing, looks striking; the HUD is tiny and sparse.",
+      "likes_source_url": "https://x.com/i/status/2107142965025976444",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "fogbound-trail",
@@ -9600,7 +10065,7 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-07T01:58:22.000Z",
       "last_seen": "2026-10-07T01:58:22.000Z",
       "video_path": "videos/tripwick-hollow.mp4",
@@ -9620,7 +10085,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Top-down courtyard with a glowing golden lantern statue and orbiting relics shows the horde-survival loop; a big trailer caption covers the bottom."
+      "screenshot_score_notes": "Top-down courtyard with a glowing golden lantern statue and orbiting relics shows the horde-survival loop; a big trailer caption covers the bottom.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "aestra-the-last-wish",
@@ -9751,7 +10218,7 @@
         "desktop"
       ],
       "remote_likes": 1,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-07T01:58:22.000Z",
       "last_seen": "2026-10-07T01:58:22.000Z",
       "screenshot_path": "screenshots/296-bad-agent.jpg",
@@ -9763,7 +10230,9 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Hosting page with a 'How to play' modal over a dimmed terminal-style game panel; the rules read clearly but there is little visual flair."
+      "screenshot_score_notes": "Hosting page with a 'How to play' modal over a dimmed terminal-style game panel; the rules read clearly but there is little visual flair.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "selk",
@@ -9780,8 +10249,8 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 2,
-      "likes_source": "reddit",
+      "remote_likes": 3,
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-07T01:58:22.000Z",
       "last_seen": "2026-10-07T01:58:22.000Z",
       "video_path": "videos/selk.mp4",
@@ -9801,7 +10270,9 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Dim green-on-black terminal panes with a small welcome dialog fit the investigation theme, but the text is tiny and hard to read."
+      "screenshot_score_notes": "Dim green-on-black terminal panes with a small welcome dialog fit the investigation theme, but the text is tiny and hard to read.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "valeward",
@@ -9831,7 +10302,10 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Low-poly forest island with a central keep, stat bars and a row of illustrated tower cards shows a full tower-defense UI clearly."
+      "screenshot_score_notes": "Low-poly forest island with a central keep, stat bars and a row of illustrated tower cards shows a full tower-defense UI clearly.",
+      "likes_source_url": "https://x.com/i/status/2107468026165485917",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "head-tracked-shooter",
@@ -9870,7 +10344,10 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Flat grey rooftop with a blocky gun and a webcam face-tracking inset looks like a bare prototype."
+      "screenshot_score_notes": "Flat grey rooftop with a blocky gun and a webcam face-tracking inset looks like a bare prototype.",
+      "likes_source_url": "https://x.com/i/status/2107595137664897082",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "head-tracked-boxing",
@@ -9909,7 +10386,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "First-person boxing ring with big blue gloves and an opponent reads instantly; the webcam tracking overlay and debug text clutter the corners."
+      "screenshot_score_notes": "First-person boxing ring with big blue gloves and an opponent reads instantly; the webcam tracking overlay and debug text clutter the corners.",
+      "likes_source_url": "https://x.com/i/status/2107595651185782949",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rise-and-raid",
@@ -9927,7 +10407,7 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 2,
+      "remote_likes": 3,
       "likes_source": "x",
       "first_seen": "2026-10-07T01:58:22.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
@@ -9940,7 +10420,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen."
+      "screenshot_score_notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen.",
+      "likes_source_url": "https://x.com/i/status/2107531682475565085",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "bay-ride",
@@ -10017,7 +10500,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Clean isometric farmland with fences and scattered saplings is calm and readable but sparse, with no visible UI."
+      "screenshot_score_notes": "Clean isometric farmland with fences and scattered saplings is calm and readable but sparse, with no visible UI.",
+      "likes_source_url": "https://x.com/i/status/2107305865065927071",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "ski-jumping-io",
@@ -10164,7 +10650,10 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "An almost empty pale-blue plane with debug text and a world minimap in the corner; the streamed Britannia world barely shows."
+      "screenshot_score_notes": "An almost empty pale-blue plane with debug text and a world minimap in the corner; the streamed Britannia world barely shows.",
+      "likes_source_url": "https://x.com/i/status/2107532647287468082",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "heatsink",
@@ -10242,7 +10731,10 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Pokémon-style battle panel above a fanned hand of creature cards and a score tracker shows the Balatro mashup clearly; the text is small."
+      "screenshot_score_notes": "Pokémon-style battle panel above a fanned hand of creature cards and a score tracker shows the Balatro mashup clearly; the text is small.",
+      "likes_source_url": "https://x.com/i/status/2107528948695609701",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "endgame-spawn",
@@ -10617,8 +11109,8 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 1,
-      "likes_source": "reddit",
+      "remote_likes": 3,
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/saucerjam.mp4",
@@ -10638,7 +11130,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Dark sci-fi arena with gold-trimmed crates, a glowing saucer and a minimap; moody and readable but mostly empty floor."
+      "screenshot_score_notes": "Dark sci-fi arena with gold-trimmed crates, a glowing saucer and a minimap; moody and readable but mostly empty floor.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "splat-spree",
@@ -10677,7 +11171,8 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Top-down grey office floor with desks, tiny stick figures and a green paint splatter; readable but small and flat."
+      "screenshot_score_notes": "Top-down grey office floor with desks, tiny stick figures and a green paint splatter; readable but small and flat.",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "retro-mars",
@@ -10695,7 +11190,7 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "screenshot_path": "screenshots/348-retro-mars.jpg",
@@ -10707,7 +11202,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Neon pixel-art Martian street with a RETRO MARS sign, shopfronts and a French menu; charming retro look, menu only."
+      "screenshot_score_notes": "Neon pixel-art Martian street with a RETRO MARS sign, shopfronts and a French menu; charming retro look, menu only.",
+      "comment_count": 4,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pirate-raid",
@@ -10726,7 +11223,7 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/pirate-raid.mp4",
@@ -10746,7 +11243,9 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Vertical phone capture of a cartoon pirate ship on bright blue water with a 'Grab the loot!' banner; colorful but narrow."
+      "screenshot_score_notes": "Vertical phone capture of a cartoon pirate ship on bright blue water with a 'Grab the loot!' banner; colorful but narrow.",
+      "comment_count": 15,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "dune-arrakis",
@@ -10765,7 +11264,7 @@
         "desktop"
       ],
       "remote_likes": 0,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/dune-arrakis.mp4",
@@ -10785,7 +11284,9 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Sunlit desert with a cluster of blue tanks and trikes firing at a refinery, explosions and an ornithopter; busy and clearly an RTS battle."
+      "screenshot_score_notes": "Sunlit desert with a cluster of blue tanks and trikes firing at a refinery, explosions and an ornithopter; busy and clearly an RTS battle.",
+      "comment_count": 4,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "pixel-miner",
@@ -10803,7 +11304,7 @@
         "desktop"
       ],
       "remote_likes": 1,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "video_path": "videos/pixel-miner.mp4",
@@ -10823,7 +11324,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Pixel mining camp with a workshop, cabin and mine entrance under grey cliffs and a commander dialog; tidy pixel art with small HUD text."
+      "screenshot_score_notes": "Pixel mining camp with a workshop, cabin and mine entrance under grey cliffs and a commander dialog; tidy pixel art with small HUD text.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "turfwar-taipei",
@@ -10973,7 +11476,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Lush pixel forest with a kilted swordsman fighting training dummies and a big stats panel; charming art, though the panel covers the left third."
+      "screenshot_score_notes": "Lush pixel forest with a kilted swordsman fighting training dummies and a big stats panel; charming art, though the panel covers the left third.",
+      "likes_source_url": "https://x.com/i/status/2107783130212164031",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "ripple-pool",
@@ -11043,7 +11549,10 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Black terminal screen with a small rainbow PINTERM title and key hints; the table is not visible yet."
+      "screenshot_score_notes": "Black terminal screen with a small rainbow PINTERM title and key hints; the table is not visible yet.",
+      "likes_source_url": "https://x.com/i/status/2108002628894650725",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rim-runner",
@@ -11082,7 +11591,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Glossy red track curving through a dark neon grid with a lone tire rolling along it; stylish, a bit abstract."
+      "screenshot_score_notes": "Glossy red track curving through a dark neon grid with a lone tire rolling along it; stylish, a bit abstract.",
+      "likes_source_url": "https://x.com/i/status/2107599726447104006",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "wording-well",
@@ -11114,7 +11626,10 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Monochrome terminal-style text panel with a few buttons on black; atmospheric text but almost no visuals."
+      "screenshot_score_notes": "Monochrome terminal-style text panel with a few buttons on black; atmospheric text but almost no visuals.",
+      "likes_source_url": "https://x.com/i/status/2107730844681203805",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "fourcities",
@@ -11145,7 +11660,10 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Dark setup form with seed, city and rival difficulty buttons; clean but it is only a lobby menu."
+      "screenshot_score_notes": "Dark setup form with seed, city and rival difficulty buttons; clean but it is only a lobby menu.",
+      "likes_source_url": "https://x.com/i/status/2107887898171183465",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "tweet-obby",
@@ -11195,7 +11713,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 2,
+      "remote_likes": 3,
       "likes_source": "x",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
@@ -11216,7 +11734,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Glowing pink, orange and yellow snakes weaving through a field of neon dots with a leaderboard; vivid and readable."
+      "screenshot_score_notes": "Glowing pink, orange and yellow snakes weaving through a field of neon dots with a leaderboard; vivid and readable.",
+      "likes_source_url": "https://x.com/i/status/2107978235279720898",
+      "comment_count": 3,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "starship-hearth",
@@ -11346,7 +11867,7 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 2,
       "likes_source": "x",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
@@ -11367,7 +11888,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Glowing orange and teal cats flying past a gold mechanical serpent through red light ribbons; striking and painterly."
+      "screenshot_score_notes": "Glowing orange and teal cats flying past a gold mechanical serpent through red light ribbons; striking and painterly.",
+      "likes_source_url": "https://x.com/i/status/2107852388203909541",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sky-reach",
@@ -11457,8 +11981,8 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
-      "likes_source": "reddit",
+      "remote_likes": 2,
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "screenshot_path": "screenshots/356-supermekabots.jpg",
@@ -11470,7 +11994,9 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Huge yellow SUPER MEKA/BOTS headline on dark brown with a 'Claim your starter' box; bold branding, no game view."
+      "screenshot_score_notes": "Huge yellow SUPER MEKA/BOTS headline on dark brown with a 'Claim your starter' box; bold branding, no game view.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "dead-world",
@@ -11488,7 +12014,7 @@
         "desktop"
       ],
       "remote_likes": 1,
-      "likes_source": "reddit",
+      "likes_source": "reddit_upvotes",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
       "screenshot_path": "screenshots/357-dead-world.jpg",
@@ -11500,7 +12026,9 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Gritty key art of survivors firing into a zombie horde under a dripping red DEAD WORLD logo; dramatic, promotional art rather than gameplay."
+      "screenshot_score_notes": "Gritty key art of survivors firing into a zombie horde under a dripping red DEAD WORLD logo; dramatic, promotional art rather than gameplay.",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "embervale",
@@ -11539,7 +12067,10 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Murky low-poly hillside with a tiny character and a building corner; dark and hard to read."
+      "screenshot_score_notes": "Murky low-poly hillside with a tiny character and a building corner; dark and hard to read.",
+      "likes_source_url": "https://x.com/i/status/2107856803115749470",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "typewriter-planet-defense",
@@ -11570,7 +12101,10 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Teal start panel ('The sky is falling. Your fingers are the defense.') with language and level pickers; neat but just the menu."
+      "screenshot_score_notes": "Teal start panel ('The sky is falling. Your fingers are the defense.') with language and level pickers; neat but just the menu.",
+      "likes_source_url": "https://x.com/i/status/2107925719288533253",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "winbloxos-disaster-survival",
@@ -11601,7 +12135,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Bold 'Survive the unexpected.' landing over a sunny low-poly city diorama with three map cards; polished, menu only."
+      "screenshot_score_notes": "Bold 'Survive the unexpected.' landing over a sunny low-poly city diorama with three map cards; polished, menu only.",
+      "likes_source_url": "https://x.com/i/status/2107905687821185212",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "grid-academy",
@@ -11632,7 +12169,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Dark cyberpunk rooftop range with neon-yellow 'UPGRADE YOUR INSTINCT.' headline and a training-protocol panel; stylish, a little busy."
+      "screenshot_score_notes": "Dark cyberpunk rooftop range with neon-yellow 'UPGRADE YOUR INSTINCT.' headline and a training-protocol panel; stylish, a little busy.",
+      "likes_source_url": "https://x.com/i/status/2107874314758631578",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "dust-2-dm-spawn",
@@ -11729,7 +12269,7 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 8,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
       "last_seen": "2026-10-09T03:00:00.000Z",
@@ -11750,7 +12290,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Cute low-poly pigeon threading yellow girders over a foggy Midtown of glowing windows and a row of taxis; clear and charming."
+      "screenshot_score_notes": "Cute low-poly pigeon threading yellow girders over a foggy Midtown of glowing windows and a row of taxis; clear and charming.",
+      "likes_source_url": "https://x.com/i/status/2108367760984338575",
+      "comment_count": 2,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "clawd-rpg",
@@ -11847,7 +12390,7 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 2,
+      "remote_likes": 3,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
       "last_seen": "2026-10-09T03:00:00.000Z",
@@ -11868,7 +12411,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Vertical climb teaser with Pokémon silhouettes; energetic but small and mobile-framed."
+      "screenshot_score_notes": "Vertical climb teaser with Pokémon silhouettes; energetic but small and mobile-framed.",
+      "likes_source_url": "https://x.com/i/status/2108309121661366390",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "plane-sailing",
@@ -11900,7 +12446,10 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Sparse landing / loading capture of the paper-plane site; concept clear, little gameplay visible."
+      "screenshot_score_notes": "Sparse landing / loading capture of the paper-plane site; concept clear, little gameplay visible.",
+      "likes_source_url": "https://x.com/i/status/2108308525604626571",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "one-beam",
@@ -11917,7 +12466,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
+      "remote_likes": 2,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
       "last_seen": "2026-10-10T02:00:00.000Z",
@@ -11938,7 +12487,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Dark sci-fi multiplayer demo frame; moody but hard to read the action."
+      "screenshot_score_notes": "Dark sci-fi multiplayer demo frame; moody but hard to read the action.",
+      "likes_source_url": "https://x.com/i/status/2108302762845110756",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "gigacity",
@@ -11995,7 +12547,7 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "first_seen": "2026-10-09T03:00:00.000Z",
       "last_seen": "2026-10-09T03:00:00.000Z",
@@ -12016,7 +12568,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Trailer of floating-island creature combat; colorful co-op vibes, a little busy."
+      "screenshot_score_notes": "Trailer of floating-island creature combat; colorful co-op vibes, a little busy.",
+      "likes_source_url": "https://x.com/i/status/2108381328299176238",
+      "comment_count": 2,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "doorstep",
@@ -12371,7 +12926,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Mission-briefing overlay with control keys over a dark cockpit HUD and speed/altitude gauges; readable but mostly text, little of the re-entry itself."
+      "screenshot_score_notes": "Mission-briefing overlay with control keys over a dark cockpit HUD and speed/altitude gauges; readable but mostly text, little of the re-entry itself.",
+      "likes_source_url": "https://x.com/i/status/2108460659772199154",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "stardust-isles",
@@ -12493,7 +13051,10 @@
       ],
       "screenshot_score": 5,
       "screenshot_score_notes": "Vertical phone capture of a pixel TD lane lined with Magikarp and a 'SPLASH: 1 DAMAGE' banner; funny but small and cramped.",
-      "x_handle": "ctrlvibedev"
+      "x_handle": "ctrlvibedev",
+      "likes_source_url": "https://x.com/i/status/2108392005680480462",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "unburied",
@@ -12524,7 +13085,8 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Lamp-lit concrete bunker with shambling soldier zombies advancing past tables; moody and recognisably CoD Zombies, a bit dark."
+      "screenshot_score_notes": "Lamp-lit concrete bunker with shambling soldier zombies advancing past tables; moody and recognisably CoD Zombies, a bit dark.",
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
     },
     {
       "id": "lantern-isle",
@@ -12555,7 +13117,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Framed pixel 'Wreck Beach' screen with a beached wooden ship, crab and inventory bar; tidy retro look, small at full size."
+      "screenshot_score_notes": "Framed pixel 'Wreck Beach' screen with a beached wooden ship, crab and inventory bar; tidy retro look, small at full size.",
+      "likes_source_url": "https://x.com/i/status/2108423240762933728",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "coin-collector-3d",
@@ -12573,7 +13138,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 1,
+      "remote_likes": 2,
       "likes_source": "x",
       "first_seen": "2026-10-10T02:00:00.000Z",
       "last_seen": "2026-10-10T02:00:00.000Z",
@@ -12594,7 +13159,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Bright toy-box arena of grassy blocks, giant pudding and coins with a kart racing through and clean HUD timers; colourful and readable."
+      "screenshot_score_notes": "Bright toy-box arena of grassy blocks, giant pudding and coins with a kart racing through and clean HUD timers; colourful and readable.",
+      "likes_source_url": "https://x.com/i/status/2108693622346633716",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "dino-souls-arena",
@@ -12624,7 +13192,10 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Plain dark lobby with name field, quick-match/private-room panels and no gameplay visible; functional but bare."
+      "screenshot_score_notes": "Plain dark lobby with name field, quick-match/private-room panels and no gameplay visible; functional but bare.",
+      "likes_source_url": "https://x.com/i/status/2108666187953693056",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "nearia",
@@ -12655,7 +13226,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Landing page with a glossy NEARIA hero crest (Play · Earn · Own) and a big Play button; polished branding, no in-game view."
+      "screenshot_score_notes": "Landing page with a glossy NEARIA hero crest (Play · Earn · Own) and a big Play button; polished branding, no in-game view.",
+      "likes_source_url": "https://x.com/i/status/2108662450631364993",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "monster-defense",
@@ -12674,7 +13248,7 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 0,
+      "remote_likes": 7,
       "likes_source": "x",
       "first_seen": "2026-10-10T02:00:00.000Z",
       "last_seen": "2026-10-10T02:00:00.000Z",
@@ -12695,7 +13269,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Promo frame: 'BOILING OIL.' title over a top-down cobblestone keep with braziers and a few soldiers; handsome art, trailer-styled."
+      "screenshot_score_notes": "Promo frame: 'BOILING OIL.' title over a top-down cobblestone keep with braziers and a few soldiers; handsome art, trailer-styled.",
+      "likes_source_url": "https://x.com/i/status/2104677520557949277",
+      "comment_count": 4,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "till-dark",
@@ -12734,7 +13311,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Misty redwood forest floor with ferns and shafts of grey light; atmospheric and clean, deliberately dim."
+      "screenshot_score_notes": "Misty redwood forest floor with ferns and shafts of grey light; atmospheric and clean, deliberately dim.",
+      "likes_source_url": "https://x.com/i/status/2108632742967791760",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "cows-with-buns",
@@ -12764,7 +13344,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Bold cartoon title screen with chunky COWS with BUNS lettering, Play/How to play buttons and a herd almanac; bright and inviting."
+      "screenshot_score_notes": "Bold cartoon title screen with chunky COWS with BUNS lettering, Play/How to play buttons and a herd almanac; bright and inviting.",
+      "likes_source_url": "https://x.com/i/status/2108582487257436208",
+      "comment_count": 0,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "roadster-flying-car",
@@ -12782,7 +13365,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
+      "remote_likes": 6,
       "likes_source": "x",
       "first_seen": "2026-10-10T02:00:00.000Z",
       "last_seen": "2026-10-10T02:00:00.000Z",
@@ -12803,7 +13386,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Retro flying car threading a canyon of lit skyscraper windows at dusk; nice sense of scale, slightly soft."
+      "screenshot_score_notes": "Retro flying car threading a canyon of lit skyscraper windows at dusk; nice sense of scale, slightly soft.",
+      "likes_source_url": "https://x.com/i/status/2108490551385624581",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "cowduction",
@@ -12836,7 +13422,10 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Neon title screen: cow in a flying saucer beaming up green aliens over a purple planet, Portuguese menu; vivid key art, no gameplay.",
-      "x_handle": "guibsonvg"
+      "x_handle": "guibsonvg",
+      "likes_source_url": "https://x.com/i/status/2108622504839541228",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rally-road-rash",
@@ -13225,7 +13814,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "command-conquer-generals-zero-hour",
@@ -13324,7 +13914,8 @@
       "x_handle": "chronodivide",
       "github_user": "chronodivide",
       "author_source": "https://chronodivide.com/",
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "counter-strike-1-6",
@@ -13371,7 +13962,8 @@
       "x_handle": "lukathedev",
       "github_user": "lklacar",
       "author_source": "https://csjs.live",
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "counter-strike-source-bunnyhop-bunnyhop-lol",
@@ -13415,7 +14007,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "crash-team-racing-turbocharged",
@@ -13826,7 +14419,8 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Upload your own Halo CE ISO"
+      "requires_own_files_note": "Upload your own Halo CE ISO",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "netquake-io",
@@ -13870,7 +14464,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "pro-evolution-soccer-6",
@@ -13916,7 +14511,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "quake-ii",
@@ -13962,7 +14558,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "quake-iii-arena-q3-pieter-com",
@@ -14008,7 +14605,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "quakeworld",
@@ -14054,7 +14652,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "ratchet-clank-pc-port",
@@ -14157,7 +14756,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "skate-3",
@@ -14203,7 +14803,8 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Bring your own Skate 3 copy (game files)"
+      "requires_own_files_note": "Bring your own Skate 3 copy (game files)",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "star-fox-adventures",
@@ -14310,7 +14911,8 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "Select your own .pk3 files from GameData/base"
+      "requires_own_files_note": "Select your own .pk3 files from GameData/base",
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "super-mario-64-multiplayer",
@@ -14356,7 +14958,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "the-simpsons-hit-run",
@@ -14405,7 +15008,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "urban-terror-listed-as-unreal-tournament",
@@ -14449,7 +15053,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "virtua-fighter-arcade-recompilation",
@@ -14488,8 +15093,8 @@
       "screenshot_score_notes": "Needs your own game files (rom); capped at 3 per curator rule.",
       "github_user": "mr-finster",
       "author_source": "https://vf1-recomp.pages.dev/",
-      "remote_likes": 0,
-      "likes_source": "github",
+      "remote_likes": 2,
+      "likes_source": "github_stars",
       "github_url": "https://github.com/mr-finster/vf1-recomp",
       "video_path": "videos/virtua-fighter-arcade-recompilation.mp4",
       "video_source": "youtube",
@@ -14507,7 +15112,9 @@
         "windows",
         "macos",
         "linux"
-      ]
+      ],
+      "likes_source_url": "https://github.com/mr-finster/vf1-recomp",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "wadcmd-doom-in-the-browser",
@@ -14553,7 +15160,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-froydinger-mirror",
@@ -14592,7 +15200,7 @@
       "github_user": "Froydinger",
       "author_source": "https://froydinger.github.io/claude-of-duty/",
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_url": "https://github.com/Froydinger/claude-of-duty",
       "video_path": "videos/claude-of-duty-vibe-slops-ii-froydinger-mirror.mp4",
       "video_source": "youtube",
@@ -14602,7 +15210,9 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_source_url": "https://github.com/Froydinger/claude-of-duty",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror",
@@ -14641,7 +15251,7 @@
       "github_user": "GoofyAhhBro69420",
       "author_source": "https://goofyahhbro69420.github.io/Black-Ops-2/",
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_url": "https://github.com/GoofyAhhBro69420/Black-Ops-2",
       "video_path": "videos/claude-of-duty-vibe-slops-ii-goofyahhbro69420-mirror.mp4",
       "video_source": "youtube",
@@ -14651,7 +15261,9 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_source_url": "https://github.com/GoofyAhhBro69420/Black-Ops-2",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kino-der-toten-goofyahhbro69420-mirror",
@@ -14690,7 +15302,7 @@
       "github_user": "GoofyAhhBro69420",
       "author_source": "https://goofyahhbro69420.github.io/COD-ZOMBIES/",
       "remote_likes": 1,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_url": "https://github.com/GoofyAhhBro69420/COD-ZOMBIES",
       "video_path": "videos/kino-der-toten-goofyahhbro69420-mirror.mp4",
       "video_source": "youtube",
@@ -14700,7 +15312,9 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_source_url": "https://github.com/GoofyAhhBro69420/COD-ZOMBIES",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kino-der-toten-theeagler1234-mirror",
@@ -14739,7 +15353,7 @@
       "github_user": "theeagler1234-alt",
       "author_source": "https://theeagler1234-alt.github.io/kino-der-toten/",
       "remote_likes": 0,
-      "likes_source": "github",
+      "likes_source": "github_stars",
       "github_url": "https://github.com/theeagler1234-alt/kino-der-toten",
       "video_path": "videos/kino-der-toten-theeagler1234-mirror.mp4",
       "video_source": "youtube",
@@ -14749,7 +15363,9 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_source_url": "https://github.com/theeagler1234-alt/kino-der-toten",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "cheese-cube-black-ops-iii-custom-map",
@@ -14793,7 +15409,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "aetherfall",
@@ -14874,7 +15491,9 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Saturn V climbing off the pad inside a dense telemetry dashboard of graphs and panels; informative but busy and small."
+      "screenshot_score_notes": "Saturn V climbing off the pad inside a dense telemetry dashboard of graphs and panels; informative but busy and small.",
+      "likes_source_url": "https://x.com/i/status/2108847206472307141",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "tiny-swords-wars",
@@ -14892,7 +15511,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 0,
+      "remote_likes": 1,
       "likes_source": "x",
       "comment_count": 0,
       "x_handle": "tinyswordswars",
@@ -14915,7 +15534,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Two blobs of tiny blue and red pixel soldiers clashing on a grass field; readable and lively, low detail."
+      "screenshot_score_notes": "Two blobs of tiny blue and red pixel soldiers clashing on a grass field; readable and lively, low detail.",
+      "likes_source_url": "https://x.com/i/status/2108852140139483499",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "the-street-game-marbles",
@@ -14948,7 +15569,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Promo card: glass marbles in a dirt ring on a sunset street plus a big 'THE STREET GAME / PLAY FREE' title; warm and inviting, not in-game."
+      "screenshot_score_notes": "Promo card: glass marbles in a dirt ring on a sunset street plus a big 'THE STREET GAME / PLAY FREE' title; warm and inviting, not in-game.",
+      "likes_source_url": "https://x.com/i/status/2108983709496139811",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "kosighost",
@@ -14987,9 +15610,9 @@
         "desktop",
         "mobile"
       ],
-      "remote_likes": 2,
+      "remote_likes": 4,
       "likes_source": "x",
-      "comment_count": 0,
+      "comment_count": 1,
       "x_handle": "ryantsai_16",
       "first_seen": "2026-10-11T02:00:00.000Z",
       "last_seen": "2026-10-11T02:00:00.000Z",
@@ -15010,7 +15633,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Bright snowy low-poly track with pine trees and two karts racing toward the camera; clean, cheerful, simple."
+      "screenshot_score_notes": "Bright snowy low-poly track with pine trees and two karts racing toward the camera; clean, cheerful, simple.",
+      "likes_source_url": "https://x.com/i/status/2108749254479233477",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "drawdown",
@@ -15082,7 +15707,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Glowing red sci-fi corridor with heavy bloom and dark figures at the far end; moody and cinematic, a bit blown out."
+      "screenshot_score_notes": "Glowing red sci-fi corridor with heavy bloom and dark figures at the far end; moody and cinematic, a bit blown out.",
+      "likes_source_url": "https://x.com/i/status/2109006199438131439",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "downhill-urban-fpv",
@@ -15101,7 +15728,7 @@
       ],
       "remote_likes": 0,
       "likes_source": "x",
-      "comment_count": 0,
+      "comment_count": 1,
       "x_handle": "sreekumarm70485",
       "first_seen": "2026-10-11T02:00:00.000Z",
       "last_seen": "2026-10-11T02:00:00.000Z",
@@ -15114,7 +15741,9 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Handlebar FPV view on a dark jungle trail with timer, speed and course-map HUD; clear UI, very dim scene."
+      "screenshot_score_notes": "Handlebar FPV view on a dark jungle trail with timer, speed and course-map HUD; clear UI, very dim scene.",
+      "likes_source_url": "https://x.com/i/status/2109038555473559755",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "rive-city",
@@ -15403,7 +16032,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "grand-theft-auto-v",
@@ -15447,7 +16077,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "lego-island",
@@ -15491,7 +16122,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "minecraft-1-8-8-eaglercraftx",
@@ -15535,7 +16167,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "nacht-der-untoten",
@@ -15579,7 +16212,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "runescape-classic",
@@ -15623,7 +16257,8 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "likes_check": "no original post found 2026-10-12"
     },
     {
       "id": "super-mario-zombies",
@@ -16176,7 +16811,8 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Portrait title screen: glossy 'Hot Dog Please!' logo over a cartoon hot dog truck on an Istanbul waterfront, stand-name form and Play button; polished art, no gameplay."
+      "screenshot_score_notes": "Portrait title screen: glossy 'Hot Dog Please!' logo over a cartoon hot dog truck on an Istanbul waterfront, stand-name form and Play button; polished art, no gameplay.",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "snakes-snake-artillery",
@@ -16210,7 +16846,8 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Pixel Worms-style island under a purple dusk sky with sheep raining down, two snakes with HP tags and team bars; clear and fun."
+      "screenshot_score_notes": "Pixel Worms-style island under a purple dusk sky with sheep raining down, two snakes with HP tags and team bars; clear and fun.",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sky-chariot",
@@ -16251,7 +16888,8 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Red chariot on a long stone bridge toward a stepped temple among misty floating islands, speed and progress HUD; pleasant, a bit flat."
+      "screenshot_score_notes": "Red chariot on a long stone bridge toward a stepped temple among misty floating islands, speed and progress HUD; pleasant, a bit flat.",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "slipper-escape",
@@ -16293,7 +16931,8 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "First-person low-poly kitchen with chairs, plates and a doormat, motion-blurred mid-turn; simple and soft."
+      "screenshot_score_notes": "First-person low-poly kitchen with chairs, plates and a doormat, motion-blurred mid-turn; simple and soft.",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "star-outpost-command",
@@ -16328,7 +16967,8 @@
         }
       ],
       "screenshot_score": 2,
-      "screenshot_score_notes": "Only the dark 'Commander Authentication' login card (guest or Google sign-in) on a black page; no gameplay visible."
+      "screenshot_score_notes": "Only the dark 'Commander Authentication' login card (guest or Google sign-in) on a black page; no gameplay visible.",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "san-theft-auto",
@@ -16572,7 +17212,8 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Bright alpine slope with a snowboarder, chalet, chairlift and speed/score HUD; clean and scenic."
+      "screenshot_score_notes": "Bright alpine slope with a snowboarder, chalet, chairlift and speed/score HUD; clean and scenic.",
+      "likes_checked": "2026-10-12"
     },
     {
       "id": "sonic-cd-little-planet",
