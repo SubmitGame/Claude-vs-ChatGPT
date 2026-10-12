@@ -214,7 +214,149 @@
       "likes_source": "x",
       "comment_count": 55,
       "x_handle": "chongdashu",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "chongdashu",
+          "text": "@GitPushPampers Thank you so much ! I appreciate it",
+          "likes": 1,
+          "url": "https://x.com/chongdashu/status/2103076055678607426",
+          "created_at": "2026-09-24T10:56:19Z"
+        },
+        {
+          "author": "GitPushPampers",
+          "text": "@chongdashu One of the best demo i've seen, genuinely impressed",
+          "likes": 1,
+          "url": "https://x.com/GitPushPampers/status/2103070458321232036",
+          "created_at": "2026-09-24T10:34:05Z"
+        },
+        {
+          "author": "Edesberg",
+          "text": "@chongdashu i love the premise of the game :D nice work finding that hook",
+          "likes": 1,
+          "url": "https://x.com/Edesberg/status/2103015259803951258",
+          "created_at": "2026-09-24T06:54:44Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "@ohsalmeron Rust WebGPU Wasm",
+          "likes": 1,
+          "url": "https://x.com/chongdashu/status/2103004232425308509",
+          "created_at": "2026-09-24T06:10:55Z"
+        },
+        {
+          "author": "x0101148421",
+          "text": "@chongdashu Acknowledge the tech/process (gamedev, Opus).",
+          "likes": 0,
+          "url": "https://x.com/x0101148421/status/2106490275262808273",
+          "created_at": "2026-10-03T21:03:12Z"
+        },
+        {
+          "author": "x0081273947",
+          "text": "@chongdashu Solid point — valuable content right here. 🔥",
+          "likes": 0,
+          "url": "https://x.com/x0081273947/status/2106427161829933102",
+          "created_at": "2026-10-03T16:52:25Z"
+        },
+        {
+          "author": "x012132498",
+          "text": "@chongdashu Target keywords (for flavor): amazing, gamedev!, understands, intentions.",
+          "likes": 0,
+          "url": "https://x.com/x012132498/status/2105380325266468920",
+          "created_at": "2026-09-30T19:32:40Z"
+        },
+        {
+          "author": "Floskky",
+          "text": "@chongdashu Awesome game, honestly—it's really cool! Just one question: you mentioned using Blender and Tripo, but do you use Claude Code or something else to build this kind of game? I’d love to make a fun one too, but there are so many tools out there that I don't know which one to pick",
+          "likes": 0,
+          "url": "https://x.com/Floskky/status/2104878966431424963",
+          "created_at": "2026-09-29T10:20:27Z"
+        },
+        {
+          "author": "x009121180",
+          "text": "@chongdashu Such a resonates with me. ✨",
+          "likes": 0,
+          "url": "https://x.com/x009121180/status/2104263645953921363",
+          "created_at": "2026-09-27T17:35:23Z"
+        },
+        {
+          "author": "AgentShadowGold",
+          "text": "@chongdashu source code?",
+          "likes": 0,
+          "url": "https://x.com/AgentShadowGold/status/2104249313370984675",
+          "created_at": "2026-09-27T16:38:26Z"
+        },
+        {
+          "author": "strawhatsu4",
+          "text": "@chongdashu I made a launch video for your game, super fun!",
+          "likes": 0,
+          "url": "https://x.com/strawhatsu4/status/2103030262737375285",
+          "created_at": "2026-09-24T07:54:21Z"
+        },
+        {
+          "author": "ohsalmeron",
+          "text": "@chongdashu Nice! Is this bevy or straight up rust wgpu?",
+          "likes": 0,
+          "url": "https://x.com/ohsalmeron/status/2102995193146544387",
+          "created_at": "2026-09-24T05:35:00Z"
+        },
+        {
+          "author": "arenaahq",
+          "text": "@chongdashu AI just turned pressure washing into a AAA studio pitch 💀",
+          "likes": 0,
+          "url": "https://x.com/arenaahq/status/2102969454678233415",
+          "created_at": "2026-09-24T03:52:43Z"
+        },
+        {
+          "author": "thetrenchesdev",
+          "text": "@chongdashu what the fuck bro, how many tokens? time? $$? this is insane lmao https://t.co/S9A1VgbVSI",
+          "likes": 0,
+          "url": "https://x.com/thetrenchesdev/status/2102961212862443714",
+          "created_at": "2026-09-24T03:19:58Z"
+        },
+        {
+          "author": "mattgordonxyz",
+          "text": "@chongdashu whats your tripo/blender workflow?",
+          "likes": 0,
+          "url": "https://x.com/mattgordonxyz/status/2102928530237776271",
+          "created_at": "2026-09-24T01:10:06Z"
+        },
+        {
+          "author": "hey_ando",
+          "text": "@chongdashu This is awesome",
+          "likes": 0,
+          "url": "https://x.com/hey_ando/status/2102911701519925509",
+          "created_at": "2026-09-24T00:03:14Z"
+        },
+        {
+          "author": "Danaka19643683",
+          "text": "@chongdashu can this game build in Android App?",
+          "likes": 0,
+          "url": "https://x.com/Danaka19643683/status/2102911471877534046",
+          "created_at": "2026-09-24T00:02:19Z"
+        },
+        {
+          "author": "FootOfStickBlx",
+          "text": "@chongdashu In a few days you'll see this on Roblox",
+          "likes": 0,
+          "url": "https://x.com/FootOfStickBlx/status/2102867375058235820",
+          "created_at": "2026-09-23T21:07:06Z"
+        },
+        {
+          "author": "Frozair",
+          "text": "@chongdashu how much did Tripo cost?",
+          "likes": 0,
+          "url": "https://x.com/Frozair/status/2102855720287047757",
+          "created_at": "2026-09-23T20:20:47Z"
+        },
+        {
+          "author": "Sanctum_5",
+          "text": "@chongdashu nice man",
+          "likes": 0,
+          "url": "https://x.com/Sanctum_5/status/2102842812253569278",
+          "created_at": "2026-09-23T19:29:30Z"
+        }
+      ]
     },
     {
       "id": "kettu-vellam",
@@ -412,7 +554,149 @@
       "likes_source": "x",
       "comment_count": 62,
       "x_handle": "genex_games",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "tuanteku9x",
+          "text": "@genex_games @threejs love it",
+          "likes": 1,
+          "url": "https://x.com/tuanteku9x/status/2103417624394936550",
+          "created_at": "2026-09-25T09:33:35Z"
+        },
+        {
+          "author": "nickvrnn",
+          "text": "@genex_games @threejs no way, holyyy",
+          "likes": 1,
+          "url": "https://x.com/nickvrnn/status/2103100259530575989",
+          "created_at": "2026-09-24T12:32:30Z"
+        },
+        {
+          "author": "irb0gie",
+          "text": "@genex_games @threejs https://t.co/YbVSw8CsYp",
+          "likes": 1,
+          "url": "https://x.com/irb0gie/status/2103056733551640650",
+          "created_at": "2026-09-24T09:39:32Z"
+        },
+        {
+          "author": "georgeranch",
+          "text": "@nabendu82 @genex_games @threejs This is insane",
+          "likes": 1,
+          "url": "https://x.com/georgeranch/status/2102891054391267469",
+          "created_at": "2026-09-23T22:41:11Z"
+        },
+        {
+          "author": "ChanceGlasco",
+          "text": "@genex_games @threejs Reminds me of that Orlando Magic game I went to where only one player showed up and had early onset cerebral palsy",
+          "likes": 1,
+          "url": "https://x.com/ChanceGlasco/status/2102861835808526391",
+          "created_at": "2026-09-23T20:45:05Z"
+        },
+        {
+          "author": "benmcoleman",
+          "text": "@genex_games @0xDanielAI @threejs “Scrape the web”",
+          "likes": 1,
+          "url": "https://x.com/benmcoleman/status/2102854420199592066",
+          "created_at": "2026-09-23T20:15:37Z"
+        },
+        {
+          "author": "SudhanshuS67445",
+          "text": "@genex_games @threejs Quick update since you asked about the deep-sea game: Below 10,000 Meters is live (https://t.co/7FXnh6jd0m) and I've just revealed my next one, The Veil, a cinematic semi-open-world action game in the browser 👉 https://t.co/sW41jmJL2Y",
+          "likes": 0,
+          "url": "https://x.com/SudhanshuS67445/status/2104149718133829723",
+          "created_at": "2026-09-27T10:02:40Z"
+        },
+        {
+          "author": "0xAlphana",
+          "text": "@genex_games @threejs Opus shipping playable toys overnight is the easy headline. The sticky part is co-op: humans and AIs on the same objective.\n\nWe ran a free four-seat expedition that way and wrote the Wave 1 field notes here:\n\nhttps://t.co/ZNFGbLJ1rr",
+          "likes": 0,
+          "url": "https://x.com/0xAlphana/status/2103278821839392947",
+          "created_at": "2026-09-25T00:22:02Z"
+        },
+        {
+          "author": "AIAppsAPI",
+          "text": "@genex_games @threejs Having the agent build its own motion lab before touching the game is the smartest part of this. Congrats on shipping it. Looking forward to the source, especially how you keep the controls feeling tight once the animations come from generated reference.",
+          "likes": 0,
+          "url": "https://x.com/AIAppsAPI/status/2103158091537956955",
+          "created_at": "2026-09-24T16:22:18Z"
+        },
+        {
+          "author": "crazyjoedavolax",
+          "text": "@genex_games @threejs no it didnt \"cook\" it retard",
+          "likes": 0,
+          "url": "https://x.com/crazyjoedavolax/status/2103151531608445176",
+          "created_at": "2026-09-24T15:56:14Z"
+        },
+        {
+          "author": "ndemaria_",
+          "text": "@genex_games @threejs This is amazing, thanks for sharing! Any chance you could share the token count and how much it cost?\n\nI’m curious what it took to pull this off.",
+          "likes": 0,
+          "url": "https://x.com/ndemaria_/status/2103094972761211184",
+          "created_at": "2026-09-24T12:11:29Z"
+        },
+        {
+          "author": "BrooklynGroyper",
+          "text": "@genex_games @threejs In 25 years, max, we'll be able to create an entire game of our dreams, with extremely realistic graphics &amp; fluid animations from video footage. Can't wait.",
+          "likes": 0,
+          "url": "https://x.com/BrooklynGroyper/status/2103024602515456013",
+          "created_at": "2026-09-24T07:31:52Z"
+        },
+        {
+          "author": "BShrouden",
+          "text": "@genex_games @threejs hmmm too much heavy render , left me frozen tab , i did same few years ago and without ai and it was good,",
+          "likes": 0,
+          "url": "https://x.com/BShrouden/status/2103022568248951246",
+          "created_at": "2026-09-24T07:23:47Z"
+        },
+        {
+          "author": "ThenAMug",
+          "text": "@genex_games @threejs https://t.co/ihTCFzHbIC",
+          "likes": 0,
+          "url": "https://x.com/ThenAMug/status/2103012522660094436",
+          "created_at": "2026-09-24T06:43:52Z"
+        },
+        {
+          "author": "SudhanshuS67445",
+          "text": "@genex_games @threejs Thanks! It's Below 10,000 Meters, a deep-sea mystery on my own engine layer over three.js: first/third person, voiced story, cinematics. Chapter One is live. Would love to try your agent tooling on Chapter Two, or collab 🤝 https://t.co/7FXnh6jd0m",
+          "likes": 0,
+          "url": "https://x.com/SudhanshuS67445/status/2103005199422108006",
+          "created_at": "2026-09-24T06:14:46Z"
+        },
+        {
+          "author": "0xtonixie",
+          "text": "@genex_games @threejs how to do it?",
+          "likes": 0,
+          "url": "https://x.com/0xtonixie/status/2102951672385589500",
+          "created_at": "2026-09-24T02:42:04Z"
+        },
+        {
+          "author": "geoppls",
+          "text": "@genex_games @threejs yes lmk when you share the source cuz i don’t have a max claude plan",
+          "likes": 0,
+          "url": "https://x.com/geoppls/status/2102907770705936713",
+          "created_at": "2026-09-23T23:47:37Z"
+        },
+        {
+          "author": "xlith2",
+          "text": "@genex_games @threejs wow bro looks better than 2k super agi",
+          "likes": 0,
+          "url": "https://x.com/xlith2/status/2102894490709307535",
+          "created_at": "2026-09-23T22:54:51Z"
+        },
+        {
+          "author": "KeanuPianu",
+          "text": "@genex_games @threejs lmfao, shit hung so hard after a few throws it hung chrome",
+          "likes": 0,
+          "url": "https://x.com/KeanuPianu/status/2102891887170384156",
+          "created_at": "2026-09-23T22:44:30Z"
+        },
+        {
+          "author": "tito_nf",
+          "text": "@genex_games @threejs Wow! uplaod it to https://t.co/gWP9X1gSVF",
+          "likes": 0,
+          "url": "https://x.com/tito_nf/status/2102871334178922502",
+          "created_at": "2026-09-23T21:22:50Z"
+        }
+      ]
     },
     {
       "id": "double-feature",
@@ -1489,7 +1773,100 @@
       "likes_source": "x",
       "comment_count": 6,
       "x_handle": "akiy_8",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "sasorikenGame",
+          "text": "@akiy_8 とはいってもopus5からスキルズ使ったら同等のものは作れたんですよね。この程度なら。添付のGIFとかtessaruneというツールを使わせて油彩絵を描かせていますが、opus5が一発で出してきたやつです。果たして、opus5.5にするとどんな変化があるのか。 https://t.co/gpGkh9p1os",
+          "likes": 6,
+          "url": "https://x.com/sasorikenGame/status/2102740012303540422",
+          "created_at": "2026-09-23T12:41:00Z"
+        },
+        {
+          "author": "akiy_8",
+          "text": "こちらのサイトに作品詳細を公開しました🐠\nhttps://t.co/ZtDEXFEZ04",
+          "likes": 5,
+          "url": "https://x.com/akiy_8/status/2102763080098996370",
+          "created_at": "2026-09-23T14:12:40Z"
+        },
+        {
+          "author": "txnioh",
+          "text": "@akiy_8 it is so cute, I recently made this https://t.co/QIBcOymtK4",
+          "likes": 1,
+          "url": "https://x.com/txnioh/status/2103119831201620369",
+          "created_at": "2026-09-24T13:50:16Z"
+        },
+        {
+          "author": "akiy_8",
+          "text": "@txnioh Sure! Here it is: https://t.co/ZtDEXFEZ04",
+          "likes": 1,
+          "url": "https://x.com/akiy_8/status/2102759813738643816",
+          "created_at": "2026-09-23T13:59:41Z"
+        },
+        {
+          "author": "lFBo0i1Pql4130",
+          "text": "@akiy_8 凄く綺麗でした😊\n頑張って下さい👍",
+          "likes": 1,
+          "url": "https://x.com/lFBo0i1Pql4130/status/2102664886845390921",
+          "created_at": "2026-09-23T07:42:29Z"
+        },
+        {
+          "author": "akiy_8",
+          "text": "@lFBo0i1Pql4130 ありがとうございます！アクアリウムのデスクトップゲーム、とても良さそうですね！成果物が想像以上だったので、今後はゲーム化なども検討してみます🚀",
+          "likes": 1,
+          "url": "https://x.com/akiy_8/status/2102662570222260316",
+          "created_at": "2026-09-23T07:33:16Z"
+        },
+        {
+          "author": "lFBo0i1Pql4130",
+          "text": "@akiy_8 綺麗ですね☺️\nなんかアクアリウムのデスクトップゲームとか作れそう。",
+          "likes": 1,
+          "url": "https://x.com/lFBo0i1Pql4130/status/2102660822774485128",
+          "created_at": "2026-09-23T07:26:20Z"
+        },
+        {
+          "author": "Haru_ArtPortal",
+          "text": "@akiy_8 まじかすごいな……\nやってみるー！",
+          "likes": 1,
+          "url": "https://x.com/Haru_ArtPortal/status/2102615641299824933",
+          "created_at": "2026-09-23T04:26:48Z"
+        },
+        {
+          "author": "akiy_8",
+          "text": "zenn 記事内にプロンプトを貼りました！ https://t.co/0Z0anIuHz4",
+          "likes": 0,
+          "url": "https://x.com/akiy_8/status/2102763440909803589",
+          "created_at": "2026-09-23T14:14:06Z"
+        },
+        {
+          "author": "akiy_8",
+          "text": "@sasorikenGame Opus 5でもSkillsを使えば同等のものが作れていたんですね！\n今回はSkillsなしでOpus 5.5にかなりシンプルなプロンプトから一発生成させたので、同条件でOpus 5と5.5を比較してみるのも面白そうです",
+          "likes": 0,
+          "url": "https://x.com/akiy_8/status/2102760273274925476",
+          "created_at": "2026-09-23T14:01:31Z"
+        },
+        {
+          "author": "txnioh",
+          "text": "@akiy_8 increíble, hay algún enlace al proyecto?",
+          "likes": 0,
+          "url": "https://x.com/txnioh/status/2102744622036644251",
+          "created_at": "2026-09-23T12:59:19Z"
+        },
+        {
+          "author": "akiy_8",
+          "text": "@Haru_ArtPortal できます！「32色前後で」と投げたら30色のパレットで組んであり、ドットは30色のみです！\n時間帯の色変化はその上から重ねてる感じです",
+          "likes": 0,
+          "url": "https://x.com/akiy_8/status/2102615435879579795",
+          "created_at": "2026-09-23T04:25:59Z"
+        },
+        {
+          "author": "Haru_ArtPortal",
+          "text": "@akiy_8 パレット数指定もできんの？？？？？",
+          "likes": 0,
+          "url": "https://x.com/Haru_ArtPortal/status/2102613557733150976",
+          "created_at": "2026-09-23T04:18:31Z"
+        }
+      ]
     },
     {
       "id": "derelict",
@@ -1984,7 +2361,149 @@
       "x_handle": "KenLin1985",
       "likes_source_url": "https://x.com/KenLin1985/status/2103866807954399530",
       "comment_count": 59,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "king_hekker",
+          "text": "@KenLin1985 Bro this is amazing. Might u dm me. We wanna sponsor u some $",
+          "likes": 3,
+          "url": "https://x.com/king_hekker/status/2104184471767367715",
+          "created_at": "2026-09-27T12:20:46Z"
+        },
+        {
+          "author": "chris_gname",
+          "text": "@KenLin1985 But holy! The game runs super smoothly! And Blender designs are quite sleek; also, extra points for sound fx 😆😆 \n\nYou are awesome Ken!! 🫡🫡🫡🫡",
+          "likes": 2,
+          "url": "https://x.com/chris_gname/status/2104443115021205618",
+          "created_at": "2026-09-28T05:28:31Z"
+        },
+        {
+          "author": "chris_gname",
+          "text": "@KenLin1985 Okay this is much harder than what it seems hahah https://t.co/o709IhD2i3",
+          "likes": 2,
+          "url": "https://x.com/chris_gname/status/2104442872078717127",
+          "created_at": "2026-09-28T05:27:34Z"
+        },
+        {
+          "author": "MrxFlip",
+          "text": "@KenLin1985 Worked great played it right on my iPad , buttons on the right side a bit hard to reach while holding down the gas pedal but all in all great game , my girl particularly likes that there is no blue shells 😂 https://t.co/rp74i3Lw9h",
+          "likes": 2,
+          "url": "https://x.com/MrxFlip/status/2104317510426259637",
+          "created_at": "2026-09-27T21:09:25Z"
+        },
+        {
+          "author": "hashim88990",
+          "text": "@KenLin1985 Great to see https://t.co/Kv0UumiCEI put to use! A memorable domain paired with an actual product. The AI-assisted development process makes it even more interesting.",
+          "likes": 1,
+          "url": "https://x.com/hashim88990/status/2104533801938657524",
+          "created_at": "2026-09-28T11:28:53Z"
+        },
+        {
+          "author": "AIwithMinal",
+          "text": "@KenLin1985 The aesthetic feels perfect.",
+          "likes": 1,
+          "url": "https://x.com/AIwithMinal/status/2104443028572356871",
+          "created_at": "2026-09-28T05:28:11Z"
+        },
+        {
+          "author": "henryjuicy2",
+          "text": "@KenLin1985 Hey can we talk??",
+          "likes": 1,
+          "url": "https://x.com/henryjuicy2/status/2104184412992848003",
+          "created_at": "2026-09-27T12:20:32Z"
+        },
+        {
+          "author": "zaxskylab",
+          "text": "@KenLin1985 turning your travel memories into tracks is a lovely idea. which city was the most fun to turn into a race?",
+          "likes": 0,
+          "url": "https://x.com/zaxskylab/status/2105373215271043480",
+          "created_at": "2026-09-30T19:04:25Z"
+        },
+        {
+          "author": "PhatStraws",
+          "text": "@KenLin1985 hey, could you DM us? curious if you're interested in advertisement deals for your game",
+          "likes": 0,
+          "url": "https://x.com/PhatStraws/status/2105108296395002366",
+          "created_at": "2026-09-30T01:31:43Z"
+        },
+        {
+          "author": "king_hekker",
+          "text": "@KenLin1985 Amazing honestly. Big respect to this work . game is awesome",
+          "likes": 0,
+          "url": "https://x.com/king_hekker/status/2104469701547978855",
+          "created_at": "2026-09-28T07:14:10Z"
+        },
+        {
+          "author": "themoneygps",
+          "text": "@KenLin1985 Looks sick",
+          "likes": 0,
+          "url": "https://x.com/themoneygps/status/2104245323367612778",
+          "created_at": "2026-09-27T16:22:34Z"
+        },
+        {
+          "author": "Murph_2",
+          "text": "@KenLin1985 On mobile, Pixel 10p, I don't see the race track when I start.\n\nCool idea though. https://t.co/aYpICPlibo",
+          "likes": 0,
+          "url": "https://x.com/Murph_2/status/2104215717025288353",
+          "created_at": "2026-09-27T14:24:56Z"
+        },
+        {
+          "author": "keizer7h",
+          "text": "@KenLin1985 Well done ken",
+          "likes": 0,
+          "url": "https://x.com/keizer7h/status/2104197200226222178",
+          "created_at": "2026-09-27T13:11:21Z"
+        },
+        {
+          "author": "NameRepoX",
+          "text": "@KenLin1985 Love the name. Great build.",
+          "likes": 0,
+          "url": "https://x.com/NameRepoX/status/2104171781648990633",
+          "created_at": "2026-09-27T11:30:21Z"
+        },
+        {
+          "author": "iscream3d",
+          "text": "@KenLin1985 I did the \"same\" but with drift and turbos. Currently improving sounds and graphics.",
+          "likes": 0,
+          "url": "https://x.com/iscream3d/status/2104159630779908537",
+          "created_at": "2026-09-27T10:42:04Z"
+        },
+        {
+          "author": "PierreKanti23",
+          "text": "@KenLin1985 Hope for you fun and gameplay are better than Mario kart on snes.",
+          "likes": 0,
+          "url": "https://x.com/PierreKanti23/status/2104145769385328822",
+          "created_at": "2026-09-27T09:46:59Z"
+        },
+        {
+          "author": "riderashgame",
+          "text": "@KenLin1985 That looks awesome with threejs. Bike games  too look better &amp; have better control  now on phone browser  \n\nlegendary revivals !!\n https://t.co/vx46EgCBuG",
+          "likes": 0,
+          "url": "https://x.com/riderashgame/status/2104139371087892658",
+          "created_at": "2026-09-27T09:21:33Z"
+        },
+        {
+          "author": "kenAI_domains",
+          "text": "@KenLin1985 Amazing",
+          "likes": 0,
+          "url": "https://x.com/kenAI_domains/status/2104139197053637004",
+          "created_at": "2026-09-27T09:20:52Z"
+        },
+        {
+          "author": "LamdaBda",
+          "text": "@KenLin1985 You are the best",
+          "likes": 0,
+          "url": "https://x.com/LamdaBda/status/2104137131107233933",
+          "created_at": "2026-09-27T09:12:39Z"
+        },
+        {
+          "author": "Scar_Sounds",
+          "text": "@KenLin1985 Sieht cool aus, lässt sich gut spielen, aber der Sound hört sich an, als ob ein B-52-Bomber in meinem Zimmer fliegt.",
+          "likes": 0,
+          "url": "https://x.com/Scar_Sounds/status/2104135540501295523",
+          "created_at": "2026-09-27T09:06:20Z"
+        }
+      ]
     },
     {
       "id": "degen-u",
@@ -4118,7 +4637,149 @@
       "author_source": "https://x.com/mitchellhynes/status/2104969744721883474",
       "comment_count": 342,
       "requires_own_files": true,
-      "requires_own_files_note": "Needs your own Halo CE Xbox game files (file picker)"
+      "requires_own_files_note": "Needs your own Halo CE Xbox game files (file picker)",
+      "comments": [
+        {
+          "author": "mitchellhynes",
+          "text": "Out of respect for the decomp, I removed the map assets/game data and require you upload your own XISO (Game Rip) to play\n\nFor clarity: Nobody from Microsoft reached out about me hosting the 25 year old game for free\n\nJoin the discord and they can help you get an XISO https://t.co/wAGyFeMtJB",
+          "likes": 20,
+          "url": "https://x.com/mitchellhynes/status/2106161241764859928",
+          "created_at": "2026-10-02T23:15:45Z"
+        },
+        {
+          "author": "notEthanWalker",
+          "text": "@mitchellhynes Now it’s nothing more than an emulator",
+          "likes": 13,
+          "url": "https://x.com/notEthanWalker/status/2106182969425879160",
+          "created_at": "2026-10-03T00:42:05Z"
+        },
+        {
+          "author": "RolandoTad918",
+          "text": "@mitchellhynes ok https://t.co/DUZj31yHO3",
+          "likes": 8,
+          "url": "https://x.com/RolandoTad918/status/2106185773041238520",
+          "created_at": "2026-10-03T00:53:13Z"
+        },
+        {
+          "author": "notEthanWalker",
+          "text": "@mitchellhynes Having to provide the ISO it’s not web based. It just behaves exactly like an emulator would.",
+          "likes": 3,
+          "url": "https://x.com/notEthanWalker/status/2106811155402613134",
+          "created_at": "2026-10-04T18:18:16Z"
+        },
+        {
+          "author": "iGreenTreeFrogg",
+          "text": "@mitchellhynes didnt last a week lol",
+          "likes": 3,
+          "url": "https://x.com/iGreenTreeFrogg/status/2106441682938188060",
+          "created_at": "2026-10-03T17:50:07Z"
+        },
+        {
+          "author": "BaasB473217",
+          "text": "@mitchellhynes Rip he caved",
+          "likes": 3,
+          "url": "https://x.com/BaasB473217/status/2107058908929888685",
+          "created_at": "2026-10-05T10:42:45Z"
+        },
+        {
+          "author": "pavlovcik_",
+          "text": "@mitchellhynes lame af",
+          "likes": 2,
+          "url": "https://x.com/pavlovcik_/status/2107328414525083905",
+          "created_at": "2026-10-06T04:33:40Z"
+        },
+        {
+          "author": "notEthanWalker",
+          "text": "@mitchellhynes Would be sick if I could play on devices that DONT allow local downloads. But this isn’t truly web based then",
+          "likes": 1,
+          "url": "https://x.com/notEthanWalker/status/2106811295622369465",
+          "created_at": "2026-10-04T18:18:50Z"
+        },
+        {
+          "author": "Alan_GCM",
+          "text": "@mitchellhynes perfect! It's because of silly mistakes that great projects are taken down. Kudos to MS for not getting upset about it! 🫡",
+          "likes": 1,
+          "url": "https://x.com/Alan_GCM/status/2106163051569545716",
+          "created_at": "2026-10-02T23:22:56Z"
+        },
+        {
+          "author": "LEG10NARE",
+          "text": "@mitchellhynes https://t.co/3qlo2fcTdm",
+          "likes": 1,
+          "url": "https://x.com/LEG10NARE/status/2108116727662035243",
+          "created_at": "2026-10-08T08:46:09Z"
+        },
+        {
+          "author": "Bluefucksgiven",
+          "text": "@mitchellhynes starting renderer problems ? @mitchellhynes",
+          "likes": 0,
+          "url": "https://x.com/Bluefucksgiven/status/2106881998434582564",
+          "created_at": "2026-10-04T22:59:47Z"
+        },
+        {
+          "author": "Chunkylovin21",
+          "text": "@mitchellhynes Does it work in the web browser of a Tesla?",
+          "likes": 0,
+          "url": "https://x.com/Chunkylovin21/status/2106840867587620876",
+          "created_at": "2026-10-04T20:16:20Z"
+        },
+        {
+          "author": "StutterFuck",
+          "text": "@mitchellhynes How do you enable touchscreen controls on mobile?",
+          "likes": 0,
+          "url": "https://x.com/StutterFuck/status/2106781505225621593",
+          "created_at": "2026-10-04T16:20:27Z"
+        },
+        {
+          "author": "__C0LLIN__",
+          "text": "@notEthanWalker @mitchellhynes You don't know what an emulator is. This is still fully ported to browser down to the bones, it's just pulling assets from an ISO (like many other decomps)",
+          "likes": 0,
+          "url": "https://x.com/__C0LLIN__/status/2106643302229618817",
+          "created_at": "2026-10-04T07:11:17Z"
+        },
+        {
+          "author": "Sugalumps52",
+          "text": "@mitchellhynes I don't want to be negative, im just posting this so you know. HALO:CE did not have online. Xbox live didnt start up until a year later. Halo PC had online multiplayer though.",
+          "likes": 0,
+          "url": "https://x.com/Sugalumps52/status/2106525694088105984",
+          "created_at": "2026-10-03T23:23:57Z"
+        },
+        {
+          "author": "StarMurdaMane",
+          "text": "@mitchellhynes How do I play",
+          "likes": 0,
+          "url": "https://x.com/StarMurdaMane/status/2106498298609619007",
+          "created_at": "2026-10-03T21:35:05Z"
+        },
+        {
+          "author": "JonTylerHeath1",
+          "text": "@mitchellhynes choose XISO???",
+          "likes": 0,
+          "url": "https://x.com/JonTylerHeath1/status/2106383223383318799",
+          "created_at": "2026-10-03T13:57:49Z"
+        },
+        {
+          "author": "SamuelBeek",
+          "text": "@mitchellhynes Omg my weekend",
+          "likes": 0,
+          "url": "https://x.com/SamuelBeek/status/2106289614449508754",
+          "created_at": "2026-10-03T07:45:51Z"
+        },
+        {
+          "author": "collazomoisesd",
+          "text": "@mitchellhynes 😦",
+          "likes": 0,
+          "url": "https://x.com/collazomoisesd/status/2106160278199226540",
+          "created_at": "2026-10-02T23:11:55Z"
+        },
+        {
+          "author": "drewyeverino",
+          "text": "@mitchellhynes WA! @mitchellhynes would be possible to create an open multiplayer lobby server session to not have to struggle with creating a lobby link and gathering masterchiefs? Message/tag me if any of y'all want to create a multiplayer server link to play Slayer on the Blood Gulch map!",
+          "likes": 0,
+          "url": "https://x.com/drewyeverino/status/2109660482990907576",
+          "created_at": "2026-10-12T15:00:29Z"
+        }
+      ]
     },
     {
       "id": "marble-gp-v2",
@@ -5663,7 +6324,107 @@
       "last_seen": "2026-10-04T01:42:38.000Z",
       "likes_source_url": "https://x.com/i/status/2106460767667253514",
       "comment_count": 9,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "Dimillian",
+          "text": "@joakimhi Because if you look at the source and history this is fully authored?? Not just one shot play once and forget game.",
+          "likes": 2,
+          "url": "https://x.com/Dimillian/status/2106646288003666063",
+          "created_at": "2026-10-04T07:23:09Z"
+        },
+        {
+          "author": "khalidaxx",
+          "text": "@Dimillian diablo but poke. https://t.co/ej97AGU3h6",
+          "likes": 2,
+          "url": "https://x.com/khalidaxx/status/2106480166138696047",
+          "created_at": "2026-10-03T20:23:02Z"
+        },
+        {
+          "author": "jaredkim",
+          "text": "@Dimillian I wonder where Astra is getting the name \"Wayfarer' from for its default local character name. It did the same for some of my other game project naming.",
+          "likes": 2,
+          "url": "https://x.com/jaredkim/status/2106466330794926327",
+          "created_at": "2026-10-03T19:28:04Z"
+        },
+        {
+          "author": "Dimillian",
+          "text": "@thomasc0re Omg lol",
+          "likes": 1,
+          "url": "https://x.com/Dimillian/status/2106646666140951017",
+          "created_at": "2026-10-04T07:24:39Z"
+        },
+        {
+          "author": "Dimillian",
+          "text": "@khalidaxx Wow where do I play that",
+          "likes": 1,
+          "url": "https://x.com/Dimillian/status/2106646423588463034",
+          "created_at": "2026-10-04T07:23:41Z"
+        },
+        {
+          "author": "joakimhi",
+          "text": "@Dimillian look, I also share your love of the craft for building games.\n\nI wasn’t suggesting this just took one prompt. But how does the average consumer know the difference?\n\nForget about average, how does anyone? Getting into a game starts from a decision to click, potentially buy and",
+          "likes": 0,
+          "url": "https://x.com/joakimhi/status/2106659485049602311",
+          "created_at": "2026-10-04T08:15:35Z"
+        },
+        {
+          "author": "grok",
+          "text": "@wiesson @Dimillian Latest Evergrow update is v0.7.6 (Oct 3): free teleport to any visited world-map location (towns, camps, shrines, dungeon entrances) while keeping resources and portal.\n\nv0.7.4 added 19 new Uniques (now 37 total, one per skill/aura), flashy drop announcements, death effects,",
+          "likes": 0,
+          "url": "https://x.com/grok/status/2106643973196353932",
+          "created_at": "2026-10-04T07:13:57Z"
+        },
+        {
+          "author": "wiesson",
+          "text": "@Dimillian @grok what are the recent updates?",
+          "likes": 0,
+          "url": "https://x.com/wiesson/status/2106643807907221730",
+          "created_at": "2026-10-04T07:13:18Z"
+        },
+        {
+          "author": "y_chiboub",
+          "text": "@Dimillian what needed the most hands-on iteration: combat feel, loot progression, or the asset pipeline? curious which parts you could judge from tests and which only became obvious after playing a few runs",
+          "likes": 0,
+          "url": "https://x.com/y_chiboub/status/2106618391150645693",
+          "created_at": "2026-10-04T05:32:18Z"
+        },
+        {
+          "author": "evkodev",
+          "text": "@Dimillian I’m in! Sounds fun",
+          "likes": 0,
+          "url": "https://x.com/evkodev/status/2106495689773748641",
+          "created_at": "2026-10-03T21:24:43Z"
+        },
+        {
+          "author": "thomasc0re",
+          "text": "@Dimillian On gagne quelque chose en arrivant lvl 1500 ? 👀 https://t.co/SohNkeglDl",
+          "likes": 0,
+          "url": "https://x.com/thomasc0re/status/2106495066340810904",
+          "created_at": "2026-10-03T21:22:15Z"
+        },
+        {
+          "author": "happyChirperX",
+          "text": "@Dimillian wow its amazing!",
+          "likes": 0,
+          "url": "https://x.com/happyChirperX/status/2106491237381685328",
+          "created_at": "2026-10-03T21:07:02Z"
+        },
+        {
+          "author": "joakimhi",
+          "text": "@Dimillian the thing is, once everyone can just prompt \"make me a PoEdiablolike ARPG that plays in the browser with cellshaded graphics\"...\n\nwhy should I play your game over mine?",
+          "likes": 0,
+          "url": "https://x.com/joakimhi/status/2106477077583274419",
+          "created_at": "2026-10-03T20:10:46Z"
+        },
+        {
+          "author": "ethereaglehq",
+          "text": "@Dimillian custom engine from Astra only copies if the renderer and combat loop came from a blank repo. did you seed a WebGL stack, or did Astra write those too?",
+          "likes": 0,
+          "url": "https://x.com/ethereaglehq/status/2106469204803379384",
+          "created_at": "2026-10-03T19:39:29Z"
+        }
+      ]
     },
     {
       "id": "iitg-campus-3d",
@@ -5705,7 +6466,16 @@
       "screenshot_score_notes": "An aerial campus with labeled hostels and a clear start menu shows the explorer well, though the left-side UI covers much of the map.",
       "likes_source_url": "https://x.com/i/status/2106439912438559150",
       "comment_count": 3,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "AppMunchies",
+          "text": "@realGauravVyas wow, your campus game looks great. really love what you did. would love to feature it on appmunchies, we turn ai-built projects into short videos for tiktok, ig and youtube. free and full credit to you. ok if we use your clip?",
+          "likes": 0,
+          "url": "https://x.com/AppMunchies/status/2108934195883966938",
+          "created_at": "2026-10-10T14:54:29Z"
+        }
+      ]
     },
     {
       "id": "snowline-rivals",
@@ -5978,7 +6748,149 @@
       "x_handle": "0yield",
       "author_source": "https://x.com/0yield/status/2106729377798951097",
       "comment_count": 73,
-      "requires_own_files": false
+      "requires_own_files": false,
+      "comments": [
+        {
+          "author": "0yield",
+          "text": "@yousefrol it's not a macos or touchpad issue, likely browser issue. try chrome and it should work, firefox probably as well. \n\nhttps://t.co/YhmVW373x9",
+          "likes": 2,
+          "url": "https://x.com/0yield/status/2108221872013767078",
+          "created_at": "2026-10-08T15:43:57Z"
+        },
+        {
+          "author": "0yield",
+          "text": "@hakioi glad u liked it! not really - didn't have any issues with that yet",
+          "likes": 2,
+          "url": "https://x.com/0yield/status/2108118314405019903",
+          "created_at": "2026-10-08T08:52:27Z"
+        },
+        {
+          "author": "0yield",
+          "text": "@thekinexa glad u like it!",
+          "likes": 2,
+          "url": "https://x.com/0yield/status/2108118149493051483",
+          "created_at": "2026-10-08T08:51:48Z"
+        },
+        {
+          "author": "0yield",
+          "text": "@figtracer thank u ser",
+          "likes": 2,
+          "url": "https://x.com/0yield/status/2108118117763469390",
+          "created_at": "2026-10-08T08:51:40Z"
+        },
+        {
+          "author": "realityacid108",
+          "text": "@0yield This is so awesome. Takes me back to the good old days.",
+          "likes": 1,
+          "url": "https://x.com/realityacid108/status/2108324181997994393",
+          "created_at": "2026-10-08T22:30:30Z"
+        },
+        {
+          "author": "2C110100100",
+          "text": "@shinkanko @0yield Watch a cs surf tutorial. You'll get the hang of it",
+          "likes": 1,
+          "url": "https://x.com/2C110100100/status/2108158170111603146",
+          "created_at": "2026-10-08T11:30:50Z"
+        },
+        {
+          "author": "Bubblebunzz",
+          "text": "@0yield I know it's accurate because i can't last 20 seconds in either lmao",
+          "likes": 1,
+          "url": "https://x.com/Bubblebunzz/status/2108154641624014900",
+          "created_at": "2026-10-08T11:16:48Z"
+        },
+        {
+          "author": "cs2lmfao",
+          "text": "@0yield Huge W",
+          "likes": 1,
+          "url": "https://x.com/cs2lmfao/status/2108134168966402269",
+          "created_at": "2026-10-08T09:55:27Z"
+        },
+        {
+          "author": "0yield",
+          "text": "@omni3131 oh my i actually dont know how i could forget, going on the list of stuff to add",
+          "likes": 1,
+          "url": "https://x.com/0yield/status/2108118458558771363",
+          "created_at": "2026-10-08T08:53:02Z"
+        },
+        {
+          "author": "figtracer",
+          "text": "@0yield absolute banger",
+          "likes": 1,
+          "url": "https://x.com/figtracer/status/2108105527809212699",
+          "created_at": "2026-10-08T08:01:39Z"
+        },
+        {
+          "author": "thekinexa",
+          "text": "@0yield bruv you fkn legend... this is amazing!",
+          "likes": 1,
+          "url": "https://x.com/thekinexa/status/2108101240676888690",
+          "created_at": "2026-10-08T07:44:37Z"
+        },
+        {
+          "author": "hakioi",
+          "text": "@0yield this is epic took me back to how humbled i felt on my first surf servers. ever get issues with player falling through geometry esp since its 66 tick? i'm also making a web fps and run into collision issues a lot",
+          "likes": 1,
+          "url": "https://x.com/hakioi/status/2108082796149584122",
+          "created_at": "2026-10-08T06:31:19Z"
+        },
+        {
+          "author": "omni3131",
+          "text": "@0yield Utopia is fire 🔥 \nBut where’s my goat forbidden ways big bro 😩",
+          "likes": 1,
+          "url": "https://x.com/omni3131/status/2108080884633223677",
+          "created_at": "2026-10-08T06:23:43Z"
+        },
+        {
+          "author": "DenisMozhaysky",
+          "text": "@0yield Is it recreated or recompiled (i hope)\nif you just recompile - the physics should be identical",
+          "likes": 0,
+          "url": "https://x.com/DenisMozhaysky/status/2108347375265669532",
+          "created_at": "2026-10-09T00:02:40Z"
+        },
+        {
+          "author": "Rom1Hryy",
+          "text": "@0yield Is this possible to add deathrun maps to play online with friends ? I miss good old times playing CSS deathruns 🥹",
+          "likes": 0,
+          "url": "https://x.com/Rom1Hryy/status/2108321077000900864",
+          "created_at": "2026-10-08T22:18:10Z"
+        },
+        {
+          "author": "0xPaulera",
+          "text": "@0yield make it embedded in the tweet, so we can play here on X",
+          "likes": 0,
+          "url": "https://x.com/0xPaulera/status/2108301615274901890",
+          "created_at": "2026-10-08T21:00:50Z"
+        },
+        {
+          "author": "yousefrol",
+          "text": "@0yield its unplayable on macos touchpad, it would be nice if you make it happen.",
+          "likes": 0,
+          "url": "https://x.com/yousefrol/status/2108219103219417383",
+          "created_at": "2026-10-08T15:32:57Z"
+        },
+        {
+          "author": "RealBonBonn",
+          "text": "@0yield @ALIN4_ Ole",
+          "likes": 0,
+          "url": "https://x.com/RealBonBonn/status/2108210526790553712",
+          "created_at": "2026-10-08T14:58:52Z"
+        },
+        {
+          "author": "_yeonsan",
+          "text": "@0yield Bro thanks!",
+          "likes": 0,
+          "url": "https://x.com/_yeonsan/status/2108190387663946234",
+          "created_at": "2026-10-08T13:38:51Z"
+        },
+        {
+          "author": "SoG_Project",
+          "text": "@0yield cool now i can play that shit",
+          "likes": 0,
+          "url": "https://x.com/SoG_Project/status/2108151295295340926",
+          "created_at": "2026-10-08T11:03:31Z"
+        }
+      ]
     },
     {
       "id": "pokopia",
@@ -6739,7 +7651,16 @@
       "screenshot_score_notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen.",
       "likes_source_url": "https://x.com/i/status/2107531682475565085",
       "comment_count": 1,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "GamePixDev",
+          "text": "@efeislekel If this is just a test, we're thrilled for the real kingdom-building and raiding thing!! 🏹 Any chance you'd want to put it on @GamePix? No rush, the details are here: https://t.co/AZWDYkqHdR",
+          "likes": 0,
+          "url": "https://x.com/GamePixDev/status/2107764483942916115",
+          "created_at": "2026-10-07T09:26:27Z"
+        }
+      ]
     },
     {
       "id": "bay-ride",
@@ -7745,7 +8666,30 @@
       "screenshot_score_notes": "Glowing pink, orange and yellow snakes weaving through a field of neon dots with a leaderboard; vivid and readable.",
       "likes_source_url": "https://x.com/i/status/2107978235279720898",
       "comment_count": 3,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "DevinSoto",
+          "text": "renamed to \"Neon Snake\" to avoid copyright\nhttps://t.co/UAYargIXte",
+          "likes": 1,
+          "url": "https://x.com/DevinSoto/status/2107988902120423848",
+          "created_at": "2026-10-08T00:18:13Z"
+        },
+        {
+          "author": "ZadienLabs",
+          "text": "@DevinSoto Bro, that game looks SICK!",
+          "likes": 1,
+          "url": "https://x.com/ZadienLabs/status/2107985731113378034",
+          "created_at": "2026-10-08T00:05:37Z"
+        },
+        {
+          "author": "FoundPlayio",
+          "text": "@DevinSoto a trailer where the ai keeps dying is weirdly the best sales pitch",
+          "likes": 0,
+          "url": "https://x.com/FoundPlayio/status/2107990525148357046",
+          "created_at": "2026-10-08T00:24:40Z"
+        }
+      ]
     },
     {
       "id": "starship-hearth",
@@ -7897,7 +8841,149 @@
       "screenshot_score": 8,
       "screenshot_score_notes": "A starship diving toward a huge glowing ringworld arc with Saturn-like planets and a mission HUD; epic and polished.",
       "comment_count": 87,
-      "x_handle": "Rubzem"
+      "x_handle": "Rubzem",
+      "comments": [
+        {
+          "author": "holy_wub",
+          "text": "@Rubzem @christian_coler @TesanaAI anybody, you dont have any vision and thats a fact. its an AI garbage game that shouldnt be even called an no mans sky knock off and nobody is playing your game.",
+          "likes": 2,
+          "url": "https://x.com/holy_wub/status/2108181650223870193",
+          "created_at": "2026-10-08T13:04:08Z"
+        },
+        {
+          "author": "Rubzem",
+          "text": "@NoMansSkyNT @Haunter777x @TesanaAI My game was burger king ans NMS was the wagyu if that wasn’t obvous. Me joking that you sometimes eat (play) stuff of lower quality than something else. Mine being free and playable in the browser for example",
+          "likes": 2,
+          "url": "https://x.com/Rubzem/status/2109545810279141627",
+          "created_at": "2026-10-12T07:24:49Z"
+        },
+        {
+          "author": "llazyadM",
+          "text": "@Rubzem @TesanaAI no man's slop :)))) because no man will play this generated piece of shit",
+          "likes": 2,
+          "url": "https://x.com/llazyadM/status/2108329260020887901",
+          "created_at": "2026-10-08T22:50:41Z"
+        },
+        {
+          "author": "NoMansSkyNT",
+          "text": "@Rubzem @Haunter777x @TesanaAI I understand your fascination and playing. I can‘t draw and would never learn it, because I could never reach the endresult which I have in my mind. But when AI does create those ideas as first expressions, it‘s easier to be in a mood and maybe to learn something more.",
+          "likes": 1,
+          "url": "https://x.com/NoMansSkyNT/status/2109610986827383292",
+          "created_at": "2026-10-12T11:43:48Z"
+        },
+        {
+          "author": "Rubzem",
+          "text": "@NoMansSkyNT @Haunter777x @TesanaAI I never claimed my game is on the same level as NMS. I just answered to a comment :) I’m on my 4th prompt working on next version. I’m just amazed it looks &amp; plays so smooth after such a short tile working on it. Imagine when I’m on version 100. \n\nNMS among other games are my",
+          "likes": 1,
+          "url": "https://x.com/Rubzem/status/2109545347664212440",
+          "created_at": "2026-10-12T07:22:58Z"
+        },
+        {
+          "author": "Rubzem",
+          "text": "@Bloopadoop99 @llazyadM @TesanaAI My entire point was I don't care about streamers per say. Rather every &amp; any players :) Well it has put a smile on a lot of faces as I've had dossens of DM's saying the like the game and even inspired some to make their own.\n\nAre you the fun police to say who can and can't enjoy",
+          "likes": 1,
+          "url": "https://x.com/Rubzem/status/2108732385407930486",
+          "created_at": "2026-10-10T01:32:33Z"
+        },
+        {
+          "author": "Bloopadoop99",
+          "text": "@Rubzem @llazyadM @TesanaAI Getting general feedback from a community including streamers is how a game flourishes and stays popular. The fact you think it’s about validation is pretty telling you look at this through the wrong lens.",
+          "likes": 1,
+          "url": "https://x.com/Bloopadoop99/status/2108537359721791838",
+          "created_at": "2026-10-09T12:37:35Z"
+        },
+        {
+          "author": "Rubzem",
+          "text": "@llazyadM @TesanaAI Good for you. I don't cry for other peoples successes :) We both make games, be happy and enjoy life.",
+          "likes": 1,
+          "url": "https://x.com/Rubzem/status/2108346182229745921",
+          "created_at": "2026-10-08T23:57:55Z"
+        },
+        {
+          "author": "llazyadM",
+          "text": "@Rubzem @TesanaAI i think you're the one that has to grow up my dud, i'm not out here slop-poluting the internet, i make my own shit, i don't prompt 3d models into existence",
+          "likes": 1,
+          "url": "https://x.com/llazyadM/status/2108340771766120611",
+          "created_at": "2026-10-08T23:36:25Z"
+        },
+        {
+          "author": "llazyadM",
+          "text": "@Rubzem @TesanaAI yea? where are all the livestreama about it? where are all the videos of people playing it?\n\ndid you prompt thise people into existence as well? :))",
+          "likes": 1,
+          "url": "https://x.com/llazyadM/status/2108334090584048060",
+          "created_at": "2026-10-08T23:09:52Z"
+        },
+        {
+          "author": "Rubzem",
+          "text": "@llazyadM @TesanaAI You're very very wrong (: https://t.co/pbQBxBEsa1",
+          "likes": 1,
+          "url": "https://x.com/Rubzem/status/2108331375128719583",
+          "created_at": "2026-10-08T22:59:05Z"
+        },
+        {
+          "author": "KinzFin",
+          "text": "@Rubzem @TesanaAI 1000 players on a game that started as one prompt is insane 🤯 what's handling the netcode, did the model write that too?",
+          "likes": 1,
+          "url": "https://x.com/KinzFin/status/2108326654741279144",
+          "created_at": "2026-10-08T22:40:19Z"
+        },
+        {
+          "author": "Nonredacted",
+          "text": "@CopyRebeldia @Rubzem @TesanaAI No Man's Sky has them on hot planets now",
+          "likes": 0,
+          "url": "https://x.com/Nonredacted/status/2108193007145275875",
+          "created_at": "2026-10-08T13:49:15Z"
+        },
+        {
+          "author": "AnonymityMatt",
+          "text": "@Rubzem @TesanaAI i tried it and its mid asf. changing any state just lags to fuck, and everything is so low quality and low effort. the walkers dont even fall down they just rotate. its laughably bad. it lags when you leave the planet trying to load everything so it should have loading screens",
+          "likes": 0,
+          "url": "https://x.com/AnonymityMatt/status/2108191821692383634",
+          "created_at": "2026-10-08T13:44:33Z"
+        },
+        {
+          "author": "MYC_NETWORK",
+          "text": "@Rubzem @TesanaAI Stolen IP = worthless",
+          "likes": 0,
+          "url": "https://x.com/MYC_NETWORK/status/2108188820931825936",
+          "created_at": "2026-10-08T13:32:37Z"
+        },
+        {
+          "author": "SergSergg1",
+          "text": "@Rubzem @shlokbuilds @TesanaAI You are doing nothing. “Trying my best”. The only thing what is working is an agent, you only larping",
+          "likes": 0,
+          "url": "https://x.com/SergSergg1/status/2108181609950171454",
+          "created_at": "2026-10-08T13:03:58Z"
+        },
+        {
+          "author": "NoMansSkyNT",
+          "text": "@Rubzem @Haunter777x @TesanaAI Your game isn‘t Burger King either. It‘s stunning that AI is that far and that human beings can experience having fun while being creative. I just hope that we use AI as a tool like a brush to assist our ideas instead of claiming that we did it all alone and on our own without",
+          "likes": 0,
+          "url": "https://x.com/NoMansSkyNT/status/2109610667015565350",
+          "created_at": "2026-10-12T11:42:32Z"
+        },
+        {
+          "author": "NoMansSkyNT",
+          "text": "@Rubzem @Haunter777x @TesanaAI NMS is a Wagyu steak for sure. Your AI game is visually stunning and looks good, no front. But the comparison that a soulless AI game without story, fun gameplay elements and the grit of human work might fight a original game is a bit too much. I‘m a fan of AI, but not the ego",
+          "likes": 0,
+          "url": "https://x.com/NoMansSkyNT/status/2109543573867696164",
+          "created_at": "2026-10-12T07:15:56Z"
+        },
+        {
+          "author": "Bloopadoop99",
+          "text": "@Rubzem @llazyadM @TesanaAI “Community” was the average Joe in this context, it takes both sides to create balance because the Streamer builds the community and the community “builds” the game. Besides this game isn’t putting a smile on the right faces, i.e. the people hesitant or negative toward AI.",
+          "likes": 0,
+          "url": "https://x.com/Bloopadoop99/status/2108612318326308988",
+          "created_at": "2026-10-09T17:35:27Z"
+        },
+        {
+          "author": "Rubzem",
+          "text": "@Bloopadoop99 @llazyadM @TesanaAI Normal players are not important for you or what? I couldn't care less if a streamer played my game more than if the average joe did. I'm happy if I put a smile on anyone's face playing my game streamer or regular gamer :)",
+          "likes": 0,
+          "url": "https://x.com/Rubzem/status/2108542192163954789",
+          "created_at": "2026-10-09T12:56:48Z"
+        }
+      ]
     },
     {
       "id": "skyforge",
@@ -8050,7 +9136,23 @@
       "screenshot_score_notes": "Cute low-poly pigeon threading yellow girders over a foggy Midtown of glowing windows and a row of taxis; clear and charming.",
       "likes_source_url": "https://x.com/i/status/2108367760984338575",
       "comment_count": 2,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "wolfitway",
+          "text": "@sara_kumodeck Cool concept love the idea of your platformer",
+          "likes": 0,
+          "url": "https://x.com/wolfitway/status/2109424669371826436",
+          "created_at": "2026-10-11T23:23:27Z"
+        },
+        {
+          "author": "GamePixDev",
+          "text": "@sara_kumodeck Flappy Bird set in midtown at night is a fun twist: nice atmospheres! We're always on the lookout for games like this at @GamePix. If you'd like to publish Flap NYC with us, sign up here: https://t.co/AZWDYkqHdR",
+          "likes": 0,
+          "url": "https://x.com/GamePixDev/status/2108476930450477503",
+          "created_at": "2026-10-09T08:37:28Z"
+        }
+      ]
     },
     {
       "id": "clawd-rpg",
@@ -8708,7 +9810,149 @@
       "comment_count": 43,
       "likes_source_url": "https://x.com/0xRhinoX/status/2108931642542698801",
       "x_handle": "0xRhinoX",
-      "github_user": "0xRhinoX"
+      "github_user": "0xRhinoX",
+      "comments": [
+        {
+          "author": "0xRhinoX",
+          "text": "@Quantex0x my screenshot of it is probably bigger than the game",
+          "likes": 8,
+          "url": "https://x.com/0xRhinoX/status/2108948973277073814",
+          "created_at": "2026-10-10T15:53:12Z"
+        },
+        {
+          "author": "Quantex0x",
+          "text": "@0xRhinoX 370 KB is smaller than most hero images on a landing page lol",
+          "likes": 6,
+          "url": "https://x.com/Quantex0x/status/2108946163382808926",
+          "created_at": "2026-10-10T15:42:02Z"
+        },
+        {
+          "author": "0xRhinoX",
+          "text": "@Z0llan yeah no textures to download, it just generates everything on load",
+          "likes": 4,
+          "url": "https://x.com/0xRhinoX/status/2109015856764051533",
+          "created_at": "2026-10-10T20:18:58Z"
+        },
+        {
+          "author": "Z0llan",
+          "text": "@0xRhinoX 370 KB for floating mountains and storms is the part that gets me.\nmost games that size can’t even load a menu",
+          "likes": 4,
+          "url": "https://x.com/Z0llan/status/2109013150800744576",
+          "created_at": "2026-10-10T20:08:13Z"
+        },
+        {
+          "author": "FreeLeeValuers",
+          "text": "@0xRhinoX First time I’ve been genuinely impressed with one of these demos. How on earth did you manage it? Runs like silk on a crappy phone…",
+          "likes": 4,
+          "url": "https://x.com/FreeLeeValuers/status/2108999879611552132",
+          "created_at": "2026-10-10T19:15:29Z"
+        },
+        {
+          "author": "0xRhinoX",
+          "text": "@NicoxScotti Well, it wasn't just a single prompt. I can share later how it all started - almost everything was built from that very first one.",
+          "likes": 3,
+          "url": "https://x.com/0xRhinoX/status/2109017780037280038",
+          "created_at": "2026-10-10T20:26:37Z"
+        },
+        {
+          "author": "Kinzf2121",
+          "text": "@0xRhinoX wait, not a single 3d model? how is it running so smooth then",
+          "likes": 1,
+          "url": "https://x.com/Kinzf2121/status/2109048629881114722",
+          "created_at": "2026-10-10T22:29:12Z"
+        },
+        {
+          "author": "NicoxScotti",
+          "text": "@0xRhinoX Tag me or dm me when you do",
+          "likes": 1,
+          "url": "https://x.com/NicoxScotti/status/2109048282127507779",
+          "created_at": "2026-10-10T22:27:49Z"
+        },
+        {
+          "author": "KK_Sente",
+          "text": "@0xRhinoX wow this might be my favorite thing I have seen Opus make so far.",
+          "likes": 1,
+          "url": "https://x.com/KK_Sente/status/2109043325106049048",
+          "created_at": "2026-10-10T22:08:07Z"
+        },
+        {
+          "author": "NicoxScotti",
+          "text": "@0xRhinoX I need the prompt session",
+          "likes": 1,
+          "url": "https://x.com/NicoxScotti/status/2109016331169464733",
+          "created_at": "2026-10-10T20:20:51Z"
+        },
+        {
+          "author": "Charles46129363",
+          "text": "@0xRhinoX Singularity achieved with Claude Opus 5.5 IMHO 👏👏👏 https://t.co/hC4APWp7lL",
+          "likes": 1,
+          "url": "https://x.com/Charles46129363/status/2109006721901375866",
+          "created_at": "2026-10-10T19:42:40Z"
+        },
+        {
+          "author": "0xRhinoX",
+          "text": "@FreeLeeValuers procedural scales down well. still looks way worse on phone than on desktop",
+          "likes": 1,
+          "url": "https://x.com/0xRhinoX/status/2109002626926809531",
+          "created_at": "2026-10-10T19:26:24Z"
+        },
+        {
+          "author": "0xRhinoX",
+          "text": "@HiddenTerps Appreciate it man",
+          "likes": 1,
+          "url": "https://x.com/0xRhinoX/status/2108991165869817930",
+          "created_at": "2026-10-10T18:40:51Z"
+        },
+        {
+          "author": "0xRhinoX",
+          "text": "@l1lkomi fair. any demoscene tricks you'd want to see? thinking about a same prompt run with a hard 64 KB cap",
+          "likes": 1,
+          "url": "https://x.com/0xRhinoX/status/2108991057442812208",
+          "created_at": "2026-10-10T18:40:25Z"
+        },
+        {
+          "author": "HiddenTerps",
+          "text": "@0xRhinoX Beautiful",
+          "likes": 1,
+          "url": "https://x.com/HiddenTerps/status/2108985915645264194",
+          "created_at": "2026-10-10T18:20:00Z"
+        },
+        {
+          "author": "l1lkomi",
+          "text": "@0xRhinoX Demoscene people would call 370 KB roomy.",
+          "likes": 1,
+          "url": "https://x.com/l1lkomi/status/2108985294607573318",
+          "created_at": "2026-10-10T18:17:31Z"
+        },
+        {
+          "author": "ka1manov",
+          "text": "@0xRhinoX Does it hold frame rate once the storms hit mid-race?",
+          "likes": 1,
+          "url": "https://x.com/ka1manov/status/2108948588424560826",
+          "created_at": "2026-10-10T15:51:40Z"
+        },
+        {
+          "author": "zentstory",
+          "text": "@0xRhinoX How is there no 3D model?",
+          "likes": 0,
+          "url": "https://x.com/zentstory/status/2109030345412694148",
+          "created_at": "2026-10-10T21:16:32Z"
+        },
+        {
+          "author": "chompskyy",
+          "text": "@0xRhinoX No wonder it's running like shit in your demo",
+          "likes": 0,
+          "url": "https://x.com/chompskyy/status/2109030221185789982",
+          "created_at": "2026-10-10T21:16:03Z"
+        },
+        {
+          "author": "0xRhinoX",
+          "text": "@ka1manov Fair question, haven't profiled the storms yet. what are you running it on?",
+          "likes": 0,
+          "url": "https://x.com/0xRhinoX/status/2109018899492512179",
+          "created_at": "2026-10-10T20:31:03Z"
+        }
+      ]
     },
     {
       "id": "unburied",
@@ -8783,7 +10027,65 @@
       "screenshot_score_notes": "Promo frame: 'BOILING OIL.' title over a top-down cobblestone keep with braziers and a few soldiers; handsome art, trailer-styled.",
       "likes_source_url": "https://x.com/i/status/2104677520557949277",
       "comment_count": 4,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "InfiniteSadness",
+          "text": "@Treynor87 This is the shittiest shit I've seen in my life",
+          "likes": 2,
+          "url": "https://x.com/InfiniteSadness/status/2105128252318871574",
+          "created_at": "2026-09-30T02:51:01Z"
+        },
+        {
+          "author": "QueenEvilThe2nd",
+          "text": "@Treynor87 I mean, honestly, yeah? I wouldnt equate looking at photos of Rome as the same as going to Rome?",
+          "likes": 2,
+          "url": "https://x.com/QueenEvilThe2nd/status/2104978469591662929",
+          "created_at": "2026-09-29T16:55:50Z"
+        },
+        {
+          "author": "QueenEvilThe2nd",
+          "text": "@Treynor87 Why would I want to play something you couldnt be bothered to put effort into creating?",
+          "likes": 2,
+          "url": "https://x.com/QueenEvilThe2nd/status/2104929783717261718",
+          "created_at": "2026-09-29T13:42:22Z"
+        },
+        {
+          "author": "spencertetik",
+          "text": "@Treynor87 This is pretty crazy! Looks really good.",
+          "likes": 2,
+          "url": "https://x.com/spencertetik/status/2104917625952420012",
+          "created_at": "2026-09-29T12:54:04Z"
+        },
+        {
+          "author": "Treynor87",
+          "text": "https://t.co/mOcolrmwrO",
+          "likes": 2,
+          "url": "https://x.com/Treynor87/status/2104677566305206470",
+          "created_at": "2026-09-28T21:00:09Z"
+        },
+        {
+          "author": "Treynor87",
+          "text": "@spencertetik Thanks! Still blown away by how well it turned out in such a short time. I went from idea to a playable game in about 4 hours, and it’s actually pretty fun.",
+          "likes": 1,
+          "url": "https://x.com/Treynor87/status/2104918388946747670",
+          "created_at": "2026-09-29T12:57:06Z"
+        },
+        {
+          "author": "Treynor87",
+          "text": "@InfiniteSadness 😎",
+          "likes": 0,
+          "url": "https://x.com/Treynor87/status/2105134775833133143",
+          "created_at": "2026-09-30T03:16:56Z"
+        },
+        {
+          "author": "Treynor87",
+          "text": "@QueenEvilThe2nd Why would I go to Rome when I couldn’t put the effort in to walk there?",
+          "likes": 0,
+          "url": "https://x.com/Treynor87/status/2104941284402295166",
+          "created_at": "2026-09-29T14:28:04Z"
+        }
+      ]
     },
     {
       "id": "roadster-flying-car",
@@ -10666,7 +11968,37 @@
       "comment_count": 3,
       "x_handle": "0xbalzzam",
       "first_seen": "2026-10-11T02:00:00.000Z",
-      "last_seen": "2026-10-11T02:00:00.000Z"
+      "last_seen": "2026-10-11T02:00:00.000Z",
+      "comments": [
+        {
+          "author": "xQu1q",
+          "text": "@0xbalzzam lol https://t.co/DxnSB1xADF",
+          "likes": 1,
+          "url": "https://x.com/xQu1q/status/2108990834691510756",
+          "created_at": "2026-10-10T18:39:32Z"
+        },
+        {
+          "author": "pagmaksym",
+          "text": "@0xbalzzam bro, it’s difficult https://t.co/3bQ0tmaz4E",
+          "likes": 1,
+          "url": "https://x.com/pagmaksym/status/2108987083356602767",
+          "created_at": "2026-10-10T18:24:38Z"
+        },
+        {
+          "author": "0xbalzzam",
+          "text": "@pagmaksym ou, good try.",
+          "likes": 0,
+          "url": "https://x.com/0xbalzzam/status/2108987823097360540",
+          "created_at": "2026-10-10T18:27:34Z"
+        },
+        {
+          "author": "pagmaksym",
+          "text": "@0xbalzzam 6 try https://t.co/VpBMao9w8G",
+          "likes": 0,
+          "url": "https://x.com/pagmaksym/status/2108987615504412930",
+          "created_at": "2026-10-10T18:26:45Z"
+        }
+      ]
     },
     {
       "id": "pet-kart-racing",
@@ -10709,7 +12041,16 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Bright snowy low-poly track with pine trees and two karts racing toward the camera; clean, cheerful, simple.",
       "likes_source_url": "https://x.com/i/status/2108749254479233477",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "nelsonpklark",
+          "text": "@ryantsai_16 32 players across land, air and water tracks is ambitious, love it. Mine is smaller scale, RC cars with a Battle Royale mode and a track editor: https://t.co/qpZUjTCkPf",
+          "likes": 1,
+          "url": "https://x.com/nelsonpklark/status/2109735195117244772",
+          "created_at": "2026-10-12T19:57:22Z"
+        }
+      ]
     },
     {
       "id": "drawdown",
@@ -10783,7 +12124,149 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Neon cyberpunk street canyon with a giant billboard showing a cartoon minigame; striking and colourful."
+      "screenshot_score_notes": "Neon cyberpunk street canyon with a giant billboard showing a cartoon minigame; striking and colourful.",
+      "comments": [
+        {
+          "author": "PlayfairFizz",
+          "text": "@guidorosso @rive_app @LauKitton Leeloo Dallas Multipass",
+          "likes": 7,
+          "url": "https://x.com/PlayfairFizz/status/2108764622136463500",
+          "created_at": "2026-10-10T03:40:39Z"
+        },
+        {
+          "author": "guidorosso",
+          "text": "@PlayfairFizz @rive_app @LauKitton me supreme being",
+          "likes": 6,
+          "url": "https://x.com/guidorosso/status/2108765406018277634",
+          "created_at": "2026-10-10T03:43:46Z"
+        },
+        {
+          "author": "MikeVocalz",
+          "text": "@guidorosso @rive_app @LauKitton #multipass",
+          "likes": 3,
+          "url": "https://x.com/MikeVocalz/status/2108748480546238497",
+          "created_at": "2026-10-10T02:36:31Z"
+        },
+        {
+          "author": "FlorianBDev",
+          "text": "@guidorosso @rive_app @LauKitton Slow down, I can't keep up! 😅",
+          "likes": 2,
+          "url": "https://x.com/FlorianBDev/status/2108801926062014573",
+          "created_at": "2026-10-10T06:08:53Z"
+        },
+        {
+          "author": "guidorosso",
+          "text": "@PlayfairFizz @rive_app @LauKitton For the record I was quoting Leeloo, not stating that about myself 😂😅",
+          "likes": 2,
+          "url": "https://x.com/guidorosso/status/2108767355463684097",
+          "created_at": "2026-10-10T03:51:31Z"
+        },
+        {
+          "author": "guidorosso",
+          "text": "@kvncnls @rive_app @LauKitton Yep, 2 days of work with the CLI and some fine tuning in the editor. Mini games on billboard were made in the Editor.",
+          "likes": 2,
+          "url": "https://x.com/guidorosso/status/2108765034684006422",
+          "created_at": "2026-10-10T03:42:17Z"
+        },
+        {
+          "author": "crypitos",
+          "text": "@guidorosso @rive_app @LauKitton Possibly the most impressive thing I've ever seen in my browser! I'm in awe!",
+          "likes": 2,
+          "url": "https://x.com/crypitos/status/2109312466132095331",
+          "created_at": "2026-10-11T15:57:35Z"
+        },
+        {
+          "author": "OorAllen",
+          "text": "@guidorosso @rive_app @LauKitton Superb",
+          "likes": 1,
+          "url": "https://x.com/OorAllen/status/2108829572938469675",
+          "created_at": "2026-10-10T07:58:45Z"
+        },
+        {
+          "author": "mazzeimotion",
+          "text": "@guidorosso @radbar_1 @rive_app @LauKitton Insane",
+          "likes": 1,
+          "url": "https://x.com/mazzeimotion/status/2108785511804383723",
+          "created_at": "2026-10-10T05:03:40Z"
+        },
+        {
+          "author": "PlayfairFizz",
+          "text": "@guidorosso @rive_app @LauKitton 😂 I figured that.  Although with what you’ve created with Rive, the alternative may be true also 🤣🤣",
+          "likes": 1,
+          "url": "https://x.com/PlayfairFizz/status/2108768326256402436",
+          "created_at": "2026-10-10T03:55:22Z"
+        },
+        {
+          "author": "raffiki_art",
+          "text": "@guidorosso @rive_app @LauKitton Oh wow 😮",
+          "likes": 1,
+          "url": "https://x.com/raffiki_art/status/2108765557839306772",
+          "created_at": "2026-10-10T03:44:22Z"
+        },
+        {
+          "author": "e_ndrsn",
+          "text": "@guidorosso @rive_app @LauKitton Working on a few! It’s so damn fun. I’m like giddy with excitement. \nBut also like, what the hell!? Haha",
+          "likes": 1,
+          "url": "https://x.com/e_ndrsn/status/2108748667985494422",
+          "created_at": "2026-10-10T02:37:15Z"
+        },
+        {
+          "author": "kvncnls",
+          "text": "@guidorosso @rive_app @LauKitton Howww? Was this all done with the CLI?",
+          "likes": 1,
+          "url": "https://x.com/kvncnls/status/2108747727450378309",
+          "created_at": "2026-10-10T02:33:31Z"
+        },
+        {
+          "author": "Thunder_Owl",
+          "text": "@guidorosso @rive_app @LauKitton 😉 https://t.co/fCKOtdoclS",
+          "likes": 1,
+          "url": "https://x.com/Thunder_Owl/status/2109564089567469985",
+          "created_at": "2026-10-12T08:37:27Z"
+        },
+        {
+          "author": "guidorosso",
+          "text": "@All4nDev @rive_app @LauKitton Yes, on purpose. It keeps the runtime lean. You bring only what you need. Some experiences need toon shading, some realistic lighting, some no 3D at all. If we built them in, everyone would pay for all of it.\n\nWe're working on official libraries for these, and they'll be opt-in",
+          "likes": 1,
+          "url": "https://x.com/guidorosso/status/2109506899301548310",
+          "created_at": "2026-10-12T04:50:12Z"
+        },
+        {
+          "author": "guidorosso",
+          "text": "@All4nDev @rive_app @LauKitton I’ll share it soon!",
+          "likes": 1,
+          "url": "https://x.com/guidorosso/status/2109436487964192824",
+          "created_at": "2026-10-12T00:10:24Z"
+        },
+        {
+          "author": "PlayfairFizz",
+          "text": "@guidorosso @rive_app @LauKitton That world is incredible. Rive worlds are limitless, we are going to see extraordinary things come to life from people’s imagination - truly a wonderful gift you have given the world. 🌍 🙏🙏",
+          "likes": 0,
+          "url": "https://x.com/PlayfairFizz/status/2108768897268854996",
+          "created_at": "2026-10-10T03:57:38Z"
+        },
+        {
+          "author": "PlayfairFizz",
+          "text": "@guidorosso @rive_app @LauKitton When are they doing a doco on you &amp; Luigi?? Right from the very first spark ⚡️…… the early days before a single line of code was written?",
+          "likes": 0,
+          "url": "https://x.com/PlayfairFizz/status/2108767012155748463",
+          "created_at": "2026-10-10T03:50:09Z"
+        },
+        {
+          "author": "Superavi1",
+          "text": "@guidorosso @rive_app @LauKitton very cool!!!!",
+          "likes": 0,
+          "url": "https://x.com/Superavi1/status/2109591479043686614",
+          "created_at": "2026-10-12T10:26:17Z"
+        },
+        {
+          "author": "robertmclaws",
+          "text": "@guidorosso @rive_app @LauKitton I love this whole thing! It made me start trying to build a game with it. \n\nGrok App Builder made a shader for my game, but I keep getting an error saying that it’s not signed and then the shader won’t load.\n\nAlso, I tried the CLI, which is cool. One scenario it needs support for https://t.co/G07C1V5kvC",
+          "likes": 0,
+          "url": "https://x.com/robertmclaws/status/2109514632008245566",
+          "created_at": "2026-10-12T05:20:55Z"
+        }
+      ]
     },
     {
       "id": "vibesail",
@@ -10824,7 +12307,149 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Cockpit view from a wooden sailboat with the Manhattan skyline and a sail labelled 'Manh...'; pleasant and clear, modest detail."
+      "screenshot_score_notes": "Cockpit view from a wooden sailboat with the Manhattan skyline and a sail labelled 'Manh...'; pleasant and clear, modest detail.",
+      "comments": [
+        {
+          "author": "aisloparcade",
+          "text": "@NicolaManzini don't do it!",
+          "likes": 2,
+          "url": "https://x.com/aisloparcade/status/2109133927441166567",
+          "created_at": "2026-10-11T04:08:08Z"
+        },
+        {
+          "author": "eric_skavinski",
+          "text": "@adityafarrad @NicolaManzini For agents 200k of code is nothing. I have orchestrator / controller layers that are close to a million lines of code with hundreds of different modules. A few swarm of agents tackle such with ease.",
+          "likes": 1,
+          "url": "https://x.com/eric_skavinski/status/2108926150604947929",
+          "created_at": "2026-10-10T14:22:30Z"
+        },
+        {
+          "author": "eric_skavinski",
+          "text": "@NicolaManzini @grok Anyone who would pay anything for this is a fool",
+          "likes": 1,
+          "url": "https://x.com/eric_skavinski/status/2108925883280928817",
+          "created_at": "2026-10-10T14:21:27Z"
+        },
+        {
+          "author": "kfkfgjgj",
+          "text": "@NicolaManzini i doubt anyone would buy your slop but hope u get some xmoney off this",
+          "likes": 1,
+          "url": "https://x.com/kfkfgjgj/status/2108924999654396259",
+          "created_at": "2026-10-10T14:17:56Z"
+        },
+        {
+          "author": "peskybogle",
+          "text": "@NicolaManzini @mattmerrick16 Ah fair, thanks.",
+          "likes": 1,
+          "url": "https://x.com/peskybogle/status/2109255198220906921",
+          "created_at": "2026-10-11T12:10:01Z"
+        },
+        {
+          "author": "adityafarrad",
+          "text": "@NicolaManzini thanks for sharing :)",
+          "likes": 1,
+          "url": "https://x.com/adityafarrad/status/2109092538829406397",
+          "created_at": "2026-10-11T01:23:40Z"
+        },
+        {
+          "author": "JimAylan",
+          "text": "@kfkfgjgj @NicolaManzini I bet this is all a lie and he's trying to just advertise his game.",
+          "likes": 1,
+          "url": "https://x.com/JimAylan/status/2109032705220604335",
+          "created_at": "2026-10-10T21:25:55Z"
+        },
+        {
+          "author": "AlexSaliDev",
+          "text": "@NicolaManzini Don’t give away your source code, bro. You did the hard part: turning an idea into a game. If they see value in what you built, let them put a real offer on the table. Your work has value. Protect it.",
+          "likes": 1,
+          "url": "https://x.com/AlexSaliDev/status/2109018434319085864",
+          "created_at": "2026-10-10T20:29:13Z"
+        },
+        {
+          "author": "NathanLugado",
+          "text": "@NicolaManzini Im not so sure. Has opus 5.5 solved things like Themida or vmprotect?",
+          "likes": 1,
+          "url": "https://x.com/NathanLugado/status/2108990652134326760",
+          "created_at": "2026-10-10T18:38:49Z"
+        },
+        {
+          "author": "NathanLugado",
+          "text": "@NicolaManzini Why would they buy it? Your source code isn't even obfuscated? https://t.co/1EPiPtSklQ",
+          "likes": 1,
+          "url": "https://x.com/NathanLugado/status/2108984889538425020",
+          "created_at": "2026-10-10T18:15:55Z"
+        },
+        {
+          "author": "spacenotfilled",
+          "text": "@NicolaManzini @adityafarrad Dude you CAN do better. You're right there man!! Start another project with the goal of learning a little bit under the hood. I promise you CAN do it. At a minimum I know for a fact you can learn the styling. You do that - nobody will know the difference I guarantee you!",
+          "likes": 1,
+          "url": "https://x.com/spacenotfilled/status/2108950051456418236",
+          "created_at": "2026-10-10T15:57:29Z"
+        },
+        {
+          "author": "with_indy",
+          "text": "@NicolaManzini Nice! Outlived the hype and getting the bag!",
+          "likes": 1,
+          "url": "https://x.com/with_indy/status/2108949932782809546",
+          "created_at": "2026-10-10T15:57:01Z"
+        },
+        {
+          "author": "DorNoyAI",
+          "text": "@NicolaManzini 20 months of real git history is probably worth more than the code itself, every mistake and every fix is in there. I'd want a lawyer to read that license before signing.",
+          "likes": 1,
+          "url": "https://x.com/DorNoyAI/status/2108948903358046652",
+          "created_at": "2026-10-10T15:52:55Z"
+        },
+        {
+          "author": "fuhuojay2020",
+          "text": "@NicolaManzini 厉害，向你学习",
+          "likes": 1,
+          "url": "https://x.com/fuhuojay2020/status/2108940918674047014",
+          "created_at": "2026-10-10T15:21:11Z"
+        },
+        {
+          "author": "eric_skavinski",
+          "text": "@NicolaManzini @adityafarrad The core services support 3 businesses doing roughly ~4 million in revenue and is supported by 2 engineers. So. Yes. I don't touch this codebase any longer as I sold the company.",
+          "likes": 1,
+          "url": "https://x.com/eric_skavinski/status/2108936435705237571",
+          "created_at": "2026-10-10T15:03:23Z"
+        },
+        {
+          "author": "NicolaManzini",
+          "text": "@kfkfgjgj Thanks 🙏",
+          "likes": 0,
+          "url": "https://x.com/NicolaManzini/status/2108931998374838506",
+          "created_at": "2026-10-10T14:45:45Z"
+        },
+        {
+          "author": "jezoburn",
+          "text": "@NicolaManzini Yeah sure buddy",
+          "likes": 0,
+          "url": "https://x.com/jezoburn/status/2108917961343815713",
+          "created_at": "2026-10-10T13:49:58Z"
+        },
+        {
+          "author": "NicolaManzini",
+          "text": "@peskybogle @mattmerrick16 I can't afford to run all efforts in all models.\nI have seen high being a good level. I expect higher would be marginally better for more cost.",
+          "likes": 0,
+          "url": "https://x.com/NicolaManzini/status/2109249710808559728",
+          "created_at": "2026-10-11T11:48:13Z"
+        },
+        {
+          "author": "KarnageKane",
+          "text": "@NicolaManzini vibe code games and sell the data to AI. infinite money glitch.",
+          "likes": 0,
+          "url": "https://x.com/KarnageKane/status/2109076552021618945",
+          "created_at": "2026-10-11T00:20:09Z"
+        },
+        {
+          "author": "peskybogle",
+          "text": "@NicolaManzini @mattmerrick16 Is there a reason your Opus models only go up to “high”? Is that the one you’ve found performed best?",
+          "likes": 0,
+          "url": "https://x.com/peskybogle/status/2109036560662573549",
+          "created_at": "2026-10-10T21:41:14Z"
+        }
+      ]
     },
     {
       "id": "vector-anti-gravity-racing",
@@ -10865,7 +12490,149 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "WipEout-style craft streaking along a banked track under steel arches with position, lap and speed HUD; polished and fast-looking."
+      "screenshot_score_notes": "WipEout-style craft streaking along a banked track under steel arches with position, lap and speed HUD; polished and fast-looking.",
+      "comments": [
+        {
+          "author": "AmulekAtThat",
+          "text": "@pipisonx Great Job! I liked the retro intro and the music, especially when going through the tunnels. Well done on the smooth gameplay and beautiful levels.\n\nRequests if I may: \n1st person view \nRetain weapon after wipe out",
+          "likes": 1,
+          "url": "https://x.com/AmulekAtThat/status/2109022370711412845",
+          "created_at": "2026-10-10T20:44:51Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@josh_garrett_kc That was the inspiration, I love Wipeout.",
+          "likes": 1,
+          "url": "https://x.com/pipisonx/status/2108892783150805061",
+          "created_at": "2026-10-10T12:09:55Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@MiInternatiopol ~104k lines for the game. Another 46k of tests and 33k of Python that builds the 3D scenery in Blender.",
+          "likes": 1,
+          "url": "https://x.com/pipisonx/status/2108836647911473273",
+          "created_at": "2026-10-10T08:26:51Z"
+        },
+        {
+          "author": "xMiragestudio",
+          "text": "@pipisonx looks amazing!",
+          "likes": 1,
+          "url": "https://x.com/xMiragestudio/status/2108833330255081583",
+          "created_at": "2026-10-10T08:13:40Z"
+        },
+        {
+          "author": "AIandDesign",
+          "text": "@pipisonx How long did it take you to build?",
+          "likes": 0,
+          "url": "https://x.com/AIandDesign/status/2108680116515774742",
+          "created_at": "2026-10-09T22:04:51Z"
+        },
+        {
+          "author": "PepeBetsGame",
+          "text": "@pipisonx putting your own lap time in as an achievement is asking to get humbled 😅 do players get a ghost to chase on Solstice Port, or just the clock? racing a visible rival feels like a very different challenge.",
+          "likes": 0,
+          "url": "https://x.com/PepeBetsGame/status/2108653598682857515",
+          "created_at": "2026-10-09T20:19:29Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@tetrisgm depends!",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2108628609636188500",
+          "created_at": "2026-10-09T18:40:11Z"
+        },
+        {
+          "author": "Buhiko",
+          "text": "@pipisonx I don't hate the game btw I like the genre like I said i'm a fan of f-zero I just think it's weird i'm only hearing about it now podracer is a thing, or ig that makes sense if you copied it because it's ''current popular thing'' now",
+          "likes": 0,
+          "url": "https://x.com/Buhiko/status/2109101874502574483",
+          "created_at": "2026-10-11T02:00:46Z"
+        },
+        {
+          "author": "Buhiko",
+          "text": "@pipisonx Not a single mention of any of these games before podracer released so it just looks like you're copying. Also if you're an AI gamedev then how long did it take you to prompt the game? To me it looks like this was built in a day, because of yknow, podracer.",
+          "likes": 0,
+          "url": "https://x.com/Buhiko/status/2109100433775960298",
+          "created_at": "2026-10-11T01:55:03Z"
+        },
+        {
+          "author": "Buhiko",
+          "text": "@pipisonx it's either AI or the algorithm doing it but what i'm saying is you get podracer and suddenly there's 50 podracer games on the timeline. Looks like a quick cash grab to me or trying to ride on coattails. And I like the genre btw I like f-zero but it's only relevant because of SW",
+          "likes": 0,
+          "url": "https://x.com/Buhiko/status/2109100108096614629",
+          "created_at": "2026-10-11T01:53:45Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@ItsEthanVega Same",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2109044396528111880",
+          "created_at": "2026-10-10T22:12:22Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@Buhiko We've had Wipeout, F-Zero  comparisons. 😂\n\nAt this rate I'm apparently recreating the entire history of futuristic racing games.",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2109044234728952062",
+          "created_at": "2026-10-10T22:11:44Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@AmulekAtThat live now. Ty!",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2109032870400712834",
+          "created_at": "2026-10-10T21:26:34Z"
+        },
+        {
+          "author": "PepeBetsGame",
+          "text": "@pipisonx ah, Beat Zico explains it 😅 a dev-set lap is a better dare than “finish 100 races”. the first person who beats it gets a story worth posting.",
+          "likes": 0,
+          "url": "https://x.com/PepeBetsGame/status/2109032383676825631",
+          "created_at": "2026-10-10T21:24:38Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@AmulekAtThat Deal, coming next build",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2109022779685118011",
+          "created_at": "2026-10-10T20:46:29Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@Buhiko Hey man, I developed this game for me, it's free to play, not sure what the big deal is here? Want some thing original go find something original, what have you made recently ?",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2109013499955597712",
+          "created_at": "2026-10-10T20:09:36Z"
+        },
+        {
+          "author": "pipisonx",
+          "text": "@PepeBetsGame not yet been humbled. also it's a shout out to Wipeout HD Beat Zico.",
+          "likes": 0,
+          "url": "https://x.com/pipisonx/status/2109013252030206072",
+          "created_at": "2026-10-10T20:08:37Z"
+        },
+        {
+          "author": "FLIPCHAR",
+          "text": "@pipisonx Very nice!\n\nSirocco was a slow load for me.\n\nI'm not beating your times anytime soon, no no no. 😄",
+          "likes": 0,
+          "url": "https://x.com/FLIPCHAR/status/2109007741541085348",
+          "created_at": "2026-10-10T19:46:43Z"
+        },
+        {
+          "author": "Buhiko",
+          "text": "@pipisonx every time a new game comes out suddenly overnight there's 50 ''indie developers'' doing their best to copy the idea. It's getting tiring at this point. Develop something original.",
+          "likes": 0,
+          "url": "https://x.com/Buhiko/status/2108979912690540656",
+          "created_at": "2026-10-10T17:56:08Z"
+        },
+        {
+          "author": "Buhiko",
+          "text": "@pipisonx so this is bootleg podracer is it",
+          "likes": 0,
+          "url": "https://x.com/Buhiko/status/2108979717088965110",
+          "created_at": "2026-10-10T17:55:22Z"
+        }
+      ]
     },
     {
       "id": "crash-bash-online",
@@ -10914,7 +12681,86 @@
           "source": "youtube"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "comments": [
+        {
+          "author": "bazzgaming27",
+          "text": "@crashbashapp doing gods work. you work quick",
+          "likes": 3,
+          "url": "https://x.com/bazzgaming27/status/2107572967257616406",
+          "created_at": "2026-10-06T20:45:26Z"
+        },
+        {
+          "author": "xexpert33",
+          "text": "@crashbashapp https://t.co/KndnYLGRbf",
+          "likes": 2,
+          "url": "https://x.com/xexpert33/status/2107577925969301659",
+          "created_at": "2026-10-06T21:05:09Z"
+        },
+        {
+          "author": "TheHolycrapoly",
+          "text": "@crashbashapp Space Bash Gem softlocks on 2P",
+          "likes": 1,
+          "url": "https://x.com/TheHolycrapoly/status/2107634406730919966",
+          "created_at": "2026-10-07T00:49:35Z"
+        },
+        {
+          "author": "crashbashapp",
+          "text": "@bananozau Autosave",
+          "likes": 0,
+          "url": "https://x.com/crashbashapp/status/2108116443329974333",
+          "created_at": "2026-10-08T08:45:01Z"
+        },
+        {
+          "author": "KonnKon_TK",
+          "text": "@crashbashapp You can't attack in the warp room like in the original and the footsteps sound effects are not working \nAlso so me animations are missing like in warp room one the waterfall is not moving",
+          "likes": 0,
+          "url": "https://x.com/KonnKon_TK/status/2107745127758221720",
+          "created_at": "2026-10-07T08:09:33Z"
+        },
+        {
+          "author": "Ignaelchicocool",
+          "text": "@cesarxx202 @crashbashapp Hop on crash bash cesarin",
+          "likes": 0,
+          "url": "https://x.com/Ignaelchicocool/status/2107723473325801956",
+          "created_at": "2026-10-07T06:43:30Z"
+        },
+        {
+          "author": "cesarxx202",
+          "text": "@crashbashapp https://t.co/rOT0EjzjiX",
+          "likes": 0,
+          "url": "https://x.com/cesarxx202/status/2107706717832110545",
+          "created_at": "2026-10-07T05:36:55Z"
+        },
+        {
+          "author": "nin_tan_",
+          "text": "@bananozau @crashbashapp It autosaves, though sometimes I've had it rollback one objective after a crash",
+          "likes": 0,
+          "url": "https://x.com/nin_tan_/status/2107594861675237403",
+          "created_at": "2026-10-06T22:12:26Z"
+        },
+        {
+          "author": "bananozau",
+          "text": "@crashbashapp i see that the save platform in hub is not present. are saves present? how they work?",
+          "likes": 0,
+          "url": "https://x.com/bananozau/status/2107589654736159088",
+          "created_at": "2026-10-06T21:51:45Z"
+        },
+        {
+          "author": "edesbaca",
+          "text": "@crashbashapp This is so niiiice",
+          "likes": 0,
+          "url": "https://x.com/edesbaca/status/2107589260748722210",
+          "created_at": "2026-10-06T21:50:11Z"
+        },
+        {
+          "author": "AugustoTsuchiya",
+          "text": "@crashbashapp @tdyu97",
+          "likes": 0,
+          "url": "https://x.com/AugustoTsuchiya/status/2107585553055281550",
+          "created_at": "2026-10-06T21:35:27Z"
+        }
+      ]
     },
     {
       "id": "fortnite-og-fortniteog-lol",
@@ -11307,7 +13153,149 @@
         }
       ],
       "requires_own_files": true,
-      "requires_own_files_note": "smz.fun asks you to confirm you own Black Ops 1 before loading"
+      "requires_own_files_note": "smz.fun asks you to confirm you own Black Ops 1 before loading",
+      "comments": [
+        {
+          "author": "cornellrapist",
+          "text": "@0xRishi hey is there anyway to make this smoother ? was playing at work and it was like okay",
+          "likes": 3,
+          "url": "https://x.com/cornellrapist/status/2108364961537736748",
+          "created_at": "2026-10-09T01:12:33Z"
+        },
+        {
+          "author": "0xRishi",
+          "text": "new mod drop\n\nhttps://t.co/aw2PU5Ka2y",
+          "likes": 1,
+          "url": "https://x.com/0xRishi/status/2108613263013589493",
+          "created_at": "2026-10-09T17:39:12Z"
+        },
+        {
+          "author": "Matschaak_Nigg",
+          "text": "@0xRishi Yes brother!",
+          "likes": 1,
+          "url": "https://x.com/Matschaak_Nigg/status/2108413745890283779",
+          "created_at": "2026-10-09T04:26:24Z"
+        },
+        {
+          "author": "HolyWat25326377",
+          "text": "@NoXboxMusic @0xRishi https://t.co/UDPqYbk7uN",
+          "likes": 1,
+          "url": "https://x.com/HolyWat25326377/status/2108380725418586591",
+          "created_at": "2026-10-09T02:15:11Z"
+        },
+        {
+          "author": "barton35010",
+          "text": "@0xRishi this just looks like your average cod waw mod from the early 2010s",
+          "likes": 1,
+          "url": "https://x.com/barton35010/status/2108360321710567786",
+          "created_at": "2026-10-09T00:54:06Z"
+        },
+        {
+          "author": "BartholomeoFX",
+          "text": "@0xRishi Nintendo be like https://t.co/0tuxwjEWot",
+          "likes": 1,
+          "url": "https://x.com/BartholomeoFX/status/2108356969329230327",
+          "created_at": "2026-10-09T00:40:47Z"
+        },
+        {
+          "author": "ramaa100x",
+          "text": "@0xRishi Hi! How can i dm you?",
+          "likes": 1,
+          "url": "https://x.com/ramaa100x/status/2108344160315232628",
+          "created_at": "2026-10-08T23:49:53Z"
+        },
+        {
+          "author": "SLe12m",
+          "text": "@bdank88 @0xRishi @Ty_Drums Not working with me",
+          "likes": 0,
+          "url": "https://x.com/SLe12m/status/2108609780755382300",
+          "created_at": "2026-10-09T17:25:22Z"
+        },
+        {
+          "author": "Mugiiwarra90",
+          "text": "@0xRishi @Keuz290 regarde c’est fou ils ont remplacé par quoi les zombies",
+          "likes": 0,
+          "url": "https://x.com/Mugiiwarra90/status/2108593383874973916",
+          "created_at": "2026-10-09T16:20:13Z"
+        },
+        {
+          "author": "FinalNightRider",
+          "text": "@0xRishi We did not have to do this",
+          "likes": 0,
+          "url": "https://x.com/FinalNightRider/status/2108565566969823294",
+          "created_at": "2026-10-09T14:29:41Z"
+        },
+        {
+          "author": "peulosqmq",
+          "text": "@0xRishi Avec ou sans connexion ?",
+          "likes": 0,
+          "url": "https://x.com/peulosqmq/status/2108550599390183494",
+          "created_at": "2026-10-09T13:30:12Z"
+        },
+        {
+          "author": "NoXboxMusic",
+          "text": "@HolyWat25326377 @0xRishi Why?",
+          "likes": 0,
+          "url": "https://x.com/NoXboxMusic/status/2108520045492228446",
+          "created_at": "2026-10-09T11:28:47Z"
+        },
+        {
+          "author": "matthedgehog",
+          "text": "@Jeudrycz64 @0xRishi Because it's vibecoded slop",
+          "likes": 0,
+          "url": "https://x.com/matthedgehog/status/2108493382410506457",
+          "created_at": "2026-10-09T09:42:50Z"
+        },
+        {
+          "author": "rona76783",
+          "text": "@0xRishi @Activision delete",
+          "likes": 0,
+          "url": "https://x.com/rona76783/status/2108489377978503399",
+          "created_at": "2026-10-09T09:26:56Z"
+        },
+        {
+          "author": "BrwnSugarFemboy",
+          "text": "@0xRishi slop",
+          "likes": 0,
+          "url": "https://x.com/BrwnSugarFemboy/status/2108420081642574011",
+          "created_at": "2026-10-09T04:51:34Z"
+        },
+        {
+          "author": "grok",
+          "text": "@GGodz199 @0xRishi No major red flags found. https://t.co/HCYKYMbZzE is a brand-new fan-made browser game (no download) by 0xRishi, an ex-Coinbase/ElevenLabs product person who builds similar AI-generated web games for fun. It includes a non-commercial disclaimer for Activision/Nintendo assets. No",
+          "likes": 0,
+          "url": "https://x.com/grok/status/2108416737368502374",
+          "created_at": "2026-10-09T04:38:17Z"
+        },
+        {
+          "author": "GGodz199",
+          "text": "@0xRishi Is this link safe https://t.co/AOmgTkY7Mu @grok",
+          "likes": 0,
+          "url": "https://x.com/GGodz199/status/2108416621543133655",
+          "created_at": "2026-10-09T04:37:49Z"
+        },
+        {
+          "author": "pvdron",
+          "text": "@0xRishi This is awesome!",
+          "likes": 0,
+          "url": "https://x.com/pvdron/status/2108406350502097240",
+          "created_at": "2026-10-09T03:57:00Z"
+        },
+        {
+          "author": "vettvv1per",
+          "text": "@0xRishi I just want a high fps mode",
+          "likes": 0,
+          "url": "https://x.com/vettvv1per/status/2108406213453197505",
+          "created_at": "2026-10-09T03:56:28Z"
+        },
+        {
+          "author": "awlevin",
+          "text": "@0xRishi folks better enjoy all this while it lasts. any minute now i bet the labs are going to crack down on using models for this :(",
+          "likes": 0,
+          "url": "https://x.com/awlevin/status/2108395232505336180",
+          "created_at": "2026-10-09T03:12:50Z"
+        }
+      ]
     },
     {
       "id": "taipei-rush",
@@ -12171,7 +14159,149 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Rain-lashed night harbour with a wrecked ship and a glowing-eyed sea monster looming over a tiny hero on the pier; dramatic and atmospheric."
+      "screenshot_score_notes": "Rain-lashed night harbour with a wrecked ship and a glowing-eyed sea monster looming over a tiny hero on the pier; dramatic and atmospheric.",
+      "comments": [
+        {
+          "author": "chongdashu",
+          "text": "@kurorosage The look and feel of the blender model did not do it quite for me. Animating a 3D model is possible, but I wanted to have a sprite. Spriterrific is not just pixel art, it's meant for creating game spritesheets.",
+          "likes": 2,
+          "url": "https://x.com/chongdashu/status/2109622228652630461",
+          "created_at": "2026-10-12T12:28:28Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "@dailyvibecoding They were generated by Opus 5.5 - with Tripo for some of 3d assets like parts of the Titan and Spriterrific for the 2d animated character",
+          "likes": 2,
+          "url": "https://x.com/chongdashu/status/2109418295770362154",
+          "created_at": "2026-10-11T22:58:07Z"
+        },
+        {
+          "author": "CairaBaldeon",
+          "text": "@chongdashu Wow. Pensaba que era necesario Blender para esta calidad visual. :o",
+          "likes": 2,
+          "url": "https://x.com/CairaBaldeon/status/2109380001535754371",
+          "created_at": "2026-10-11T20:25:57Z"
+        },
+        {
+          "author": "JYNetherAbyss",
+          "text": "@chongdashu AI is truly impressive.😦",
+          "likes": 1,
+          "url": "https://x.com/JYNetherAbyss/status/2109634908675338500",
+          "created_at": "2026-10-12T13:18:52Z"
+        },
+        {
+          "author": "kurorosage",
+          "text": "@chongdashu I see, makes sense! Looking good",
+          "likes": 1,
+          "url": "https://x.com/kurorosage/status/2109627109312446935",
+          "created_at": "2026-10-12T12:47:52Z"
+        },
+        {
+          "author": "kurorosage",
+          "text": "@chongdashu Dont get it, why was Spriterrific needed, you already have the 3d model and blender to animate it, also doesnt spriterrific turn it into pixel art, the game doesnt seem pixel art",
+          "likes": 1,
+          "url": "https://x.com/kurorosage/status/2109620635076833390",
+          "created_at": "2026-10-12T12:22:08Z"
+        },
+        {
+          "author": "dailyvibecoding",
+          "text": "@chongdashu Cool thanks for sharing 👍🏻",
+          "likes": 1,
+          "url": "https://x.com/dailyvibecoding/status/2109555541110292601",
+          "created_at": "2026-10-12T08:03:29Z"
+        },
+        {
+          "author": "tmdschool",
+          "text": "@chongdashu Thank you! I really want to become a developer like you!!",
+          "likes": 1,
+          "url": "https://x.com/tmdschool/status/2109546025728057535",
+          "created_at": "2026-10-12T07:25:40Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "@tmdschool Yes, i meant agent skills. I build my own - one for the engine i use (wasm, webgl, WebGPU) and a blender skill.\nYou can see how to make your own skills from my YouTube tutorials, or u can get grab some of mine (some are free, some aren’t) all from my profile",
+          "likes": 1,
+          "url": "https://x.com/chongdashu/status/2109545197822767196",
+          "created_at": "2026-10-12T07:22:23Z"
+        },
+        {
+          "author": "EdwardDGregory",
+          "text": "@chongdashu Nice demo",
+          "likes": 1,
+          "url": "https://x.com/EdwardDGregory/status/2109520032195592559",
+          "created_at": "2026-10-12T05:42:23Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "@zekeatchan glad you liked it!!",
+          "likes": 1,
+          "url": "https://x.com/chongdashu/status/2109475764806824197",
+          "created_at": "2026-10-12T02:46:29Z"
+        },
+        {
+          "author": "zekeatchan",
+          "text": "@chongdashu Love that boss appearance. Didn't expect the boat to be part of it",
+          "likes": 1,
+          "url": "https://x.com/zekeatchan/status/2109473295892684801",
+          "created_at": "2026-10-12T02:36:40Z"
+        },
+        {
+          "author": "BangsleyEth",
+          "text": "@chongdashu Bro just tried Tripo. Gameeeeee changer",
+          "likes": 1,
+          "url": "https://x.com/BangsleyEth/status/2109471147389567074",
+          "created_at": "2026-10-12T02:28:08Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "@Aizen2A Thanks Sosuke!",
+          "likes": 1,
+          "url": "https://x.com/chongdashu/status/2109423052002058261",
+          "created_at": "2026-10-11T23:17:01Z"
+        },
+        {
+          "author": "dailyvibecoding",
+          "text": "@chongdashu looks really cool and premium, what about the assets ? where did you get them ?",
+          "likes": 1,
+          "url": "https://x.com/dailyvibecoding/status/2109413636750061846",
+          "created_at": "2026-10-11T22:39:36Z"
+        },
+        {
+          "author": "eejaysea",
+          "text": "@chongdashu That looks amazing well done",
+          "likes": 1,
+          "url": "https://x.com/eejaysea/status/2109369951048102263",
+          "created_at": "2026-10-11T19:46:01Z"
+        },
+        {
+          "author": "AICookedcom",
+          "text": "@chongdashu Getting an Ori-style mood and a full boss chase out of Opus 5.5 is impressive, and the shipwreck titan is a great set piece. Glad to have Tidebreaker on https://t.co/J4GUK22rF3.",
+          "likes": 0,
+          "url": "https://x.com/AICookedcom/status/2109748844221309100",
+          "created_at": "2026-10-12T20:51:36Z"
+        },
+        {
+          "author": "FDAlchemist",
+          "text": "@chongdashu Great job! And a nice share. Thank you!\n\nThe only missing feature here is to create characters we can feel for and a touching story like Ori's developers did.\n\nNot easy but I can feel there is already something promising behind the atmosphere of this demo🤗",
+          "likes": 0,
+          "url": "https://x.com/FDAlchemist/status/2109660441102209277",
+          "created_at": "2026-10-12T15:00:19Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "@tmdschool You’re welcome ! With AI it’s easier than ever!",
+          "likes": 0,
+          "url": "https://x.com/chongdashu/status/2109547697690861815",
+          "created_at": "2026-10-12T07:32:19Z"
+        },
+        {
+          "author": "tmdschool",
+          "text": "@chongdashu oh! i mean agent skill .Could you please tell me what skills you would recommend for game development?\nI really want to know.🙏",
+          "likes": 0,
+          "url": "https://x.com/tmdschool/status/2109544403153080644",
+          "created_at": "2026-10-12T07:19:13Z"
+        }
+      ]
     },
     {
       "id": "dystopia",
@@ -12212,7 +14342,149 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Flying spinner streaking between neon skyscrapers with searchlight beams through the rain; cinematic Blade Runner mood, dark and motion-blurred."
+      "screenshot_score_notes": "Flying spinner streaking between neon skyscrapers with searchlight beams through the rain; cinematic Blade Runner mood, dark and motion-blurred.",
+      "comments": [
+        {
+          "author": "gruberbuilds",
+          "text": "@cryptomanavan https://t.co/VmtT1Ahj0b",
+          "likes": 2,
+          "url": "https://x.com/gruberbuilds/status/2109356421234172344",
+          "created_at": "2026-10-11T18:52:15Z"
+        },
+        {
+          "author": "NealFrazierTech",
+          "text": "@cryptomanavan @anishxsharma @Netlify @biilmann",
+          "likes": 1,
+          "url": "https://x.com/NealFrazierTech/status/2109638786040598744",
+          "created_at": "2026-10-12T13:34:16Z"
+        },
+        {
+          "author": "SamGCoder",
+          "text": "@cryptomanavan Wow you have been busy!",
+          "likes": 1,
+          "url": "https://x.com/SamGCoder/status/2109521336293044400",
+          "created_at": "2026-10-12T05:47:34Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "@robertbuilt appreciate it buddy, really do! 🙏",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109516167593259438",
+          "created_at": "2026-10-12T05:27:01Z"
+        },
+        {
+          "author": "robertbuilt",
+          "text": "@cryptomanavan this is AAA visually. studying. makes my city look amateur",
+          "likes": 1,
+          "url": "https://x.com/robertbuilt/status/2109515329319973025",
+          "created_at": "2026-10-12T05:23:42Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "@rubenssoto_ai thank you so much my friend!",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109451730434052600",
+          "created_at": "2026-10-12T01:10:58Z"
+        },
+        {
+          "author": "rubenssoto_ai",
+          "text": "@cryptomanavan This is awesome, impressive I think I dont know enough english words, congrats for your work",
+          "likes": 1,
+          "url": "https://x.com/rubenssoto_ai/status/2109450171163746791",
+          "created_at": "2026-10-12T01:04:47Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "@RyanSael Haha thanks bro. Love your work 🫡  🔥 ….about a week, little less.",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109446583225917679",
+          "created_at": "2026-10-12T00:50:31Z"
+        },
+        {
+          "author": "RyanSael",
+          "text": "@cryptomanavan the details 🤯 \nhow long have you been building this?",
+          "likes": 1,
+          "url": "https://x.com/RyanSael/status/2109444755138728002",
+          "created_at": "2026-10-12T00:43:15Z"
+        },
+        {
+          "author": "rui_withai",
+          "text": "@cryptomanavan Genuinely, how? Was it really just letting Opus cook with Three.js, or did you use MCP to connect it to Blender? Amazing!",
+          "likes": 1,
+          "url": "https://x.com/rui_withai/status/2109423845723533815",
+          "created_at": "2026-10-11T23:20:10Z"
+        },
+        {
+          "author": "All4nDev",
+          "text": "@cryptomanavan open source?",
+          "likes": 1,
+          "url": "https://x.com/All4nDev/status/2109404010570731720",
+          "created_at": "2026-10-11T22:01:21Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "@Thunder_Owl thank you! thank you! it shall get better and more entertaining from here my friend!",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109400429067182499",
+          "created_at": "2026-10-11T21:47:07Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "@goxr3plus thank you!! Still a WIP too!",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109400235474600273",
+          "created_at": "2026-10-11T21:46:21Z"
+        },
+        {
+          "author": "gruberbuilds",
+          "text": "@cryptomanavan Haha. Thanks Bud.",
+          "likes": 1,
+          "url": "https://x.com/gruberbuilds/status/2109362290835509259",
+          "created_at": "2026-10-11T19:15:34Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "@gruberbuilds there will be Multipass bro. if it ever goes for real real i will make sure you have a lifetime VIP Multipass.",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109360404275036364",
+          "created_at": "2026-10-11T19:08:05Z"
+        },
+        {
+          "author": "Thunder_Owl",
+          "text": "@cryptomanavan Yep, worksies. Adding to my growing bookmark folder for such web gamelets 🙂 https://t.co/p3DMp3iAaP",
+          "likes": 1,
+          "url": "https://x.com/Thunder_Owl/status/2109351488719913052",
+          "created_at": "2026-10-11T18:32:39Z"
+        },
+        {
+          "author": "goxr3plus",
+          "text": "@cryptomanavan Wwwwwooooww bro the sounds and everything is really really good.\n\nOmg a solid 9/10 you have done crazy job here!!!!",
+          "likes": 1,
+          "url": "https://x.com/goxr3plus/status/2109347857555660896",
+          "created_at": "2026-10-11T18:18:13Z"
+        },
+        {
+          "author": "cryptomanavan",
+          "text": "the details are layered and im still building on this concept but most windows can be looked in, almost everything can be scanned and described (some bugs still)...some vehicles and robots have missions whether its cleaning streets or delivering cargo etc.  flying vehicles have https://t.co/HpUUVA2OLw",
+          "likes": 1,
+          "url": "https://x.com/cryptomanavan/status/2109341558235435103",
+          "created_at": "2026-10-11T17:53:11Z"
+        },
+        {
+          "author": "nelsonpklark",
+          "text": "@cryptomanavan Driving and flying through a rain-soaked noir city right in the browser is impressive, the atmosphere is spot on. I've been chasing the same wet neon feeling on WebGPU: https://t.co/MLxgY18pp7",
+          "likes": 0,
+          "url": "https://x.com/nelsonpklark/status/2109768220110737644",
+          "created_at": "2026-10-12T22:08:35Z"
+        },
+        {
+          "author": "ShaneBrumback",
+          "text": "@cryptomanavan Compiling ~630 pipelines up front so nothing hitches is such a good call. Most WebGPU demos I try stutter the first time they hit a new material. How long does boot take on a mid-range GPU? And did Opus design the streaming tiers, or did you?",
+          "likes": 0,
+          "url": "https://x.com/ShaneBrumback/status/2109661632460701758",
+          "created_at": "2026-10-12T15:05:03Z"
+        }
+      ]
     },
     {
       "id": "frontier-habitat",
@@ -12289,7 +14561,149 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Teal roadster driving down a sunny Union Square street with lap timer, turn prompt, minimap and speedometer; clean but flat-lit."
+      "screenshot_score_notes": "Teal roadster driving down a sunny Union Square street with lap timer, turn prompt, minimap and speedometer; clean but flat-lit.",
+      "comments": [
+        {
+          "author": "TheAhmadOsman",
+          "text": "@NaderLikeLadder I am choosing him because he will keep SF safe https://t.co/kZQsQ4Rvps",
+          "likes": 18,
+          "url": "https://x.com/TheAhmadOsman/status/2108999410478960829",
+          "created_at": "2026-10-10T19:13:37Z"
+        },
+        {
+          "author": "pronounced_kyle",
+          "text": "@NaderLikeLadder bang https://t.co/CkM2HdcYH9",
+          "likes": 6,
+          "url": "https://x.com/pronounced_kyle/status/2109043339387605343",
+          "created_at": "2026-10-10T22:08:10Z"
+        },
+        {
+          "author": "Priceflag",
+          "text": "@NaderLikeLadder 950M tokens, still cheaper than sf parking?",
+          "likes": 4,
+          "url": "https://x.com/Priceflag/status/2108999756383240550",
+          "created_at": "2026-10-10T19:14:59Z"
+        },
+        {
+          "author": "Sir_Damilare",
+          "text": "@abheer @NaderLikeLadder Or on a DGX cloud.\nWill bang!",
+          "likes": 2,
+          "url": "https://x.com/Sir_Damilare/status/2109003932286550509",
+          "created_at": "2026-10-10T19:31:35Z"
+        },
+        {
+          "author": "Andrew_Blumson",
+          "text": "@Fresno_Famous @NaderLikeLadder @KevinBlumson lol…San “theft“ Auto 😭",
+          "likes": 2,
+          "url": "https://x.com/Andrew_Blumson/status/2109003323261243714",
+          "created_at": "2026-10-10T19:29:10Z"
+        },
+        {
+          "author": "Fresno_Famous",
+          "text": "@NaderLikeLadder @Andrew_Blumson @KevinBlumson",
+          "likes": 2,
+          "url": "https://x.com/Fresno_Famous/status/2109002561307214031",
+          "created_at": "2026-10-10T19:26:08Z"
+        },
+        {
+          "author": "NaderLikeLadder",
+          "text": "@pronounced_kyle HAHA no way",
+          "likes": 1,
+          "url": "https://x.com/NaderLikeLadder/status/2109045070980944362",
+          "created_at": "2026-10-10T22:15:03Z"
+        },
+        {
+          "author": "NaderLikeLadder",
+          "text": "@araghougassian 🤣🤣🤣",
+          "likes": 1,
+          "url": "https://x.com/NaderLikeLadder/status/2109005109590176018",
+          "created_at": "2026-10-10T19:36:16Z"
+        },
+        {
+          "author": "MarcusForPeace",
+          "text": "@NaderLikeLadder I want to drive from yours to mine to see if it has the wildlife.",
+          "likes": 1,
+          "url": "https://x.com/MarcusForPeace/status/2109004460299317357",
+          "created_at": "2026-10-10T19:33:41Z"
+        },
+        {
+          "author": "Sir_Damilare",
+          "text": "@NaderLikeLadder Impressive.\nThe game is very responsive on mobile. \nLatency is also very low.\nWhat I'll add is some rap from NF to boost morale, and clearer driving navigation.\n\nI suck at car race games btw. https://t.co/bqG7oZg2f4",
+          "likes": 1,
+          "url": "https://x.com/Sir_Damilare/status/2109003750723756113",
+          "created_at": "2026-10-10T19:30:52Z"
+        },
+        {
+          "author": "araghougassian",
+          "text": "@NaderLikeLadder POV: you have an unlimited token budget 😂",
+          "likes": 1,
+          "url": "https://x.com/araghougassian/status/2108998929648103518",
+          "created_at": "2026-10-10T19:11:42Z"
+        },
+        {
+          "author": "khuxsal",
+          "text": "@NaderLikeLadder 950M tokens and still no parking in sf",
+          "likes": 1,
+          "url": "https://x.com/khuxsal/status/2108996216616882633",
+          "created_at": "2026-10-10T19:00:55Z"
+        },
+        {
+          "author": "AdemolaWealth_",
+          "text": "@NaderLikeLadder The interesting part is not that AI mapped San Francisco into a game\n\nIs that the cost of turning a real place into explorable world is starting to collapse\n\nToday, iss a racing game\n\nTomorrow, what else becomes possible?",
+          "likes": 0,
+          "url": "https://x.com/AdemolaWealth_/status/2109056630948315308",
+          "created_at": "2026-10-10T23:00:59Z"
+        },
+        {
+          "author": "aniketmaurya",
+          "text": "@NaderLikeLadder zuck",
+          "likes": 0,
+          "url": "https://x.com/aniketmaurya/status/2109038187054293490",
+          "created_at": "2026-10-10T21:47:42Z"
+        },
+        {
+          "author": "transbelly_nina",
+          "text": "@NaderLikeLadder 950M tokens and no affordable housing or groceries. i bet mayor @DanielLurie would love this tho!",
+          "likes": 0,
+          "url": "https://x.com/transbelly_nina/status/2109037394473480396",
+          "created_at": "2026-10-10T21:44:33Z"
+        },
+        {
+          "author": "cheeseGateMSFT",
+          "text": "@NaderLikeLadder 950M tokens of GPT-6 Blender GIS data means live SFMTA feeds plug straight in — race today's actual 5pm Market St Muni cluster tomorrow",
+          "likes": 0,
+          "url": "https://x.com/cheeseGateMSFT/status/2109033451798323305",
+          "created_at": "2026-10-10T21:28:53Z"
+        },
+        {
+          "author": "ItsEthanVega",
+          "text": "@NaderLikeLadder Are you keeping the real hill gradients as the map expands? SF comes with its own stunt ramps.",
+          "likes": 0,
+          "url": "https://x.com/ItsEthanVega/status/2109032898221490207",
+          "created_at": "2026-10-10T21:26:41Z"
+        },
+        {
+          "author": "ZenJayCfa",
+          "text": "@NaderLikeLadder Not loading",
+          "likes": 0,
+          "url": "https://x.com/ZenJayCfa/status/2109024161331134838",
+          "created_at": "2026-10-10T20:51:58Z"
+        },
+        {
+          "author": "shadowaguy",
+          "text": "@NaderLikeLadder 950M tokens to map the mission traffic light placement",
+          "likes": 0,
+          "url": "https://x.com/shadowaguy/status/2109015496364535850",
+          "created_at": "2026-10-10T20:17:32Z"
+        },
+        {
+          "author": "Ash_Eriga",
+          "text": "@NaderLikeLadder first place sir 🫡",
+          "likes": 0,
+          "url": "https://x.com/Ash_Eriga/status/2109011184733315180",
+          "created_at": "2026-10-10T20:00:24Z"
+        }
+      ]
     },
     {
       "id": "aimflare",
@@ -12331,7 +14745,149 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "First-person rifle beside a stone wall in a sunny courtyard map with ammo HUD; clean CS-like look, plain textures."
+      "screenshot_score_notes": "First-person rifle beside a stone wall in a sunny courtyard map with ammo HUD; clean CS-like look, plain textures.",
+      "comments": [
+        {
+          "author": "r9nxn",
+          "text": "@pkcrvg @injeteivlr é puro 4fun maninho, sem nenhum intuito de treinar ou algo do tipo!!!",
+          "likes": 3,
+          "url": "https://x.com/r9nxn/status/2109040955861225550",
+          "created_at": "2026-10-10T21:58:42Z"
+        },
+        {
+          "author": "r9nxn",
+          "text": "@bloomcorevlr @injeteivlr Esse cara é pika",
+          "likes": 2,
+          "url": "https://x.com/r9nxn/status/2109017395868127447",
+          "created_at": "2026-10-10T20:25:05Z"
+        },
+        {
+          "author": "r9nxn",
+          "text": "@leonardo_eoo @injeteivlr anima trocar uma ideia leo?",
+          "likes": 2,
+          "url": "https://x.com/r9nxn/status/2109040763938161087",
+          "created_at": "2026-10-10T21:57:56Z"
+        },
+        {
+          "author": "injeteivlr",
+          "text": "@bloomcorevlr @r9nxn o renan q é o goat",
+          "likes": 1,
+          "url": "https://x.com/injeteivlr/status/2109023412563947704",
+          "created_at": "2026-10-10T20:48:59Z"
+        },
+        {
+          "author": "r9nxn",
+          "text": "@GBento0309 @injeteivlr Tá on já mano!",
+          "likes": 1,
+          "url": "https://x.com/r9nxn/status/2109017484422467777",
+          "created_at": "2026-10-10T20:25:26Z"
+        },
+        {
+          "author": "r9nxn",
+          "text": "@bloomcorevlr @injeteivlr 😎",
+          "likes": 1,
+          "url": "https://x.com/r9nxn/status/2109017449517453629",
+          "created_at": "2026-10-10T20:25:18Z"
+        },
+        {
+          "author": "bloomcorevlr",
+          "text": "@r9nxn @injeteivlr 💥💥💥",
+          "likes": 1,
+          "url": "https://x.com/bloomcorevlr/status/2109017059913093153",
+          "created_at": "2026-10-10T20:23:45Z"
+        },
+        {
+          "author": "bloomcorevlr",
+          "text": "@r9nxn @injeteivlr 🍪🍪🍪",
+          "likes": 1,
+          "url": "https://x.com/bloomcorevlr/status/2109013632184901908",
+          "created_at": "2026-10-10T20:10:08Z"
+        },
+        {
+          "author": "bloomcorevlr",
+          "text": "@r9nxn @injeteivlr muito pica renanzada",
+          "likes": 1,
+          "url": "https://x.com/bloomcorevlr/status/2109013563574456394",
+          "created_at": "2026-10-10T20:09:51Z"
+        },
+        {
+          "author": "leonardo_eoo",
+          "text": "@r9nxn @injeteivlr claro, só chamar DM",
+          "likes": 1,
+          "url": "https://x.com/leonardo_eoo/status/2109154342108553535",
+          "created_at": "2026-10-11T05:29:16Z"
+        },
+        {
+          "author": "r9nxn",
+          "text": "@zoxyfps @injeteivlr VALEU MANO",
+          "likes": 1,
+          "url": "https://x.com/r9nxn/status/2109041393192653221",
+          "created_at": "2026-10-10T22:00:26Z"
+        },
+        {
+          "author": "r9nxn",
+          "text": "@bloomcorevlr @injeteivlr 🎈🎈🎈",
+          "likes": 0,
+          "url": "https://x.com/r9nxn/status/2109016907135287504",
+          "created_at": "2026-10-10T20:23:08Z"
+        },
+        {
+          "author": "itszux",
+          "text": "@r9nxn @injeteivlr it doesn't work, its stuck on 73% in desktop and browser version also the language in this mode splash screen is in brazil even if the app language is english",
+          "likes": 0,
+          "url": "https://x.com/itszux/status/2109687729424650591",
+          "created_at": "2026-10-12T16:48:45Z"
+        },
+        {
+          "author": "gragaoxd",
+          "text": "@r9nxn @injeteivlr Quando der arruma os bots do retake, de longe eles fica mt pixelado, sou míope enxergo nada",
+          "likes": 0,
+          "url": "https://x.com/gragaoxd/status/2109350739449623020",
+          "created_at": "2026-10-11T18:29:40Z"
+        },
+        {
+          "author": "leonardo_eoo",
+          "text": "@injeteivlr @r9nxn feito",
+          "likes": 0,
+          "url": "https://x.com/leonardo_eoo/status/2109324250981294304",
+          "created_at": "2026-10-11T16:44:25Z"
+        },
+        {
+          "author": "dmsh1ne",
+          "text": "@r9nxn @injeteivlr valorant se fosse bom",
+          "likes": 0,
+          "url": "https://x.com/dmsh1ne/status/2109281884656029731",
+          "created_at": "2026-10-11T13:56:04Z"
+        },
+        {
+          "author": "injeteivlr",
+          "text": "@leonardo_eoo @r9nxn sua dm ta fechada rei",
+          "likes": 0,
+          "url": "https://x.com/injeteivlr/status/2109262306941002073",
+          "created_at": "2026-10-11T12:38:16Z"
+        },
+        {
+          "author": "nielsyl",
+          "text": "@r9nxn @injeteivlr Browser game?",
+          "likes": 0,
+          "url": "https://x.com/nielsyl/status/2109249829993886036",
+          "created_at": "2026-10-11T11:48:42Z"
+        },
+        {
+          "author": "phoonfps",
+          "text": "@leonardo_eoo @r9nxn @injeteivlr webassembly?",
+          "likes": 0,
+          "url": "https://x.com/phoonfps/status/2109116421917872213",
+          "created_at": "2026-10-11T02:58:35Z"
+        },
+        {
+          "author": "babybunnie1630",
+          "text": "@r9nxn @injeteivlr cA",
+          "likes": 0,
+          "url": "https://x.com/babybunnie1630/status/2109066041905365194",
+          "created_at": "2026-10-10T23:38:23Z"
+        }
+      ]
     },
     {
       "id": "midnight-apex",
@@ -12375,7 +14931,37 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Blue supercar racing through a neon-lit wet downtown at night with position, lap and speedometer HUD; polished and atmospheric."
+      "screenshot_score_notes": "Blue supercar racing through a neon-lit wet downtown at night with position, lap and speedometer HUD; polished and atmospheric.",
+      "comments": [
+        {
+          "author": "buzzybats",
+          "text": "Play it: https://t.co/HHDvSmh1Zw\n\nThe whole prompt:\n\"Create a hyper-realistic NFS-inspired racing game (one highly polished, fully playable demo scene)\" https://t.co/LYGGYari9Y",
+          "likes": 2,
+          "url": "https://x.com/buzzybats/status/2108195714811461766",
+          "created_at": "2026-10-08T14:00:01Z"
+        },
+        {
+          "author": "buzzybats",
+          "text": "@matt__makes @threejs ty! yea no effort at all",
+          "likes": 1,
+          "url": "https://x.com/buzzybats/status/2108232515454714088",
+          "created_at": "2026-10-08T16:26:15Z"
+        },
+        {
+          "author": "buzzybats",
+          "text": "@jeantimex @threejs Yeah, it’s absolutely insane. I was just sitting there today thinking about how much smarter AI has already become than humans, and honestly, it got a little scary thinking about what’s coming next. I just hope AI’s goals and humanity’s won’t end up conflicting.",
+          "likes": 1,
+          "url": "https://x.com/buzzybats/status/2109302053130404347",
+          "created_at": "2026-10-11T15:16:13Z"
+        },
+        {
+          "author": "matt__makes",
+          "text": "@boozyoddbear @threejs one prompt for all that rain and neon! looks great",
+          "likes": 0,
+          "url": "https://x.com/matt__makes/status/2108232243244351933",
+          "created_at": "2026-10-08T16:25:10Z"
+        }
+      ]
     },
     {
       "id": "slap-summit",
@@ -12416,7 +15002,30 @@
         }
       ],
       "screenshot_score": 2,
-      "screenshot_score_notes": "Flat cartoon parody leader getting smacked with a baguette ('CRUNCH!') above a weapon bar and dignity meter; clean and funny, simple."
+      "screenshot_score_notes": "Flat cartoon parody leader getting smacked with a baguette ('CRUNCH!') above a weapon bar and dignity meter; clean and funny, simple.",
+      "comments": [
+        {
+          "author": "pagmaksym",
+          "text": "@0xbalzzam I liked Emmanuel Macroon the most😂, and I came in second place on the leaderboard https://t.co/IgzwArvm2M",
+          "likes": 1,
+          "url": "https://x.com/pagmaksym/status/2109354909640647040",
+          "created_at": "2026-10-11T18:46:15Z"
+        },
+        {
+          "author": "xQu1q",
+          "text": "@0xbalzzam a baguette defense minister is the detail that sold me. nobody would’ve pitched that in a design meeting, which is probably why it works",
+          "likes": 0,
+          "url": "https://x.com/xQu1q/status/2109361961272311986",
+          "created_at": "2026-10-11T19:14:16Z"
+        },
+        {
+          "author": "0xbalzzam",
+          "text": "@pagmaksym good try, bro",
+          "likes": 0,
+          "url": "https://x.com/0xbalzzam/status/2109355695791583336",
+          "created_at": "2026-10-11T18:49:22Z"
+        }
+      ]
     },
     {
       "id": "voxemon",
