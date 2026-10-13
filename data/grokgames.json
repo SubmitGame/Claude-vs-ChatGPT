@@ -10911,7 +10911,7 @@
       "title": "Counter-Strike: Source Bunnyhop (bunnyhop.lol)",
       "description": "Counter-Strike: Source Bunnyhop (bunnyhop.lol) running in the browser (PC decomp/port).",
       "play_url": "https://bunnyhop.lol",
-      "source_url": "https://recompiledgames.com/bunnyhop-lol-recompiled/",
+      "source_url": "https://github.com/8tp/bunnyhop-client",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -10949,7 +10949,13 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "remote_likes": 3,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/8tp/bunnyhop-client",
+      "likes_checked": "2026-10-14",
+      "author": "8tp",
+      "author_source": "https://github.com/8tp/bunnyhop-client"
     },
     {
       "id": "crash-team-racing-turbocharged",
@@ -11839,7 +11845,7 @@
       "title": "Star Wars Jedi Knight: Jedi Academy",
       "description": "Star Wars Jedi Knight: Jedi Academy running in the browser (PC decomp/port).",
       "play_url": "https://jk.q3js.com",
-      "source_url": "https://recompiledgames.com/jedi-academy-recompiled/",
+      "source_url": "https://github.com/lklacar/openjk-emscripten",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -11882,7 +11888,12 @@
       ],
       "requires_own_files": true,
       "requires_own_files_note": "Select your own .pk3 files from GameData/base",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "remote_likes": 14,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/lklacar/openjk-emscripten",
+      "likes_checked": "2026-10-14",
+      "author": "lklacar"
     },
     {
       "id": "super-mario-64-multiplayer",
