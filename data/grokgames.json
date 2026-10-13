@@ -12189,51 +12189,6 @@
       "likes_checked": "2026-10-12"
     },
     {
-      "id": "cheese-cube-black-ops-iii-custom-map",
-      "title": "Cheese Cube (Black Ops III custom map)",
-      "description": "Cheese Cube (Black Ops III custom map) running in the browser (PC decomp/port).",
-      "play_url": "https://cheese-cube.pages.dev",
-      "source_url": "https://recompiledgames.com/cheese-cube-black-ops-3-recompiled/",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": true,
-      "iframe_block_reason": null,
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/cheese-cube-black-ops-iii-custom-map.jpg",
-      "screenshots": [
-        {
-          "path": "videos/cheese-cube-black-ops-iii-custom-map.jpg",
-          "score": 6,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-cheese-cube-black-ops-iii-custom-map.jpg",
-          "score": 6,
-          "notes": "Bright cheese-themed zombies map with wonder weapon and HUD; busy but fun."
-        }
-      ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Bright cheese-themed zombies map with wonder weapon and HUD; busy but fun.",
-      "video_path": "videos/cheese-cube-black-ops-iii-custom-map.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/cheese-cube-black-ops-iii-custom-map.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
-    },
-    {
       "id": "aetherfall",
       "title": "Aetherfall",
       "description": "Pixel-art browser MMORPG with town NPCs driven by an AI decision model, housing you can furnish, and a Go game server; game logic written with Claude Opus 5.5 (React + Vite front end, store-bought itch.io art).",
