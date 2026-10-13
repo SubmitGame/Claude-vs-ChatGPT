@@ -11319,7 +11319,7 @@
       "title": "Halo: Combat Evolved Mobile (HCEMobile)",
       "description": "Halo: Combat Evolved Mobile (HCEMobile) running in the browser (Xbox decomp/port).",
       "play_url": "https://hcemobile.com/",
-      "source_url": "https://hcemobile.com",
+      "source_url": "https://x.com/BanTrev/status/2109876016672027037",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -11361,7 +11361,20 @@
       ],
       "requires_own_files": true,
       "requires_own_files_note": "Upload your own Halo CE ISO",
-      "likes_check": "no original post found 2026-10-12"
+      "remote_likes": 1,
+      "comment_count": 0,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/BanTrev/status/2109876016672027037",
+      "likes_checked": "2026-10-13",
+      "comments": [
+        {
+          "author": "level0x40",
+          "text": "WAD Commander v2.0 launches Monday, November 2 at 22:00 CET. Play classic PC, DOS, Amiga and C64 games in your browser, solo or multiplayer, keep the moments that matter as screenshots and replays, and share them with people who love the same games. https://t.co/GzO6FYLptd https://t.co/I8K6xoiI4b",
+          "likes": 2,
+          "url": "https://x.com/level0x40/status/2107147882352562587",
+          "created_at": "2026-10-05T16:36:18Z"
+        }
+      ]
     },
     {
       "id": "netquake-io",
@@ -11876,7 +11889,7 @@
       "title": "Super Mario 64 Multiplayer",
       "description": "Super Mario 64 Multiplayer running in the browser (N64 decomp/port).",
       "play_url": "https://olivers.tools/play/",
-      "source_url": "https://recompiledgames.com/super-mario-64-multiplayer-recompiled/",
+      "source_url": "https://x.com/olivers_tools/status/2108131611237638193",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -11916,7 +11929,153 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "remote_likes": 1293,
+      "comment_count": 28,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/olivers_tools/status/2108131611237638193",
+      "likes_checked": "2026-10-13",
+      "comments": [
+        {
+          "author": "olivers_tools",
+          "text": "@OatmealPumpkin mhh i gotta check and get an android phone somewhere to test it.",
+          "likes": 2,
+          "url": "https://x.com/olivers_tools/status/2108324998192505325",
+          "created_at": "2026-10-08T22:33:45Z"
+        },
+        {
+          "author": "olivers_tools",
+          "text": "@BrianRPhillips Ok lemme fix this. Any other buttons  that dont work?",
+          "likes": 1,
+          "url": "https://x.com/olivers_tools/status/2108618102967566651",
+          "created_at": "2026-10-09T17:58:26Z"
+        },
+        {
+          "author": "Ben_The_Human_",
+          "text": "@olivers_tools Played this last night. Had a blast with my friends. Interactions with multi-player models is still a little buggy and sometimes the model i see isnt what they see BUT still INCREDIBLE WORK. Had a blast playing this, keep up the good work!",
+          "likes": 1,
+          "url": "https://x.com/Ben_The_Human_/status/2108538808396320946",
+          "created_at": "2026-10-09T12:43:21Z"
+        },
+        {
+          "author": "ArcanusNetwork",
+          "text": "@olivers_tools What did you use to recreate this. Very interested.",
+          "likes": 1,
+          "url": "https://x.com/ArcanusNetwork/status/2108430412892492022",
+          "created_at": "2026-10-09T05:32:37Z"
+        },
+        {
+          "author": "BabyWhaletail",
+          "text": "@olivers_tools @OatmealPumpkin Oliver, Solana, Wales, and degenerate gambler will make you a ton of money off these to help with your project if you support the token. There are big name accounts that reposted your video similar projects have done massive numbers.\n\n7eEqEXTrYjG4FbVq2PXfxJVaSRp4ZnYcD4RM1KxQpump",
+          "likes": 1,
+          "url": "https://x.com/BabyWhaletail/status/2108325609235730862",
+          "created_at": "2026-10-08T22:36:10Z"
+        },
+        {
+          "author": "pepineapple_",
+          "text": "@olivers_tools we need mario party",
+          "likes": 0,
+          "url": "https://x.com/pepineapple_/status/2109373600574943685",
+          "created_at": "2026-10-11T20:00:31Z"
+        },
+        {
+          "author": "TSLACyb3rTruck",
+          "text": "@olivers_tools Non shooter mode should have the same camera control (move with the mouse).",
+          "likes": 0,
+          "url": "https://x.com/TSLACyb3rTruck/status/2108797003987857538",
+          "created_at": "2026-10-10T05:49:19Z"
+        },
+        {
+          "author": "BrianRPhillips",
+          "text": "@olivers_tools Oh awesome. Not sure if in the weapons mode if there is a way to fire the weapon - didn't find that when we tried. The camera is the biggest item though - that would make this even better.",
+          "likes": 0,
+          "url": "https://x.com/BrianRPhillips/status/2108618724492345637",
+          "created_at": "2026-10-09T18:00:54Z"
+        },
+        {
+          "author": "BrianRPhillips",
+          "text": "@olivers_tools Was using an Xbox controller in Chrome. It worked well otherwise but just couldn't move the camera with the right joystick.",
+          "likes": 0,
+          "url": "https://x.com/BrianRPhillips/status/2108615823447531661",
+          "created_at": "2026-10-09T17:49:23Z"
+        },
+        {
+          "author": "olivers_tools",
+          "text": "@BrianRPhillips Ill have a look. Which controller did you use and which browser?",
+          "likes": 0,
+          "url": "https://x.com/olivers_tools/status/2108612932561170777",
+          "created_at": "2026-10-09T17:37:53Z"
+        },
+        {
+          "author": "BrianRPhillips",
+          "text": "@olivers_tools It's pretty awesome.  Tried having my kid play it with a controller and you can't move the camera.  Other than that it's fantastic. Thanks for making this.",
+          "likes": 0,
+          "url": "https://x.com/BrianRPhillips/status/2108609436524711941",
+          "created_at": "2026-10-09T17:24:00Z"
+        },
+        {
+          "author": "olivers_tools",
+          "text": "@Ben_The_Human_ This is about to get better https://t.co/xdPbbQOBDG",
+          "likes": 0,
+          "url": "https://x.com/olivers_tools/status/2108549189454139569",
+          "created_at": "2026-10-09T13:24:36Z"
+        },
+        {
+          "author": "MoominEugenics",
+          "text": "@olivers_tools How tf have you not got a C&amp;D yet?😂",
+          "likes": 0,
+          "url": "https://x.com/MoominEugenics/status/2108464869695738202",
+          "created_at": "2026-10-09T07:49:32Z"
+        },
+        {
+          "author": "CaliPlug",
+          "text": "@olivers_tools U sick",
+          "likes": 0,
+          "url": "https://x.com/CaliPlug/status/2108395658369774050",
+          "created_at": "2026-10-09T03:14:31Z"
+        },
+        {
+          "author": "OatmealPumpkin",
+          "text": "@olivers_tools If there's anything else you want me to test let me know. I'm a really big fan of this project!",
+          "likes": 0,
+          "url": "https://x.com/OatmealPumpkin/status/2108390017584218194",
+          "created_at": "2026-10-09T02:52:06Z"
+        },
+        {
+          "author": "FagGoldman",
+          "text": "@wangdi_ouba @olivers_tools @risk_arc Speak my language.",
+          "likes": 0,
+          "url": "https://x.com/FagGoldman/status/2108384317986476110",
+          "created_at": "2026-10-09T02:29:27Z"
+        },
+        {
+          "author": "Kingdisol_",
+          "text": "@FagGoldman @olivers_tools @risk_arc 你的思维模式很先进，一直在那边地毯！婊子",
+          "likes": 0,
+          "url": "https://x.com/Kingdisol_/status/2108383358451675235",
+          "created_at": "2026-10-09T02:25:39Z"
+        },
+        {
+          "author": "seabassjtv",
+          "text": "@olivers_tools okay but what  about mario  party",
+          "likes": 0,
+          "url": "https://x.com/seabassjtv/status/2108379510832054326",
+          "created_at": "2026-10-09T02:10:21Z"
+        },
+        {
+          "author": "FagGoldman",
+          "text": "@wangdi_ouba @olivers_tools @risk_arc Third world mindset https://t.co/HejEOYIhu6",
+          "likes": 0,
+          "url": "https://x.com/FagGoldman/status/2108373583214870648",
+          "created_at": "2026-10-09T01:46:48Z"
+        },
+        {
+          "author": "thereal_nq",
+          "text": "@olivers_tools You guys got a discord or better yet an xchat I gotta get a better game pad than these Sega Genesis USB pads I got right now then it's on",
+          "likes": 0,
+          "url": "https://x.com/thereal_nq/status/2108353899719483682",
+          "created_at": "2026-10-09T00:28:35Z"
+        }
+      ]
     },
     {
       "id": "the-simpsons-hit-run",
@@ -12023,7 +12182,7 @@
       "title": "WadCMD (Doom in the browser)",
       "description": "WadCMD (Doom in the browser) running in the browser (PC decomp/port).",
       "play_url": "https://wadcmd.com/",
-      "source_url": "https://recompiledgames.com/doom-wadcmd-recompiled/",
+      "source_url": "https://x.com/level0x40/status/2107147882352562587",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -12063,7 +12222,20 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "remote_likes": 2,
+      "comment_count": 0,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/level0x40/status/2107147882352562587",
+      "likes_checked": "2026-10-13",
+      "comments": [
+        {
+          "author": "BanTrev",
+          "text": "New feature added! Full customizable HUD! Rearrange and resize everything just the way you want it! Only on HCEMobile!\n\nhttps://t.co/kXg5Hj6obR\n\n#halo #xbox #port #mobilegame https://t.co/q0PjXBzZBY",
+          "likes": 1,
+          "url": "https://x.com/BanTrev/status/2109876016672027037",
+          "created_at": "2026-10-13T05:16:56Z"
+        }
+      ]
     },
     {
       "id": "cheese-cube-black-ops-iii-custom-map",
@@ -13191,7 +13363,7 @@
       "title": "LEGO Island",
       "description": "LEGO Island playable in the browser (PC fan port/remake).",
       "play_url": "https://isle.pizza/",
-      "source_url": "https://recompiledgames.com/lego-island-recompiled/",
+      "source_url": "https://news.ycombinator.com/item?id=44351028",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -13229,7 +13401,134 @@
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "remote_likes": 263,
+      "comment_count": 72,
+      "likes_source": "hackernews_points",
+      "likes_source_url": "https://news.ycombinator.com/item?id=44351028",
+      "likes_checked": "2026-10-13",
+      "author": "foxtacles",
+      "author_source": "https://news.ycombinator.com/item?id=44351028",
+      "comments": [
+        {
+          "author": "ycombinatrix",
+          "text": "Incredible! Was this based off MattKC's decompilation?",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44351956",
+          "created_at": "2025-06-23T02:18:43Z"
+        },
+        {
+          "author": "ranger_danger",
+          "text": "How is this legal? Specifically, distributing copyrighted assets and using their name/logo without permission.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44352308",
+          "created_at": "2025-06-23T03:49:24Z"
+        },
+        {
+          "author": "msgodel",
+          "text": "Holy cow that's incredible. I remember playing this when I was ~6 on Windows 95 and being able to walk around and everything was so cool. Now it runs in the browser. The decomp approach seems surprisingly effective. I know someone else did this with starcraft to get it to run on ARM and said it was the wrong way to do it although I think he did it all in assembly instead of trying to get something sane out of it.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44352325",
+          "created_at": "2025-06-23T03:53:51Z"
+        },
+        {
+          "author": "Titan2189",
+          "text": "Here the Video telling the story behind the port  https://www.youtube.com/watch?v=JUNdWnI5BTk",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44352475",
+          "created_at": "2025-06-23T04:36:04Z"
+        },
+        {
+          "author": "iqandjoke",
+          "text": "It hangs after I try to inspect elements...",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44352515",
+          "created_at": "2025-06-23T04:45:16Z"
+        },
+        {
+          "author": "lpa22",
+          "text": "this is one of those games that lives in my head. the quirky narrator and the personalities of all the characters felt really unique at the time. seeing stuff like this, and backyard baseball, again in browser or modern apps just doesn't hit the same though",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44352809",
+          "created_at": "2025-06-23T05:56:33Z"
+        },
+        {
+          "author": "Sarkie",
+          "text": "God I love MattKC and his randomness",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44353105",
+          "created_at": "2025-06-23T06:47:18Z"
+        },
+        {
+          "author": "tempaway43563",
+          "text": "I remember watching my young nephew play Lego Island and the introductory video where the camera flies around the island is amazing. But then he was totally baffled by the 'main menu' when some excited lego guy babbles instructions at you in flowery hard-to-follow language, and you had to do abtract things like write in a book or drag icons onto the map before you got to do anything fun like racing cars. I think he could have clicked around that screen for hours and never realised he had to drag the people onto the map. Great game but they wouldn't make it like that now. Its like a grown ups idea of an interface that a young child would like, rather than something actually tested.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44353729",
+          "created_at": "2025-06-23T09:01:10Z"
+        },
+        {
+          "author": "skibz",
+          "text": "This is impressive on so many levels. What an absolute nostaliga trip! Thank you for this.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44353833",
+          "created_at": "2025-06-23T09:24:20Z"
+        },
+        {
+          "author": "fastball",
+          "text": "Who wants to do LEGO racers next?",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44355113",
+          "created_at": "2025-06-23T12:30:50Z"
+        },
+        {
+          "author": "SwiftyBug",
+          "text": "I'd love to be able to play Lego Island 2.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44355522",
+          "created_at": "2025-06-23T13:16:14Z"
+        },
+        {
+          "author": "johnea",
+          "text": "What about Mata Nui?",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44356503",
+          "created_at": "2025-06-23T15:01:16Z"
+        },
+        {
+          "author": "sidewndr46",
+          "text": "How is Direct3D retained mode implemented in the browser?",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44356959",
+          "created_at": "2025-06-23T15:47:38Z"
+        },
+        {
+          "author": "Jotalea",
+          "text": "I haven't been in the time this game was popular, but I cannot deny that making it playable in a web browser is crazy. And to all the people that did play and enjoy it back then, I think they'll have a happy surprise.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44358775",
+          "created_at": "2025-06-23T18:46:21Z"
+        },
+        {
+          "author": "favorited",
+          "text": "Oh man, this is great timing – I played the hell out of this game in middle school, and I've recently been investigating either getting it running on modern hardware. I got it installed & launching inside an XP VM, but that is (unsurprisingly) not ideal. I've been thinking about building a retro gaming PC for these kinds of games, and now I can kick that can a little further down the road.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44359221",
+          "created_at": "2025-06-23T19:32:26Z"
+        },
+        {
+          "author": "lamer3",
+          "text": "good.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44359632",
+          "created_at": "2025-06-23T20:17:28Z"
+        },
+        {
+          "author": "kristoff200512",
+          "text": "It's interesting. Can I add it to my website to showcase it?",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=44364288",
+          "created_at": "2025-06-24T09:24:36Z"
+        }
+      ]
     },
     {
       "id": "minecraft-1-8-8-eaglercraftx",
