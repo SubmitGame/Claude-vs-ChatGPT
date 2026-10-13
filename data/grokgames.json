@@ -12178,66 +12178,6 @@
       "likes_checked": "2026-10-12"
     },
     {
-      "id": "wadcmd-doom-in-the-browser",
-      "title": "WadCMD (Doom in the browser)",
-      "description": "WadCMD (Doom in the browser) running in the browser (PC decomp/port).",
-      "play_url": "https://wadcmd.com/",
-      "source_url": "https://x.com/level0x40/status/2107147882352562587",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": false,
-      "iframe_block_reason": "x-frame-options-deny",
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/wadcmd-doom-in-the-browser.jpg",
-      "screenshots": [
-        {
-          "path": "videos/wadcmd-doom-in-the-browser.jpg",
-          "score": 10,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-wadcmd-doom-in-the-browser.jpg",
-          "score": 4,
-          "notes": "WAD Commander site banner; no in-game frame."
-        }
-      ],
-      "screenshot_score": 4,
-      "screenshot_score_notes": "WAD Commander site banner; no in-game frame.",
-      "x_handle": "level0x40",
-      "author_source": "https://wadcmd.com/",
-      "video_path": "videos/wadcmd-doom-in-the-browser.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/wadcmd-doom-in-the-browser.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false,
-      "remote_likes": 2,
-      "comment_count": 0,
-      "likes_source": "x",
-      "likes_source_url": "https://x.com/level0x40/status/2107147882352562587",
-      "likes_checked": "2026-10-13",
-      "comments": [
-        {
-          "author": "BanTrev",
-          "text": "New feature added! Full customizable HUD! Rearrange and resize everything just the way you want it! Only on HCEMobile!\n\nhttps://t.co/kXg5Hj6obR\n\n#halo #xbox #port #mobilegame https://t.co/q0PjXBzZBY",
-          "likes": 1,
-          "url": "https://x.com/BanTrev/status/2109876016672027037",
-          "created_at": "2026-10-13T05:16:56Z"
-        }
-      ]
-    },
-    {
       "id": "cheese-cube-black-ops-iii-custom-map",
       "title": "Cheese Cube (Black Ops III custom map)",
       "description": "Cheese Cube (Black Ops III custom map) running in the browser (PC decomp/port).",
