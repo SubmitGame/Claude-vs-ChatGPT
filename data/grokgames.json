@@ -11011,8 +11011,8 @@
     {
       "id": "diablo",
       "title": "Diablo (diablo_web)",
-      "description": "Diablo (diablo_web) running in the browser (PC decomp/port).",
-      "play_url": "https://johnimril.github.io/diablo_web/",
+      "description": "Diablo running in the browser (WebAssembly port by d07RiV). Shareware plays instantly; the full game needs your own DIABDAT.MPQ.",
+      "play_url": "https://d07riv.github.io/diabloweb/",
       "source_url": "https://recompiledgames.com/diablo-recompiled/",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
@@ -11044,10 +11044,10 @@
       "screenshot_score_notes": "Isometric Diablo hellscape with lava and full classic HUD; clear and iconic.",
       "author": "RiV",
       "github_user": "d07RiV",
-      "author_source": "https://recompiledgames.com/diablo-recompiled/",
+      "author_source": "https://github.com/d07riv/diabloweb",
       "remote_likes": 2886,
       "likes_source": "github",
-      "github_url": "https://github.com/d07RiV/diabloweb",
+      "github_url": "https://github.com/d07riv/diabloweb",
       "video_path": "videos/diablo.mp4",
       "video_source": "youtube",
       "videos": [
