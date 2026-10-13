@@ -716,8 +716,8 @@
       "found_via": "aicookd latest creations → X post by @TaylorBereiter with public Claude artifact play URL",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/27-double-feature-og.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Polished Cuphead-style palace title screen with Kernel on stage, PRESS ANY KEY, and dense art-deco detail; clearly presents the game though it is a title card not mid-level action.",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "multi-frame: strong Cuphead-style hand-drawn boss fights, sepia stage and colorful Planet Zog diner scene; consistent, rich art direction.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -2821,8 +2821,8 @@
       "found_via": "X @MQuy90 Pokémon tower defense RPG co-op",
       "found_via_network": "x",
       "screenshot_path": "screenshots/202-pokemon-battleline.jpg",
-      "screenshot_score": 8.8,
-      "screenshot_score_notes": "Polished GBA-style pixel title: lush field path, clean Story/Co-op/Maps menu, Poké Ball loading chip — cohesive classic Pokémon vibe.",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: GBA-style pixel town/route maps with small units on paths; tidy and readable but tile art is generic and frames are mostly trailer captions.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -4049,8 +4049,8 @@
         }
       ],
       "screenshot_path": "screenshots/230-turbo-kart-gp.jpg",
-      "screenshot_score": 9.0,
-      "screenshot_score_notes": "Vibrant vaporwave title lineup of animal karts on neon checkered pad — excellent composition and polish.",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: clean 3D kart racing across a grass circuit, desert canyon and neon synthwave track with full HUD; polished but simple kart/character models.",
       "screenshots": [
         {
           "path": "screenshots/230-turbo-kart-gp.jpg",
@@ -7048,8 +7048,8 @@
           "notes": "Bold title card over a night voxel skyline with subway-line badges looks polished, but it is a menu shot with no animal gameplay visible."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Bold title card over a night voxel skyline with subway-line badges looks polished, but it is a menu shot with no animal gameplay visible."
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: decent third-person voxel/3D NYC streets and park with rat/squirrel, plus newspaper UI; gameplay frames are dim and simple, trailer cards dominate."
     },
     {
       "id": "plumki",
@@ -8495,8 +8495,8 @@
           "notes": "Vertical phone capture of a plain grey road with one red car and a 'The road learns to bend' caption; readable but very sparse."
         }
       ],
-      "screenshot_score": 4,
-      "screenshot_score_notes": "Vertical phone capture of a plain grey road with one red car and a 'The road learns to bend' caption; readable but very sparse."
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "multi-frame: top-down road with simple car sprites; variety improves (night, desert, woods, storm) but art stays flat and sparse."
     },
     {
       "id": "minnows-den",
@@ -13006,8 +13006,8 @@
           "notes": "Crash Bash Online logo/title art over a temple scene; no gameplay."
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Crash Bash Online logo/title art over a temple scene; no gameplay.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: authentic Crash Bash tile-claiming arena with four players and HUD; faithful but low-res PS1-era visuals.",
       "x_handle": "crashbashapp",
       "author_source": "https://crashbash.app/",
       "remote_likes": 415,
