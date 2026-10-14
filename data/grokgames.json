@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:30:00.000Z",
+  "updated_at": "2026-10-14T01:55:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -20090,7 +20090,7 @@
       "description": "Majora's Mask 3D recomp/port: 60fps, widescreen, single-screen. Releases for Windows, macOS and Linux; needs your own game files.",
       "play_url": "https://github.com/tgacquin/mm3d-dekui",
       "found_via": "r/decomps \"Majora's Mask 3D (Dekui)\" (u/Live_Cicada2118)",
-      "made_with": "opus-5.5",
+      "made_with": "unknown",
       "tags": [
         "decomp",
         "rom"
@@ -20287,7 +20287,7 @@
       "description": "Super Mario Galaxy recompilation project (Nebula) with Windows installer. Requires your own game files.",
       "play_url": "https://github.com/keepvaibin/nebula",
       "found_via": "r/decomps \"Nebula (Super Mario Galaxy Recomp)\" (u/keepvaibin)",
-      "made_with": "opus-5.5",
+      "made_with": "unknown",
       "tags": [
         "decomp",
         "rom"
@@ -20600,7 +20600,7 @@
       "description": "PSX hidden gem Apocalypse ported to Windows and Linux. Releases on GitHub; needs your own game files.",
       "play_url": "https://github.com/MustafaSamer93/Project_Repocalypse",
       "found_via": "r/decomps \"Apocalypse (PSX) PC Port\" (u/Doodle_My_Noodle93)",
-      "made_with": "opus-5.5",
+      "made_with": "unknown",
       "tags": [
         "decomp",
         "rom"
@@ -20705,7 +20705,7 @@
       "description": "Final Fantasy Tactics Advance recomp v2.0 for Windows and Linux. Big update on r/decomps; needs your own ROM.",
       "play_url": "https://github.com/Jorge262007/FFTARecomp",
       "found_via": "r/decomps \"FFTARecomp v2.0\" (u/Jorge262007)",
-      "made_with": "opus-5.5",
+      "made_with": "unknown",
       "tags": [
         "decomp",
         "rom"
@@ -20760,7 +20760,7 @@
       "description": "Digimon World 2 PS1 to PC with multiplayer work-in-progress using Claude. Windows and Linux builds; needs your own game files.",
       "play_url": "https://github.com/Wyrelade/DW2-PC",
       "found_via": "r/ClaudeGameDev \"Digimon World 2 PC\" (u/Wyrelade)",
-      "made_with": "opus-5.5",
+      "made_with": "unknown",
       "tags": [
         "decomp",
         "rom"
@@ -20813,11 +20813,11 @@
   "totals": {
     "games": 394,
     "by_made_with": {
-      "opus-5.5": 247,
+      "opus-5.5": 242,
       "astra": 61,
       "sonnet-5.5": 12,
       "uncertain": 4,
-      "unknown": 70
+      "unknown": 75
     }
   }
 }
