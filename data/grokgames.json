@@ -20100,9 +20100,9 @@
       "browser_playable": false,
       "download_url": "https://github.com/tgacquin/mm3d-dekui/releases/latest",
       "download_platforms": [
-        "windows",
-        "macos",
-        "linux"
+        "Windows",
+        "macOS",
+        "Linux"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20254,15 +20254,7 @@
           "created_at": "2026-10-13T02:28:33Z"
         }
       ],
-      "video_path": "videos/majora-mask-3d.mp4",
-      "video_source": "poster-still",
-      "videos": [
-        {
-          "path": "videos/majora-mask-3d.mp4",
-          "source": "poster-still"
-        }
-      ],
-      "screenshot_path": "videos/majora-mask-3d.jpg",
+      "screenshot_path": "videos/majora-mask-3d-shot.jpg",
       "screenshots": [
         {
           "path": "videos/majora-mask-3d.jpg",
@@ -20271,7 +20263,7 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "screenshot_score_notes": "multi-frame: clip was a GitHub repo card; scored README screenshot: crisp HD Majora's Mask 3D item menu over 3D scene. Capped at 3 (needs own files).",
       "found_via_network": "reddit",
       "author": "Live_Cicada2118",
       "author_source": "https://www.reddit.com/user/Live_Cicada2118/",
@@ -20297,7 +20289,7 @@
       "browser_playable": false,
       "download_url": "https://github.com/keepvaibin/nebula/releases/latest",
       "download_platforms": [
-        "windows"
+        "Windows"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20442,14 +20434,6 @@
           "created_at": "2026-10-13T17:50:58Z"
         }
       ],
-      "video_path": "videos/nebula-smg.mp4",
-      "video_source": "poster-still",
-      "videos": [
-        {
-          "path": "videos/nebula-smg.mp4",
-          "source": "poster-still"
-        }
-      ],
       "screenshot_path": "videos/nebula-smg.jpg",
       "screenshots": [
         {
@@ -20458,8 +20442,8 @@
           "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "screenshot_score": 1,
+      "screenshot_score_notes": "multi-frame: only image is the GitHub repo card; no gameplay frames available. Capped at 3 (needs own files).",
       "found_via_network": "reddit",
       "author": "keepvaibin",
       "author_source": "https://www.reddit.com/user/keepvaibin/",
@@ -20485,7 +20469,7 @@
       "browser_playable": false,
       "download_url": "https://github.com/HajDEO/nhl24pc",
       "download_platforms": [
-        "windows"
+        "Windows"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20568,7 +20552,7 @@
         }
       ],
       "video_path": "videos/nhl24-pc.mp4",
-      "video_source": "poster-still",
+      "video_source": "https://youtu.be/eGo1-W3FaYw",
       "videos": [
         {
           "path": "videos/nhl24-pc.mp4",
@@ -20584,7 +20568,7 @@
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Rated from GitHub poster still frames; ROM/own-files capped at 3. Multi-frame rating from still frames.",
+      "screenshot_score_notes": "multi-frame: real gameplay clip from creator YouTube: full NHL broadcast rink view, team intro, HUD. Capped at 3 (needs own files).",
       "found_via_network": "reddit",
       "author": "HajDEO_SVK",
       "author_source": "https://www.reddit.com/user/HajDEO_SVK/",
@@ -20610,8 +20594,8 @@
       "browser_playable": false,
       "download_url": "https://github.com/MustafaSamer93/Project_Repocalypse/releases/latest",
       "download_platforms": [
-        "windows",
-        "linux"
+        "Windows",
+        "Linux"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20672,15 +20656,7 @@
           "created_at": "2026-10-13T22:15:15Z"
         }
       ],
-      "video_path": "videos/apocalypse-psx.mp4",
-      "video_source": "poster-still",
-      "videos": [
-        {
-          "path": "videos/apocalypse-psx.mp4",
-          "source": "poster-still"
-        }
-      ],
-      "screenshot_path": "videos/apocalypse-psx.jpg",
+      "screenshot_path": "videos/apocalypse-psx-shot.jpg",
       "screenshots": [
         {
           "path": "videos/apocalypse-psx.jpg",
@@ -20688,8 +20664,8 @@
           "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "screenshot_score": 2,
+      "screenshot_score_notes": "multi-frame: clip was a GitHub repo card; README image is a title screen (Bruce Willis key art), no gameplay. Capped at 3 (needs own files).",
       "found_via_network": "reddit",
       "author": "Doodle_My_Noodle93",
       "author_source": "https://www.reddit.com/user/Doodle_My_Noodle93/",
@@ -20715,8 +20691,8 @@
       "browser_playable": false,
       "download_url": "https://github.com/Jorge262007/FFTARecomp/releases/latest",
       "download_platforms": [
-        "windows",
-        "linux"
+        "Windows",
+        "Linux"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20727,14 +20703,6 @@
       "remote_likes": 24,
       "comment_count": 0,
       "comments": [],
-      "video_path": "videos/ffta-recomp.mp4",
-      "video_source": "poster-still",
-      "videos": [
-        {
-          "path": "videos/ffta-recomp.mp4",
-          "source": "poster-still"
-        }
-      ],
       "screenshot_path": "videos/ffta-recomp.jpg",
       "screenshots": [
         {
@@ -20743,8 +20711,8 @@
           "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "screenshot_score": 1,
+      "screenshot_score_notes": "multi-frame: only image is the GitHub repo card; no gameplay frames available. Capped at 3 (needs own files).",
       "found_via_network": "reddit",
       "author": "Jorge262007",
       "author_source": "https://www.reddit.com/user/Jorge262007/",
@@ -20770,8 +20738,8 @@
       "browser_playable": false,
       "download_url": "https://github.com/Wyrelade/DW2-PC/releases/latest",
       "download_platforms": [
-        "windows",
-        "linux"
+        "Windows",
+        "Linux"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20782,14 +20750,6 @@
       "remote_likes": 14,
       "comment_count": 0,
       "comments": [],
-      "video_path": "videos/digimon-world-2-pc.mp4",
-      "video_source": "poster-still",
-      "videos": [
-        {
-          "path": "videos/digimon-world-2-pc.mp4",
-          "source": "poster-still"
-        }
-      ],
       "screenshot_path": "videos/digimon-world-2-pc.jpg",
       "screenshots": [
         {
@@ -20798,8 +20758,8 @@
           "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "screenshot_score": 1,
+      "screenshot_score_notes": "multi-frame: only image is the GitHub repo card; no gameplay frames available. Capped at 3 (needs own files).",
       "found_via_network": "reddit",
       "author": "Wyrelade",
       "author_source": "https://www.reddit.com/user/Wyrelade/",
