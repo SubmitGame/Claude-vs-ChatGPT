@@ -20768,6 +20768,266 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "gta-vi-ps1-demake",
+      "title": "Grand Theft Auto VI — PS1 Demake",
+      "description": "PlayStation-era demake of GTA VI: Lucia and Jason, Vice City streets, police chases and a recreated reveal trailer as intro; one-shotted by GPT-6 Astra in the OrigoZero AI-native engine.",
+      "play_url": "https://origozero.ai/world/Deata/gta-vi-psx",
+      "source_url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/",
+      "likes_source_url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/",
+      "found_via": "r/TopologyAI GTA VI PS1 one-shot",
+      "found_via_network": "reddit",
+      "made_with": "astra",
+      "engine": "Origo Zero",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "driving",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 67,
+      "likes_source": "reddit",
+      "comment_count": 20,
+      "likes_checked": "2026-10-14",
+      "first_seen": "2026-09-09T13:33:51.000Z",
+      "last_seen": "2026-10-14T09:15:00.000Z",
+      "video_path": "videos/gta-vi-ps1-demake.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/gta-vi-ps1-demake.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/gta-vi-ps1-demake.jpg",
+      "screenshots": [
+        {
+          "path": "videos/gta-vi-ps1-demake.jpg",
+          "score": 6,
+          "notes": "multi-frame: low-res PS1-style Vice City streets, motorcycle chase, character close-ups and a store interior; charming demake look but blurry 360p capture and simple models."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: low-res PS1-style Vice City streets, motorcycle chase, character close-ups and a store interior; charming demake look but blurry 360p capture and simple models.",
+      "author": "wannabestraight",
+      "author_source": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/",
+      "tags": [
+        "demake"
+      ],
+      "comments": [
+        {
+          "author": "Cool-Chemical-5629",
+          "text": "Now for GTA India...",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8r2hrf/",
+          "created_at": "2026-09-09T14:20:47Z"
+        },
+        {
+          "author": "Infinite-Worth8355",
+          "text": "Its done, rockstar is deeed",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8r2gof/",
+          "created_at": "2026-09-09T14:20:39Z"
+        },
+        {
+          "author": "Exciting-Income-5840",
+          "text": "Pourquoi t’as demandé pour ps1 et pas pour ps5 pro? ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8t5ybl/",
+          "created_at": "2026-09-09T19:43:18Z"
+        },
+        {
+          "author": "system_reboot",
+          "text": "I was going to Wishlist this masterpiece but it looks like 30fps, sorry. ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8ssf2i/",
+          "created_at": "2026-09-09T18:46:27Z"
+        },
+        {
+          "author": "Ok_Top9254",
+          "text": "lmao epic",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8r30he/",
+          "created_at": "2026-09-09T14:23:12Z"
+        },
+        {
+          "author": "ZerkyXii",
+          "text": "I mean if I wanted the retro look I'd just emulate or play the remastered of gta hahaha. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8r3aca/",
+          "created_at": "2026-09-09T14:24:27Z"
+        },
+        {
+          "author": "MysteriousCoconut31",
+          "text": "Didn’t I just see a GTA clone posted? Was that you or one of the thousands of others with the same great idea?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p8whoxb/",
+          "created_at": "2026-09-10T06:30:14Z"
+        },
+        {
+          "author": "tonios2",
+          "text": "I cant believe my eyes",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p964cb5/",
+          "created_at": "2026-09-11T15:07:30Z"
+        },
+        {
+          "author": "josh2josh2",
+          "text": "Small games are cooked.. you know like what guru devs love to say to make small games...? Those are cooked... Those who make good game, pretty game, fun games are not cooked",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p97ztii/",
+          "created_at": "2026-09-11T19:59:10Z"
+        },
+        {
+          "author": "BoredzzzGame",
+          "text": "https://preview.redd.it/d3yr2eg6i5ph1.jpeg?width=608&format=pjpg&auto=webp&s=6379c39bf221cc1554b632bc33df93039542c14c",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/p9f6muh/",
+          "created_at": "2026-09-12T20:42:10Z"
+        },
+        {
+          "author": "Unlucky_Raccoon_5829",
+          "text": "“Make GTA, make no mistakes”",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/guys_game_studios_are_cooked_astra_just_one/patm8a7/",
+          "created_at": "2026-09-19T19:18:48Z"
+        }
+      ]
+    },
+    {
+      "id": "surge-superhero",
+      "title": "Surge Superhero",
+      "description": "Open-world 3D superhero action RPG in the browser: fly over a sunset harbor city, energy-blast elites and clear story chapters.",
+      "play_url": "https://luka0611.itch.io/surgesuperhero",
+      "source_url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
+      "likes_source_url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
+      "found_via": "r/TopologyAI Surge Superhero",
+      "found_via_network": "reddit",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 6,
+      "likes_source": "reddit",
+      "comment_count": 1,
+      "likes_checked": "2026-10-14",
+      "first_seen": "2026-10-06T17:14:05.000Z",
+      "last_seen": "2026-10-14T09:15:00.000Z",
+      "video_path": "videos/surge-superhero.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/surge-superhero.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/surge-superhero.jpg",
+      "screenshots": [
+        {
+          "path": "videos/surge-superhero.jpg",
+          "score": 6.5,
+          "notes": "multi-frame: sunset 3D city with flight, big energy-blast VFX, elite enemies and minimap HUD; lively but busy UI and simple city geometry."
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: sunset 3D city with flight, big energy-blast VFX, elite enemies and minimap HUD; lively but busy UI and simple city geometry.",
+      "author": "luka06111",
+      "author_source": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
+      "tags": [],
+      "comments": [
+        {
+          "author": "Inner_Singer_592",
+          "text": "Nice! Look like it was inspired by infamous",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/surge_superhero_game/peqycr4/",
+          "created_at": "2026-10-09T00:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "webgl-mahjong",
+      "title": "WebGL Mahjong",
+      "description": "WebGL mahjong with sculpted ceramic tiles, sound effects and spring physics; prototyped with Gemini 4 Argon in Antigravity.",
+      "play_url": "https://play-mahjong.ai.studio/",
+      "source_url": "https://x.com/soumyadesign/status/2110051892252545523",
+      "likes_source_url": "https://x.com/soumyadesign/status/2110051892252545523",
+      "found_via": "X @soumyadesign Gemini 4 Argon mahjong",
+      "found_via_network": "x",
+      "made_with": "gemini-4-argon",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 79,
+      "likes_source": "x",
+      "comment_count": 3,
+      "likes_checked": "2026-10-14",
+      "first_seen": "2026-10-13T16:55:48.000Z",
+      "last_seen": "2026-10-14T09:15:00.000Z",
+      "video_path": "videos/webgl-mahjong.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/webgl-mahjong.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/webgl-mahjong.jpg",
+      "screenshots": [
+        {
+          "path": "videos/webgl-mahjong.jpg",
+          "score": 7,
+          "notes": "multi-frame: polished 3D mahjong table with sculpted tiles on red and green felt, tile-shuffle physics; clean, consistent, single scene."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: polished 3D mahjong table with sculpted tiles on red and green felt, tile-shuffle physics; clean, consistent, single scene.",
+      "x_handle": "soumyadesign",
+      "author_source": "https://x.com/soumyadesign/status/2110051892252545523",
+      "tags": [],
+      "comments": [
+        {
+          "author": "sushrutabasak",
+          "text": "@soumyadesign @GeminiApp @GoogleAIStudio @antigravity you’d fit right in with the mahjong ladies of bandra",
+          "likes": 3,
+          "url": "https://x.com/sushrutabasak/status/2110245270206468564",
+          "created_at": "2026-10-14T05:44:13Z"
+        },
+        {
+          "author": "soumyadesign",
+          "text": "@sushrutabasak @GeminiApp @GoogleAIStudio @antigravity I would have SO MUCH fun with them Sushruta I already know hahaha",
+          "likes": 1,
+          "url": "https://x.com/soumyadesign/status/2110245984878166135",
+          "created_at": "2026-10-14T05:47:03Z"
+        },
+        {
+          "author": "soumyadesign",
+          "text": "@vaibhavdotcv @GeminiApp @GoogleAIStudio @antigravity Haha this is all refined from one simple prompt within Antigravity and Argon at Medium! It’s https://t.co/IC8g6zWaqr, three.js based. :) argon can also render glb models btw try that!",
+          "likes": 1,
+          "url": "https://x.com/soumyadesign/status/2110214738391285911",
+          "created_at": "2026-10-14T03:42:54Z"
+        },
+        {
+          "author": "Praneethj54",
+          "text": "@soumyadesign @GeminiApp @GoogleAIStudio @antigravity Loved the sound effects ✨",
+          "likes": 0,
+          "url": "https://x.com/Praneethj54/status/2110230503177797947",
+          "created_at": "2026-10-14T04:45:32Z"
+        },
+        {
+          "author": "vaibhavdotcv",
+          "text": "@soumyadesign @GeminiApp @GoogleAIStudio @antigravity This is cool, what's the tech stack behind this? Specially around making elements 3D.",
+          "likes": 0,
+          "url": "https://x.com/vaibhavdotcv/status/2110213897701691805",
+          "created_at": "2026-10-14T03:39:33Z"
+        }
+      ]
     }
   ],
   "totals": {
