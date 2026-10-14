@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:30:00.000Z",
+  "updated_at": "2026-10-14T01:30:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -16734,7 +16734,7 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 3446,
+      "remote_likes": 4088,
       "likes_source": "reddit",
       "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x3rn36/",
       "comment_count": 564,
@@ -16743,7 +16743,7 @@
       "github_user": "FelipePrado0",
       "github_url": "https://github.com/FelipePrado0/gow3_pc",
       "first_seen": "2026-10-13T01:30:00.000Z",
-      "last_seen": "2026-10-13T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z",
       "video_path": "videos/god-of-war-3-pc.mp4",
       "video_source": "reddit",
       "videos": [
@@ -17879,14 +17879,14 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 7,
+      "remote_likes": 42,
       "likes_source": "reddit",
       "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4huy1/",
       "comment_count": 0,
       "author": "Cr3L4real",
       "author_source": "https://www.reddit.com/user/Cr3L4real/",
       "first_seen": "2026-10-13T01:30:00.000Z",
-      "last_seen": "2026-10-13T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z",
       "video_path": "videos/neon-kabuki.mp4",
       "video_source": "reddit",
       "videos": [
@@ -18395,16 +18395,2429 @@
           "created_at": "2026-10-13T00:53:59Z"
         }
       ]
+    },
+    {
+      "id": "little-prince-across-stars",
+      "title": "The Little Prince: Across the Stars",
+      "description": "3D story adventure adapting The Little Prince: explore each planet as a playable scene. Built in 16 days with Opus 5.5 plus Tripo and Blender; free in the browser (Saccc_c).",
+      "play_url": "https://littleprince.dev/",
+      "found_via": "X @Saccc_c Opus 5.5 Little Prince 3D story game",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 8205,
+      "comment_count": 703,
+      "comments": [
+        {
+          "author": "LeonieLabs",
+          "text": "做的也太好了！！！果然AI时代审美才是生产力，期待教程",
+          "likes": 1,
+          "url": "https://x.com/LeonieLabs/status/2110181194872795291",
+          "created_at": "2026-10-14T01:29:36Z"
+        },
+        {
+          "author": "linconz",
+          "text": "做的挺好的，但是，小心小王子的版权方\n问我为什么知道？大概十多年前做了个pad动画书，被小王子版权方举报下架了",
+          "likes": 0,
+          "url": "https://x.com/linconz/status/2110181153294749723",
+          "created_at": "2026-10-14T01:29:26Z"
+        },
+        {
+          "author": "machismo77",
+          "text": "🐂🍺 太棒了 这才是童年的梦",
+          "likes": 0,
+          "url": "https://x.com/machismo77/status/2110180628444688545",
+          "created_at": "2026-10-14T01:27:21Z"
+        },
+        {
+          "author": "HaoAIBuilder",
+          "text": "完全超预期了，用AI能做到这水准，实在是超预期了，期待详细制作流程👍👍👍",
+          "likes": 0,
+          "url": "https://x.com/HaoAIBuilder/status/2110179631840256467",
+          "created_at": "2026-10-14T01:23:24Z"
+        },
+        {
+          "author": "VireGeek",
+          "text": "你居然把我小时候最喜欢的小王子做成了游戏，而且场景还原得这么漂亮，真的太厉害了",
+          "likes": 0,
+          "url": "https://x.com/VireGeek/status/2110177145775653278",
+          "created_at": "2026-10-14T01:13:31Z"
+        },
+        {
+          "author": "qiushuji2077",
+          "text": "感觉做成书和视频已经绝美了，你一下到顶直接干成游戏了😱",
+          "likes": 0,
+          "url": "https://x.com/qiushuji2077/status/2110177829908525166",
+          "created_at": "2026-10-14T01:16:14Z"
+        },
+        {
+          "author": "dboy_yi2025",
+          "text": "和我想做的一样。我之前做的《红楼梦》大观园，就想沿着这个方向继续做下去。但是我没有Opus……",
+          "likes": 0,
+          "url": "https://x.com/dboy_yi2025/status/2110174780024639708",
+          "created_at": "2026-10-14T01:04:07Z"
+        },
+        {
+          "author": "nacho_olivieri",
+          "text": "You made an awesome work",
+          "likes": 0,
+          "url": "https://x.com/nacho_olivieri/status/2110175705464008931",
+          "created_at": "2026-10-14T01:07:48Z"
+        },
+        {
+          "author": "yuuudiwho",
+          "text": "期待开源，看看能做成怎么样的个性化游戏",
+          "likes": 0,
+          "url": "https://x.com/yuuudiwho/status/2110175847151964433",
+          "created_at": "2026-10-14T01:08:21Z"
+        },
+        {
+          "author": "ai_super_niko",
+          "text": "哇哦  太棒了。\n看着制作很精良了，可以考虑上架啦\n也期望后续分享一下制作经验",
+          "likes": 0,
+          "url": "https://x.com/ai_super_niko/status/2110180222977053164",
+          "created_at": "2026-10-14T01:25:45Z"
+        }
+      ],
+      "video_path": "videos/little-prince-across-stars.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/little-prince-across-stars.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/little-prince-across-stars.jpg",
+      "screenshots": [
+        {
+          "path": "videos/little-prince-across-stars.jpg",
+          "score": 9,
+          "notes": "Rated from 5 frames across the clip plus poster: lush Little Prince theater and planet scenes with soft lighting, detailed characters and velvet stage; cinematic and polished. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 9,
+      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: lush Little Prince theater and planet scenes with soft lighting, detailed characters and velvet stage; cinematic and polished. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "Saccc_c",
+      "source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+      "likes_source_url": "https://x.com/Saccc_c/status/2109962425512734739",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2081939362808520704/FwzCMH0g_normal.jpg",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "odyssey-voyage",
+      "title": "Odyssey Voyage",
+      "description": "3D voyage game inspired by The Odyssey, playable in the browser. Built with Claude Opus 5.5 (tanu_hehe).",
+      "play_url": "https://odyssey-navy-seven.vercel.app/",
+      "found_via": "X @tanu_hehe Opus 5.5 Odyssey voyage",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 20,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "vinaysharrna",
+          "text": "watched one movie and came back with an entire game studioooo",
+          "likes": 1,
+          "url": "https://x.com/vinaysharrna/status/2109924649324966147",
+          "created_at": "2026-10-13T08:30:11Z"
+        },
+        {
+          "author": "SakshiML_20",
+          "text": "This is so cool 🙌",
+          "likes": 2,
+          "url": "https://x.com/SakshiML_20/status/2109920403921764819",
+          "created_at": "2026-10-13T08:13:19Z"
+        },
+        {
+          "author": "Its_Vivaann",
+          "text": "This is great ✨",
+          "likes": 1,
+          "url": "https://x.com/Its_Vivaann/status/2109922359230730670",
+          "created_at": "2026-10-13T08:21:05Z"
+        },
+        {
+          "author": "Aniii_1818",
+          "text": "Coool",
+          "likes": 1,
+          "url": "https://x.com/Aniii_1818/status/2109998178842063200",
+          "created_at": "2026-10-13T13:22:22Z"
+        }
+      ],
+      "video_path": "videos/odyssey-voyage.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/odyssey-voyage.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/odyssey-voyage.jpg",
+      "screenshots": [
+        {
+          "path": "videos/odyssey-voyage.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the clip plus poster: seafaring 3D voyage with readable ships and water; pleasant but still early-look art. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: seafaring 3D voyage with readable ships and water; pleasant but still early-look art. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "tanu_hehe",
+      "source_url": "https://x.com/tanu_hehe/status/2109918640300802093",
+      "likes_source_url": "https://x.com/tanu_hehe/status/2109918640300802093",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2108235361361317889/I6pvUHY7_normal.jpg",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "slimeworks",
+      "title": "Slimeworks",
+      "description": "Cozy 3D puzzle: flip gates, fill flower pools and launch colorful goo through five worlds. Built with Crayon Pro + Opus 5.5.",
+      "play_url": "https://app.usecrayon.ai/play/05c0358d-f191-499b-b959-9cba1089baf4",
+      "found_via": "X @usecrayon Opus 5.5 Slimeworks puzzle",
+      "made_with": "opus-5.5",
+      "engine": "Crayon",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 10,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "silic2023",
+          "text": "The three-pool scene made me want to fill one, close its gate, then send the goo to the next. Do completed pools hold their progress when you reroute the flow?",
+          "likes": 1,
+          "url": "https://x.com/silic2023/status/2110071545699955021",
+          "created_at": "2026-10-13T18:13:54Z"
+        },
+        {
+          "author": "aniketjart",
+          "text": "Looks so clean!",
+          "likes": 1,
+          "url": "https://x.com/aniketjart/status/2110066785169129637",
+          "created_at": "2026-10-13T17:54:59Z"
+        },
+        {
+          "author": "x013344171",
+          "text": "Needed this today, kind of content I'm here for. 🔥",
+          "likes": 0,
+          "url": "https://x.com/x013344171/status/2110058701314990550",
+          "created_at": "2026-10-13T17:22:52Z"
+        }
+      ],
+      "video_path": "videos/slimeworks.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/slimeworks.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/slimeworks.jpg",
+      "screenshots": [
+        {
+          "path": "videos/slimeworks.jpg",
+          "score": 7,
+          "notes": "Rated from 5 frames across the clip plus poster: colorful goo puzzles, clean gate/pool levels, cozy 3D look. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: colorful goo puzzles, clean gate/pool levels, cozy 3D look. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "usecrayon",
+      "source_url": "https://x.com/usecrayon/status/2110057887448051896",
+      "likes_source_url": "https://x.com/usecrayon/status/2110057887448051896",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2058659539399147520/8SbxUKg3_normal.jpg",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "planetary-defender",
+      "title": "Planetary Defender: Nuke Edition",
+      "description": "One turret, six cities and an alien mothership: free 3D arcade defense in the browser. Skyline pass with three.js and Claude Opus 5.5 (GameFoundry).",
+      "play_url": "https://www.gamefoundry.net/creations/cmuvwvz6f0001cv4p4kuausdt",
+      "found_via": "X @GameFoundryNet Opus 5.5 Planetary Defender",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 5,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "decimated_game",
+          "text": "Absolute carnage in three.js!",
+          "likes": 0,
+          "url": "https://x.com/decimated_game/status/2110104696308281464",
+          "created_at": "2026-10-13T20:25:38Z"
+        }
+      ],
+      "video_path": "videos/planetary-defender.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/planetary-defender.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/planetary-defender.jpg",
+      "screenshots": [
+        {
+          "path": "videos/planetary-defender.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the clip plus poster: city skyline under alien attack with turret fire; readable arcade action, modest polish. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: city skyline under alien attack with turret fire; readable arcade action, modest polish. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "GameFoundryNet",
+      "source_url": "https://x.com/GameFoundryNet/status/2110102301948146154",
+      "likes_source_url": "https://x.com/GameFoundryNet/status/2110102301948146154",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2105747341131038720/3Ejd1ZuG_normal.jpg",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "cuddle-empires",
+      "title": "Risk 3D · Cute Edition (Cuddle Empires)",
+      "description": "Cute virtual tabletop RISK for kids: conquer territories in a soft 3D board, built in under 70 minutes with Opus 5.5, Blender and three.js (netgfx).",
+      "play_url": "https://cuddle-empires.vercel.app/",
+      "found_via": "X @netgfx Opus 5.5 cute RISK tabletop",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 4,
+      "comment_count": 0,
+      "comments": [],
+      "video_path": "videos/cuddle-empires.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/cuddle-empires.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/cuddle-empires.jpg",
+      "screenshots": [
+        {
+          "path": "videos/cuddle-empires.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the clip plus poster: chubby cute RISK board with soft colors and clear territories; charming, simple. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: chubby cute RISK board with soft colors and clear territories; charming, simple. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "netgfx",
+      "source_url": "https://x.com/netgfx/status/2110092406255481220",
+      "likes_source_url": "https://x.com/netgfx/status/2110092406255481220",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1154663438/myComic_normal.jpg",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "need4space",
+      "title": "Need4Space",
+      "description": "Browser racing game aiming for free-to-play multiplayer with cosmetics only (no pay-to-win). Shared on r/vibecoding as a first browser game.",
+      "play_url": "https://vengeful180-dot.github.io/Need4Space/",
+      "found_via": "r/vibecoding first browser game (u/LostRequirement4828)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 174,
+      "comment_count": 166,
+      "comments": [
+        {
+          "author": "MentalStage8006",
+          "text": "its giving me crisp 3 fps on a rtx 3050",
+          "likes": 15,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghl9nq/",
+          "created_at": "2026-10-13T14:30:39Z"
+        },
+        {
+          "author": "ImaginaryRoyal9725",
+          "text": "Of course, it's called \n\nhttps://preview.redd.it/jxlrta6ix8vh1.png?width=936&format=png&auto=webp&s=1eb5ae7d30232fbd23528f76ee8abfaf0b3631b0\n\n",
+          "likes": 10,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghmzxo/",
+          "created_at": "2026-10-13T14:38:16Z"
+        },
+        {
+          "author": "Pure_Reception_5685",
+          "text": "I tried opening it on my computer and my browser froze and I had to reboot it",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghhvvj/",
+          "created_at": "2026-10-13T14:15:45Z"
+        },
+        {
+          "author": "hydraX23",
+          "text": "It worked , but after shutting my screen down for like 5 sec and freezing the whole computer for 5 sec this happend around 80% of loading fyi , but i played it after for awhile i like it . ",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghk78k/",
+          "created_at": "2026-10-13T14:25:58Z"
+        },
+        {
+          "author": "Couch_King",
+          "text": "Now this is pod racing.",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghl5bt/",
+          "created_at": "2026-10-13T14:30:08Z"
+        },
+        {
+          "author": "Old-Preference5313",
+          "text": "Not bad I played it while in the shower, it's quite hard to steer with mobile tho kept crashing into the sides lol",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghmswx/",
+          "created_at": "2026-10-13T14:37:25Z"
+        },
+        {
+          "author": "redditissocoolyoyo",
+          "text": "Absolutely incredible game. How did you optimize it so well? The only thing is even on easy mode I can't pass up the bots. The ships are too wide. Couldn't pass them up without hitting the rails. ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pgho2p1/",
+          "created_at": "2026-10-13T14:42:54Z"
+        },
+        {
+          "author": "a113rick",
+          "text": "I’m not a game developer so I can’t give you constructive criticism nor give you constructive feedback but what I can is this: THIS LOOKS SO FREAKING COOL. I can’t wrap my head around how this would look in a couple of months if you kept working on it and researching more on game development. It’s possible that you can make it just as good as people would expect a game to be.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pgjyj3j/",
+          "created_at": "2026-10-13T20:20:03Z"
+        },
+        {
+          "author": "CckSkker",
+          "text": "Hahaha",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghoxmc/",
+          "created_at": "2026-10-13T14:46:37Z"
+        },
+        {
+          "author": "i-dm",
+          "text": "In the shower?... ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghnh9p/",
+          "created_at": "2026-10-13T14:40:20Z"
+        },
+        {
+          "author": "Far_Paleontologist66",
+          "text": "way too heavy for a browser in my opinion",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghlg1q/",
+          "created_at": "2026-10-13T14:31:26Z"
+        },
+        {
+          "author": "L3B0WSKV",
+          "text": "Reminds me of this early ps2 futuristic racing games, add a drum and bass track list for the background music",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghunmf/",
+          "created_at": "2026-10-13T15:10:59Z"
+        },
+        {
+          "author": "redditissocoolyoyo",
+          "text": "Looks very imaginative. I like it!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghmv3w/",
+          "created_at": "2026-10-13T14:37:41Z"
+        },
+        {
+          "author": "wathow123",
+          "text": "This looks really well done! Would def add to wishlist if I saw on steam. Don't know if it's possible but if you can add local multiplayer that'd be amazing cause the first thing that came to my mind when I saw this was horizon chase turbo which me and my buddies played a lot.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghptvc/",
+          "created_at": "2026-10-13T14:50:24Z"
+        },
+        {
+          "author": "Emotional-Cut2952",
+          "text": "it already looks really good, slight more effort from opus to make more satisfying env props like thoseo buildings would nice, env design really adds to the experience",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pgi5pkj/",
+          "created_at": "2026-10-13T15:57:13Z"
+        },
+        {
+          "author": "Uriziel01",
+          "text": "Really cool demo, congrats!  \nPerformance is great (constant 165FPS), graphics are also good, few issues I see (**mind, I've done just two races**).\n\n**General feedback:**  \n\\- next lap/finish sounds unfitting  \n\\- \\`bump\\` sound is unfitting (both side of the track and opponents)  \n\\- air brake sound could be more polished/deeper, currently it's just hissing(?) - also the condensation trails are not pinned to the model resulting in a weird look  \n\\- auto rotate feature takes away all the feelin",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pgi7glb/",
+          "created_at": "2026-10-13T16:04:27Z"
+        },
+        {
+          "author": "BertMacklenF8I",
+          "text": "I immediately thought of F-Zero  with improved graphics ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pgixz3s/",
+          "created_at": "2026-10-13T17:52:07Z"
+        },
+        {
+          "author": "LostRequirement4828",
+          "text": "I really don't know, I made this for fun tho, I had a lot of fun doing this. I will try to sell some cosmetics but yea, mostly maybe from donations",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghsfky/",
+          "created_at": "2026-10-13T15:01:28Z"
+        },
+        {
+          "author": "CreativeAd9553",
+          "text": "It's great\n\n",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghiso3/",
+          "created_at": "2026-10-13T14:19:46Z"
+        },
+        {
+          "author": "---PrisonMike---",
+          "text": "really cool man! \n\n",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/what_do_you_guys_think_about_my_first_browser_game/pghkv48/",
+          "created_at": "2026-10-13T14:28:53Z"
+        }
+      ],
+      "video_path": "videos/need4space.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/need4space.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/need4space.jpg",
+      "screenshots": [
+        {
+          "path": "videos/need4space.jpg",
+          "score": 5,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: space/racing UI with basic 3D track; early but playable. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: space/racing UI with basic 3D track; early but playable. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "LostRequirement4828",
+      "author_source": "https://www.reddit.com/user/LostRequirement4828/",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/",
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1x4xp1w/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "approximatr",
+      "title": "Approximatr",
+      "description": "60-second daily puzzle testing spatial intuition: approximate distances, angles and alignments. Free browser game (mobile/tablet/desktop).",
+      "play_url": "https://approximatr.com/",
+      "found_via": "r/playmygame Approximatr (u/the-approximatr)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 105,
+      "comment_count": 34,
+      "comments": [
+        {
+          "author": "powlique",
+          "text": "very fun game, I played the whole thing.\n\nI feel like light sound gestures can make the gameplay much better so for me it was missing.",
+          "likes": 9,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf1rwc7/",
+          "created_at": "2026-10-10T14:02:53Z"
+        },
+        {
+          "author": "Repulsive-Novel-5314",
+          "text": "Cool concept but it ended too soon add more levels along with daily challenge ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf2gcwr/",
+          "created_at": "2026-10-10T15:57:40Z"
+        },
+        {
+          "author": "Multifunkmultimedia",
+          "text": "Love this sort of game. Fun to play against friends to see who has the best approximation skills. Haptic feedback and clean sounds would do this game good.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pfa45bs/",
+          "created_at": "2026-10-11T17:23:03Z"
+        },
+        {
+          "author": "the-approximatr",
+          "text": "Yep, if you tap the Share button, you get a message with your results in, as well as a link that lets your friend compete directly against your answers. This is mine for today\n\n#approximatr · Oct 11\n🎯❌🟠⚪⚪\nCan you get closer?\nhttps://approximatr.com/vs/RQEbNoAAwcACCqgBntgNZbADurA8",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf8w3ah/",
+          "created_at": "2026-10-11T14:17:05Z"
+        },
+        {
+          "author": "the-approximatr",
+          "text": "Thank you! That's great feedback - I had been wondering about audio, and that it would need to be quite light, eg just a pulse on Lock In and something the answer reveals. Maybe on the gizmo drag too, but I want to be careful as it could make quick adjustments annoying if it's too \"busy\".\n\nIs there a particular reference game where you think they've got puzzle audio just right?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf1txcw/",
+          "created_at": "2026-10-10T14:13:03Z"
+        },
+        {
+          "author": "the-approximatr",
+          "text": "Thanks :). There are currently ~20 puzzle types, with 5 shown per day, so you get a great variety of fresh mechanics over a week (except for the angle puzzle, which features every day, as the core of where the whole idea began).\n\nI did wonder about whether to have more rounds per day, eg 7, 10 - originally it was 3, which produced the same feedback of being too short, which it definitely was! 5 made it about 60 seconds a game. It's fantastic that you want more! I need to have a think about how t",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf2kjdw/",
+          "created_at": "2026-10-10T16:16:35Z"
+        },
+        {
+          "author": "hittherock",
+          "text": "Not much to say here - I enjoyed this and can see myself doing this daily. Only feedback I could give is the text for the circle height game threw me off a little. It said \"match the height of the circles\". My assumption was that the circles were the same height and I needed to guess what that height was. I thought there were two circles to try and throw me off, I didn't realise they would stack together",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf2v60a/",
+          "created_at": "2026-10-10T17:03:30Z"
+        },
+        {
+          "author": "cheekychen",
+          "text": "I really like the game. I like how anyone could attempt it and be on a level footing, unlike general knowledge or word games for example.\n\nBit of constructive feedback - some of the puzzles were a bit unclear and I needed to click for more info. Perhaps a cleaner, more streamlined way would be to have the puzzle animate to show what you’re trying to estimate. Could use different values to prevent giving them away.\n\nNice work though, I found it fun and original.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf3wia9/",
+          "created_at": "2026-10-10T19:48:01Z"
+        },
+        {
+          "author": "sleggat",
+          "text": "Ooh yeah this is my sorta game!   \nOn one level I’d jumped in before understanding the goal (lesson learnt!) but would’ve been nice to switch back.   \nGreat work!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf3x8lw/",
+          "created_at": "2026-10-10T19:51:22Z"
+        },
+        {
+          "author": "GolfOk3361",
+          "text": "amazing idea! need more levels",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf4fb9g/",
+          "created_at": "2026-10-10T21:15:50Z"
+        },
+        {
+          "author": "greenhouse_games",
+          "text": "Das war echt cool und ich war mit meiner Leistung sehr zufrieden😜 hätte auch gerne noch mehr als fünf davon gespielt. Mal schauen ob ich an einem anderen Tag wieder dazustosse..!?😉",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf531vi/",
+          "created_at": "2026-10-10T23:17:58Z"
+        },
+        {
+          "author": "ptgauth",
+          "text": "Loved! No notes!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf67mfb/",
+          "created_at": "2026-10-11T03:07:05Z"
+        },
+        {
+          "author": "Antibiotics121",
+          "text": "Great game!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf7m70o/",
+          "created_at": "2026-10-11T09:30:32Z"
+        },
+        {
+          "author": "mgild",
+          "text": "Es divertido el juego, estaría bien que si es un juego de desafío diario, en caso de que un día no lo haces, te permita recuperarlo.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf7mbil/",
+          "created_at": "2026-10-11T09:31:33Z"
+        },
+        {
+          "author": "Front-Card9910",
+          "text": "cute game",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf7x2c9/",
+          "created_at": "2026-10-11T10:57:15Z"
+        },
+        {
+          "author": "baz1nga007",
+          "text": "cool idea",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf873xy/",
+          "created_at": "2026-10-11T12:06:29Z"
+        },
+        {
+          "author": "hyperg8_games",
+          "text": "since its Wordle inspired, a shareable result grid is probably what brings people back daily without an app, do you have one? Portals like Playgama could maybe add reach too, from my experience thats validation, not money",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pf8ufij/",
+          "created_at": "2026-10-11T14:09:20Z"
+        },
+        {
+          "author": "ShyGamerGuy",
+          "text": "https://preview.redd.it/j07tcn3khvuh1.png?width=430&format=png&auto=webp&s=71bde7a19b74a415ca0d7bebdc6534d58c26299c",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pfa50g9/",
+          "created_at": "2026-10-11T17:26:22Z"
+        },
+        {
+          "author": "greenhouse_games",
+          "text": "Nice - wie schon gestern. Simpel, spannend, gute Auswertungen und Statistiken. So stelle ich mir das vor👌😊",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pfaq78k/",
+          "created_at": "2026-10-11T18:50:44Z"
+        },
+        {
+          "author": "RedSecOps",
+          "text": "I definitely misunderstood some of these while doing them kinda idly. \n\nLike \"set the minute hand to 10,\" I wasn't thinking and just set it to where 10 would be. Or \"set the angle to 275°,\" I placed it horizontally left without realizing it didn't mean to start from the top.\n\nI'm sure I'm not the only one. I'm guessing it would make more sense after going through more than one of each type, but that'll be an issue for new players probably. ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/approxiamtr_a_quick_daily_puzzle_game_that_tests/pfd94x9/",
+          "created_at": "2026-10-12T02:10:16Z"
+        }
+      ],
+      "video_path": "videos/approximatr.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/approximatr.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/approximatr.jpg",
+      "screenshots": [
+        {
+          "path": "videos/approximatr.jpg",
+          "score": 5,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: clean daily puzzle UI with map/angle challenges; simple and readable. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: clean daily puzzle UI with map/angle challenges; simple and readable. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "the-approximatr",
+      "author_source": "https://www.reddit.com/user/the-approximatr/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/",
+      "likes_source_url": "https://www.reddit.com/r/playmygame/comments/1x2fiff/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "chess-heroes",
+      "title": "Chess Heroes",
+      "description": "Online chess variant where players draft limited-use powers for critical moments. Contractors failed after $15k; AI shipped a playable web build for about $70.",
+      "play_url": "https://chess-heroes-hkdvwyt.solid.site/",
+      "found_via": "r/aigamedev Chess Heroes AI rebuild (u/EggburtAlmighty)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 91,
+      "comment_count": 85,
+      "comments": [
+        {
+          "author": "baathus",
+          "text": "I guess we'll get more of these kind of stories going forward. I'm glad you got to make your game eventually! Will test it later!",
+          "likes": 57,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfahs0/",
+          "created_at": "2026-10-13T05:20:58Z"
+        },
+        {
+          "author": "Lumpy_Conference6640",
+          "text": "I like it, UI needs an upgrade ",
+          "likes": 16,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfane4/",
+          "created_at": "2026-10-13T05:22:08Z"
+        },
+        {
+          "author": "fued",
+          "text": "I have to sign up and then someone might not even be there? I feel you wasted another $70 tbh",
+          "likes": 16,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfon3y/",
+          "created_at": "2026-10-13T07:11:23Z"
+        },
+        {
+          "author": "Weird-Sky-",
+          "text": "I'm sure there are but this is obviously marketing lol.",
+          "likes": 11,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgh0qt4/",
+          "created_at": "2026-10-13T12:54:34Z"
+        },
+        {
+          "author": "crusoe",
+          "text": "Hard to figure out how to start a game.\n\nUi is very lackluster. It's just normal chess?",
+          "likes": 9,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfcvgs/",
+          "created_at": "2026-10-13T05:38:44Z"
+        },
+        {
+          "author": "baodingball",
+          "text": "I can not find an opponent.  I think you should add an a AI opponent. That will be quite easy for your AI coder.  You can even have the AI different level of difficulty.  I gave my game salvo/battlehip game and I hardly win anymore except by sheer luck.  \n[https://baodingball.itch.io/salvo](https://baodingball.itch.io/salvo)",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfisqq/",
+          "created_at": "2026-10-13T06:24:49Z"
+        },
+        {
+          "author": "YannLeCoomer",
+          "text": "Show us some screenshots or other material from the original failed project. I’d love to see how you responded to the devs who wasted your money and failed since a contract would, I assume, require them to at least make some changes.",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgha0e5/",
+          "created_at": "2026-10-13T13:39:28Z"
+        },
+        {
+          "author": "randommmoso",
+          "text": "Looks horrific. Dont you use ant skills? At least get impeccable. Didn't even get to play a chess match with ui this bad.",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfdgff/",
+          "created_at": "2026-10-13T05:43:10Z"
+        },
+        {
+          "author": "SoonBlossom",
+          "text": "I thought you would point out the fact that a lot of people will make up bullshit stories to sell their product\n\nBut nope, straight into the marketing trap haha",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pggmxu8/",
+          "created_at": "2026-10-13T11:37:54Z"
+        },
+        {
+          "author": "rebaplaylabs",
+          "text": "you had me interested until I had to sign up to play nice story ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pghwunp/",
+          "created_at": "2026-10-13T15:20:16Z"
+        },
+        {
+          "author": "khodakk",
+          "text": "idk right off the bat it’s very unwelcoming to new players. forcing me to sign in with email or create an account right off the bat isn’t the move.\n\nand looking at the UI and icons feels very ai generated and lacks any personality. can’t speak on the actual gameplay since i didn’t sign up",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgi2ibn/",
+          "created_at": "2026-10-13T15:44:02Z"
+        },
+        {
+          "author": "massweight",
+          "text": "Nice sob story. You plugged some bullshit into an LLM. You're site is literally just the default Astra output.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfp86r/",
+          "created_at": "2026-10-13T07:16:04Z"
+        },
+        {
+          "author": "pdj-custom",
+          "text": "I tried starting a game but the process is very convoluted, not gonna lie. \n\nNot really a fan of the game itself, but the story is valid. AI SHOULD be replacing incompetent idiots like the ones you hired and putting them on the unemployment line. $15,000 down the pisser for them to not to be able to deliver something simple like this is downright criminal. \n\nBest of luck  ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgj86cz/",
+          "created_at": "2026-10-13T18:33:13Z"
+        },
+        {
+          "author": "tpkmbm",
+          "text": "I think it would be better if I could try playing a round before signing up",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pggwc0o/",
+          "created_at": "2026-10-13T12:31:42Z"
+        },
+        {
+          "author": "EggburtAlmighty",
+          "text": "totally agree. I'm working on it.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfbay1/",
+          "created_at": "2026-10-13T05:26:58Z"
+        },
+        {
+          "author": "YannLeCoomer",
+          "text": "It’s just another shitty vibe coded game they came up with a lie about to get attention.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pghalxu/",
+          "created_at": "2026-10-13T13:42:15Z"
+        },
+        {
+          "author": "greatbabo",
+          "text": "Tried it practice. Sliding pawn ability doesn't work.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfghw8/",
+          "created_at": "2026-10-13T06:06:48Z"
+        },
+        {
+          "author": "sabre31",
+          "text": "We got rid of all of our contractor developers at a large company. 570 so far.  Some within the country some near shore and offshore.  Each developer ranged from $85/hr to $150/hr depending on location.  Apps they delivered ai had to fix to make them better.  What took them 8 months plus to deliver AI did in days or hours and better code. \n\nNot saying a lot of developers are bad but a lot of these development consulting companies hire very bad developers to make a profit. It’s a joke. ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pglcdbz/",
+          "created_at": "2026-10-14T00:17:08Z"
+        },
+        {
+          "author": "CharacterArm1360",
+          "text": "Is there a demo play without signing in?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgfholj/",
+          "created_at": "2026-10-13T06:16:05Z"
+        },
+        {
+          "author": "erasser999",
+          "text": "Tutorial breaks on pawn slide step. Cant select any pawns or proceed. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/spent_15k_all_we_had_on_contractors_that_failed/pgflnnt/",
+          "created_at": "2026-10-13T06:47:34Z"
+        }
+      ],
+      "video_path": "videos/chess-heroes.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/chess-heroes.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/chess-heroes.jpg",
+      "screenshots": [
+        {
+          "path": "videos/chess-heroes.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: chess board with power draft UI; solid web board game look. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: chess board with power draft UI; solid web board game look. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "EggburtAlmighty",
+      "author_source": "https://www.reddit.com/user/EggburtAlmighty/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x4o1cf/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "hearthworks",
+      "title": "Hearthworks",
+      "description": "3D Vampire Survivors-style arcane arena: five-minute WASD runs, aimed spells and a boss. Built with Claude Code, Higgsfield 3D and ElevenLabs.",
+      "play_url": "https://hearthworks-chi.vercel.app/",
+      "found_via": "r/vibecoding Hearthworks Claude Code (u/Bonelessgummybear)",
+      "made_with": "unknown",
+      "made_with_note": "Claude Code; model version not named",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 64,
+      "comment_count": 53,
+      "comments": [
+        {
+          "author": "BeltwayBro",
+          "text": "This is pretty cool. Well done!",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjkb8g/",
+          "created_at": "2026-10-13T19:22:35Z"
+        },
+        {
+          "author": "Bonelessgummybear",
+          "text": "Game is so hard, give it a try if you want. I can beat it with everything maxed on a cheat link. In regular I'm dying around 4 minutes, but haven't upgraded my spells through multiple runs yet. Adding in more spell evolutions right now.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjlkkq/",
+          "created_at": "2026-10-13T19:27:42Z"
+        },
+        {
+          "author": "smabarnsfar",
+          "text": "Thanks for the breakdown!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgk302o/",
+          "created_at": "2026-10-13T20:38:17Z"
+        },
+        {
+          "author": "you_killed_my_",
+          "text": "Gives me vibes of Warcraft 3 custom maps like angel arena wars",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgkjgq7/",
+          "created_at": "2026-10-13T21:50:31Z"
+        },
+        {
+          "author": "VanillaSwimming5699",
+          "text": "Lmao my bad I’m prompting u like ur Claude 😭🙏",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgk3vk8/",
+          "created_at": "2026-10-13T20:41:53Z"
+        },
+        {
+          "author": "Current-Today-3626",
+          "text": "OP, I watched the video and realized u used the epic dota mini game as the core inspiration and was underwhelmed, especially because your one visually is very busy. But, I tried it, and dude, it was FUN!!!! And slowly, I just didn't care that you copied so much about the dota one and started wishing that you expanded on this one more, haha. Also, the transparancy in your post is 10/10, you're a great person and I think you're doing it right. \n\nOne note - the w,a,s,d controls are very awkward wit",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjpi3q/",
+          "created_at": "2026-10-13T19:43:31Z"
+        },
+        {
+          "author": "Tycoon33",
+          "text": "Hey fuck yes. I wanna play ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgl2d2q/",
+          "created_at": "2026-10-13T23:25:12Z"
+        },
+        {
+          "author": "Bonelessgummybear",
+          "text": "Thank you so much! Consider this the MVP with more way more content to come. I'm also hooked, and trying so hard to kill the boss without lowering the difficulty. I've vibe coded a dozen mods and web games in the past year or so. I also love watching YouTube videos of other creators doing the same thing. You get to see a lot of workflows, I've developed my own though.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjyal7/",
+          "created_at": "2026-10-13T20:19:05Z"
+        },
+        {
+          "author": "Bonelessgummybear",
+          "text": "I want the game to focus on a five-minute survival run that starts manageable and builds into absolute chaos during the final minute. The fun is actively aiming and using abilities while dodging tons of projectiles, with low cooldowns and huge spells by the end. Build experimentation is also a big part of the fun. I want to preserve that core loop rather than overcomplicate it.  \n1. Spell evolutions\n\n* Fireball → Inferno: larger piercing fireball that explodes and leaves a burning area.\n* Frost ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgkyqng/",
+          "created_at": "2026-10-13T23:06:29Z"
+        },
+        {
+          "author": "Bonelessgummybear",
+          "text": "Thanks your the feedback and I appreciate the kind words. I actually should improve the cursor visibility, forgot about that. More content is being built as we speak. The dota version was a huge inspiration, made me think how lucky it was they got all the in game models for free basically. Icons are easy and cheap to make. I'll allow key binds, what what should default be? Any more feedback would be appreciated, including level ideas, new enemies, difficulty. Let me know the best build you've fo",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjs9qq/",
+          "created_at": "2026-10-13T19:54:32Z"
+        },
+        {
+          "author": "Bonelessgummybear",
+          "text": "Just finished a big update!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgk4mz3/",
+          "created_at": "2026-10-13T20:45:01Z"
+        },
+        {
+          "author": "qna1",
+          "text": "I don't know what the genre of this type of game is because I never play them, but since it was in the browser, I figured, give it a try, and I am hooked, curious to know if you have prior game dev experience?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjwte6/",
+          "created_at": "2026-10-13T20:13:06Z"
+        },
+        {
+          "author": "r3ign_b3au",
+          "text": "Bullet heaven if you don't have to aim, bullet hell if you do ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgjzjcc/",
+          "created_at": "2026-10-13T20:24:07Z"
+        },
+        {
+          "author": "VanillaSwimming5699",
+          "text": "Ditch the constant screen shake and tone down some of the effects for readability and performance",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgk3sma/",
+          "created_at": "2026-10-13T20:41:33Z"
+        },
+        {
+          "author": "mile-high-guy",
+          "text": "I don't like the screen shake. Vampire survivors doesn't really have it. With how crazy everything becomes, your screen will be shaking constantly ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgk4o5b/",
+          "created_at": "2026-10-13T20:45:09Z"
+        },
+        {
+          "author": "StoneCypher",
+          "text": "great job\n\ni promise you, getting a domain will have an enormous impact on people being willing to give you a chance",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgk63w0/",
+          "created_at": "2026-10-13T20:51:11Z"
+        },
+        {
+          "author": "brycecodes",
+          "text": "Not even kidding, this game is good. Anyone about to hate on it, actually play it lol. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgkpvr9/",
+          "created_at": "2026-10-13T22:21:30Z"
+        },
+        {
+          "author": "Tall-Wasabi5030",
+          "text": "So you stole v rising. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgkrgym/",
+          "created_at": "2026-10-13T22:29:28Z"
+        },
+        {
+          "author": "Better_Call_Sol64",
+          "text": "I hate to be a killjoy but if you’re looking to publish this, there is already a game exactly like it. Otherwise, good job!\n\nhttps://store.steampowered.com/app/2066020/Soulstone_Survivors/",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgksnln/",
+          "created_at": "2026-10-13T22:35:26Z"
+        },
+        {
+          "author": "NextSouceIT",
+          "text": "Can you share an example of your first Claude code prompt for designing the docs and framework ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/3d_vampire_survivors_style_arcane_game_with/pgkty1t/",
+          "created_at": "2026-10-13T22:41:58Z"
+        }
+      ],
+      "video_path": "videos/hearthworks.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/hearthworks.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/hearthworks.jpg",
+      "screenshots": [
+        {
+          "path": "videos/hearthworks.jpg",
+          "score": 7,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: top-down 3D survivor with spell glyphs, HP/XP HUD and particle beams; punchy arena feel. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: top-down 3D survivor with spell glyphs, HP/XP HUD and particle beams; punchy arena feel. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "Bonelessgummybear",
+      "author_source": "https://www.reddit.com/user/Bonelessgummybear/",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/",
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1x55yeh/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "penguinsmack",
+      "title": "Penguin Smack",
+      "description": "3D Yetisports-style penguin throw with trampolines, exploding barrels and rockets. Built in ~3 hours with Claude Opus 5.5; free on phones (landscape).",
+      "play_url": "https://penguinsmack.pages.dev/",
+      "found_via": "r/ClaudeGameDev Penguin Smack Opus 5.5 (u/zykooo)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 10,
+      "comment_count": 16,
+      "comments": [
+        {
+          "author": "bingewavecinema",
+          "text": "Its a fun start, def enjoyed it. What are you planning on doing with it?",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgjtgja/",
+          "created_at": "2026-10-13T19:59:19Z"
+        },
+        {
+          "author": "Markronom",
+          "text": "Your penguin has 3 legs and the yetis legs don't make sense ",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk2amg/",
+          "created_at": "2026-10-13T20:35:26Z"
+        },
+        {
+          "author": "Ok_Sink1685",
+          "text": "Haha, very nice. It brings back memories... I’d add a way to cancel the move and go back to the start if I realize I’ve made a bad move. That way, you wouldn't have to wait until the end to start over.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk18ms/",
+          "created_at": "2026-10-13T20:31:06Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "No plans for now, if people show enough appreciation i might do some further polishing and maybe an app store/play store submission. But only if that smack counter grows enough 🚀 ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgjxzm1/",
+          "created_at": "2026-10-13T20:17:51Z"
+        },
+        {
+          "author": "smb3d",
+          "text": "haha, I just noticed the penguin's legs!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk327x/",
+          "created_at": "2026-10-13T20:38:33Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "LOL! Thanks, i'll fix that for the share image. :)",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk9s75/",
+          "created_at": "2026-10-13T21:06:47Z"
+        },
+        {
+          "author": "smb3d",
+          "text": "This is so much fun!!!\n\n  \nAll my games are too ambitious and I end up running out of steam before I get anything close to a finished product.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk0rqn/",
+          "created_at": "2026-10-13T20:29:11Z"
+        },
+        {
+          "author": "EasterUK",
+          "text": "That’s fun!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgkejkl/",
+          "created_at": "2026-10-13T21:27:54Z"
+        },
+        {
+          "author": "Thistlemanizzle",
+          "text": "What was the prompt?\n\nI can't figure out everyone is oneshotting great games. Mine in Godot have been insanely elaborate for an FPS.\n\n(Although physics destructiibility is a major goal).",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgksu0o/",
+          "created_at": "2026-10-13T22:36:20Z"
+        },
+        {
+          "author": "xavium",
+          "text": "This brings back such fun memories.. Really well done! Hope it goes viral or something 🙌\n\nEdit: would be cool to unlock some visual stuff (penguin skins, yeti bat type, etc ) through total distance or hits or something, just a thought :)",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgku30n/",
+          "created_at": "2026-10-13T22:42:40Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "Yea for sure, I remember there was a bloody version too but I kept this one family friendly. Good call, cosmetics on the way! 🎉 ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgkx21x/",
+          "created_at": "2026-10-13T22:57:46Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "The most fun/replayable games is often very simple! Glad you enjoyed it! 😄 ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk8g9m/",
+          "created_at": "2026-10-13T21:01:03Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "Thanks, I thought about this too, I'll add it to the todo list. 👍\n\nEdit: added a skip button 🔥",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgk8oz4/",
+          "created_at": "2026-10-13T21:02:05Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "Glad you liked it! Hope it inspires to some new vibegames!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgkg9tv/",
+          "created_at": "2026-10-13T21:35:45Z"
+        },
+        {
+          "author": "KvickaN",
+          "text": "There was a lot of follow-up prompts, small tweaks, cloudflare tracker, anti-cheat, nickname filter etc but kickoff prompt was this master piece:\n\nMake this *dangerously* addictive.  \n  \nTurn it into a pure dopamine war crime clone of that old game where you grab a baseball bat and smash a penguin as far as humanly possible.\n\nCore loop:\n\n* You swing a baseball bat and launch the penguin down an endless road.\n* The road is packed with pure RNG chaos that can send the penguin flying even further —",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pgkwsxb/",
+          "created_at": "2026-10-13T22:56:29Z"
+        },
+        {
+          "author": "Agile_Beyond_6025",
+          "text": "Doesn't seem to be working on my phone. Using Pixel 10, Android 17, Chrome. Just get a blank screen with some sound. ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pglakvd/",
+          "created_at": "2026-10-14T00:07:54Z"
+        },
+        {
+          "author": "fistular",
+          "text": "needs progression and some sort of interaction after the first hit\n\n",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/i_built_a_3d_yetisportsstyle_game_in_3_hours_with/pglk53j/",
+          "created_at": "2026-10-14T00:56:56Z"
+        }
+      ],
+      "video_path": "videos/penguinsmack.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/penguinsmack.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/penguinsmack.jpg",
+      "screenshots": [
+        {
+          "path": "videos/penguinsmack.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: juicy 3D penguin launch with chaotic props; fun arcade juice. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: juicy 3D penguin launch with chaotic props; fun arcade juice. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "zykooo",
+      "author_source": "https://www.reddit.com/user/zykooo/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x56n07/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "catan-friendos",
+      "title": "CatanTestFriendos",
+      "description": "Free online Catan-style board: 3D board, friends online, bots in three levels, up to 8 players and a map editor. Built with Claude Code over two weeks.",
+      "play_url": "https://kurusudes.github.io/CatanTestFriendos/",
+      "found_via": "r/ClaudeGameDev Catan with Claude (u/KurusuDes)",
+      "made_with": "unknown",
+      "made_with_note": "Claude Code; model version not named",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "KurusuDes",
+      "github_url": "https://github.com/KurusuDes/CatanTestFriendos",
+      "remote_likes": 13,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "Felfedezni",
+          "text": "This is nice. Thanks for sharing!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4xvtd/my_friends_wanted_a_free_catan_that_didnt_suck_so/pgl7m0w/",
+          "created_at": "2026-10-13T23:52:27Z"
+        }
+      ],
+      "video_path": "videos/catan-friendos.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/catan-friendos.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/catan-friendos.jpg",
+      "screenshots": [
+        {
+          "path": "videos/catan-friendos.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: 3D Catan board with clear hex tiles and HUD; solid multiplayer board look. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: 3D Catan board with clear hex tiles and HUD; solid multiplayer board look. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "KurusuDes",
+      "author_source": "https://www.reddit.com/user/KurusuDes/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4xvtd/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4xvtd/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "counterstance",
+      "title": "Counterstance",
+      "description": "Long-incubated action prototype finally playable after six remakes; Opus 5.5 got it closest to the vision. Trailer also shot/edited with Claude.",
+      "play_url": "https://counterstance.vercel.app/",
+      "found_via": "r/ClaudeGameDev Counterstance Opus 5.5 (u/Sheru7000)",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "coop-same-origin",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 8,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "Future_Self_9638",
+          "text": "dope",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4wzuc/i_have_remade_this_game_6_times_with_opus_55_i_am/pghbp4r/",
+          "created_at": "2026-10-13T16:27:21Z"
+        },
+        {
+          "author": "Wooden_Plant7504",
+          "text": "Looks great",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4wzuc/i_have_remade_this_game_6_times_with_opus_55_i_am/pghw3iq/",
+          "created_at": "2026-10-13T17:57:06Z"
+        }
+      ],
+      "video_path": "videos/counterstance.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/counterstance.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/counterstance.jpg",
+      "screenshots": [
+        {
+          "path": "videos/counterstance.jpg",
+          "score": 5,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: early action prototype; readable but still rough. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: early action prototype; readable but still rough. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "Sheru7000",
+      "author_source": "https://www.reddit.com/user/Sheru7000/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4wzuc/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4wzuc/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "tank-vs-city",
+      "title": "Tank vs City",
+      "description": "Dumb little therapeutic tank simulator for blowing up a cityscape. Built with Claude Opus 5.5; free at tankvscity.com.",
+      "play_url": "https://tankvscity.com/",
+      "found_via": "r/ClaudeGameDev tank simulator Opus 5.5 (u/dumbfuckingtradycunt)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "sandbox",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 7,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "whyaPapaya",
+          "text": "Very cool, what did you use for the graphics?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4h2ur/i_vibecoded_a_dumb_little_tank_simulator_with/pgdsp2f/",
+          "created_at": "2026-10-13T02:51:53Z"
+        },
+        {
+          "author": "dumbfuckingtradycunt",
+          "text": "Thanks, it was all just built with code through Claude.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4h2ur/i_vibecoded_a_dumb_little_tank_simulator_with/pgdu1z8/",
+          "created_at": "2026-10-13T02:58:51Z"
+        },
+        {
+          "author": "hclpfan",
+          "text": "So many tank games from Claude lol",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4h2ur/i_vibecoded_a_dumb_little_tank_simulator_with/pgeu29s/",
+          "created_at": "2026-10-13T06:13:14Z"
+        }
+      ],
+      "video_path": "videos/tank-vs-city.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/tank-vs-city.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/tank-vs-city.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tank-vs-city.jpg",
+          "score": 5,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: chunky tank rolling through a destructible city; simple and cathartic. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: chunky tank rolling through a destructible city; simple and cathartic. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "dumbfuckingtradycunt",
+      "author_source": "https://www.reddit.com/user/dumbfuckingtradycunt/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4h2ur/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4h2ur/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "handoff-atc",
+      "title": "HANDOFF ATC",
+      "description": "Browser air-traffic control: draw vectors, sequence the approach funnel and clear departures without a heavy sim install. Free solo-dev scope game.",
+      "play_url": "https://handoffatc.com/",
+      "found_via": "r/WebGames HANDOFF ATC (u/Plenty_Photograph702)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 11,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "EddyZaubert",
+          "text": "Hey whatsup. i played it on my live stream. My viewer loved it and they started playing it too. I also enjoyed it. thanks for sharing. it gets stressfull but so far i was able to manage it.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1x4waig/handoff_atc_i_made_a_free_browser_game_where/pgjlwdw/",
+          "created_at": "2026-10-13T22:09:01Z"
+        },
+        {
+          "author": "neckhickeys4u",
+          "text": "I like it as a simplified ATC. It gets... stressful, but not overly quickly.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1x4waig/handoff_atc_i_made_a_free_browser_game_where/pghpx4d/",
+          "created_at": "2026-10-13T17:30:47Z"
+        }
+      ],
+      "video_path": "videos/handoff-atc.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/handoff-atc.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/handoff-atc.jpg",
+      "screenshots": [
+        {
+          "path": "videos/handoff-atc.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: radar-scope ATC with approach funnel and vectors; clear specialized UI. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: radar-scope ATC with approach funnel and vectors; clear specialized UI. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "Plenty_Photograph702",
+      "author_source": "https://www.reddit.com/user/Plenty_Photograph702/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1x4waig/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1x4waig/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "contour-guesser",
+      "title": "Contour Guesser",
+      "description": "Daily puzzle: guess where you are on the map from contour lines alone. New map every day, free in the browser.",
+      "play_url": "https://davetech.co.uk/map",
+      "found_via": "r/WebGames Contour Guesser (u/DavesInHisPants)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 24,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "incandesent",
+          "text": "this is awesome",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/WebGames/comments/1x4vqr4/contour_guesser_can_you_work_out_where_you_are_on/pgibjw5/",
+          "created_at": "2026-10-13T19:01:15Z"
+        },
+        {
+          "author": "SilouansSong",
+          "text": "As a map guy, I love this. Bug(?) note for you: After completing the daily puzzle, I clicked \"Practice\" and it took me to a new map. All good. I reloaded the site, it brought me to the daily, and when I clicked \"Practice\" again, it generated the exact same practice map as earlier.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/WebGames/comments/1x4vqr4/contour_guesser_can_you_work_out_where_you_are_on/pgjcgr1/",
+          "created_at": "2026-10-13T21:30:40Z"
+        },
+        {
+          "author": "DavesInHisPants",
+          "text": "Ooo this is an interesting thought. Currently there is a new set of practice maps each day, and everyone gets the same ones.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1x4vqr4/contour_guesser_can_you_work_out_where_you_are_on/pgkq1kk/",
+          "created_at": "2026-10-14T01:02:18Z"
+        }
+      ],
+      "video_path": "videos/contour-guesser.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/contour-guesser.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/contour-guesser.jpg",
+      "screenshots": [
+        {
+          "path": "videos/contour-guesser.jpg",
+          "score": 5,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: contour map puzzle with clean daily challenge UI. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: contour map puzzle with clean daily challenge UI. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "DavesInHisPants",
+      "author_source": "https://www.reddit.com/user/DavesInHisPants/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1x4vqr4/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1x4vqr4/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "teleoperator-v2",
+      "title": "Teleoperator v2",
+      "description": "San Francisco robotaxi teleop game: deliveries, police chases, car tuning, multiplayer races and AI-generated cars. Mindblown AI / three.js browser build.",
+      "play_url": "https://teleoperator.mindblown.ai/",
+      "found_via": "r/aigamedev teleoperator v2 (u/marina_sd20)",
+      "made_with": "unknown",
+      "made_with_note": "Mindblown AI agent; model version not named",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 14,
+      "comment_count": 16,
+      "comments": [
+        {
+          "author": "n3ul1ng",
+          "text": "wow sick! is the world pre-generated or procedural?",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj0dhg/",
+          "created_at": "2026-10-13T20:41:44Z"
+        },
+        {
+          "author": "marina_sd20",
+          "text": "thanks! a mix of both. street layout comes from openstreetmap, and the city is procedurally built",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj0t1p/",
+          "created_at": "2026-10-13T20:43:30Z"
+        },
+        {
+          "author": "Super_Range45",
+          "text": "Looks cool. Imo having cops pin your car should trigger a fail state if you can't get moving promptly.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj25h9/",
+          "created_at": "2026-10-13T20:48:54Z"
+        },
+        {
+          "author": "Strict_Indication457",
+          "text": "are the cars and assets all ai generated or did you get them from somewhere? looks really good",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgjayek/",
+          "created_at": "2026-10-13T21:24:33Z"
+        },
+        {
+          "author": "x10der_by",
+          "text": "Haha, cybertruck is the best to ride with police",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgkd75l/",
+          "created_at": "2026-10-14T00:01:56Z"
+        }
+      ],
+      "video_path": "videos/teleoperator-v2.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/teleoperator-v2.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/teleoperator-v2.jpg",
+      "screenshots": [
+        {
+          "path": "videos/teleoperator-v2.jpg",
+          "score": 7,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: SF streets, cop chases and delivery HUD; lively 3D city driving. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: SF streets, cop chases and delivery HUD; lively 3D city driving. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "marina_sd20",
+      "author_source": "https://www.reddit.com/user/marina_sd20/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "call-of-roque",
+      "title": "Call Of Roque",
+      "description": "Browser multiplayer FPS: Three.js WebGPU, Colyseus 60 Hz authoritative server, Rapier physics. Built with Claude Code / Cowork AI-DLC workflow (Roque).",
+      "play_url": "https://callofroque.roqueos.com/",
+      "found_via": "r/ClaudeGameDev Call Of Roque AI FPS (u/youthanasia669)",
+      "made_with": "unknown",
+      "made_with_note": "Claude Code / Cowork; model version not named",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "github_user": "roqueos-games",
+      "remote_likes": 16,
+      "comment_count": 6,
+      "comments": [
+        {
+          "author": "Captainbands",
+          "text": "Looks good keep going",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4at32/i_built_a_browser_multiplayer_fps_with_ai_and/pfifzif/",
+          "created_at": "2026-10-12T22:21:05Z"
+        },
+        {
+          "author": "Relevant_Diver8895",
+          "text": "Awesome work, I'm thinking to start a cozy game thanks for share the tech stack",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4at32/i_built_a_browser_multiplayer_fps_with_ai_and/pfiyzxl/",
+          "created_at": "2026-10-12T23:42:27Z"
+        },
+        {
+          "author": "jaybsuave",
+          "text": "Super cool",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4at32/i_built_a_browser_multiplayer_fps_with_ai_and/pfj297q/",
+          "created_at": "2026-10-12T23:57:05Z"
+        }
+      ],
+      "video_path": "videos/call-of-roque.mp4",
+      "video_source": "playwright",
+      "videos": [
+        {
+          "path": "videos/call-of-roque.mp4",
+          "source": "playwright"
+        }
+      ],
+      "screenshot_path": "videos/call-of-roque.jpg",
+      "screenshots": [
+        {
+          "path": "videos/call-of-roque.jpg",
+          "score": 6,
+          "notes": "Rated from 5 frames across the gameplay recording plus poster: multiplayer FPS lobby/arena with WebGPU look; functional shooter UI. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: multiplayer FPS lobby/arena with WebGPU look; functional shooter UI. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "youthanasia669",
+      "author_source": "https://www.reddit.com/user/youthanasia669/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4at32/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4at32/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "majora-mask-3d",
+      "title": "Majora's Mask 3D (Dekui)",
+      "description": "Majora's Mask 3D recomp/port: 60fps, widescreen, single-screen. Releases for Windows, macOS and Linux; needs your own game files.",
+      "play_url": "https://github.com/tgacquin/mm3d-dekui",
+      "found_via": "r/decomps \"Majora's Mask 3D (Dekui)\" (u/Live_Cicada2118)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Majora's Mask 3D game files / dump",
+      "browser_playable": false,
+      "download_url": "https://github.com/tgacquin/mm3d-dekui/releases/latest",
+      "download_platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1895,
+      "comment_count": 174,
+      "comments": [
+        {
+          "author": "First_HistoryMan",
+          "text": "This is my dream version of Majora's Mask:\n\nSingle screen, 3ds visuals, 60fps, Project restoration fixes.\n\nThe day has arrived! Very keen for an android version.\n\nDoes the 60fps frame interpolation create noticeable input latency?",
+          "likes": 74,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgek9sg/",
+          "created_at": "2026-10-13T02:37:44Z"
+        },
+        {
+          "author": "EliParker",
+          "text": "I wasn’t able to get it running at 60fps with the CPU setting. I’ll try the GPU setting when I get the chance.",
+          "likes": 32,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgee6cg/",
+          "created_at": "2026-10-13T02:05:02Z"
+        },
+        {
+          "author": "evaderofallbans",
+          "text": "No thanks. I'll just wait for the switch 2 version and play it at 24fps for $80",
+          "likes": 15,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgf18au/",
+          "created_at": "2026-10-13T04:16:17Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "No input latency :) However, there does seem to be performance issues on lower end hardware which shouldn’t be the case. I’ll be looking into it ",
+          "likes": 13,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgekrih/",
+          "created_at": "2026-10-13T02:40:27Z"
+        },
+        {
+          "author": "TheRamblingSoul",
+          "text": "Am I misremembering? Why does the FOV seem so wide here? It’s got some kind of weird tunnel effect going on with the camera being so zoomed out",
+          "likes": 13,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgf5fk1/",
+          "created_at": "2026-10-13T04:44:51Z"
+        },
+        {
+          "author": "EliParker",
+          "text": "I would suggest adding cheats like in 2H2H. As the best cheat is time flows only when you move.",
+          "likes": 11,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgem15l/",
+          "created_at": "2026-10-13T02:47:28Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "That’s an interesting one, I’ll add it next update ",
+          "likes": 10,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgeqzac/",
+          "created_at": "2026-10-13T03:15:24Z"
+        },
+        {
+          "author": "AsherFischell",
+          "text": ">Note: this is different from the recent recompiled version of the game\n\nWait, are you saying someone's doing a MM3D recomp or are you talking about the existing MM recomps?",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgekuq1/",
+          "created_at": "2026-10-13T02:40:57Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "Yes, there was a post here a couple days ago with a native pc version ",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgelmc2/",
+          "created_at": "2026-10-13T02:45:11Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "Yup, and it comes with project restoration",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pger4sy/",
+          "created_at": "2026-10-13T03:16:17Z"
+        },
+        {
+          "author": "First_HistoryMan",
+          "text": "I like the cheat that stops time when you're in a dungeon. I always feel anxious in Dungeons in this game knowing the clock is ticking.",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pggvw6q/",
+          "created_at": "2026-10-13T12:29:20Z"
+        },
+        {
+          "author": "LSDrush",
+          "text": "Does it work with henriko’s texture packs and project restoration?",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgeqedt/",
+          "created_at": "2026-10-13T03:12:04Z"
+        },
+        {
+          "author": "Eleos",
+          "text": "I know this request will be extra challenging to implement, but the game loses much of the charm of the original without the menus. The recent decomp even has mods that expand the map to a super HD and detailed one. New menus and map navigation would instantly make this the best version of the game, without question.\n\nSeriously, though, this looks really really good just the way it is.",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgj8yvs/",
+          "created_at": "2026-10-13T18:36:28Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "It’s in there! This comes with project restoration which restores Zora swimming and Deku hopping",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgewj6u/",
+          "created_at": "2026-10-13T03:47:32Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "What platform are you using and were you not able to get it because it was struggling to hit the target 60?",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgeeh6t/",
+          "created_at": "2026-10-13T02:06:38Z"
+        },
+        {
+          "author": "therealgingerone",
+          "text": "Would love to get this running on the Steamdeck ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pggcsog/",
+          "created_at": "2026-10-13T10:30:26Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "Hmm do you have something I can reference for this?",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgj9i28/",
+          "created_at": "2026-10-13T18:38:39Z"
+        },
+        {
+          "author": "Keleos89",
+          "text": "My ideal version of the game keeps the 3D and updated visuals while reverting the boss and Zora swimming changes.",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgeqqnw/",
+          "created_at": "2026-10-13T03:14:00Z"
+        },
+        {
+          "author": "Live_Cicada2118",
+          "text": "Yes I set it to the max at 70 degrees, in the gui you can set it to the original’s 45",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgf5r50/",
+          "created_at": "2026-10-13T04:47:06Z"
+        },
+        {
+          "author": "CoastRedwood",
+          "text": "I've never played Majora's Mask. I think its about time.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/you_can_now_play_majoras_mask_3d_in_60fps/pgeiklx/",
+          "created_at": "2026-10-13T02:28:33Z"
+        }
+      ],
+      "video_path": "videos/majora-mask-3d.mp4",
+      "video_source": "poster-still",
+      "videos": [
+        {
+          "path": "videos/majora-mask-3d.mp4",
+          "source": "poster-still"
+        }
+      ],
+      "screenshot_path": "videos/majora-mask-3d.jpg",
+      "screenshots": [
+        {
+          "path": "videos/majora-mask-3d.jpg",
+          "score": 3,
+          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "found_via_network": "reddit",
+      "author": "Live_Cicada2118",
+      "author_source": "https://www.reddit.com/user/Live_Cicada2118/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "nebula-smg",
+      "title": "Nebula (Super Mario Galaxy Recomp)",
+      "description": "Super Mario Galaxy recompilation project (Nebula) with Windows installer. Requires your own game files.",
+      "play_url": "https://github.com/keepvaibin/nebula",
+      "found_via": "r/decomps \"Nebula (Super Mario Galaxy Recomp)\" (u/keepvaibin)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Super Mario Galaxy files",
+      "browser_playable": false,
+      "download_url": "https://github.com/keepvaibin/nebula/releases/latest",
+      "download_platforms": [
+        "windows"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 109,
+      "comment_count": 24,
+      "comments": [
+        {
+          "author": "MAVLL",
+          "text": "I llove you. Thanks !",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgiqwir/",
+          "created_at": "2026-10-13T17:23:35Z"
+        },
+        {
+          "author": "keepvaibin",
+          "text": "One thing I'd like to add (one of my favorite features), if you'd like to individually control audio sources, you can! You can individually control music, voice, sfx, and cutscene/ambience sound effects so if you'd like to play only with music (or only with Mario's and the other's voices if you're into that) you can! It's so nice to hear just the observatory theme in the main hub.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgisbnv/",
+          "created_at": "2026-10-13T17:29:19Z"
+        },
+        {
+          "author": "Aydrianic",
+          "text": "![gif](giphy|KxiRwO7tqXCTDVKobo)\n\n",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgiw5vk/",
+          "created_at": "2026-10-13T17:44:49Z"
+        },
+        {
+          "author": "keepvaibin",
+          "text": "nope! that's a whole team of people, and when I started back in June, it was about 30-40% done. A decompilation is different than a recompilation, and this is a recompilation. my work went into making sure the CPU/GPU related things were happening as close to the windows level as possible (unlike an emulator, which basically translates the wii code into windows code on the fly)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgjltw5/",
+          "created_at": "2026-10-13T19:28:44Z"
+        },
+        {
+          "author": "keepvaibin",
+          "text": "So the good thing about SMG1 and 2 is that as far as I am aware, they use the same exact engine so graphics is not too much of a hurdle, and most of the processing work isnt going to be an insane challenge either. Once I have a core set of features implemented that I havent yet (ray tracing and interpolation mostly), id be so down to take a look at smg2!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgjw0kn/",
+          "created_at": "2026-10-13T20:09:52Z"
+        },
+        {
+          "author": "keepvaibin",
+          "text": "The Steam Controller isn't natively supported in 1.0, it's only through Steam Input. 1.1.0, which will add interpolation and more controller support, will add motion controls!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgldovk/",
+          "created_at": "2026-10-14T00:23:50Z"
+        },
+        {
+          "author": "Due_Teaching_6974",
+          "text": "Is an android version planned? and can I use my Wii saves on this? Great project btw",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgiu6hh/",
+          "created_at": "2026-10-13T17:36:49Z"
+        },
+        {
+          "author": "keepvaibin",
+          "text": "thank you! MacOS and Android will be looked at as well, I don't plan on stopping development until I'm satisfied or until AstroCore does everything I want. getting it to work on Android means changing the renderer from DX12 to Vulkan (not impossible, but I initially started work on DX12) and an ARM64 port. This will probably happen though, and I plan on trying to get this game to work on Android soon (I have a Z Fold 8, I can't imagine how amazing it would look on it). I think once Petari is don",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgix9cb/",
+          "created_at": "2026-10-13T17:49:14Z"
+        },
+        {
+          "author": "Twigling",
+          "text": "Very impressive. :-)\n\nUse whatever tools you need to make it happen.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgj1b6i/",
+          "created_at": "2026-10-13T18:05:32Z"
+        },
+        {
+          "author": "RealCamazotz",
+          "text": "Are you the same guy who decompiked the game? It's hard to keep track.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgjdk5p/",
+          "created_at": "2026-10-13T18:55:08Z"
+        },
+        {
+          "author": "RykardOfMelfia",
+          "text": "Dude thanks for doing the hard work, I know this may seem fucking stupid to ask considering you probably spent a long time on this, but do you have plans or are you interested in doing the same for the second game or do you want just to focus entirely on this one for now?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgjvga0/",
+          "created_at": "2026-10-13T20:07:34Z"
+        },
+        {
+          "author": "AdOrnery3136",
+          "text": "Any plan of DS5 support? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgkck5f/",
+          "created_at": "2026-10-13T21:19:05Z"
+        },
+        {
+          "author": "keepvaibin",
+          "text": "Yes! This will be in the next update. I was just going off of controllers I had for the time being rather than avoiding a controller specifically lol",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgkctvu/",
+          "created_at": "2026-10-13T21:20:17Z"
+        },
+        {
+          "author": "Apart-World9375",
+          "text": "En alguna próxima actualización estará disponible para  jugar la version PAL ? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgkqnk2/",
+          "created_at": "2026-10-13T22:25:22Z"
+        },
+        {
+          "author": "PhoenixLandPirate_",
+          "text": "Will the motion controls work with the Steam Controller?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgl9otr/",
+          "created_at": "2026-10-14T00:03:18Z"
+        },
+        {
+          "author": "MissWednesday99",
+          "text": "Any chance of running it on Windows 7?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pglovru/",
+          "created_at": "2026-10-14T01:21:31Z"
+        },
+        {
+          "author": "oSyphon",
+          "text": "Is this for the GameCube or switch version?\n\nAnd do you think you can add a better coop than what's in the switch version? By default, having the coop use a second controller and move the cursor around with either stick",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pglpx40/",
+          "created_at": "2026-10-14T01:26:49Z"
+        },
+        {
+          "author": "Glass-Refuse-8489",
+          "text": "Ça serait génial une version Android, c'est clair :)",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgivzx5/",
+          "created_at": "2026-10-13T17:44:09Z"
+        },
+        {
+          "author": "Cold_Ad3896",
+          "text": "Windows only?😬",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/decomps/comments/1x52hkn/nebula_a_super_mario_galaxy_recompilation_project/pgixoqy/",
+          "created_at": "2026-10-13T17:50:58Z"
+        }
+      ],
+      "video_path": "videos/nebula-smg.mp4",
+      "video_source": "poster-still",
+      "videos": [
+        {
+          "path": "videos/nebula-smg.mp4",
+          "source": "poster-still"
+        }
+      ],
+      "screenshot_path": "videos/nebula-smg.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nebula-smg.jpg",
+          "score": 3,
+          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "found_via_network": "reddit",
+      "author": "keepvaibin",
+      "author_source": "https://www.reddit.com/user/keepvaibin/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x52hkn/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x52hkn/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "nhl24-pc",
+      "title": "NHL24 PC",
+      "description": "NHL 24 PC port/recomp effort shared on r/decomps. GitHub project; own game files required.",
+      "play_url": "https://github.com/HajDEO/nhl24pc",
+      "found_via": "r/decomps NHL24 PC (u/HajDEO_SVK)",
+      "made_with": "unknown",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own NHL 24 game files",
+      "browser_playable": false,
+      "download_url": "https://github.com/HajDEO/nhl24pc",
+      "download_platforms": [
+        "windows"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 77,
+      "comment_count": 13,
+      "comments": [
+        {
+          "author": "sudo_pacman_2202",
+          "text": "I cannot believe the last NHL game released on PC was in 2009",
+          "likes": 20,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgkqrje/",
+          "created_at": "2026-10-13T22:25:56Z"
+        },
+        {
+          "author": "ProbotectorX",
+          "text": "PC comunnity need this port :D",
+          "likes": 14,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgkhy8a/",
+          "created_at": "2026-10-13T21:43:29Z"
+        },
+        {
+          "author": "RoddyUsher",
+          "text": "I’m just now realizing we might finally get MLB The Show",
+          "likes": 14,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgkrimu/",
+          "created_at": "2026-10-13T22:29:41Z"
+        },
+        {
+          "author": "HajDEO_SVK",
+          "text": "![gif](giphy|3o6wNMQ56VJUHGCeKk)\n\n",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgksmmg/",
+          "created_at": "2026-10-13T22:35:17Z"
+        },
+        {
+          "author": "iMMCHiEF",
+          "text": "praying for mlb the show\n\n",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgky8vt/",
+          "created_at": "2026-10-13T23:03:56Z"
+        },
+        {
+          "author": "rofss",
+          "text": "2001 was so god, shame NHL games were always an afterthought.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgl81tj/",
+          "created_at": "2026-10-13T23:54:44Z"
+        },
+        {
+          "author": "The66thDopefish",
+          "text": "I am ecstatic at the prospect of finally playing a more recent NHL game, possibly on the Steam Deck!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgl4e8t/",
+          "created_at": "2026-10-13T23:35:39Z"
+        },
+        {
+          "author": "HajDEO_SVK",
+          "text": "It's a shame I sold my Steam Deck about a year ago. Making a native Linux port with a Steam Deck profile wouldn't be a bad idea... but I don't have a device to test it on anymore... :\\]",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgl527c/",
+          "created_at": "2026-10-13T23:39:07Z"
+        },
+        {
+          "author": "frasercow",
+          "text": "Is it possible to get current rosters without making them manually in game? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pgl3z3e/",
+          "created_at": "2026-10-13T23:33:28Z"
+        },
+        {
+          "author": "punkdad73",
+          "text": "amazing now lets do ufc games!!!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x59by7/nhl24_pc/pglcv75/",
+          "created_at": "2026-10-14T00:19:40Z"
+        }
+      ],
+      "video_path": "videos/nhl24-pc.mp4",
+      "video_source": "poster-still",
+      "videos": [
+        {
+          "path": "videos/nhl24-pc.mp4",
+          "source": "poster-still"
+        }
+      ],
+      "screenshot_path": "videos/nhl24-pc.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nhl24-pc.jpg",
+          "score": 3,
+          "notes": "Rated from GitHub poster still frames; ROM/own-files capped at 3. Multi-frame rating from still frames."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Rated from GitHub poster still frames; ROM/own-files capped at 3. Multi-frame rating from still frames.",
+      "found_via_network": "reddit",
+      "author": "HajDEO_SVK",
+      "author_source": "https://www.reddit.com/user/HajDEO_SVK/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x59by7/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x59by7/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "apocalypse-psx",
+      "title": "Apocalypse (PSX) PC Port",
+      "description": "PSX hidden gem Apocalypse ported to Windows and Linux. Releases on GitHub; needs your own game files.",
+      "play_url": "https://github.com/MustafaSamer93/Project_Repocalypse",
+      "found_via": "r/decomps \"Apocalypse (PSX) PC Port\" (u/Doodle_My_Noodle93)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Apocalypse (PSX) game files",
+      "browser_playable": false,
+      "download_url": "https://github.com/MustafaSamer93/Project_Repocalypse/releases/latest",
+      "download_platforms": [
+        "windows",
+        "linux"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 69,
+      "comment_count": 7,
+      "comments": [
+        {
+          "author": "Sobr1o",
+          "text": "This is way better than the other recomp I tried. ",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgj9udo/",
+          "created_at": "2026-10-13T18:40:02Z"
+        },
+        {
+          "author": "Wolfen459",
+          "text": "The other PS1 Recomps are all dogshit (not all tho), because they almost all were based on the same core.  \nAnd then there was this specific guy who chosen Quantity over Quality. PS1 Recomps was full of them.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgjjn21/",
+          "created_at": "2026-10-13T19:19:51Z"
+        },
+        {
+          "author": "Doodle_My_Noodle93",
+          "text": "Thanks",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgjv7ey/",
+          "created_at": "2026-10-13T20:06:31Z"
+        },
+        {
+          "author": "Prestigious_Boss9816",
+          "text": "I loved this game as a kid, THANK YOU SO MUCH! ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgjhvlr/",
+          "created_at": "2026-10-13T19:12:40Z"
+        },
+        {
+          "author": "Doodle_My_Noodle93",
+          "text": "Hope you enjoy it ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgjuya4/",
+          "created_at": "2026-10-13T20:05:26Z"
+        },
+        {
+          "author": "MuffDivers2_",
+          "text": "This is the game with Bruce Willis correct?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgl63qs/",
+          "created_at": "2026-10-13T23:44:35Z"
+        },
+        {
+          "author": "teleports_behind_you",
+          "text": "epic game",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x54rhm/apocalypse_psx_hidden_gem_is_finally_on_windows/pgkolwz/",
+          "created_at": "2026-10-13T22:15:15Z"
+        }
+      ],
+      "video_path": "videos/apocalypse-psx.mp4",
+      "video_source": "poster-still",
+      "videos": [
+        {
+          "path": "videos/apocalypse-psx.mp4",
+          "source": "poster-still"
+        }
+      ],
+      "screenshot_path": "videos/apocalypse-psx.jpg",
+      "screenshots": [
+        {
+          "path": "videos/apocalypse-psx.jpg",
+          "score": 3,
+          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "found_via_network": "reddit",
+      "author": "Doodle_My_Noodle93",
+      "author_source": "https://www.reddit.com/user/Doodle_My_Noodle93/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x54rhm/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x54rhm/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "ffta-recomp",
+      "title": "FFTARecomp v2.0",
+      "description": "Final Fantasy Tactics Advance recomp v2.0 for Windows and Linux. Big update on r/decomps; needs your own ROM.",
+      "play_url": "https://github.com/Jorge262007/FFTARecomp",
+      "found_via": "r/decomps \"FFTARecomp v2.0\" (u/Jorge262007)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own FFTA ROM",
+      "browser_playable": false,
+      "download_url": "https://github.com/Jorge262007/FFTARecomp/releases/latest",
+      "download_platforms": [
+        "windows",
+        "linux"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 24,
+      "comment_count": 0,
+      "comments": [],
+      "video_path": "videos/ffta-recomp.mp4",
+      "video_source": "poster-still",
+      "videos": [
+        {
+          "path": "videos/ffta-recomp.mp4",
+          "source": "poster-still"
+        }
+      ],
+      "screenshot_path": "videos/ffta-recomp.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ffta-recomp.jpg",
+          "score": 3,
+          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "found_via_network": "reddit",
+      "author": "Jorge262007",
+      "author_source": "https://www.reddit.com/user/Jorge262007/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x54bmy/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x54bmy/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
+    },
+    {
+      "id": "digimon-world-2-pc",
+      "title": "Digimon World 2 PC",
+      "description": "Digimon World 2 PS1 to PC with multiplayer work-in-progress using Claude. Windows and Linux builds; needs your own game files.",
+      "play_url": "https://github.com/Wyrelade/DW2-PC",
+      "found_via": "r/ClaudeGameDev \"Digimon World 2 PC\" (u/Wyrelade)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Digimon World 2 game files",
+      "browser_playable": false,
+      "download_url": "https://github.com/Wyrelade/DW2-PC/releases/latest",
+      "download_platforms": [
+        "windows",
+        "linux"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 14,
+      "comment_count": 0,
+      "comments": [],
+      "video_path": "videos/digimon-world-2-pc.mp4",
+      "video_source": "poster-still",
+      "videos": [
+        {
+          "path": "videos/digimon-world-2-pc.mp4",
+          "source": "poster-still"
+        }
+      ],
+      "screenshot_path": "videos/digimon-world-2-pc.jpg",
+      "screenshots": [
+        {
+          "path": "videos/digimon-world-2-pc.jpg",
+          "score": 3,
+          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames.",
+      "found_via_network": "reddit",
+      "author": "Wyrelade",
+      "author_source": "https://www.reddit.com/user/Wyrelade/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x42oam/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x42oam/",
+      "likes_source": "reddit",
+      "first_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-14T01:30:00.000Z"
     }
   ],
   "totals": {
-    "games": 373,
+    "games": 394,
     "by_made_with": {
-      "opus-5.5": 234,
-      "unknown": 62,
+      "opus-5.5": 247,
       "astra": 61,
       "sonnet-5.5": 12,
-      "uncertain": 4
+      "uncertain": 4,
+      "unknown": 70
     }
   }
 }
