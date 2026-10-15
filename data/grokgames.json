@@ -1544,7 +1544,7 @@
       "found_via": "X post from @mindblown_ai",
       "found_via_network": "x",
       "made_with": "astra",
-      "engine": "Three.js",
+      "engine": "mindblown.ai",
       "screenshot_path": "screenshots/93-golden-hour-gp.jpg",
       "screenshot_score": 8,
       "screenshot_score_notes": "Sunny track with cars and HUD are clear; cookie banner and platform chrome slightly clutter the still.",
@@ -1553,7 +1553,9 @@
       "video_path": "videos/golden-hour-gp.mp4",
       "video_source": "feed-local",
       "remote_likes": 89,
-      "likes_source": "x"
+      "likes_source": "x",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
     },
     {
       "id": "chill-race",
@@ -2207,7 +2209,10 @@
         "desktop"
       ],
       "remote_likes": 289,
-      "likes_source": "github"
+      "likes_source": "github",
+      "engine": "mindblown.ai",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
     },
     {
       "id": "no-moat",
@@ -3063,7 +3068,7 @@
       "found_via": "X bookmark @friuns2 → @mindblown_ai Astra NFS browser racer",
       "found_via_network": "x",
       "made_with": "astra",
-      "engine": "Three.js",
+      "engine": "mindblown.ai",
       "category": "racing",
       "platforms": [
         "desktop",
@@ -3078,7 +3083,9 @@
       "video_path": "videos/apex-coast-run.mp4",
       "screenshot_score": 8.5,
       "screenshot_score_notes": "A wet-road hero shot of the red convertible with crisp menu type is polished and immediately readable, though it is a menu rather than a race.",
-      "screenshot_path": "videos/apex-coast-run.jpg"
+      "screenshot_path": "videos/apex-coast-run.jpg",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
     },
     {
       "id": "savannah-hunt",
@@ -3567,7 +3574,7 @@
         }
       ],
       "made_with": "astra",
-      "engine": "Three.js",
+      "engine": "mindblown.ai",
       "category": "fps",
       "platforms": [
         "desktop"
@@ -3579,7 +3586,9 @@
       "remote_likes": 9,
       "likes_source": "x",
       "author": "mindblown_ai",
-      "avatar_path": "/workspace/opus-feed/public/avatars/mindblown_ai.jpg"
+      "avatar_path": "/workspace/opus-feed/public/avatars/mindblown_ai.jpg",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
     },
     {
       "id": "bioneural",
@@ -19945,8 +19954,8 @@
       "found_via": "r/aigamedev teleoperator v2 (u/marina_sd20)",
       "made_with": "unknown",
       "made_with_note": "Mindblown AI agent; model version not named",
-      "engine": "Three.js",
-      "iframe": true,
+      "engine": "mindblown.ai",
+      "iframe": false,
       "category": "racing",
       "platforms": [
         "desktop"
@@ -20015,7 +20024,8 @@
       "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/",
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z"
+      "last_seen": "2026-10-14T01:30:00.000Z",
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
     },
     {
       "id": "call-of-roque",
