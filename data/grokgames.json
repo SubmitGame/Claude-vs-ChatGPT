@@ -20044,43 +20044,64 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 14,
-      "comment_count": 16,
+      "remote_likes": 16,
+      "comment_count": 18,
       "comments": [
-        {
-          "author": "n3ul1ng",
-          "text": "wow sick! is the world pre-generated or procedural?",
-          "likes": 3,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj0dhg/",
-          "created_at": "2026-10-13T20:41:44Z"
-        },
-        {
-          "author": "marina_sd20",
-          "text": "thanks! a mix of both. street layout comes from openstreetmap, and the city is procedurally built",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj0t1p/",
-          "created_at": "2026-10-13T20:43:30Z"
-        },
         {
           "author": "Super_Range45",
           "text": "Looks cool. Imo having cops pin your car should trigger a fail state if you can't get moving promptly.",
           "likes": 3,
           "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj25h9/",
-          "created_at": "2026-10-13T20:48:54Z"
+          "created_at": "2026-10-13T18:08:54Z"
         },
         {
           "author": "Strict_Indication457",
           "text": "are the cars and assets all ai generated or did you get them from somewhere? looks really good",
           "likes": 3,
           "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgjayek/",
-          "created_at": "2026-10-13T21:24:33Z"
+          "created_at": "2026-10-13T18:44:33Z"
+        },
+        {
+          "author": "n3ul1ng",
+          "text": "wow sick! is the world pre-generated or procedural? ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj0dhg/",
+          "created_at": "2026-10-13T18:01:44Z"
         },
         {
           "author": "x10der_by",
-          "text": "Haha, cybertruck is the best to ride with police",
+          "text": "Haha, cybertruck is the best to ride with police\n\nhttps://preview.redd.it/enyzmh0bxavh1.png?width=2546&format=png&auto=webp&s=817e63f8372658c4f054c044fda07ecdb8c11f73",
           "likes": 2,
           "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgkd75l/",
-          "created_at": "2026-10-14T00:01:56Z"
+          "created_at": "2026-10-13T21:21:56Z"
+        },
+        {
+          "author": "Xanma_6aki",
+          "text": "looks just like my game",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgladik/",
+          "created_at": "2026-10-14T00:06:48Z"
+        },
+        {
+          "author": "LowenbrauDel",
+          "text": "I misread the title as 'teleportator' and expected some wicked as shit mechanics with car teleportation. If I am to be honest",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgj803t/",
+          "created_at": "2026-10-13T18:32:31Z"
+        },
+        {
+          "author": "sunole123",
+          "text": "i am not a gamer, i think but a good sign for a game is when later you think about it, this game did this, and i came back tonight to it, and mind blows found the pedestrians and i got busted by the police, my mind is blown, the realism of the city and the NPC is just surprisingly appealing to me, ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgmrpmz/",
+          "created_at": "2026-10-14T05:15:03Z"
+        },
+        {
+          "author": "redcard420",
+          "text": "what engine?\n\n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x53j1y/update_teleoperator_v2_is_out_cops_tuning/pgtllky/",
+          "created_at": "2026-10-15T02:38:23Z"
         }
       ],
       "video_path": "videos/teleoperator-v2.mp4",
@@ -20099,8 +20120,8 @@
           "notes": "Rated from 5 frames across the gameplay recording plus poster: SF streets, cop chases and delivery HUD; lively 3D city driving. Multi-frame rating."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: SF streets, cop chases and delivery HUD; lively 3D city driving. Multi-frame rating.",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: 5 frames from 70.7s update clip (v.redd.it 1x53j1y) - realistic SF streets with detailed Victorian buildings, lighting/shadows, police pursuit with many cop cars, polished HUD (wanted stars, minimap, speedometer, mission banner); minor AI-gen/temporal smear but consistently high-polish gameplay.",
       "found_via_network": "reddit",
       "author": "marina_sd20",
       "author_source": "https://www.reddit.com/user/marina_sd20/",
@@ -20109,7 +20130,8 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only",
+      "likes_checked": "2026-10-15"
     },
     {
       "id": "call-of-roque",
