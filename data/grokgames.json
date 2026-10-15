@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:55:00.000Z",
+  "updated_at": "2026-10-15T01:30:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -16743,16 +16743,16 @@
       "platforms": [
         "desktop"
       ],
-      "remote_likes": 4088,
+      "remote_likes": 4376,
       "likes_source": "reddit",
       "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x3rn36/",
-      "comment_count": 564,
+      "comment_count": 766,
       "author": "Professional-Main227",
       "author_source": "https://www.reddit.com/user/Professional-Main227/",
       "github_user": "FelipePrado0",
       "github_url": "https://github.com/FelipePrado0/gow3_pc",
       "first_seen": "2026-10-13T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
       "video_path": "videos/god-of-war-3-pc.mp4",
       "video_source": "reddit",
       "videos": [
@@ -18220,7 +18220,7 @@
       "title": "Dragon Ball: Raging Blast 2 (Android port)",
       "description": "Native Android port of Dragon Ball: Raging Blast 2 at 60fps on Snapdragon handhelds, built with Claude Code on top of WistfulHopes' Xbox 360 static recomp in under 24 hours (no model version named).",
       "play_url": "https://github.com/moddedrounds/RB2-Android",
-      "source_url": "https://www.reddit.com/r/tenkaichi4/comments/1x4j49j/",
+      "source_url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/",
       "found_via": "r/tenkaichi4 \"Dragon Ball Raging Blast 2 - Native Android Port 60 fps\" (u/Wonderful-Cat-447)",
       "found_via_network": "reddit",
       "made_with": "unknown",
@@ -18234,16 +18234,16 @@
       "platforms": [
         "mobile"
       ],
-      "remote_likes": 7,
+      "remote_likes": 68,
       "likes_source": "reddit",
-      "likes_source_url": "https://www.reddit.com/r/tenkaichi4/comments/1x4j49j/",
-      "comment_count": 1,
+      "likes_source_url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/",
+      "comment_count": 23,
       "author": "Wonderful-Cat-447",
       "author_source": "https://www.reddit.com/user/Wonderful-Cat-447/",
       "github_user": "moddedrounds",
       "github_url": "https://github.com/moddedrounds/RB2-Android",
       "first_seen": "2026-10-13T01:30:00.000Z",
-      "last_seen": "2026-10-13T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
       "video_path": "videos/rb2-android.mp4",
       "video_source": "reddit",
       "videos": [
@@ -18271,11 +18271,95 @@
       ],
       "comments": [
         {
-          "author": "Wonderful-Cat-447",
-          "text": "[Find the Repo here:\n](https://github.com/moddedrounds/RB2-Android)",
-          "likes": 0,
-          "url": "https://www.reddit.com/r/tenkaichi4/comments/1x4j49j/dragon_ball_raging_blast_2_native_android_port_60/pge63vt/",
-          "created_at": "2026-10-13T01:22:01Z"
+          "author": "Clear_Beginning_2208",
+          "text": "Anyone can add touch screen control plz",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgeabgm/",
+          "created_at": "2026-10-13T01:44:12Z"
+        },
+        {
+          "author": "Valuable-Order-7293",
+          "text": "This is simply fantastic, great job!!!\n\nIs there any hope for a port if Raging Blast 1 as well? The story mode is the best and longest I've ever played in all of Dragon Ball",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgef5ch/",
+          "created_at": "2026-10-13T02:10:16Z"
+        },
+        {
+          "author": "deadcell4321",
+          "text": "touchscreen controller for mobile ?",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgebizh/",
+          "created_at": "2026-10-13T01:50:38Z"
+        },
+        {
+          "author": "Real-Indication-8281",
+          "text": "Imagine raging blast 1 and DBZ Extreme Blast running this well on android as well truly a legend for reviving this game but now on Android.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgewnem/",
+          "created_at": "2026-10-13T03:48:11Z"
+        },
+        {
+          "author": "Naxren",
+          "text": "I get so many lag/freeze every second idk how people make this work smoothly",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgfc1af/",
+          "created_at": "2026-10-13T05:32:24Z"
+        },
+        {
+          "author": "tan0re0",
+          "text": "everytime i try to use the USA iso it keeps saying not a 360 iso? Do I need to make it a god folder?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgfydx7/",
+          "created_at": "2026-10-13T08:33:46Z"
+        },
+        {
+          "author": "KenzoTenma1917",
+          "text": "no Infinite World from PS2? 😭",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgeb7gj/",
+          "created_at": "2026-10-13T01:48:55Z"
+        },
+        {
+          "author": "Routine-Watch-7232",
+          "text": "Wao q buen trabajo ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgetiul/",
+          "created_at": "2026-10-13T03:30:13Z"
+        },
+        {
+          "author": "Routine-Watch-7232",
+          "text": "Cuando haces resident evil 5 o 6 de xbox 360",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgetnl9/",
+          "created_at": "2026-10-13T03:30:55Z"
+        },
+        {
+          "author": "Real-Indication-8281",
+          "text": "Tried it on snapdragon 888+ it black screens or crashes depending on the driver only the audio works.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgfm1aa/",
+          "created_at": "2026-10-13T06:50:38Z"
+        },
+        {
+          "author": "Impossible-Fox-5051",
+          "text": "It would be helpful if you can make a document of how you made this. I am also very much interested in this.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgg321h/",
+          "created_at": "2026-10-13T09:13:31Z"
+        },
+        {
+          "author": "Powpow270",
+          "text": "Do the dlc packs work?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pghiraq/",
+          "created_at": "2026-10-13T14:19:36Z"
+        },
+        {
+          "author": "Successful_Yak_8717",
+          "text": "where to download the rom ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/AndroidNativePorts/comments/1x4jswa/dragon_ball_raging_blast_2_60_fps_gameplay/pgivtee/",
+          "created_at": "2026-10-13T17:43:25Z"
         }
       ]
     },
@@ -21038,16 +21122,1259 @@
           "created_at": "2026-10-14T03:39:33Z"
         }
       ]
+    },
+    {
+      "id": "small-hours",
+      "title": "Small Hours",
+      "description": "Cozy cyberpunk point-and-click adventure with a mystery about a swarm to uncover. slimer48484 says Claude Opus 5.5 made it from one prompt.",
+      "play_url": "https://rain-1.github.io/small-hours/",
+      "found_via": "X @slimer48484 Opus 5.5 one-prompt point-and-click",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/small-hours.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/small-hours.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/small-hours.jpg",
+      "screenshots": [
+        {
+          "path": "videos/small-hours.jpg",
+          "score": 7,
+          "notes": "Pixel-art neon city title and a detailed cozy diner interior with character portraits and dialogue; charming, consistent art. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Pixel-art neon city title and a detailed cozy diner interior with character portraits and dialogue; charming, consistent art. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "slimer48484",
+      "source_url": "https://x.com/slimer48484/status/2110446482243613083",
+      "likes_source_url": "https://x.com/slimer48484/status/2110446482243613083",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2097658736877715456/mwwmOh3x_normal.jpg",
+      "remote_likes": 8,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "published_at": "2026-10-14T19:03:46.000Z"
+    },
+    {
+      "id": "uppercut-jim",
+      "title": "Uppercut Jim",
+      "description": "Halloween game-jam brawler for The Sandbox, built with Opus 5.5, Sandbox Studio and three.js (lifemademe).",
+      "play_url": "https://studio.sandbox.game/play/405baedd-ee16-4917-b253-f813490601e4",
+      "found_via": "X @lifemademe Opus 5.5 Sandbox Halloween jam",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/uppercut-jim.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/uppercut-jim.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/uppercut-jim.jpg",
+      "screenshots": [
+        {
+          "path": "videos/uppercut-jim.jpg",
+          "score": 7,
+          "notes": "Moody moonlit farmhouse, skull-faced villain, haunted forest and candle-lit interiors with strong Halloween lighting. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Moody moonlit farmhouse, skull-faced villain, haunted forest and candle-lit interiors with strong Halloween lighting. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "lifemademe",
+      "source_url": "https://x.com/lifemademe/status/2110428903584248067",
+      "likes_source_url": "https://x.com/lifemademe/status/2110428903584248067",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1877446342311559168/B1S6TTeW_normal.jpg",
+      "remote_likes": 10,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "SSDsgnWrks",
+          "text": "Spooky!",
+          "likes": 1,
+          "url": "https://x.com/SSDsgnWrks/status/2110451333451182400",
+          "created_at": "2026-10-14T19:23:02Z"
+        },
+        {
+          "author": "RicardoDeZoete",
+          "text": "Oooh! This looks like a nice twist!",
+          "likes": 1,
+          "url": "https://x.com/RicardoDeZoete/status/2110443730989613232",
+          "created_at": "2026-10-14T18:52:50Z"
+        },
+        {
+          "author": "kelv_evox",
+          "text": "Lets play some gameeee",
+          "likes": 1,
+          "url": "https://x.com/kelv_evox/status/2110436423908164077",
+          "created_at": "2026-10-14T18:23:48Z"
+        },
+        {
+          "author": "ConnorEllison",
+          "text": "publish button anxiety is the real boss fight. curious what the first stranger does when they get into uppercutjim",
+          "likes": 0,
+          "url": "https://x.com/ConnorEllison/status/2110433246123356370",
+          "created_at": "2026-10-14T18:11:10Z"
+        },
+        {
+          "author": "lifemademe",
+          "text": "https://t.co/5KQReYjae9",
+          "likes": 0,
+          "url": "https://x.com/lifemademe/status/2110428907443032424",
+          "created_at": "2026-10-14T17:53:56Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "published_at": "2026-10-14T17:53:55.000Z"
+    },
+    {
+      "id": "backyard-rascals",
+      "title": "Backyard Rascals",
+      "description": "Multiplayer 3D capture-the-flag with cartoon animals in a backyard arena. chongdashu built it with Gemini 4 Argon in Cursor.",
+      "play_url": "https://backyard-rascals.vercel.app/",
+      "found_via": "X @chongdashu Gemini 4 Argon multiplayer CTF",
+      "made_with": "gemini-4-argon",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/backyard-rascals.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/backyard-rascals.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/backyard-rascals.jpg",
+      "screenshots": [
+        {
+          "path": "videos/backyard-rascals.jpg",
+          "score": 8,
+          "notes": "Bright, polished low-poly backyard with fences, pools and animal characters, clear HUD and flag-capture effects. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Bright, polished low-poly backyard with fences, pools and animal characters, clear HUD and flag-capture effects. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "chongdashu",
+      "source_url": "https://x.com/chongdashu/status/2110367201786314935",
+      "likes_source_url": "https://x.com/chongdashu/status/2110367201786314935",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2109521104167661568/eKr4dw03_normal.jpg",
+      "remote_likes": 481,
+      "comment_count": 39,
+      "comments": [
+        {
+          "author": "ItsGoharr",
+          "text": "skipping releases until they win is everyones ai strategy",
+          "likes": 1,
+          "url": "https://x.com/ItsGoharr/status/2110443355025129540",
+          "created_at": "2026-10-14T18:51:20Z"
+        },
+        {
+          "author": "ConnorEllison",
+          "text": "multiplayer ctf in one sitting is wild. what's handling the netcode, and how's it holding up with strangers joining all day?",
+          "likes": 0,
+          "url": "https://x.com/ConnorEllison/status/2110510768441458997",
+          "created_at": "2026-10-14T23:19:13Z"
+        },
+        {
+          "author": "maximilienaire",
+          "text": "Awesome 😎",
+          "likes": 0,
+          "url": "https://x.com/maximilienaire/status/2110509527413981560",
+          "created_at": "2026-10-14T23:14:17Z"
+        },
+        {
+          "author": "SayarathT",
+          "text": "Google's comeback tour opening act is a raccoon with a flag?",
+          "likes": 0,
+          "url": "https://x.com/SayarathT/status/2110505379532820822",
+          "created_at": "2026-10-14T22:57:48Z"
+        },
+        {
+          "author": "chongdashu",
+          "text": "No optimisation not really, but I am using WebGPU/Wasm directly, so it’s already quite optimised for performance.\n\nI would say Opus has more “taste” built in for sure.",
+          "likes": 0,
+          "url": "https://x.com/chongdashu/status/2110496122200531425",
+          "created_at": "2026-10-14T22:21:01Z"
+        },
+        {
+          "author": "S4ndraSn9rfle",
+          "text": "Literally no one cares this has zero value cause it’s soulless generative ai slop lmao",
+          "likes": 0,
+          "url": "https://x.com/S4ndraSn9rfle/status/2110490003424133396",
+          "created_at": "2026-10-14T21:56:42Z"
+        },
+        {
+          "author": "slopshipper",
+          "text": "You could’ve just go to spawn instead lol",
+          "likes": 0,
+          "url": "https://x.com/slopshipper/status/2110455507903201623",
+          "created_at": "2026-10-14T19:39:38Z"
+        },
+        {
+          "author": "BannedPenta01",
+          "text": "Yo!  Text models generating animated textured 3D Models!  Antis are fuming rn!",
+          "likes": 0,
+          "url": "https://x.com/BannedPenta01/status/2110453639315927148",
+          "created_at": "2026-10-14T19:32:12Z"
+        },
+        {
+          "author": "DanielZambrini",
+          "text": "He is probably in the old plan or used credits",
+          "likes": 0,
+          "url": "https://x.com/DanielZambrini/status/2110452191156683033",
+          "created_at": "2026-10-14T19:26:27Z"
+        },
+        {
+          "author": "fkhasiyev",
+          "text": "you what is same again? their place on competition. still far behind opus sonnet and sol",
+          "likes": 0,
+          "url": "https://x.com/fkhasiyev/status/2110447452864033266",
+          "created_at": "2026-10-14T19:07:37Z"
+        },
+        {
+          "author": "NoravaleAI",
+          "text": "Multiplayer capture-the-flag with cartoon animals 🔥 Did Argon write the netcode too, or did you wire sync yourself?",
+          "likes": 0,
+          "url": "https://x.com/NoravaleAI/status/2110445362939113958",
+          "created_at": "2026-10-14T18:59:19Z"
+        },
+        {
+          "author": "48djds4mrtj",
+          "text": "Question. Did you ask it for mobile optimization? Cuz am thinking could this be the reason for my bad results? Opus didn’t have this issue though",
+          "likes": 0,
+          "url": "https://x.com/48djds4mrtj/status/2110442381493580051",
+          "created_at": "2026-10-14T18:47:28Z"
+        },
+        {
+          "author": "spitball323",
+          "text": "it really fun",
+          "likes": 0,
+          "url": "https://x.com/spitball323/status/2110433449530294657",
+          "created_at": "2026-10-14T18:11:58Z"
+        },
+        {
+          "author": "BTC_Bap",
+          "text": "Great",
+          "likes": 0,
+          "url": "https://x.com/BTC_Bap/status/2110428633429147746",
+          "created_at": "2026-10-14T17:52:50Z"
+        },
+        {
+          "author": "mim757s",
+          "text": "😒",
+          "likes": 0,
+          "url": "https://x.com/mim757s/status/2110425629695115387",
+          "created_at": "2026-10-14T17:40:54Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "published_at": "2026-10-14T13:48:44.000Z"
+    },
+    {
+      "id": "paws-in-san-francisco",
+      "title": "Paws in San Francisco",
+      "description": "Play as a cat roaming San Francisco streets and parks. tanu_hehe asked Gemini 4 Argon to build it.",
+      "play_url": "https://paws-in-san-francisco.vercel.app/",
+      "found_via": "X @tanu_hehe Gemini 4 Argon cat game",
+      "made_with": "gemini-4-argon",
+      "iframe": true,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/paws-in-san-francisco.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/paws-in-san-francisco.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/paws-in-san-francisco.jpg",
+      "screenshots": [
+        {
+          "path": "videos/paws-in-san-francisco.jpg",
+          "score": 6,
+          "notes": "Readable 3D street and park scenes with a small cat character; simple assets and flat lighting, recorded in a browser window. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Readable 3D street and park scenes with a small cat character; simple assets and flat lighting, recorded in a browser window. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "tanu_hehe",
+      "source_url": "https://x.com/tanu_hehe/status/2110255226792108366",
+      "likes_source_url": "https://x.com/tanu_hehe/status/2110255226792108366",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2108235361361317889/I6pvUHY7_normal.jpg",
+      "remote_likes": 9,
+      "comment_count": 3,
+      "comments": [
+        {
+          "author": "AICookedcom",
+          "text": "Playing as a cat loose in San Francisco is such a fun premise, and it's great that Gemini 4 Argon built it from a simple ask. Glad to have PAWS on https://t.co/J4GUK22rF3.",
+          "likes": 0,
+          "url": "https://x.com/AICookedcom/status/2110445344333213853",
+          "created_at": "2026-10-14T18:59:14Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "published_at": "2026-10-14T06:23:47.000Z"
+    },
+    {
+      "id": "garage-to-grid",
+      "title": "Garage to Grid",
+      "description": "Fix cars and grow your garage into the workshop the whole street relies on. Built with Crayon Pro and GPT-6 Astra.",
+      "play_url": "https://app.usecrayon.ai/play/01d060da-4449-4b9a-8646-a477f09b2a94",
+      "found_via": "X @usecrayon GPT-6 Astra Garage to Grid",
+      "made_with": "astra",
+      "engine": "Crayon",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/garage-to-grid.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/garage-to-grid.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/garage-to-grid.jpg",
+      "screenshots": [
+        {
+          "path": "videos/garage-to-grid.jpg",
+          "score": 7,
+          "notes": "Clean isometric low-poly street with a garage, cars on lifts and a growing workshop; cohesive colorful style. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Clean isometric low-poly street with a garage, cars on lifts and a growing workshop; cohesive colorful style. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "usecrayon",
+      "source_url": "https://x.com/usecrayon/status/2110419423811305610",
+      "likes_source_url": "https://x.com/usecrayon/status/2110419423811305610",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2058659539399147520/8SbxUKg3_normal.jpg",
+      "remote_likes": 49,
+      "comment_count": 3,
+      "comments": [
+        {
+          "author": "LilBigBando",
+          "text": "Looks dope",
+          "likes": 2,
+          "url": "https://x.com/LilBigBando/status/2110479450504843549",
+          "created_at": "2026-10-14T21:14:46Z"
+        },
+        {
+          "author": "SaviourOfSoil",
+          "text": "Can we download the",
+          "likes": 0,
+          "url": "https://x.com/SaviourOfSoil/status/2110533867858002108",
+          "created_at": "2026-10-15T00:51:00Z"
+        },
+        {
+          "author": "CBCarpentier",
+          "text": "what does Crayon add versus just building with Claude directly",
+          "likes": 0,
+          "url": "https://x.com/CBCarpentier/status/2110432871261606189",
+          "created_at": "2026-10-14T18:09:41Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "published_at": "2026-10-14T17:16:14.000Z"
+    },
+    {
+      "id": "the-near-future",
+      "title": "The Near Future: Incremental",
+      "description": "Incremental civilization game with an orbital view of Earth: build power, computation and materials and expand toward the stars. Made with AI by everythingSung.",
+      "play_url": "https://www.thenearfuturegame.com/",
+      "found_via": "X @everythingSung The Near Future incremental",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/the-near-future.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/the-near-future.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/the-near-future.jpg",
+      "screenshots": [
+        {
+          "path": "videos/the-near-future.jpg",
+          "score": 5,
+          "notes": "Dashboard UI panels around a rendered Earth globe; tidy but mostly static menus. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Dashboard UI panels around a rendered Earth globe; tidy but mostly static menus. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "x",
+      "x_handle": "everythingSung",
+      "source_url": "https://x.com/everythingSung/status/2110426815982698611",
+      "likes_source_url": "https://x.com/everythingSung/status/2110426815982698611",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2090443336750657536/nk_rQfyu_normal.jpg",
+      "remote_likes": 4,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "LauraLoumd",
+          "text": "Hey there, using AI to accelerate silly prototype games on EverythingSings is such a joyful way to ship faster. Would love to connect! :)",
+          "likes": 0,
+          "url": "https://x.com/LauraLoumd/status/2110431183188451715",
+          "created_at": "2026-10-14T18:02:58Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "published_at": "2026-10-14T17:45:37.000Z"
+    },
+    {
+      "id": "slipface",
+      "title": "Slipface",
+      "description": "Free browser off-road racer (WebGPU) where the sand is simulated and AI trucks dig up the track as they race. Code written with Claude Opus 5.5 and Sonnet 5.5.",
+      "play_url": "https://slipfacegame.com/",
+      "found_via": "r/aigamedev Slipface browser off-road racer (u/Slipfacegame)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/slipface.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/slipface.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/slipface.jpg",
+      "screenshots": [
+        {
+          "path": "videos/slipface.jpg",
+          "score": 8,
+          "notes": "Sunlit desert dunes with deforming sand tracks, palms, dust and readable race callouts; strong lighting and atmosphere. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Sunlit desert dunes with deforming sand tracks, palms, dust and readable race callouts; strong lighting and atmosphere. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "Slipfacegame",
+      "author_source": "https://www.reddit.com/user/Slipfacegame/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/",
+      "likes_source": "reddit",
+      "remote_likes": 53,
+      "comment_count": 25,
+      "comments": [
+        {
+          "author": "daddywookie",
+          "text": "Nice to see an actually walked through process and the results it can bring. A nice antidote to the one shot posts.\n\nIt is getting annoying how frequently I have to increase my expectations of what can be created in a browser game. The deformable terrain and atmospheric effects are really good. Is there a large performance impact from these or are they quite simple in execution?",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgosbm4/",
+          "created_at": "2026-10-14T13:40:40Z"
+        },
+        {
+          "author": "EnumeratedArray",
+          "text": "\"The ground remembers\" is the most AI sounding thing ever 😂\n\nReally cool demo though, looks great!!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgp78i8/",
+          "created_at": "2026-10-14T14:47:15Z"
+        },
+        {
+          "author": "Upstairs-Mulberry365",
+          "text": "Add multiplayer pls",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgoukdk/",
+          "created_at": "2026-10-14T13:51:00Z"
+        },
+        {
+          "author": "MrTheWaffleKing",
+          "text": "Insanely impressive. I've never seen a browser capable of something like this!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgozsk4/",
+          "created_at": "2026-10-14T14:14:40Z"
+        },
+        {
+          "author": "titanunveiled",
+          "text": "Did you have any issues meshy creating “melted” looking textures?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgp4b8c/",
+          "created_at": "2026-10-14T14:34:34Z"
+        },
+        {
+          "author": "Interesting-Bee-113",
+          "text": "Terrain deformation is awesome dude.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgp9tie/",
+          "created_at": "2026-10-14T14:58:14Z"
+        },
+        {
+          "author": "Maple-Syrup89",
+          "text": "Looks great. That sand acceleration is brutal, but perhaps realistic. Love the permanent ruts that actually impact driving on later laps.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgpd9y1/",
+          "created_at": "2026-10-14T15:13:05Z"
+        },
+        {
+          "author": "Capitinefrobou",
+          "text": "Had  blast. Very curious the mechanics and what you did, specially in third track, i noticed the water starting to flood the whole level, i could barely make up the hill... and the water would keep feeling up holes in sand created from tire tracks... thats cool!!\n\nCoincidence, I was working in UE yesterday with a desert map and the chaos vehicles and love what you did here!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgphm28/",
+          "created_at": "2026-10-14T15:31:14Z"
+        },
+        {
+          "author": "KalElReturns89",
+          "text": "Seems really cool. Giving me some hope for my Burnout 3 spinoff I'm planning to make sometime soon.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5qkwo/i_built_a_browser_offroad_racing_game_with_claude/pgqjq2u/",
+          "created_at": "2026-10-14T18:05:50Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z"
+    },
+    {
+      "id": "velscour",
+      "title": "VELSCOUR",
+      "description": "Diablo 2-style dungeon crawler with auto-play, 16 classes and procedurally generated floors down to floor 500. Built with Claude Code, sprites from ChatGPT.",
+      "play_url": "https://agilancer.github.io/velscour/",
+      "found_via": "r/aigamedev VELSCOUR Diablo 2 clone (u/batmessiah)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "rpg",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/velscour.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/velscour.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/velscour.jpg",
+      "screenshots": [
+        {
+          "path": "videos/velscour.jpg",
+          "score": 5,
+          "notes": "Recorded clip only reached the \"click to awaken\" screen and the main menu (fiery logo, glowing eyes); no gameplay frames captured, so rated conservatively. Rated from 5 frames across the clip plus the poster."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Recorded clip only reached the \"click to awaken\" screen and the main menu (fiery logo, glowing eyes); no gameplay frames captured, so rated conservatively. Rated from 5 frames across the clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "batmessiah",
+      "author_source": "https://www.reddit.com/user/batmessiah/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/",
+      "likes_source": "reddit",
+      "remote_likes": 99,
+      "comment_count": 89,
+      "comments": [
+        {
+          "author": "JohnCrichton",
+          "text": "At first, I was questioning why I was fighting a 5 headed dragon in dungeon lvl 1 but by the time my Bard hit level 6, he made Gandolf look like a bitch.  ",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgochdr/",
+          "created_at": "2026-10-14T12:21:38Z"
+        },
+        {
+          "author": "IAmhowlshot",
+          "text": "Auto is really cool haha",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgmrxrg/",
+          "created_at": "2026-10-14T05:16:42Z"
+        },
+        {
+          "author": "challengethegods",
+          "text": "honestly the autoplay on its own is impressive, I am watching the character dodge telegraph attacks from a boss, run around breaking the ward crystals in its invincible phase, run and hide behind the pillar to avoid shockwave, cycle through all of the skills, etc. and aside from that it navigates around with pathfinding, picks up loot, equips stuff, goes to town to sell/buy, picks what to level etc...    \n  \nYou could have said the AIs built the in-game autoplay AI and that alone would have been cool on its own, but also this entire game? tf you mean a few days on $20 subs... wat?",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgmtx2i/",
+          "created_at": "2026-10-14T05:31:36Z"
+        },
+        {
+          "author": "MarthinusViljoen",
+          "text": "Did Claude Code make the 3D models for you? ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgmzxmc/",
+          "created_at": "2026-10-14T06:18:09Z"
+        },
+        {
+          "author": "Sarblade",
+          "text": "The art is too ugly AI-bloat though, I am having the same problem. Before I could manage to get art from chatgpt that looked okay or in a specific style, now ChatGPT, regardless of whatever references, my owns sketches and prompts I give, still tries to over render with so many useless details and noise. \n\nThe rest seems good :D Is crazy and scary how fast some things are.\n\n",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnp0n8/",
+          "created_at": "2026-10-14T09:46:37Z"
+        },
+        {
+          "author": "HeyApplebox",
+          "text": "i’d love to know the prompts and process? like how many back and forths and do you have plugins or instructions yadda yadda",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgmp6ub/",
+          "created_at": "2026-10-14T04:56:46Z"
+        },
+        {
+          "author": "Daschief",
+          "text": "With more polish and animation this would be a really cool game. What was your process between using GPT and Claude",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgmyj60/",
+          "created_at": "2026-10-14T06:07:14Z"
+        },
+        {
+          "author": "Voiston44",
+          "text": "Nice ! One thing, though, the auto-play feature does a bit too much, I'd really like to build the character myself by choosing the skills and so on.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnb13l/",
+          "created_at": "2026-10-14T07:48:52Z"
+        },
+        {
+          "author": "East-Substance-6833",
+          "text": "Can you respec? I like Auto Battle mode but want to choose my own skills.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgpfymx/",
+          "created_at": "2026-10-14T15:24:20Z"
+        },
+        {
+          "author": "Lordxb",
+          "text": "Nice idea but the models are terrible at least rig them.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgpk7q8/",
+          "created_at": "2026-10-14T15:42:04Z"
+        },
+        {
+          "author": "Upper-Philosophy2376",
+          "text": "it's interesting, the skilltrees are quite a bit larger than I expected, the loot system is more fleshed out than expected too. \n\nThe difficulty spike without autoplay was quite large (using a trackpad to click on things isn't ideal, so chalk it up to user error probably). \n\nThe autoplay system sort of insisted on selling stuff too much, there was a nice helmet that was just slightly worse than the one I was wearing, tried to stash it for maybe a differnt character, but then it went and sold it on autoplay, and also bought something cheap and bad too, I wasn't sure why. I sort of figured I cou",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgn2jkj/",
+          "created_at": "2026-10-14T06:39:20Z"
+        },
+        {
+          "author": "karl_mainz",
+          "text": "This is really fun - the first time I entered the dungeon I was immediately surrounded by a million monsters that killed me instantly haha, the subsequent times were fine though.\n\nIt's really well made.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnlui7/",
+          "created_at": "2026-10-14T09:20:37Z"
+        },
+        {
+          "author": "WhisperingHammer",
+          "text": "How do you make graphics?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnsdni/",
+          "created_at": "2026-10-14T10:12:43Z"
+        },
+        {
+          "author": "i_dont_wanna_sign_up",
+          "text": "Pretty cool, but the autoplay feels too complete. You pretty much don't need to do anything at all.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgmqj9u/",
+          "created_at": "2026-10-14T05:06:29Z"
+        },
+        {
+          "author": "untracked5465",
+          "text": "Hey, really cool. The auto play is amazing 🤣. How did you code the auto play?\n\nIt will be more enjoyable with animations, try to animate the main characters, it will be more enjoyable \n\nKeep it up!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgn6xzq/",
+          "created_at": "2026-10-14T07:14:29Z"
+        },
+        {
+          "author": "salihbaki",
+          "text": "Very nice, I wonder how would a person 20 years ago react if we show this game and tell this is made by AI. I would love to see their reaction ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgn8uzi/",
+          "created_at": "2026-10-14T07:30:23Z"
+        },
+        {
+          "author": "DebtResponsible7868",
+          "text": "Please provide URL for the desktop version.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnbfrw/",
+          "created_at": "2026-10-14T07:52:19Z"
+        },
+        {
+          "author": "Signal-Hand7025",
+          "text": "Hey, so i started this game and it is just so addicting to watch play lol. is the progress saved somehow or will it go over again once i reload page ? Thanks ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnekfx/",
+          "created_at": "2026-10-14T08:18:47Z"
+        },
+        {
+          "author": "Livid_Shallot5701",
+          "text": "make 1 attack and 1 walk animation for everything and the game is GREAT. autoplay is sick, but it shouldnt auto-level. \n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgnfek0/",
+          "created_at": "2026-10-14T08:25:58Z"
+        },
+        {
+          "author": "jocktor",
+          "text": "Need more setting sto control autoplay, it picking skills etc feels bad.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5hdlv/made_a_diablo_2_clone_with_auto_play_and_16/pgng7xz/",
+          "created_at": "2026-10-14T08:32:51Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z"
+    },
+    {
+      "id": "toke",
+      "title": "TOKE",
+      "description": "A 1987 strategy board game finally implemented by ChatGPT as an 80 KB web page you can play against the computer (gewappnet).",
+      "play_url": "https://tobias-steinke.de/TOKE.html",
+      "found_via": "r/ChatGPT TOKE 40-year-old board game (u/gewappnet)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "board",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/toke.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/toke.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/toke.jpg",
+      "screenshots": [
+        {
+          "path": "videos/toke.jpg",
+          "score": 4,
+          "notes": "Clean minimal board-game UI with a grid and stones; functional but plain. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Clean minimal board-game UI with a grid and stones; functional but plain. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "gewappnet",
+      "author_source": "https://www.reddit.com/user/gewappnet/",
+      "source_url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/",
+      "likes_source_url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/",
+      "likes_source": "reddit",
+      "remote_likes": 182,
+      "comment_count": 59,
+      "comments": [
+        {
+          "author": "0x_Bonanza",
+          "text": "I might be dumb (I probably am) but I really don’t get how to play that ",
+          "likes": 59,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnpknc/",
+          "created_at": "2026-10-14T09:51:04Z"
+        },
+        {
+          "author": "Master-Necessary7560",
+          "text": "Could you at least give an overview or a brief pitch of what the game is before choosing to click on the link please.\n\nEDIT: Also as a soon to be 40-year old born in 1987, it's 39 years, I'm not 40 yet!",
+          "likes": 25,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnny2r/",
+          "created_at": "2026-10-14T09:37:53Z"
+        },
+        {
+          "author": "The_Briefcase_Wanker",
+          "text": "Cool game! I think the rules were explained well enough to understand and I won my first game. Would be cool to have a difficulty slider to make the computer a bit smarter. ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgonj9m/",
+          "created_at": "2026-10-14T13:18:03Z"
+        },
+        {
+          "author": "wont_start_thumbing",
+          "text": "Hey, that was actually pretty fun! Played and won 1 game on Normal without using my jump.\n\nI like how one player's rapid expansion can become the other player's food.\n\nIt was nice of the AI to allow itself to be paralyzed so often. I expect a game against a human opponent would get much more brain-burn-y, as you play in your own areas until movement becomes restricted enough to plot out a first strike.\n\nCan you ask ChatGPT to summarize how the game's AI is implemented, and share that here?",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgpct9k/",
+          "created_at": "2026-10-14T15:11:06Z"
+        },
+        {
+          "author": "SolarAlfy",
+          "text": "How do you make a game? I would love to make one for my daughter ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgno7am/",
+          "created_at": "2026-10-14T09:39:57Z"
+        },
+        {
+          "author": "I_am___The_Botman",
+          "text": "That looks really nice! But I don't understand the mechanics, what's supposed to happen, how you win.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnqzny/",
+          "created_at": "2026-10-14T10:02:04Z"
+        },
+        {
+          "author": "SiggiHD",
+          "text": "Kannst du noch ein Tutorial einbauen, so dass man peu a peu an die Regeln rangeführt wird? Meine Aufmerksamkeitsspanne ist zu gering",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnrf5t/",
+          "created_at": "2026-10-14T10:05:24Z"
+        },
+        {
+          "author": "usbman",
+          "text": "This game is so hard! But it’s fun. Also I might be stupid. One advice maybe, make the leader more obvious? For newbies, highlight the diagonals from the leader maybe? That means can ignore the first thought.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnrfpw/",
+          "created_at": "2026-10-14T10:05:33Z"
+        },
+        {
+          "author": "mfairview",
+          "text": "which subscription of chat did you get for this work?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnqu37/",
+          "created_at": "2026-10-14T10:00:51Z"
+        },
+        {
+          "author": "RatbyteGames",
+          "text": "Great game, well implemented. Must be amazing to bring your old game to life like this! What a time to be alive eh!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnwysy/",
+          "created_at": "2026-10-14T10:45:57Z"
+        },
+        {
+          "author": "NotoriousJOB",
+          "text": "Actually very fun. I lost to the beginner AI but that was mostly my fault. As another user said, it might be cool to highlight the diagonals. Hard to keep track on such a big board.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnu5p5/",
+          "created_at": "2026-10-14T10:25:47Z"
+        },
+        {
+          "author": "Heretic_Fun",
+          "text": "That's a pretty good game! Easy enough rules, but quite a bit of possible strategy.  \nIt would be nice if the currently occupied diagonals were visualized in some way.\n\nI like it!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnv4f4/",
+          "created_at": "2026-10-14T10:32:55Z"
+        },
+        {
+          "author": "don_no_soul_simmons",
+          "text": "It's a fun game. Played a handful of games and finally won one! I realise now that it's about luring your opponent  into a diagonal and then once you have more squares, use your jump early and try to corner yourself so the game ends.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgnw3hk/",
+          "created_at": "2026-10-14T10:39:53Z"
+        },
+        {
+          "author": "Wackelfackel",
+          "text": "I only understand train station although have read the rules. Too complicated for my old brain.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgo1z6i/",
+          "created_at": "2026-10-14T11:19:21Z"
+        },
+        {
+          "author": "DamnThatHeadBig",
+          "text": "This game is strange. Why can they jump to an unrelated square but I can’t? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgo2xjt/",
+          "created_at": "2026-10-14T11:25:26Z"
+        },
+        {
+          "author": "SFW_Safe_for_Worms",
+          "text": "I get the rules and I think it’s great. I’ve bookmarked it and will come back to try to get better. The bot is too good at paralysing me",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgo6i5z/",
+          "created_at": "2026-10-14T11:47:34Z"
+        },
+        {
+          "author": "Aba_a",
+          "text": "Strategy to win (with current computer opponent in normal difficulty ):\n\n1. Start at square B2 and wait for black to start in a diagonal that is 1 square away from you\n2. Move to B1 or A2, whatever is the diagonal black has started. This will paralyze him so you can make 3 moves in sequence\n3. If your previous move was to B1, go to A2, or the other way around. You will have 3 squares A2, B1 and B2\n4. Pick a jump and go to A1, making it impossible for you to make any other move\n5. Watch black try to to anything but you have 4 squares already and the game ends with your win.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgoauy9/",
+          "created_at": "2026-10-14T12:12:43Z"
+        },
+        {
+          "author": "Emilobruun",
+          "text": "Can you highlight the diagonals of the opposing leader? That why you know which diagonals to hit when its your turn.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgoi3sm/",
+          "created_at": "2026-10-14T12:51:07Z"
+        },
+        {
+          "author": "TerraPretaTerraPreta",
+          "text": "Did not understand rules, can u make a visual tutorial ?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgpf5r2/",
+          "created_at": "2026-10-14T15:20:58Z"
+        },
+        {
+          "author": "BreathesUnderwater",
+          "text": "I like it - just played my first game and lost, but followed where I made mistakes. I’m going to play a few more. Well done - creative and thought provoking. 👍 ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ChatGPT/comments/1x5mshy/chatgpt_implemented_my_40_years_old_game_idea/pgqby7s/",
+          "created_at": "2026-10-14T17:34:28Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z"
+    },
+    {
+      "id": "power-pile",
+      "title": "Power Pile",
+      "description": "Competitive card game with 120 cards: battle random players online or a friend locally, six turns to make the biggest pile. Opus 5.5 helped build it; plays in the browser on itch.io.",
+      "play_url": "https://tip390.itch.io/power-pile",
+      "found_via": "r/aigamedev Power Pile card game (u/gopwallos)",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "card",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/power-pile.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/power-pile.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/power-pile.jpg",
+      "screenshots": [
+        {
+          "path": "videos/power-pile.jpg",
+          "score": 6,
+          "notes": "Bold title art, clear card battle boards and a confetti run-complete screen; polished UI, simple visuals. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Bold title art, clear card battle boards and a confetti run-complete screen; polished UI, simple visuals. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "gopwallos",
+      "author_source": "https://www.reddit.com/user/gopwallos/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x5f5lt/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x5f5lt/",
+      "likes_source": "reddit",
+      "remote_likes": 25,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "the_masked_one_1234",
+          "text": "Bro this looks awesome... From a fellow yu-gi-oh fan🤩",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5f5lt/i_finally_finished_something_its_scary/pgp556s/",
+          "created_at": "2026-10-14T14:38:11Z"
+        },
+        {
+          "author": "Seba_Travel",
+          "text": "How did you created the art ? As well with Claude ?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5f5lt/i_finally_finished_something_its_scary/pgnd5zy/",
+          "created_at": "2026-10-14T08:07:02Z"
+        },
+        {
+          "author": "technobobulate",
+          "text": "I feel you ..I'm working on a project and currently on iteration 4 after completely scrapping everything multiple times to realign. Congrats on finishing ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x5f5lt/i_finally_finished_something_its_scary/pgt9pgj/",
+          "created_at": "2026-10-15T01:35:36Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z"
+    },
+    {
+      "id": "rivas-city",
+      "title": "Rivas City",
+      "description": "3D sandbox beat-em-up in a destructible island city of 167 buildings; punch through walls and bring towers down. Built mainly with Claude Sonnet 5.5; runs in the browser on itch.io.",
+      "play_url": "https://roninteon.itch.io/rivas-city",
+      "found_via": "r/ClaudeGameDev Rivas City (u/Roninteon)",
+      "made_with": "sonnet-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/rivas-city.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/rivas-city.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/rivas-city.jpg",
+      "screenshots": [
+        {
+          "path": "videos/rivas-city.jpg",
+          "score": 6,
+          "notes": "Sunset city skyline, rooftops and explosive street fights; busy but readable low-poly city. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Sunset city skyline, rooftops and explosive street fights; busy but readable low-poly city. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "Roninteon",
+      "author_source": "https://www.reddit.com/user/Roninteon/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x5lxcx/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x5lxcx/",
+      "likes_source": "reddit",
+      "remote_likes": 17,
+      "comment_count": 6,
+      "comments": [
+        {
+          "author": "JakubStachel",
+          "text": "Are you able to switch to Sonnet 5.5? \n\n",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x5lxcx/my_2week_progress_on_a_game_built_with_claude_35/pgp5uze/",
+          "created_at": "2026-10-14T14:41:18Z"
+        },
+        {
+          "author": "Captainbands",
+          "text": "Looks good. Keep it up",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x5lxcx/my_2week_progress_on_a_game_built_with_claude_35/pgpw44f/",
+          "created_at": "2026-10-14T16:30:38Z"
+        },
+        {
+          "author": "Thistlemanizzle",
+          "text": "I haven't been able to get physics/destruction like yours.\nHow \"fake\" is it?\n\nI have been using Sol 6.1 and it is becoming apparent that Opus makes better games.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x5lxcx/my_2week_progress_on_a_game_built_with_claude_35/pgpzyqc/",
+          "created_at": "2026-10-14T16:46:11Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z"
+    },
+    {
+      "id": "cyport",
+      "title": "CyPort (Cyberpunk 2077 on iOS)",
+      "description": "App that runs your own Mac copy of Cyberpunk 2077 natively on iPhone and iPad, with on-screen and controller support. Vibecoded with Claude Opus 5.5; no game files included.",
+      "play_url": "https://github.com/Thijs2004/CyPort",
+      "found_via": "r/EmulationOniOS Cyberpunk port for iOS (u/Thijs_mus)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Cyberpunk 2077 for Mac game files",
+      "browser_playable": false,
+      "download_url": "https://github.com/Thijs2004/CyPort/releases",
+      "download_platforms": [
+        "ios"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "native-download",
+      "category": "decomp",
+      "platforms": [
+        "mobile"
+      ],
+      "video_path": "videos/cyport.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/cyport.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/cyport.jpg",
+      "screenshots": [
+        {
+          "path": "videos/cyport.jpg",
+          "score": 3,
+          "notes": "Dark night-city gameplay with on-screen touch controls; ROM/own-files game capped at 3. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Dark night-city gameplay with on-screen touch controls; ROM/own-files game capped at 3. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "found_via_network": "reddit",
+      "author": "Thijs_mus",
+      "author_source": "https://www.reddit.com/user/Thijs_mus/",
+      "source_url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/",
+      "likes_source_url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/",
+      "likes_source": "reddit",
+      "remote_likes": 138,
+      "comment_count": 77,
+      "comments": [
+        {
+          "author": "Thijs_mus",
+          "text": "https://preview.redd.it/z99c0jh1kfvh1.jpeg?width=2868&format=pjpg&auto=webp&s=b90032a8f7f40c04683adb44dab12474920f9575\n\nHere is a picture of it in game",
+          "likes": 20,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgoiy1t/",
+          "created_at": "2026-10-14T12:55:21Z"
+        },
+        {
+          "author": "WasimShaikh7767",
+          "text": "Lowkey jealous these days i left ios. And i see all these vids",
+          "likes": 10,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgon65a/",
+          "created_at": "2026-10-14T13:16:16Z"
+        },
+        {
+          "author": "PinoTo0ns",
+          "text": "Ça rame à mort dans ta vidéo, en tout cas le jeu tourne, bravo pour ça ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgooox1/",
+          "created_at": "2026-10-14T13:23:36Z"
+        },
+        {
+          "author": "bustoutanother1000",
+          "text": "i wander how good it run on the iPhone 18 pro. it look promising. i m surprised by the game size you mention, i think the full version with dlc take a lot more than 60gb on my mac",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgotmhg/",
+          "created_at": "2026-10-14T13:46:41Z"
+        },
+        {
+          "author": "bob0881",
+          "text": "Ciao, sono ignorante in questo campo, mi piacerebbe capire come si può installare sul mio iPhone 16 pro ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgotytq/",
+          "created_at": "2026-10-14T13:48:15Z"
+        },
+        {
+          "author": "znilow",
+          "text": "just to make sure, when transferring the game files it’ll keep its size right? (around 160gbs)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgowq3t/",
+          "created_at": "2026-10-14T14:00:47Z"
+        },
+        {
+          "author": "Flashy-Bill812",
+          "text": "Can you please port the pc version of rayman legends to iOS via Claude Opus 5.5?  \nwhat is required to Port a Game ?\n\nand how hard is it?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgoy4vg/",
+          "created_at": "2026-10-14T14:07:10Z"
+        },
+        {
+          "author": "darkaeden",
+          "text": "Wow!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgok448/",
+          "created_at": "2026-10-14T13:01:11Z"
+        },
+        {
+          "author": "sabre31",
+          "text": "Nice work and thank you for sharing it. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgolm4j/",
+          "created_at": "2026-10-14T13:08:38Z"
+        },
+        {
+          "author": "SnowyJKN",
+          "text": "Can you do this with the Mac version of Sleeping Dog's too?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgoxg79/",
+          "created_at": "2026-10-14T14:04:05Z"
+        },
+        {
+          "author": "Crafty_Bear221",
+          "text": "Why not android? When will we see the light of it?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgoygw5/",
+          "created_at": "2026-10-14T14:08:41Z"
+        },
+        {
+          "author": "Icy_Engine6331",
+          "text": "why is the cpu usage at \\~250%??",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgozhn8/",
+          "created_at": "2026-10-14T14:13:18Z"
+        },
+        {
+          "author": "bustoutanother1000",
+          "text": "you mention the game is on low, but since modern iphones have hardware ray tracing, can this be enabled for reflections ? does it use metal 4 ?  frame gen ?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgpfopu/",
+          "created_at": "2026-10-14T15:23:10Z"
+        },
+        {
+          "author": "HeronEfficient4964",
+          "text": "Cool",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgphgkj/",
+          "created_at": "2026-10-14T15:30:35Z"
+        },
+        {
+          "author": "new_pribor",
+          "text": "Paid accounts only :(",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgplo2s/",
+          "created_at": "2026-10-14T15:48:02Z"
+        },
+        {
+          "author": "jojomortal",
+          "text": "I have another question: can I transfer the game from the Windows Steam version instead of the Mac version? Or is it mandatory to install the game on the Mac and then transfer the files from the Mac to the iPhone?\n\n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgpsfrn/",
+          "created_at": "2026-10-14T16:15:54Z"
+        },
+        {
+          "author": "motorsportkevlar",
+          "text": "Whaat",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgqhjp2/",
+          "created_at": "2026-10-14T17:56:59Z"
+        },
+        {
+          "author": "KAICAI2341",
+          "text": "You guys think they can make something like this but for nba 2k 16(I need a basketball game on my phone)🥹✌️",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgrknax/",
+          "created_at": "2026-10-14T20:36:37Z"
+        },
+        {
+          "author": "Just-A-Random-ID",
+          "text": "Whag is the size ? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgrsspg/",
+          "created_at": "2026-10-14T21:10:36Z"
+        },
+        {
+          "author": "halashao66",
+          "text": "I found a game resource on a cloud storage platform with a .dmg extension. I want to know how to convert it into those specific files you mentioned?",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/EmulationOniOS/comments/1x5qfzo/cyberpunk_port_for_ios/pgomn42/",
+          "created_at": "2026-10-14T13:13:40Z"
+        }
+      ],
+      "first_seen": "2026-10-15T01:30:00.000Z",
+      "last_seen": "2026-10-15T01:30:00.000Z"
     }
   ],
   "totals": {
-    "games": 394,
+    "games": 409,
     "by_made_with": {
-      "opus-5.5": 242,
-      "astra": 61,
-      "sonnet-5.5": 12,
+      "opus-5.5": 247,
+      "astra": 63,
+      "sonnet-5.5": 13,
       "uncertain": 4,
-      "unknown": 75
+      "unknown": 79,
+      "gemini-4-argon": 3
     }
   }
 }
