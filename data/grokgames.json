@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T01:30:00.000Z",
+  "updated_at": "2026-11-19T16:58:19.342Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -24777,16 +24777,38 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T09:59:11.000Z"
+    },
+    {
+      "id": "crowd-pick",
+      "title": "Crowd Pick",
+      "description": "A short, free browser quiz. Guess the most popular of four everyday answers across seven untimed prompts. Editorial rankings determine the score.",
+      "play_url": "https://noillirk.best/#practice",
+      "source_url": "https://vibegamer.io/game/crowd-pick",
+      "found_via": "Creator submission; the public VibeGamer release entry credits Codex.",
+      "found_via_network": "catalog",
+      "screenshot_path": "screenshots/crowd-pick.png",
+      "screenshot_score": null,
+      "screenshot_score_notes": "Creator-provided gameplay screenshot showing a question and all four choices. Rating left to catalogue maintainers.",
+      "first_seen": "2026-11-19T16:58:19.342Z",
+      "last_seen": "2026-11-19T16:58:19.342Z",
+      "made_with": "unknown",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "Creator requests linking directly to the original practice section. The same page separately embeds Noillirk Daily by Daily Games."
     }
   ],
   "totals": {
-    "games": 434,
+    "games": 435,
     "by_made_with": {
       "opus-5.5": 260,
       "astra": 64,
       "sonnet-5.5": 13,
       "uncertain": 4,
-      "unknown": 89,
+      "unknown": 90,
       "gemini-4-argon": 4
     }
   }
